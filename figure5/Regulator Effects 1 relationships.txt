@@ -1,0 +1,182 @@
+© 2000-2023 QIAGEN. All rights reserved. USE OF THIS CONTENT IS SUBJECT TO THE TERMS OF YOUR IPA END USER LICENSE AGREEMENT			
+From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)
+ALOX5AP	causation	Cell movement of blood cells	
+ALOX5AP	causation	Inflammatory response	
+ALOX5AP	causation	Migration of cells	
+CAMP	causation	Cell movement of blood cells	
+CAMP	causation	Inflammatory response	
+CAMP	causation	Invasion of cells	
+CAMP	causation	Migration of cells	
+CCND2	correlation	Advanced malignant tumor	
+CCND2	correlation	Invasive tumor	
+CYBB	causation	Advanced malignant tumor	
+CYBB	causation	Cell movement of blood cells	
+CYBB	causation	Inflammatory response	
+CYBB	causation	Invasive tumor	
+CYBB	causation	Migration of cells	
+FLT1	causation	Advanced malignant tumor	
+FLT1	causation	Cell movement of blood cells	
+FLT1	causation	Inflammatory response	
+FLT1	causation	Invasion of cells	
+FLT1	causation	Invasive tumor	
+FLT1	causation	Migration of cells	
+FLT1	correlation	Advanced malignant tumor	
+FLT1	correlation	Invasive tumor	
+FOS	causation	Advanced malignant tumor	
+FOS	causation	Cell movement of blood cells	
+FOS	causation	Inflammatory response	
+FOS	causation	Invasion of cells	
+FOS	causation	Invasive tumor	
+FOS	causation	Migration of cells	
+IL18	causation	Advanced malignant tumor	
+IL18	causation	Cell movement of blood cells	
+IL18	causation	Inflammatory response	
+IL18	causation	Invasion of cells	
+IL18	causation	Invasive tumor	
+IL18	causation	Migration of cells	
+IL1B	causation	Advanced malignant tumor	
+IL1B	causation	Cell movement of blood cells	
+IL1B	causation	Inflammatory response	
+IL1B	causation	Invasion of cells	
+IL1B	causation	Invasive tumor	
+IL1B	causation	Migration of cells	
+IL1B	correlation	Advanced malignant tumor	
+IL1B	correlation	Inflammatory response	
+IL1B	correlation	Invasive tumor	
+JUN	causation	Cell movement of blood cells	
+JUN	causation	Inflammatory response	
+JUN	causation	Invasion of cells	
+JUN	causation	Migration of cells	
+JUN	correlation	Advanced malignant tumor	
+JUN	correlation	Invasive tumor	
+KIF14	causation	Migration of cells	
+KIF14	correlation	Invasive tumor	
+LCN2	causation	Advanced malignant tumor	
+LCN2	causation	Cell movement of blood cells	
+LCN2	causation	Inflammatory response	
+LCN2	causation	Invasion of cells	
+LCN2	causation	Invasive tumor	
+LCN2	causation	Migration of cells	
+LCN2	correlation	Advanced malignant tumor	
+LCN2	correlation	Invasive tumor	
+LTF	causation	Advanced malignant tumor	
+LTF	causation	Cell movement of blood cells	
+LTF	causation	Inflammatory response	
+LTF	causation	Invasion of cells	
+LTF	causation	Invasive tumor	
+LTF	causation	Migration of cells	
+LTF	correlation	Advanced malignant tumor	
+LTF	correlation	Invasive tumor	
+MMP1	causation	Advanced malignant tumor	
+MMP1	causation	Cell movement of blood cells	
+MMP1	causation	Inflammatory response	
+MMP1	causation	Invasion of cells	
+MMP1	causation	Invasive tumor	
+MMP1	causation	Migration of cells	
+MMP3	causation	Advanced malignant tumor	
+MMP3	causation	Invasion of cells	
+MMP3	causation	Invasive tumor	
+MMP3	causation	Migration of cells	
+MMP3	correlation	Advanced malignant tumor	
+MMP3	correlation	Invasive tumor	
+MMP9	causation	Advanced malignant tumor	
+MMP9	causation	Cell movement of blood cells	
+MMP9	causation	Inflammatory response	
+MMP9	causation	Invasion of cells	
+MMP9	causation	Invasive tumor	
+MMP9	causation	Migration of cells	
+MMP9	correlation	Advanced malignant tumor	
+MMP9	correlation	Invasive tumor	
+MPO	causation	Cell movement of blood cells	
+MPO	causation	Inflammatory response	
+MPO	causation	Migration of cells	
+NAB2	causation	Cell movement of blood cells	
+NAB2	causation	Migration of cells	
+NAB2	expression	ALOX5AP	
+NAB2	expression	FLT1	
+NAB2	expression	FOS	
+NAB2	expression	MMP3	
+NAB2	expression	PLAU	
+NAB2	expression	TGFB1	
+NAB2	protein-protein interactions	NAB2	
+NAB2	transcription	NAB2	
+NUF2	correlation	Invasive tumor	
+PLAU	causation	Advanced malignant tumor	
+PLAU	causation	Cell movement of blood cells	
+PLAU	causation	Inflammatory response	
+PLAU	causation	Invasion of cells	
+PLAU	causation	Invasive tumor	
+PLAU	causation	Migration of cells	
+PLAU	correlation	Advanced malignant tumor	
+PLAU	correlation	Invasive tumor	
+PLAUR	causation	Advanced malignant tumor	
+PLAUR	causation	Cell movement of blood cells	
+PLAUR	causation	Inflammatory response	
+PLAUR	causation	Invasion of cells	
+PLAUR	causation	Invasive tumor	
+PLAUR	causation	Migration of cells	
+PLAUR	correlation	Advanced malignant tumor	
+PLAUR	correlation	Invasive tumor	
+PTGS2	causation	Advanced malignant tumor	
+PTGS2	causation	Cell movement of blood cells	
+PTGS2	causation	Inflammatory response	
+PTGS2	causation	Invasion of cells	
+PTGS2	causation	Invasive tumor	
+PTGS2	causation	Migration of cells	
+PTGS2	correlation	Advanced malignant tumor	
+PTGS2	correlation	Invasive tumor	
+PYCARD	activation	PYCARD	
+PYCARD	causation	Cell movement of blood cells	
+PYCARD	causation	Inflammatory response	
+PYCARD	causation	Invasion of cells	
+PYCARD	causation	Migration of cells	
+PYCARD	expression	CCND2	
+PYCARD	expression	IL18	
+PYCARD	expression	IL1B	
+PYCARD	expression	MMP9	
+PYCARD	expression	PTGS2	
+PYCARD	expression	S100A8	
+PYCARD	protein-protein interactions	PYCARD	
+S100A8	causation	Cell movement of blood cells	
+S100A8	causation	Inflammatory response	
+S100A8	causation	Invasion of cells	
+S100A8	causation	Migration of cells	
+S100A9	causation	Cell movement of blood cells	
+S100A9	causation	Inflammatory response	
+S100A9	causation	Invasion of cells	
+S100A9	causation	Migration of cells	
+TGFB1	causation	Advanced malignant tumor	
+TGFB1	causation	Cell movement of blood cells	
+TGFB1	causation	Inflammatory response	
+TGFB1	causation	Invasion of cells	
+TGFB1	causation	Invasive tumor	
+TGFB1	causation	Migration of cells	
+TGFB1	correlation	Advanced malignant tumor	
+TGFB1	correlation	Invasive tumor	
+TOP2A	correlation	Advanced malignant tumor	
+TOP2A	correlation	Invasive tumor	
+ZFP36	causation	Advanced malignant tumor	
+ZFP36	causation	Inflammatory response	
+ZFP36	causation	Invasion of cells	
+ZFP36	causation	Invasive tumor	
+ZFP36	correlation	Advanced malignant tumor	
+ZFP36	correlation	Invasive tumor	
+ZFP36	expression	CAMP	
+ZFP36	expression	CYBB	
+ZFP36	expression	FOS	
+ZFP36	expression	IL1B	
+ZFP36	expression	JUN	
+ZFP36	expression	KIF14	
+ZFP36	expression	LCN2	
+ZFP36	expression	LTF	
+ZFP36	expression	MMP1	
+ZFP36	expression	MPO	
+ZFP36	expression	NUF2	
+ZFP36	expression	PLAU	
+ZFP36	expression	PLAUR	
+ZFP36	expression	PTGS2	
+ZFP36	expression	S100A8	
+ZFP36	expression	S100A9	
+ZFP36	expression	TOP2A	
+ZFP36	expression	ZFP36	
+ZFP36	protein-RNA interactions	ZFP36	

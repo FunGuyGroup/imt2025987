@@ -1,0 +1,32 @@
+© 2000-2023 QIAGEN. All rights reserved. USE OF THIS CONTENT IS SUBJECT TO THE TERMS OF YOUR IPA END USER LICENSE AGREEMENT			
+From Molecule(s)	Relationship Type	To Molecule(s)	Catalyst(s)
+NPM1	expression	ADAM8	
+NPM1	expression	AKR1C1/AKR1C2	
+NPM1	expression	ANG	
+NPM1	expression	CADM1	
+NPM1	expression	CEACAM1	
+NPM1	expression	CEBPB	
+NPM1	expression	COL12A1	
+NPM1	expression	COL4A2	
+NPM1	expression	EBI3	
+NPM1	expression	EDIL3	
+NPM1	expression	ICOSLG/LOC102723996	
+NPM1	expression	IGFBP5	
+NPM1	expression	IL1B	
+NPM1	expression	IL6ST	
+NPM1	expression	INHBA	
+NPM1	expression	JUN	
+NPM1	expression	LOX	
+NPM1	expression	LOXL2	
+NPM1	expression	LTF	
+NPM1	expression	MMP8	
+NPM1	expression	MMP9	
+NPM1	expression	NPM1	
+NPM1	expression	PLOD1	
+NPM1	expression	PLOD2	
+NPM1	expression	SERPINE2	
+NPM1	expression	SYDE1	
+NPM1	expression	WNT5A	
+NPM1	expression	ZMYND8	
+NPM1	protein-protein interactions	NPM1	
+NPM1	transcription	TP53	
