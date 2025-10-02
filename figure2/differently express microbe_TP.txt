@@ -1,0 +1,14 @@
+Species	Name	TvsP p_value	log2FoldChange
+Archaea	Methanobrevibacter sp. AbM4	0.045843962	-0.212743459
+Bacteria	Fusobacterium nucleatum	0.004290132	0.982245782
+Bacteria	Methylorubrum populi	0.013481246	1.727694195
+Bacteria	Fusobacterium canifelinum	0.04012133	1.559386839
+Bacteria	Ralstonia sp. 56D2	0.035479794	2.939475882
+Bacteria	Fusobacterium periodonticum	0.042150303	1.781328178
+Bacteria	Leptotrichia sp. oral taxon 212	0.033303752	1.38969202
+Viruses	Human betaherpesvirus 6B	0.000200767	-0.347082287
+Viruses	Human betaherpesvirus 7	9.64978E-05	-3.7978267
+Viruses	Human betaherpesvirus 5	0.00102739	9.964340868
+Viruses	Human immunodeficiency virus 1	0.027684347	-9.651266481
+Viruses	Human betaherpesvirus 7	9.64978E-05	-3.7978267
+Viruses	Human gammaherpesvirus 4	0.006929021	3.593525163

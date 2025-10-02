@@ -1,0 +1,64 @@
+group	Term	Ratios	Group	freq
+Roseolovirus	Human betaherpesvirus 6B	0.371798685	A	8
+Roseolovirus	Human betaherpesvirus 7	0.288972508	A	18
+Cytomegalovirus	Human betaherpesvirus 5	0.186694753	A	9
+NA	uncultured crAssphage	0.021074308	A	7
+NA	CrAss-like virus sp.	0.017631628	A	8
+Lymphocryptovirus	Human gammaherpesvirus 4	0.029994177	A	5
+Lentivirus	Human immunodeficiency virus 1	0.038183072	A	10
+Brigitvirus	Faecalibacterium virus Brigit	0.006308171	A	4
+NA	Klebsiella phage vB_KpnS_ZX4	0.006299294	A	1
+Gregsiragusavirus	Clostridium virus phi24R	0.004199529	A	1
+Pahexavirus	Propionibacterium phage PAC1	0.003712084	A	1
+Cronosvirus	Cronobacter virus GAP227	0.003604798	A	1
+Lughvirus	Faecalibacterium virus Lugh	0.000726086	A	4
+Gilsonvirus	Streptomyces virus Comrade	0.002766157	A	1
+Tuodvirus	Lelliottia virus phD2B	0.002510588	A	1
+Aviadenovirus	Fowl aviadenovirus C	0.002474723	A	1
+Eponavirus	Faecalibacterium virus Epona	0.000719971	A	3
+NA	Cellulophaga phage phi39:1	0.001694187	A	1
+Taranisvirus	Faecalibacterium virus Taranis	0.000631931	A	4
+NA	crAssphage cr85_1	0.00147037	A	2
+Others	Others	0.008532978	A	17
+Roseolovirus	Human betaherpesvirus 6B	0.159822105	Early	8
+Roseolovirus	Human betaherpesvirus 7	0.000454196	Early	3
+Cytomegalovirus	Human betaherpesvirus 5	0.004438049	Early	3
+NA	uncultured crAssphage	0.624408741	Early	9
+NA	CrAss-like virus sp.	0.165508013	Early	13
+Lymphocryptovirus	Human gammaherpesvirus 4	0.007625732	Early	9
+Lentivirus	Human immunodeficiency virus 1	0	Early	0
+Brigitvirus	Faecalibacterium virus Brigit	0.003360717	Early	5
+NA	Klebsiella phage vB_KpnS_ZX4	0	Early	0
+Gregsiragusavirus	Clostridium virus phi24R	0	Early	0
+Pahexavirus	Propionibacterium phage PAC1	0	Early	0
+Cronosvirus	Cronobacter virus GAP227	0	Early	0
+Lughvirus	Faecalibacterium virus Lugh	0.0075864	Early	10
+Gilsonvirus	Streptomyces virus Comrade	0	Early	0
+Tuodvirus	Lelliottia virus phD2B	0	Early	0
+Aviadenovirus	Fowl aviadenovirus C	0	Early	0
+Eponavirus	Faecalibacterium virus Epona	0.004875299	Early	5
+NA	Cellulophaga phage phi39:1	0	Early	0
+Taranisvirus	Faecalibacterium virus Taranis	0.002441218	Early	6
+NA	crAssphage cr85_1	0	Early	0
+Others	Others	0.01947953	Early	23
+Roseolovirus	Human betaherpesvirus 6B	0.023042855	Advanced	6
+Roseolovirus	Human betaherpesvirus 7	0.00562787	Advanced	6
+Cytomegalovirus	Human betaherpesvirus 5	0.751234637	Advanced	7
+NA	uncultured crAssphage	0.068536997	Advanced	9
+NA	CrAss-like virus sp.	0.029675666	Advanced	6
+Lymphocryptovirus	Human gammaherpesvirus 4	0.075777321	Advanced	9
+Lentivirus	Human immunodeficiency virus 1	0.000137044	Advanced	1
+Brigitvirus	Faecalibacterium virus Brigit	0.003107158	Advanced	4
+NA	Klebsiella phage vB_KpnS_ZX4	8.88E-05	Advanced	1
+Gregsiragusavirus	Clostridium virus phi24R	0	Advanced	0
+Pahexavirus	Propionibacterium phage PAC1	0	Advanced	0
+Cronosvirus	Cronobacter virus GAP227	0	Advanced	0
+Lughvirus	Faecalibacterium virus Lugh	0.00934681	Advanced	7
+Gilsonvirus	Streptomyces virus Comrade	0	Advanced	0
+Tuodvirus	Lelliottia virus phD2B	0	Advanced	0
+Aviadenovirus	Fowl aviadenovirus C	0	Advanced	0
+Eponavirus	Faecalibacterium virus Epona	0.000487208	Advanced	1
+NA	Cellulophaga phage phi39:1	0	Advanced	0
+Taranisvirus	Faecalibacterium virus Taranis	0.003397457	Advanced	5
+NA	crAssphage cr85_1	3.55E-05	Advanced	1
+Others	Others	0.029504667	Advanced	21

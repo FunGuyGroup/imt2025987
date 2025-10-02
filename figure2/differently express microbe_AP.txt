@@ -1,0 +1,51 @@
+Species	Name	AvsP_pvalue	log2FoldChange
+Archaea	Methanobrevibacter_A smithii_A	0.006027064	-0.421232732
+Archaea	Methanobrevibacter smithii	0.042569484	-5.749691226
+Archaea	Methanosphaera sp900322125	2.08174E-08	-2.793819114
+Archaea	Candidatus Methanomethylophilus alvus	0.000687011	0.720553153
+Archaea	Methanosphaera stadtmanae	0.001978258	-0.934651258
+Archaea	Methanomassiliicoccaceae archaeon UBA71	6.63594E-07	-2.023839037
+Bacteria	Bacteroides fragilis	0.000926742	-1.206875796
+Bacteria	Klebsiella pneumoniae	0.000500403	-0.621625393
+Bacteria	Parvimonas micra	3.22697E-10	-2.429767348
+Bacteria	Collinsella aerofaciens	0.006578709	-0.883694249
+Bacteria	Fusobacterium nucleatum	1.56174E-06	-2.263233453
+Bacteria	Fusobacterium varium	0.000942441	1.460908128
+Bacteria	Bifidobacterium longum	8.51719E-07	-4.277654585
+Bacteria	Bacteroides ovatus	0.004629121	-1.351788138
+Bacteria	Prevotella intermedia	1.27267E-07	-4.308328451
+Bacteria	Cutibacterium acnes	5.6047E-06	3.072897882
+Bacteria	Erysipelatoclostridium ramosum	0.000621766	-1.491560886
+Bacteria	Parabacteroides goldsteinii	8.77695E-05	-3.768894783
+Bacteria	Bacteroides xylanisolvens	0.000763225	-1.207891487
+Bacteria	Enterococcus faecalis	3.44824E-05	-6.529070665
+Bacteria	Paracoccus pantotrophus	5.93604E-14	5.304889308
+Bacteria	Pseudomonas aeruginosa	0.000151207	4.921190322
+Bacteria	Streptococcus sanguinis	0.000486638	-3.058316776
+Bacteria	Streptococcus oralis	0.015307931	-2.342247352
+Bacteria	Bifidobacterium pseudocatenulatum	1.76904E-08	-5.02423893
+Bacteria	Bacteroides salyersiae	9.11609E-06	-1.559575305
+Bacteria	Streptococcus pasteurianus	0.000524855	-8.2565282
+Bacteria	Akkermansia muciniphila	0.001704799	-2.150647168
+Bacteria	Acinetobacter baumannii	2.62738E-06	4.090308077
+Bacteria	Sphingomonas paucimobilis	0.008592148	2.943843023
+Bacteria	[Clostridium] innocuum	2.64975E-05	-1.411870884
+Bacteria	Bifidobacterium breve	5.16545E-07	-6.287337476
+Bacteria	Porphyromonas asaccharolytica	0.001098342	-11.28802787
+Bacteria	Enterococcus avium	2.04336E-05	-2.93091117
+Bacteria	Klebsiella variicola	0.00462962	-7.23200525
+Bacteria	Enterobacter kobei	0.002087993	-9.415230896
+Fungi	Zymoseptoria tritici	2.24106E-07	-5.108787371
+Fungi	Yarrowia lipolytica	0.001908964	4.161684866
+Fungi	Candida dubliniensis	0.036865525	2.532497346
+Fungi	Candida albicans	0.003416333	2.443960944
+Fungi	Aspergillus luchuensis	0.036773996	1.631561372
+Fungi	Aspergillus oryzae	0.04594591	1.150102789
+Fungi	Aspergillus fumigatus	0.007891651	0.804761863
+Fungi	[Candida] glabrata	0.044972811	4.177267003
+Fungi	Kluyveromyces marxianus	0.016068139	3.236778132
+Fungi	Cercospora beticola	0.000564177	-8.010686581
+Viruses	Human betaherpesvirus 6B	3.19202E-05	2.925697309
+Viruses	Human betaherpesvirus 5	0.002102023	9.964340868
+Viruses	Faecalibacterium virus Brigit	0.040275215	2.719944412
+Viruses	Faecalibacterium virus Lugh	0.00348984	-1.815042062

@@ -1,0 +1,64 @@
+group	Term	Ratios	Group	freq
+Methanobrevibacter_A	Methanobrevibacter_A smithii	0.736534212	A	51
+Methanobrevibacter_A	Methanobrevibacter_A smithii_A	0.069836159	A	29
+Methanomassiliicoccus_A	Methanomassiliicoccus_A intestinalis	0.056821974	A	25
+Methanobrevibacter	Methanobrevibacter smithii	0.000583405	A	2
+Methanosphaera	Methanosphaera sp900322125	0.00188699	A	1
+Candidatus Nitrosocosmicus	Candidatus Nitrosocosmicus franklandus	0.028122384	A	4
+Candidatus Methanomethylophilus	Candidatus Methanomethylophilus alvus	0.012862409	A	12
+Methanobrevibacter	Methanobrevibacter arboriphilus	0.024443655	A	8
+Methanobrevibacter	Methanobrevibacter sp. AbM4	0.013234809	A	5
+Methanosphaera	Methanosphaera stadtmanae	0.00457955	A	11
+NA	Methanomassiliicoccaceae archaeon UBA71	0.002325805	A	7
+Methanococcus	Methanococcus aeolicus	0.014099775	A	5
+Methanobacterium	Methanobacterium sp000499765	0.008684768	A	6
+Methanobrevibacter	Methanobrevibacter ruminantium	0.007846422	A	5
+Methanothermococcus	Methanothermococcus okinawensis	0.003508656	A	2
+Methanobrevibacter_A	Methanobrevibacter_A woesei	0.001354714	A	5
+Methanobacterium	Methanobacterium paludis	8.77E-05	A	3
+Methanolobus	Methanolobus zinderi	0.002593861	A	3
+Methanocaldococcus	Methanocaldococcus fervens	0.002580286	A	2
+Candidatus Prometheoarchaeum	Candidatus Prometheoarchaeum syntrophicum	0.00158264	A	4
+Others	Others	0.006429876	A	12
+Methanobrevibacter_A	Methanobrevibacter_A smithii	0.823871579	P	61
+Methanobrevibacter_A	Methanobrevibacter_A smithii_A	0.073440516	P	54
+Methanomassiliicoccus_A	Methanomassiliicoccus_A intestinalis	0.029768247	P	43
+Methanobrevibacter	Methanobrevibacter smithii	0.024651972	P	8
+Methanosphaera	Methanosphaera sp900322125	0.010276484	P	28
+Candidatus Nitrosocosmicus	Candidatus Nitrosocosmicus franklandus	0.002928095	P	7
+Candidatus Methanomethylophilus	Candidatus Methanomethylophilus alvus	0.006130077	P	34
+Methanobrevibacter	Methanobrevibacter arboriphilus	0.000655571	P	14
+Methanobrevibacter	Methanobrevibacter sp. AbM4	0.004353287	P	6
+Methanosphaera	Methanosphaera stadtmanae	0.006874365	P	29
+NA	Methanomassiliicoccaceae archaeon UBA71	0.007427817	P	34
+Methanococcus	Methanococcus aeolicus	0.000619494	P	6
+Methanobacterium	Methanobacterium sp000499765	0.00018367	P	2
+Methanobrevibacter	Methanobrevibacter ruminantium	0.000895569	P	11
+Methanothermococcus	Methanothermococcus okinawensis	7.50E-05	P	6
+Methanobrevibacter_A	Methanobrevibacter_A woesei	0.000926738	P	14
+Methanobacterium	Methanobacterium paludis	0.002281692	P	7
+Methanolobus	Methanolobus zinderi	6.05E-05	P	7
+Methanocaldococcus	Methanocaldococcus fervens	1.23E-05	P	3
+Candidatus Prometheoarchaeum	Candidatus Prometheoarchaeum syntrophicum	0.000310273	P	10
+Others	Others	0.00425684	P	35
+Methanobrevibacter_A	Methanobrevibacter_A smithii	0.808140535	T	61
+Methanobrevibacter_A	Methanobrevibacter_A smithii_A	0.084754374	T	52
+Methanomassiliicoccus_A	Methanomassiliicoccus_A intestinalis	0.037879002	T	47
+Methanobrevibacter	Methanobrevibacter smithii	0.013488569	T	10
+Methanosphaera	Methanosphaera sp900322125	0.019048645	T	32
+Candidatus Nitrosocosmicus	Candidatus Nitrosocosmicus franklandus	0.000568495	T	5
+Candidatus Methanomethylophilus	Candidatus Methanomethylophilus alvus	0.00699278	T	32
+Methanobrevibacter	Methanobrevibacter arboriphilus	0.001435953	T	11
+Methanobrevibacter	Methanobrevibacter sp. AbM4	0.005060934	T	15
+Methanosphaera	Methanosphaera stadtmanae	0.006109165	T	22
+NA	Methanomassiliicoccaceae archaeon UBA71	0.007356791	T	32
+Methanococcus	Methanococcus aeolicus	4.14E-05	T	4
+Methanobacterium	Methanobacterium sp000499765	0.001084733	T	8
+Methanobrevibacter	Methanobrevibacter ruminantium	0.000204857	T	8
+Methanothermococcus	Methanothermococcus okinawensis	0.000233394	T	7
+Methanobrevibacter_A	Methanobrevibacter_A woesei	0.000736639	T	19
+Methanobacterium	Methanobacterium paludis	2.72E-05	T	5
+Methanolobus	Methanolobus zinderi	0.000189318	T	6
+Methanocaldococcus	Methanocaldococcus fervens	7.07E-05	T	6
+Candidatus Prometheoarchaeum	Candidatus Prometheoarchaeum syntrophicum	6.04E-05	T	6
+Others	Others	0.006516107	T	42

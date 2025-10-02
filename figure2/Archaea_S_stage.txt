@@ -1,0 +1,64 @@
+group	Term	Ratios	Group	freq
+Methanobrevibacter_A	Methanobrevibacter_A smithii	0.736534212	A	51
+Methanobrevibacter_A	Methanobrevibacter_A smithii_A	0.069836159	A	29
+Methanomassiliicoccus_A	Methanomassiliicoccus_A intestinalis	0.056821974	A	25
+Candidatus Nitrosocosmicus	Candidatus Nitrosocosmicus franklandus	0.028122384	A	4
+Methanobrevibacter	Methanobrevibacter arboriphilus	0.024443655	A	8
+Methanosphaera	Methanosphaera sp900322125	0.00188699	A	1
+Candidatus Methanomethylophilus	Candidatus Methanomethylophilus alvus	0.012862409	A	12
+Methanobrevibacter	Methanobrevibacter sp. AbM4	0.013234809	A	5
+Methanococcus	Methanococcus aeolicus	0.014099775	A	5
+Methanobrevibacter	Methanobrevibacter smithii	0.000583405	A	2
+Methanosphaera	Methanosphaera stadtmanae	0.00457955	A	11
+Methanobacterium	Methanobacterium sp000499765	0.008684768	A	6
+NA	Methanomassiliicoccaceae archaeon UBA71	0.002325805	A	7
+Methanobrevibacter	Methanobrevibacter ruminantium	0.007846422	A	5
+Methanothermococcus	Methanothermococcus okinawensis	0.003508656	A	2
+Methanolobus	Methanolobus zinderi	0.002593861	A	3
+Methanocaldococcus	Methanocaldococcus fervens	0.002580286	A	2
+Methanobrevibacter_A	Methanobrevibacter_A woesei	0.001354714	A	5
+Methanofervidicoccus	Methanofervidicoccus sp. A16	1.11E-05	A	1
+Candidatus Prometheoarchaeum	Candidatus Prometheoarchaeum syntrophicum	0.00158264	A	4
+Others	Others	0.006506412	A	12
+Methanobrevibacter_A	Methanobrevibacter_A smithii	0.825867843	Early	32
+Methanobrevibacter_A	Methanobrevibacter_A smithii_A	0.091960372	Early	27
+Methanomassiliicoccus_A	Methanomassiliicoccus_A intestinalis	0.035909744	Early	25
+Candidatus Nitrosocosmicus	Candidatus Nitrosocosmicus franklandus	0.001033018	Early	4
+Methanobrevibacter	Methanobrevibacter arboriphilus	0.001055411	Early	6
+Methanosphaera	Methanosphaera sp900322125	0.014407146	Early	14
+Candidatus Methanomethylophilus	Candidatus Methanomethylophilus alvus	0.006140536	Early	13
+Methanobrevibacter	Methanobrevibacter sp. AbM4	0.003727315	Early	7
+Methanococcus	Methanococcus aeolicus	4.71E-05	Early	3
+Methanobrevibacter	Methanobrevibacter smithii	0.000164702	Early	5
+Methanosphaera	Methanosphaera stadtmanae	0.001755681	Early	11
+Methanobacterium	Methanobacterium sp000499765	0.000579504	Early	4
+NA	Methanomassiliicoccaceae archaeon UBA71	0.008367482	Early	13
+Methanobrevibacter	Methanobrevibacter ruminantium	0.000170014	Early	5
+Methanothermococcus	Methanothermococcus okinawensis	0.000335124	Early	4
+Methanolobus	Methanolobus zinderi	0.000311541	Early	4
+Methanocaldococcus	Methanocaldococcus fervens	4.08E-05	Early	4
+Methanobrevibacter_A	Methanobrevibacter_A woesei	0.000502775	Early	10
+Methanofervidicoccus	Methanofervidicoccus sp. A16	0.003467727	Early	4
+Candidatus Prometheoarchaeum	Candidatus Prometheoarchaeum syntrophicum	3.13E-05	Early	4
+Others	Others	0.004124908	Early	21
+Methanobrevibacter_A	Methanobrevibacter_A smithii	0.788546477	Advanced	29
+Methanobrevibacter_A	Methanobrevibacter_A smithii_A	0.07678956	Advanced	25
+Methanomassiliicoccus_A	Methanomassiliicoccus_A intestinalis	0.040055631	Advanced	22
+Candidatus Nitrosocosmicus	Candidatus Nitrosocosmicus franklandus	5.51E-05	Advanced	1
+Methanobrevibacter	Methanobrevibacter arboriphilus	0.001856568	Advanced	5
+Methanosphaera	Methanosphaera sp900322125	0.02417891	Advanced	18
+Candidatus Methanomethylophilus	Candidatus Methanomethylophilus alvus	0.007934768	Advanced	19
+Methanobrevibacter	Methanobrevibacter sp. AbM4	0.006534987	Advanced	8
+Methanococcus	Methanococcus aeolicus	3.51E-05	Advanced	1
+Methanobrevibacter	Methanobrevibacter smithii	0.028215486	Advanced	5
+Methanosphaera	Methanosphaera stadtmanae	0.010921086	Advanced	11
+Methanobacterium	Methanobacterium sp000499765	0.001643165	Advanced	4
+NA	Methanomassiliicoccaceae archaeon UBA71	0.00623967	Advanced	19
+Methanobrevibacter	Methanobrevibacter ruminantium	0.000243369	Advanced	3
+Methanothermococcus	Methanothermococcus okinawensis	0.000120951	Advanced	3
+Methanolobus	Methanolobus zinderi	5.42E-05	Advanced	2
+Methanocaldococcus	Methanocaldococcus fervens	0.000103688	Advanced	2
+Methanobrevibacter_A	Methanobrevibacter_A woesei	0.00099513	Advanced	9
+Methanofervidicoccus	Methanofervidicoccus sp. A16	2.23E-05	Advanced	2
+Candidatus Prometheoarchaeum	Candidatus Prometheoarchaeum syntrophicum	9.26E-05	Advanced	2
+Others	Others	0.005361229	Advanced	20

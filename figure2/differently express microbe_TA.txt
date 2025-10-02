@@ -1,0 +1,50 @@
+Species	Name	TvsA_pvalue	log2FoldChange
+Archaea	Methanosphaera sp900322125	8.30873E-10	3.230659899
+Archaea	Methanobrevibacter_A smithii_A	0.047735844	0.174443499
+Archaea	Candidatus Methanomethylophilus alvus	0.001951531	-0.984093041
+Archaea	Methanobrevibacter sp. AbM4	0.01978246	-1.491732
+Archaea	Methanobrevibacter smithii	0.014824305	4.426224578
+Archaea	Methanosphaera stadtmanae	0.049763883	0.3108991
+Archaea	Methanomassiliicoccaceae archaeon UBA71	4.12869E-06	1.556476452
+Bacteria	Phocaeicola vulgatus	0.043266128	-0.70096271
+Bacteria	Bacteroides fragilis	4.90999E-05	1.462619324
+Bacteria	Klebsiella pneumoniae	0.001764542	1.57852765
+Bacteria	Parvimonas micra	4.31283E-10	2.908122218
+Bacteria	Collinsella aerofaciens	0.004255247	0.769335744
+Bacteria	Fusobacterium nucleatum	5.12754E-11	3.222020263
+Bacteria	Fusobacterium varium	0.000458955	-1.112347173
+Bacteria	Bifidobacterium longum	1.35608E-05	3.857790081
+Bacteria	Bacteroides ovatus	0.002366808	1.485568508
+Bacteria	Fusobacterium ulcerans	0.007867201	-1.230497108
+Bacteria	Dorea longicatena	0.026654174	-0.904755264
+Bacteria	Prevotella intermedia	3.94702E-07	5.174930658
+Bacteria	Cutibacterium acnes	7.98437E-06	-1.807761774
+Bacteria	Parabacteroides goldsteinii	0.003312323	3.67272811
+Bacteria	Bacteroides xylanisolvens	0.002495721	1.134200121
+Bacteria	Enterococcus faecalis	8.71797E-06	5.765373242
+Bacteria	Capnocytophaga sputigena	0.001553708	11.97340962
+Bacteria	Paracoccus pantotrophus	1.35312E-12	-4.285879603
+Bacteria	Pseudomonas aeruginosa	0.000560104	-3.218777688
+Bacteria	Gemella morbillorum	8.51027E-11	4.041306831
+Bacteria	Streptococcus sanguinis	0.000252224	3.062468394
+Bacteria	Streptococcus oralis	0.001410776	2.090677473
+Bacteria	Bifidobacterium pseudocatenulatum	2.37551E-08	4.662255803
+Bacteria	Bacteroides salyersiae	1.8867E-05	1.629486246
+Bacteria	Streptococcus pasteurianus	0.000931819	9.075749387
+Bacteria	Akkermansia muciniphila	0.004693652	2.004776065
+Bacteria	Acinetobacter baumannii	4.61447E-08	-6.829705799
+Bacteria	Diaphorobacter sp. MNS-0	0.000137676	-4.188788756
+Bacteria	Streptococcus constellatus	9.97309E-12	7.291451498
+Bacteria	Streptococcus intermedius	3.81744E-08	5.923907883
+Fungi	Zymoseptoria tritici	3.02268E-07	4.991136203
+Fungi	Yarrowia lipolytica	0.003209317	-3.755155337
+Fungi	Thermothelomyces thermophilus	0.011605802	-2.86067888
+Fungi	Fusarium poae	0.001859001	-1.492723686
+Fungi	Colletotrichum higginsianum	0.026424306	-4.404007372
+Fungi	Cercospora beticola	0.006899635	7.67394186
+Viruses	Human betaherpesvirus 7	0.014228561	-8.848107384
+Viruses	uncultured crAssphage	0.027936639	2.791034055
+Viruses	CrAss-like virus sp.	0.024518855	1.172326377
+Viruses	Human gammaherpesvirus 4	0.004445778	-1.772313201
+Viruses	Human immunodeficiency virus 1	0.00449836	-11.54265207
+Viruses	Faecalibacterium virus Lugh	0.002132478	1.822067014

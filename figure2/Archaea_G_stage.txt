@@ -1,0 +1,64 @@
+group	Term	Ratios	Group	freq
+Methanobacteriaceae	Methanobrevibacter_A	0.805872457	A	51
+Methanomassiliicoccaceae	Methanomassiliicoccus_A	0.05657724	A	25
+Methanobacteriaceae	Methanobrevibacter	0.046774284	A	19
+Methanobacteriaceae	Methanosphaera	0.007334297	A	13
+Nitrososphaeraceae	Candidatus Nitrosocosmicus	0.027348375	A	4
+Candidatus Methanomethylophilaceae	Candidatus Methanomethylophilus	0.012675351	A	12
+Methanococcaceae	Methanococcus	0.013976093	A	8
+Methanobacteriaceae	Methanobacterium	0.008484412	A	8
+Methanosarcinaceae	Methanosarcina	0.004955994	A	5
+Methanomicrobiaceae	Methanoculleus	0.004035226	A	4
+Methanococcaceae	Methanothermococcus	0.003354061	A	2
+Methanosarcinaceae	Methanolobus	0.002556448	A	3
+Methanocaldococcaceae	Methanocaldococcus	0.002542692	A	2
+NA	Methanofervidicoccus	1.13E-05	A	1
+NA	Candidatus Prometheoarchaeum	0.001546997	A	4
+Haloarculaceae	Halomicrobium	0.00064306	A	3
+Methanocellaceae	Methanocella	0.000610849	A	3
+Methanospirillaceae	Methanospirillum	4.13E-05	A	2
+Halobacteriaceae	Halobacterium	0.00022155	A	3
+Methanonatronarchaeaceae	Methanonatronarchaeum	0.00014977	A	2
+Others	Others	0.000288332	A	5
+Methanobacteriaceae	Methanobrevibacter_A	0.927268724	Early	32
+Methanomassiliicoccaceae	Methanomassiliicoccus_A	0.035564824	Early	25
+Methanobacteriaceae	Methanobrevibacter	0.005992331	Early	17
+Methanobacteriaceae	Methanosphaera	0.016972415	Early	20
+Nitrososphaeraceae	Candidatus Nitrosocosmicus	0.001014215	Early	4
+Candidatus Methanomethylophilaceae	Candidatus Methanomethylophilus	0.006107614	Early	13
+Methanococcaceae	Methanococcus	0.00016069	Early	5
+Methanobacteriaceae	Methanobacterium	0.000656506	Early	9
+Methanosarcinaceae	Methanosarcina	0.000473514	Early	10
+Methanomicrobiaceae	Methanoculleus	1.25E-05	Early	2
+Methanococcaceae	Methanothermococcus	0.000330157	Early	4
+Methanosarcinaceae	Methanolobus	0.000307335	Early	4
+Methanocaldococcaceae	Methanocaldococcus	4.15E-05	Early	4
+NA	Methanofervidicoccus	0.003358595	Early	4
+NA	Candidatus Prometheoarchaeum	3.10E-05	Early	4
+Haloarculaceae	Halomicrobium	3.37E-05	Early	2
+Methanocellaceae	Methanocella	0.000207803	Early	4
+Methanospirillaceae	Methanospirillum	6.36E-06	Early	3
+Halobacteriaceae	Halobacterium	0	Early	0
+Methanonatronarchaeaceae	Methanonatronarchaeum	0.00024627	Early	3
+Others	Others	0.00121393	Early	12
+Methanobacteriaceae	Methanobrevibacter_A	0.869887673	Advanced	29
+Methanomassiliicoccaceae	Methanomassiliicoccus_A	0.040201466	Advanced	22
+Methanobacteriaceae	Methanobrevibacter	0.037044318	Advanced	18
+Methanobacteriaceae	Methanosphaera	0.035879697	Advanced	22
+Nitrososphaeraceae	Candidatus Nitrosocosmicus	5.57E-05	Advanced	1
+Candidatus Methanomethylophilaceae	Candidatus Methanomethylophilus	0.008060973	Advanced	19
+Methanococcaceae	Methanococcus	0.000151707	Advanced	4
+Methanobacteriaceae	Methanobacterium	0.001779023	Advanced	5
+Methanosarcinaceae	Methanosarcina	0.000766484	Advanced	9
+Methanomicrobiaceae	Methanoculleus	9.59E-06	Advanced	1
+Methanococcaceae	Methanothermococcus	0.000121511	Advanced	3
+Methanosarcinaceae	Methanolobus	5.44E-05	Advanced	2
+Methanocaldococcaceae	Methanocaldococcus	0.00010882	Advanced	2
+NA	Methanofervidicoccus	2.24E-05	Advanced	2
+NA	Candidatus Prometheoarchaeum	9.30E-05	Advanced	2
+Haloarculaceae	Halomicrobium	0.000892783	Advanced	4
+Methanocellaceae	Methanocella	0.000435604	Advanced	5
+Methanospirillaceae	Methanospirillum	0.001524027	Advanced	2
+Halobacteriaceae	Halobacterium	0.000320579	Advanced	1
+Methanonatronarchaeaceae	Methanonatronarchaeum	0.000160289	Advanced	1
+Others	Others	0.002429916	Advanced	15
