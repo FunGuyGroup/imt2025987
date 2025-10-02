@@ -1,0 +1,31 @@
+group	protein	protein.coeff	taxa	taxa.coeff
+A	RAB44	0.6403718	Faecalibacterium prausnitzii	0.45329521
+A	C11orf96	0.53421704	Faecalibacillus intestinalis	0.28185148
+A	CADM1	0.38328069	Collinsella aerofaciens	0.13001752
+A	NCS1	0.19904715	Anaerobutyricum hallii	0.03514406
+A	RNASE3	0.10124461	Faecalibacterium	0.45351084
+A	GABPA	0.0206257	Oscillospiraceae	0.41843289
+A	ABCC1	0.02059117	Faecalibacillus	0.28185148
+A	LCLAT1	0.02058856	Eubacteriales	0.23542073
+A	YTHDF2	0.0204	Clostridia	0.23489051
+A	RNASEH2B	0.02039886	Firmicutes	0.20189731
+P	SRM	0.20888495	Blautia sp. SC05B48	0.6017853
+P	GALE	0.1951515	Anaerobutyricum hallii	0.4829434
+P	GLMN	0.19311223	Anaerobutyricum	0.4829434
+P	GIMAP4	0.15058117	Blautia	0.2873311
+P	DUS2	0.13375856	Dorea	0.2103199
+P	EPCAM	0.13027177	Dorea longicatena	0.2103199
+P	NUP153	0.12929927	Blautia obeum	0.0189159
+P	SRXN1	0.12835429		NA
+P	CMC1	0.12771625		NA
+P	NAGK	0.12728767		NA
+T	PPM1G	0.0461001	Flavonifractor	0.6522178
+T	NUP153	0.04572455	Flavonifractor plautii	0.6522178
+T	HEPACAM	0.04568528	Acidaminococcaceae	0.23829017
+T	PRX	0.04567622	Acidaminococcales	0.23829017
+T	SERPINB12	0.04566261	Bacteroidaceae	0.09059053
+T	SLC7A10	0.04564761	acteroidia	0.07722477
+T	ADNP	0.0453345	Bacteroides stercoris	0.06353404
+T	HMGB3	0.04520845	Parabacteroides distasonis	0.04218759
+T	PPP1R10	0.04514196	Phascolarctobacterium faecium	0.0079233
+T	RNASEH2A	0.0448435	Phocaeicola vulgatus	0.00145903

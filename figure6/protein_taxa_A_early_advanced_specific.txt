@@ -1,0 +1,31 @@
+group	protein	protein_coeff	taxa	taxa_coeff
+A	STX3	0.32735792	Halarcobacter bivalviorum	0.423765546
+A	RBMX2	0.31147166	Halarcobacter	0.414408931
+A	PRKCZ	0.30327071	Arcobacteraceae	0.375494315
+A	GCSH	0.19801303	Candida dubliniensis	0.317837119
+A	SLC43A2	0.1836391	Paracoccus denitrificans	0.279170982
+A	PRAF2	0.17068205	Campylobacterales	0.249754535
+A	SEC61B	0.15910277	Epsilonproteobacteria	0.236762465
+A	MOSPD2	0.15876045	Flavobacteriales	0.212693255
+A	NQO2	0.15791457	Flavobacteriia	0.212693255
+A	GPN1	0.15480804	Debaryomycetaceae	0.179844805
+early	SERPINA5	0.20509212	Coriobacteriales	0.45666152
+early	SSRP1	0.1763472	Collinsella aerofaciens	0.4518215
+early	CDC42	0.16150759	Collinsella	0.44544585
+early	UGDH	0.14781323	Coriobacteriaceae	0.44495293
+early	ANP32E	0.13581454	Coriobacteriia	0.31655228
+early	TAX1BP3	0.1348062	Bacteroides thetaiotaomicron	0.28757747
+early	FAM49A	0.13254776	Clostridia	0.04663104
+early	SH3BGRL3	0.13121428	Eubacteriales	0.04653179
+early	UQCRFS1P1	0.13010699	Phocaeicola dorei	0.02882731
+early	GYG1	0.12838772	Faecalibacterium prausnitzii	0.02661262
+advanced	WDFY2	0.11369556	Veillonella parvula	0.30041639
+advanced	TLR8	0.11364202	Anaerostipes hadrus	0.29969137
+advanced	EDIL3	0.11363757	Ruthenibacterium lactatiformans	0.25451224
+advanced	TIFAB	0.11363236	Thermothelomyces thermophilus	0.25252489
+advanced	BTBD9	0.11359454	Streptococcus salivarius	0.24106356
+advanced	ITM2A	0.11358486	Candida albicans	0.18640377
+advanced	NAALAD2	0.11355815	Bacteroides nordii	0.12148333
+advanced	PES1	0.10869973	Pichia kudriavzevii	0.10225833
+advanced	PSMD4	0.10283704	Bacteroides xylanisolvens	0.09583021
+advanced	CRTAP	0.09979992	Fusobacterium varium	0.06872737

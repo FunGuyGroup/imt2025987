@@ -1,0 +1,31 @@
+group	protein	protein_coeff	taxa	taxa_coeff
+A	RAB44	0.6403718	Faecalibacterium prausnitzii	0.45329521
+A	C11orf96	0.53421704	Faecalibacillus intestinalis	0.28185148
+A	CADM1	0.38328069	Collinsella aerofaciens	0.13001752
+A	NCS1	0.19904715	Anaerobutyricum hallii	0.03514406
+A	RNASE3	0.10124461	Faecalibacterium	0.45351084
+A	GABPA	0.0206257	Oscillospiraceae	0.41843289
+A	ABCC1	0.02059117	Faecalibacillus	0.28185148
+A	LCLAT1	0.02058856	Eubacteriales	0.23542073
+A	YTHDF2	0.0204	Clostridia	0.23489051
+A	RNASEH2B	0.02039886	Firmicutes	0.20189731
+early	ZNF438	0.18047802	Bacteroidetes	0.04799281
+early	SUCO	0.18042565	Bacteroidia	0.08092899
+early	SMG8	0.17005109	Bacteroidales	0.08093757
+early	TNIK	0.16967263	Bacteroidaceae	0.1274277
+early	DAB2IP	0.16561835	Bacteroides	0.19502423
+early	PRPF4B	0.16411933	Bacteroides fragilis	0.24448511
+early	MFF	0.16141748	Campylobacteraceae	0.4653075
+early	EHHADH	0.15780726	Campylobacter	0.4653075
+early	COBLL1	0.15277934	Epsilonproteobacteria	0.46767208
+early	CDKN1B	0.15192677	Campylobacterales	0.46777318
+advanced	FGFR2	0.15958789	Enterococcus faecalis	0.27904054
+advanced	LCN1	0.15953493	Streptococcus oralis	0.27903322
+advanced	CRISPLD2	0.15952963	Enterococcus	0.27864919
+advanced	NTRK3	0.15951486	Enterococcaceae	0.27863965
+advanced	HLA-DRB3	0.15384836	Saccharomycodes ludwigii	0.25792365
+advanced	ABT1	0.15283907	Pyricularia pennisetigena	0.20194051
+advanced	CRBN	0.14372723	Fusobacterium varium	0.1556064
+advanced	EXOSC6	0.12751304	Streptococcus anginosus	0.12736153
+advanced	POLI	0.12328249	Yarrowia lipolytica	0.11798845
+advanced	UGT2B15	0.11670167	Veillonella parvula	0.00949636

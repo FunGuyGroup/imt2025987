@@ -1,0 +1,494 @@
+	gene	taxa	r.sqr	r.sqr.adj	pval	padj	ci.lower	ci.upper	sigma	sigma.flag	Bonferonni_global	BY_global	BH_global
+3	ABCA2	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.219377275	0.049676682	0	0	1114563.51	1121567.81	7.945994176	0	0	0	0
+4	ABCC1	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides salyersiae"	0.601443239	0.49274594	0	0	2184717.411	2184862.705	0.531367828	0	0	0	0
+5	ABHD5	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Candida,Candida albicans"	0.575559067	0.542909764	0	0	45137065.41	45826281.41	5.468480139	0	0	0	0
+6	ABI3BP	"Archaea,Euryarchaeota,Halobacteria"	0.454208647	0.388713684	0	0	-23443840.15	-23251054.52	1.943322452	0	0	0	0
+7	ABI3BP	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis"	0.454208647	0.388713684	0	0	-75338.24893	-75251.30803	1.943322452	0	0	0	0
+11	ACBD5	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Oscillospiraceae,Vescimonas,Vescimonas coprocola"	0.514039949	0.496041428	0	0	1622325.331	1622739.333	0.653039534	0	0	0	0
+12	ACSF3	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium"	0.349442268	0.299399365	0	0	-1691450.511	-1690510.132	7.917445912	0	0	0	0
+13	ACSL4	"Bacteria,Proteobacteria"	0.228780011	0.200216308	0	0	-12057.55717	-12035.41114	1.094208908	0	0	0	0
+15	ADGRE1	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycodaceae,Saccharomycodes,Saccharomycodes ludwigii"	0.548883624	0.450814847	0	0	1250771.477	1384641.065	4.876236249	0	0	0	0
+17	AGRN	"Bacteria,Firmicutes"	0.810209741	0.734293638	0	0	4063.068819	4072.548091	0.422897515	0	0	0	0
+20	ALKBH4	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides sp. ZJ-18"	0.509595404	0.491432271	0	0	-1036452.836	-1030027.776	5.905219348	0	0	0	0
+21	ALOX15B	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides merdae"	0.466900852	0.351009733	0	0	709221.2423	712727.1288	5.699144176	0	0	0	0
+24	ANKRD22	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.241804278	0.213722955	0	0	20000005.2	20006872.67	7.69434173	0	0	0	0
+27	APBB1IP	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Dipodascaceae,Yarrowia,Yarrowia lipolytica"	0.461602695	0.420187518	0	0	35226273.82	35236789.89	0.684741758	0	0	0	0
+29	APRT	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.784349328	0.712465771	0	0	16102855.38	16103239	0.434310697	0	0	0	0
+30	ARF3	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium varium"	0.355201876	0.277826101	0	0	8602115.485	8606404.314	8.723076165	0	0	0	0
+32	ARHGAP21	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.943982098	0.934645782	0	0	173241968.2	173429311.2	0.923217918	0	0	0	0
+34	ASAP1	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae,Coprococcus,Coprococcus catus"	0.334493348	0.189817988	0	0	-13742.30812	-13353.09968	0.823356321	0	0	0	0
+37	ATP2B4	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.600669846	0.53411482	0	0	-1699888.525	-1699314.261	0.648988874	0	0	0	0
+38	ATP6V0D1	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis"	0.722053809	0.661630723	0	0	17841.89444	17857.51651	0.348280173	0	0	0	0
+39	ATP6V1G1	"Bacteria,Actinobacteria,Actinomycetia,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium pseudocatenulatum"	0.489752843	0.4708548	0	0	116776.3755	120124.6458	6.619638459	0	0	0	0
+42	AUP1	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae,Veillonella,Veillonella parvula"	0.557227548	0.523168129	0	0	-1077650.247	-1076474.323	0.627111702	0	0	0	0
+46	BAHCC1	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides salyersiae"	0.692330777	0.668663914	0	0	87628.86406	88983.44459	4.953974741	0	0	0	0
+47	BANP	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Dipodascaceae,Yarrowia,Yarrowia lipolytica"	0.576415419	0.484331815	0	0	-525444313.4	-525368366.8	4.944093508	0	0	0	0
+48	BAX	"Bacteria,Actinobacteria,Actinomycetia,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium pseudocatenulatum"	0.612978336	0.583207439	0	0	10605232.54	10608621.96	6.747653674	0	0	0	0
+52	BCL11B	"Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas funiformis"	0.600926033	0.514170823	0	0	389363.2431	394512.8859	5.343951321	0	0	0	0
+56	BICDL2	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,Porphyromonas endodontalis"	0.863299284	0.858236295	0	0	378969.1925	379542.1254	1.843469511	0	0	0	0
+57	BLVRA	"Bacteria,Actinobacteria,Actinomycetia,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium pseudocatenulatum"	0.678009045	0.570678726	0	0	-481345.1007	-481059.7813	0.568014306	0	0	0	0
+59	C17orf75	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides xylanisolvens"	0.288878747	0.170358538	0	0	-288901.8859	-288435.589	0.772555889	0	0	0	0
+62	C1QBP	"Bacteria,Actinobacteria,Actinomycetia,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium bifidum"	0.262930783	0.206233151	0	0	1837940.715	1838216.773	0.990865044	0	0	0	0
+63	C1RL	"Archaea,Euryarchaeota,Halobacteria,Halobacteriales"	0.819957669	0.798352589	0	0	688407687.9	688918988.4	4.553083155	0	0	0	0
+64	C4orf3	"Viruses,Uroviricota,Caudoviricetes,Caudovirales,Myoviridae,Taranisvirus,Faecalibacterium virus Taranis"	0.719451736	0.709061059	0	0	26719129.02	27065403.64	3.662537481	0	0	0	0
+67	CA1	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae"	0.286326607	0.231428653	0	0	86298483.19	86314658.56	1.145387103	0	0	0	0
+69	CADM2	"Fungi,Ascomycota,Sordariomycetes,Sordariales,Chaetomiaceae,Thermothelomyces,Thermothelomyces thermophilus"	0.598022428	0.464029904	0	0	40299237.86	40636977.38	4.782705068	0	0	0	0
+70	CADPS2	"Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanosphaera,Methanosphaera sp900322125"	0.785790245	0.777856551	0	0	6746620.655	6778494.22	2.925002947	0	0	0	0
+73	CAT	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron"	0.104435293	0.035545701	0	0	9190.525734	9303.678941	0.484527653	0	0	0	0
+75	CCDC149	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides ovatus"	0.999073332	0.997117033	0	0	-1722057.528	-1721836.256	1	2	0	0	0
+76	CCDC8	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae"	0.306456414	0.223231184	0	0	-35440804.65	-35360765.78	5.662678097	0	0	0	0
+77	CCL3	"Bacteria,Firmicutes,Negativicutes"	0.253935144	0.129591002	0	0	-508.2546973	-504.8922813	0.006470001	0	0	0	0
+79	CD300LG	"Bacteria,Actinobacteria,Actinomycetia,Actinomycetales,Actinomycetaceae,Schaalia"	0.866587452	0.850577946	0	0	-159990.5774	-159599.8124	1.516638367	0	0	0	0
+80	CD4	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas"	0.97519929	0.965279006	0	0	7156332.913	7156641.955	1.941990892	0	0	0	0
+83	CDAN1	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.45465697	0.363766465	0	0	-4261539.281	-4260291.718	1.385824122	0	0	0	0
+86	CDK5RAP3	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae"	0.298493751	0.244531732	0	0	621974.0965	629518.1963	0.534389667	0	0	0	0
+93	CHUK	"Bacteria,Actinobacteria,Actinomycetia,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium pseudocatenulatum"	0.388144001	0.341078155	0	0	-288530.4727	-288078.9047	0.898982024	0	0	0	0
+94	CIRBP	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium gonidiaformans"	0.378812466	0.304269962	0	0	311021.7508	311576.4678	1.082429167	0	0	0	0
+96	CLEC3B	"Bacteria,Actinobacteria,Actinomycetia,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium bifidum"	0.584957196	0.535152059	0	0	-11846078.4	-11845778.67	1.09021775	0	0	0	0
+97	CLIC5	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium gonidiaformans"	0.894427748	0.886306805	0	0	251527.9494	252799.6227	2.481438614	0	0	0	0
+101	COL1A1	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.248193477	0.157976694	0	0	-16691.02374	-15420.7465	1.411055943	0	0	0	0
+102	COL1A2	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.41734988	0.320241527	0	0	-83614.42948	-82151.60777	1.644595479	0	0	0	0
+103	COL2A1	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.222144693	0.128802056	0	0	-17661.8387	-16102.06615	1.747575943	0	0	0	0
+104	COL3A1	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.315088222	0.166194357	0	0	-1155833.578	-1154405.146	1.586738475	0	0	0	0
+106	COL6A1	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.52924769	0.472757413	0	0	-40637.39649	-39898.89218	0.82034919	0	0	0	0
+107	COL6A3	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.260173358	0.171394161	0	0	-2263647.992	-2262698.572	1.063734231	0	0	0	0
+110	CPB1	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides salyersiae"	0.933398952	0.930932246	0	0	12863860.75	12864417.65	2.039314841	0	0	0	0
+112	CPVL	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium varium"	0.429952437	0.33494451	0	0	1789442.01	1789876.111	0.885578301	0	0	0	0
+113	CPZ	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae"	0.257905745	0.134223369	0	0	-68310774.58	-68215114.27	6.729016185	0	0	0	0
+114	CREG1	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.440365389	0.347092954	0	0	-253561.1319	-252590.2066	1.087828848	0	0	0	0
+115	CRTC1	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium gonidiaformans"	0.94936261	0.93248348	0	0	303332.9382	304516.0871	2.308699562	0	0	0	0
+116	CSK	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.849098692	0.75145667	0	0	-1047784.425	-1047329.548	0.50365177	0	0	0	0
+117	CSRP2	"Bacteria,Firmicutes"	0.783202272	0.724075619	0	0	95045.31903	95059.58537	0.634360212	0	0	0	0
+118	CTDP1	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides ovatus"	0.990210498	0.975081268	0	0	1048900.836	1048961.982	0.279965489	0	0	0	0
+120	CUZD1	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium gonidiaformans"	0.903672676	0.865141746	0	0	3318961.469	3320319.147	2.631288447	0	0	0	0
+122	CXCL5	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides sp. ZJ-18"	0.951675632	0.924828761	0	0	4134690.365	4137818.894	2.917021555	0	0	0	0
+123	CYHR1	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.973619095	0.96482546	0	0	786398740.3	786897086.7	2.456612614	0	0	0	0
+125	CYP3A5	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium pseudoperiodonticum"	0.441890904	0.421220197	0	0	173110.6487	174287.0443	3.019846358	0	0	0	0
+126	DAPP1	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae,Blautia"	0.488980222	0.318640296	0	0	-667724.7865	-664647.9113	8.025716588	0	0	0	0
+127	DBNL	"Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Erysipelatoclostridium,[Clostridium] innocuum"	0.897467056	0.863289408	0	0	-1175269.241	-1172065.988	3.604964887	0	0	0	0
+128	DCHS1	"Bacteria,Actinobacteria,Actinomycetia,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium pseudocatenulatum"	0.703086198	0.638539719	0	0	-8904248.755	-8902026.458	4.354399077	0	0	0	0
+129	DCUN1D1	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.575158359	0.559423484	0	0	2176993.159	2181757.788	5.384620777	0	0	0	0
+132	DENND4A	"Bacteria,Actinobacteria,Actinomycetia,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium pseudocatenulatum"	0.199026658	0.169360978	0	0	10016997.88	10021644.51	9.226242603	0	0	0	0
+136	DNAH5	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.425782167	0.40451484	0	0	22369405.19	23514678.79	5.645658764	0	0	0	0
+138	DNM1	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium varium"	0.346309277	0.322098509	0	0	19490.75066	19707.87113	0.441602755	0	0	0	0
+141	DOP1B	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae,Anaerostipes"	0.426158613	0.330518382	0	0	-1244214.447	-1242851.968	1.071650106	0	0	0	0
+143	DUSP22	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Oscillospiraceae,Vescimonas,Vescimonas coprocola"	0.459394859	0.341872002	0	0	-1587223.718	-1583171.933	6.378720065	0	0	0	0
+146	EAPP	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.633025707	0.619434066	0	0	18314138.32	19160410.55	4.171723022	0	0	0	0
+149	EDAR	"Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia"	0.556520161	0.503302581	0	0	-2180.588521	-2096.977468	3.159579388	0	0	0	0
+151	EHBP1L1	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.308251631	0.192960236	0	0	-2784885.564	-2784262.086	0.704606938	0	0	0	0
+152	EIF2B5	"Bacteria,Firmicutes,Negativicutes"	0.292992888	0.208152034	0	0	-38910.34848	-38526.80138	0.722681901	0	0	0	0
+154	ELL	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.815683739	0.808857211	0	0	-152254668.6	-151623309.7	3.112301297	0	0	0	0
+159	EP400P1	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron"	0.69897921	0.616882632	0	0	-1018678.756	-1017351.681	5.687765982	0	0	0	0
+162	EPS8L1	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola dorei"	0.972676041	0.936244095	0	0	-4279.728321	-4187.897361	1	2	0	0	0
+165	ERLIN2	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium varium"	0.442553273	0.375659666	0	0	988769.4667	989030.937	0.533405987	0	0	0	0
+167	EYS	"Bacteria,Actinobacteria,Actinomycetia,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium pseudocatenulatum"	0.60954641	0.595085166	0	0	145025.6134	147227.233	4.371489412	0	0	0	0
+170	FADD	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.937564904	0.927159055	0	0	-1727250576	-1726830134	2.072567418	0	0	0	0
+173	FAM210A	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium pseudoperiodonticum"	0.993356182	0.985690237	0	0	1128086.426	1128960.402	2.221006698	0	0	0	0
+175	FAS	"Bacteria,Actinobacteria,Actinomycetia,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium pseudocatenulatum"	0.29780134	0.243786058	0	0	-15181.20334	-14749.12386	0.856292981	0	0	0	0
+178	FBXO2	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.528844716	0.51139452	0	0	-19306950.69	-18302297.24	4.943844349	0	0	0	0
+179	FBXO22	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae,Mediterraneibacter,[Ruminococcus] gnavus"	0.639352226	0.560950536	0	0	-39889.75379	-39845.40534	0.541973637	0	0	0	0
+180	FCHSD2	"Archaea,Candidatus Thermoplasmatota,Thermoplasmata,Methanomassiliicoccales,Candidatus Methanomethylophilaceae,Candidatus Methanomethylophilus,Candidatus Methanomethylophilus alvus"	0.463627573	0.249078603	0	0	-728989177.8	-728729648	8.108627047	0	0	0	0
+181	FGD2	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium gonidiaformans"	0.460394438	0.440409047	0	0	647246.3358	650402.1688	6.158032876	0	0	0	0
+184	FKBP1B	"Bacteria,Firmicutes,Negativicutes"	0.281829946	0.226586096	0	0	-3874138.702	-3869723.88	8.529418465	0	0	0	0
+187	FTL	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae,Anaerostipes,Anaerostipes hadrus"	0.629723563	0.616009621	0	0	557050.2379	562188.6686	3.810156571	0	0	0	0
+190	FUK	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Oscillospiraceae,Flavonifractor,Flavonifractor plautii"	0.447451682	0.296756686	0	0	-601878.6172	-596212.6499	7.99364022	0	0	0	0
+191	FUNDC2	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides salyersiae"	0.250954802	0.161069379	0	0	3601.907091	3849.389566	0.906256154	0	0	0	0
+193	FYB1	"Bacteria,Actinobacteria,Actinomycetia,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium pseudocatenulatum"	0.363046836	0.314050438	0	0	-7630.568222	-7223.120514	0.80116374	0	0	0	0
+194	FZD1	"Bacteria,Actinobacteria,Actinomycetia,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium pseudocatenulatum"	0.639184617	0.56074649	0	0	348186.5275	350654.9152	4.880082205	0	0	0	0
+195	FZD1	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola vulgatus"	0.639184617	0.56074649	0	0	-13785.60554	-13570.46357	4.880082205	0	0	0	0
+198	GBP6	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides xylanisolvens"	0.402125191	0.30247939	0	0	3495.684562	3498.213064	0.004189197	0	0	0	0
+199	GCOM1	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium pseudoperiodonticum"	0.888406066	0.879821917	0	0	-1028668.755	-1028113.915	1.40641135	0	0	0	0
+200	GFOD2	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.315780076	0.290438597	0	0	3714709.11	3721824.718	8.072267111	0	0	0	0
+201	GJA1	"Bacteria,Actinobacteria,Coriobacteriia"	0.262383082	0.102031578	0	0	-187421.8139	-185997.2901	8.890203015	0	0	0	0
+202	GLCCI1	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron"	0.568719795	0.451097921	0	0	1419.055279	1420.294079	0.005269423	0	0	0	0
+204	GNB2	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium varium"	0.254256011	0.092137753	0	0	61039.87885	61347.23632	0.627759562	0	0	0	0
+205	GNB3	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Candida,Candida albicans"	0.359379518	0.31010102	0	0	-16181087.23	-16081832.14	0.788801733	0	0	0	0
+206	GNPTG	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.477085961	0.457718775	0	0	6575561.24	6581496.803	6.673129538	0	0	0	0
+207	GOLGA8R	"Fungi,Ascomycota,Sordariomycetes,Sordariales,Chaetomiaceae,Thermothelomyces,Thermothelomyces thermophilus"	0.704834038	0.693901965	0	0	-734193030	-733902251.2	4.107825748	0	0	0	0
+208	GOLPH3L	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.55360233	0.456559359	0	0	-889516.0067	-888883.3878	0.717829973	0	0	0	0
+209	GON7	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.892446445	0.874520853	0	0	-24156758.09	-23630093.02	2.596210431	0	0	0	0
+210	GOT1	"Fungi,Ascomycota,Sordariomycetes,Sordariales,Chaetomiaceae,Thermothelomyces,Thermothelomyces thermophilus"	0.344249879	0.293807562	0	0	-5196740.204	-5147556.231	0.696480068	0	0	0	0
+212	GPRC5C	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.832167269	0.795681892	0	0	-283276.3681	-279908.2862	3.806349811	0	0	0	0
+214	GUCY1A2	"Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanobrevibacter,Methanobrevibacter sp. AbM4"	0.937515946	0.923932456	0	0	-5854607.355	-5837220.911	1.302227097	0	0	0	0
+216	HDAC3	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides caccae"	0.964918267	0.957291804	0	0	417521.1327	417985.7678	0.938921279	0	0	0	0
+219	HLA-DQB1	"Bacteria,Firmicutes"	0.280852418	0.124515987	0	0	5957.451717	5979.479147	0.984874851	0	0	0	0
+220	HLA-DRB3	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycodaceae,Saccharomycodes,Saccharomycodes ludwigii"	0.214488014	0.185394978	0	0	1111107.321	1200266.601	3.293721376	0	0	0	0
+222	HNRNPA0	"Bacteria,Proteobacteria"	0.744601287	0.689079827	0	0	-25708.14883	-25695.40936	0.628977559	0	0	0	0
+224	HNRNPR	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides xylanisolvens"	0.25425366	0.196888557	0	0	12257.18152	12533.11125	0.457157541	0	0	0	0
+226	HSBP1	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae,Veillonella,Veillonella parvula"	0.973205008	0.955867071	0	0	-144562171.5	-144559409.7	1.456848808	0	0	0	0
+227	HSPA12A	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes"	0.891128088	0.872982769	0	0	4877861.215	4877963.365	0.52129857	0	0	0	0
+228	HSPB1	"Bacteria,Firmicutes"	0.349907117	0.299899972	0	0	337.4995395	356.5729215	0.848108004	0	0	0	0
+229	HYOU1	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium varium"	0.167712046	0.103689896	0	0	39355.28407	39754.00657	0.810964336	0	0	0	0
+230	HYPK	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae,Veillonella,Veillonella parvula"	0.996919002	0.994925416	0	0	-232710068	-232709093.9	0.519468389	0	0	0	0
+231	ICAM4	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae"	0.254235204	0.164743428	0	0	284926.9412	308733.9815	1.678760945	0	0	0	0
+232	IDE	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides salyersiae"	0.325180878	0.300187577	0	0	4662.825325	4889.375279	0.836133769	0	0	0	0
+235	IGFBP7	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides ovatus"	0.219823174	0.126201955	0	0	-6733.721162	-6530.880777	0.916701907	0	0	0	0
+236	IGHA2	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae"	0.458010581	0.392971851	0	0	2117681.426	2132276.533	1.026661134	0	0	0	0
+240	INPPL1	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides"	0.30948826	0.256371972	0	0	-20665.78855	-20648.35492	0.49932314	0	0	0	0
+241	INSR	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae,Veillonella"	0.763403139	0.668764395	0	0	-18846105.12	-18845022.29	0.880840139	0	0	0	0
+242	INTS10	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae,Lachnoclostridium"	0.335539546	0.3109299	0	0	-22291.88311	-20865.71107	2.837553646	0	0	0	0
+243	INTS2	"Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Erysipelatoclostridium,Erysipelatoclostridium ramosum"	0.489897326	0.404880213	0	0	450302.3088	450570.3412	0.99275623	0	0	0	0
+247	ITGB3	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.313750568	0.199375662	0	0	-68662.22636	-67917.48014	0.831369666	0	0	0	0
+248	ITLN1	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides salyersiae"	0.649547172	0.636567437	0	0	118565.9896	119729.0301	4.292463679	0	0	0	0
+249	ITPA	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae,Veillonella,Veillonella parvula"	0.965780897	0.946770285	0	0	-54323679.69	-54320617.65	1.638081329	0	0	0	0
+250	ITSN2	"Viruses,Uroviricota,Caudoviricetes,Caudovirales,Siphoviridae,Lughvirus,Faecalibacterium virus Lugh"	0.398526119	0.326349254	0	0	352567.2337	382856.2703	0.911299222	0	0	0	0
+253	KANK4	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides nordii"	0.944719368	0.922607115	0	0	-38456264.83	-38454575.55	1.575645947	0	0	0	0
+255	KIAA0930	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.49465158	0.475934971	0	0	208799.0087	213764.7795	5.563671159	0	0	0	0
+257	KRI1	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.607400846	0.592860137	0	0	20411888.01	21212108.03	3.944681779	0	0	0	0
+258	KRIT1	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae"	0.382554735	0.214160572	0	0	1438601.199	1554992.662	8.163097097	0	0	0	0
+259	KRT13	"Bacteria,Firmicutes,Bacilli,Bacillales"	0.316336032	0.234296356	0	0	4375.244383	4614.747341	0.891816528	0	0	0	0
+260	KRT16	"Fungi,Ascomycota,Sordariomycetes,Magnaporthales,Pyriculariaceae,Pyricularia,Pyricularia pennisetigena"	0.986078669	0.97563767	0	0	-43396645.13	-43383695.37	1	2	0	0	0
+262	KYAT1	"Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Faecalibacillus,Faecalibacillus intestinalis"	0.936367429	0.919013092	0	0	226700459.7	226702794.2	2.747953883	0	0	0	0
+263	L2HGDH	"Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae"	0.211308572	0.182097779	0	0	25913.0344	26559.93835	0.692637924	0	0	0	0
+264	LAD1	"Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanosphaera,Methanosphaera sp900322125"	0.327256672	0.275507186	0	0	178852.0148	187527.7809	0.796165775	0	0	0	0
+269	LPAR1	"Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli"	0.768314453	0.750492487	0	0	-1065.336308	-977.1425905	3.329747842	0	0	0	0
+272	LRRC25	"Bacteria,Actinobacteria,Coriobacteriia"	0.53038091	0.474026619	0	0	-143573.5584	-143406.6797	1.041460627	0	0	0	0
+278	MAPKAP1	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae"	0.717089946	0.669938271	0	0	3445945.794	3492154.267	3.258405033	0	0	0	0
+280	MATN2	"Archaea,Candidatus Thermoplasmatota,Thermoplasmata,Methanomassiliicoccales,Candidatus Methanomethylophilaceae"	0.359397811	0.25263078	0	0	-3847681.489	-3744518.646	5.623131554	0	0	0	0
+282	MBNL2	"Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Erysipelatoclostridium,[Clostridium] innocuum"	0.699277003	0.633902438	0	0	-53392647.42	-53387792.38	5.480700787	0	0	0	0
+283	MCM9	"Viruses,Uroviricota,Caudoviricetes,Caudovirales,Siphoviridae,Lughvirus,Faecalibacterium virus Lugh"	0.50391675	0.30548345	0	0	-2100896348	-2100711459	5.678966345	0	0	0	0
+284	MDN1	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides stercoris"	0.816700056	0.809911169	0	0	-6130.366624	-5572.357002	1.522115808	0	0	0	0
+287	MEX3D	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae,Mediterraneibacter,[Ruminococcus] torques"	0.204956507	0.109551288	0	0	142383.2153	143656.0833	7.394916598	0	0	0	0
+289	MFSD8	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.430136995	0.274719811	0	0	-2684663.82	-2683645.029	1.134464543	0	0	0	0
+290	MICALL2	"Archaea,Euryarchaeota,Halobacteria,Halobacteriales"	0.387358284	0.313841278	0	0	-709117755.6	-709022546	0.847832268	0	0	0	0
+292	MINDY2	"Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Erysipelatoclostridium,[Clostridium] innocuum"	0.653391881	0.489209088	0	0	5319641.9	5325837.64	6.994171185	0	0	0	0
+293	MINPP1	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,Porphyromonas endodontalis"	0.983698385	0.97925249	0	0	42927.55741	43158.43554	0.739604318	0	0	0	0
+294	MLLT3	"Bacteria,Actinobacteria,Actinomycetia,Actinomycetales,Actinomycetaceae,Schaalia"	0.541012553	0.464514646	0	0	-127760.6645	-126911.0782	3.312365013	0	0	0	0
+295	MNT	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae,Coprococcus,Coprococcus catus"	0.198579113	0.102408606	0	0	-315337.9682	-312321.598	6.434124474	0	0	0	0
+296	MOGAT2	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides salyersiae"	0.835081313	0.822395261	0	0	-36223.98283	-35328.30803	3.305690124	0	0	0	0
+297	MORF4L2	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium pseudoperiodonticum"	0.998766136	0.996859256	0	0	12046315.51	12046705.06	1	2	0	0	0
+298	MOXD1	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae"	0.209634673	-0.005919508	0	0	4429249.465	4541314.223	7.882951843	0	0	0	0
+301	MRPL2	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis"	0.452237229	0.360943433	0	0	356.5776398	395.0344271	0.864734952	0	0	0	0
+304	MRVI1	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.72874953	0.669782036	0	0	-1341181.834	-1340547.985	0.707573361	0	0	0	0
+308	MTCL1	"Bacteria,Actinobacteria,Coriobacteriia"	0.245943826	0.21801582	0	0	45162.10086	46406.38403	7.816667923	0	0	0	0
+309	MTERF4	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium gonidiaformans"	0.879177144	0.874702223	0	0	-8650246.123	-8648747.434	2.919440832	0	0	0	0
+310	MTG2	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis"	0.802775294	0.693206013	0	0	6618208.706	6618440.595	5.194274498	0	0	0	0
+313	MYOF	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides ovatus"	0.736858531	0.693001619	0	0	-13699.72054	-13615.90823	0.378775182	0	0	0	0
+314	N4BP2	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides stercoris"	0.694222366	0.643259427	0	0	7307555.432	7309334.744	4.802806281	0	0	0	0
+315	NAGA	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae,Veillonella"	0.411464131	0.340839826	0	0	-175951.3977	-174980.2653	0.789981386	0	0	0	0
+316	NAIP	"Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus anginosus"	0.903221907	0.882183192	0	0	3117952.669	3119265.71	3.084075705	0	0	0	0
+318	NCS1	"Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pasteurianus"	0.938803642	0.918404856	0	0	-118388.3268	-118292.9916	1.039439983	0	0	0	0
+321	NOL4L	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium pseudoperiodonticum"	0.859072903	0.853853381	0	0	165002.9516	165747.5384	1.896830917	0	0	0	0
+323	NTHL1	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium gonidiaformans"	0.984546486	0.978365081	0	0	-890189.7527	-889307.2786	1.721987457	0	0	0	0
+325	OCRL	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.389507652	0.31624857	0	0	-17016163.17	-17015538.38	0.689519363	0	0	0	0
+326	OGFOD2	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis"	0.233443561	0.174477682	0	0	9740.607636	10073.16311	7.332204094	0	0	0	0
+327	ORAI1	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides salyersiae"	0.971039072	0.969966445	0	0	386748.4398	387081.4689	1.229118979	0	0	0	0
+328	ORAI1	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas"	0.971039072	0.969966445	0	0	125583.8789	125774.4965	1.229118979	0	0	0	0
+331	P2RY13	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Alistipes onderdonkii"	0.756110543	0.7154623	0	0	-11306682.59	-11306030.86	3.123424808	0	0	0	0
+333	PDE12	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.76369464	0.651760521	0	0	3121811.548	3122240.589	0.483743328	0	0	0	0
+334	PECAM1	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.463715075	0.347131395	0	0	-897831.1488	-897358.857	0.529157758	0	0	0	0
+335	PEX11A	"Bacteria,Firmicutes,Negativicutes"	0.760371683	0.695018506	0	0	12583.17872	12584.9544	0.003416782	0	0	0	0
+339	PLCG2	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.171339749	0.107596653	0	0	-75930.71065	-75053.97658	0.985679166	0	0	0	0
+341	PLEKHO1	"Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales"	0.311137229	0.228473697	0	0	91309.57178	96912.53935	8.34869462	0	0	0	0
+343	PLS1	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae,Veillonella"	0.435873619	0.368178453	0	0	-1155008.439	-1154227.85	0.636971934	0	0	0	0
+344	PLXDC2	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis"	0.186284658	0.088638816	0	0	-500.7118627	-452.1164264	1.092711463	0	0	0	0
+345	POLE3	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae"	0.277983246	0.251241885	0	0	-5061.004672	-4809.017624	4.684924243	0	0	0	0
+349	PPIE	"Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanosphaera"	0.994532668	0.990432169	0	0	2745808.826	2749630.677	0.475057406	0	0	0	0
+350	PPIF	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis"	0.613875418	0.549521321	0	0	6451.821516	6480.936132	0.641920889	0	0	0	0
+351	PPP1R12A	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.267850657	0.145825767	0	0	-72498.98128	-71879.04685	0.692040679	0	0	0	0
+356	PRAG1	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.970787068	0.959101895	0	0	-671966119.9	-671715887.6	1.233519616	0	0	0	0
+358	PRR14	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides uniformis"	0.923829374	0.907270542	0	0	2054505.618	2055208.053	2.681169882	0	0	0	0
+359	PRRC2A	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium nucleatum"	0.29952239	0.215465077	0	0	102967.5164	103131.6903	0.795113274	0	0	0	0
+362	PSMB8	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae,Mediterraneibacter"	0.316720059	0.264160063	0	0	416.3619599	447.8167918	0.396508634	0	0	0	0
+365	PTMS	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides salyersiae"	0.662776926	0.622310157	0	0	-48294.2003	-48154.08557	0.516059993	0	0	0	0
+368	RAB11FIP4	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola dorei"	0.776093861	0.767801041	0	0	-5499.265002	-5262.014213	2.583559933	0	0	0	0
+369	RAB39A	"Bacteria,Proteobacteria"	0.378158709	0.330324764	0	0	-6595.424699	-6425.261906	8.413647006	0	0	0	0
+370	RAI1	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.949236221	0.932314961	0	0	245521533.1	245713011.3	0.943897202	0	0	0	0
+371	RALY	"Bacteria,Proteobacteria"	0.549193893	0.474059541	0	0	10583.25192	10596.24765	0.641813646	0	0	0	0
+373	RBM10	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae,Mediterraneibacter,[Ruminococcus] torques"	0.640265066	0.62694155	0	0	141975.4877	142091.5271	0.682257516	0	0	0	0
+375	RBM45	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes"	0.893485368	0.885291935	0	0	4421099.93	4421489.124	1.981469334	0	0	0	0
+379	REST	"Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas funiformis"	0.363841542	0.190343781	0	0	-1153314.133	-1147284.585	6.257035274	0	0	0	0
+383	RHBDF2	"Archaea,Candidatus Thermoplasmatota,Thermoplasmata,Methanomassiliicoccales,Methanomassiliicoccaceae,NA,Methanomassiliicoccaceae archaeon UBA71"	0.162158868	0.09770955	0	0	9591648.272	9657991.113	1.448622865	0	0	0	0
+385	RNASEH1	"Viruses,Peploviricota,Herviviricetes,Herpesvirales,Herpesviridae,Lymphocryptovirus,Human gammaherpesvirus 4"	0.999054116	0.998234349	0	0	-78515534.5	-78511519.23	1	2	0	0	0
+386	RNH1	"Archaea,Candidatus Thermoplasmatota,Thermoplasmata,Methanomassiliicoccales,Candidatus Methanomethylophilaceae"	0.212658067	0.118177035	0	0	-338492327.1	-338347927.3	8.045832796	0	0	0	0
+387	RNMT	"Archaea,Euryarchaeota,Halobacteria,Halobacteriales"	0.409730152	0.33889777	0	0	-49717196.07	-49646579.67	0.628832479	0	0	0	0
+388	RP9	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.946465056	0.931864616	0	0	323846996.2	324153679.9	1.511805995	0	0	0	0
+389	RPP25	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Oscillospiraceae,Ruthenibacterium,Ruthenibacterium lactatiformans"	0.802920391	0.795621147	0	0	170879900	170881650.9	3.510383658	0	0	0	0
+390	RPP25	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.802920391	0.795621147	0	0	152018603.7	152730944.6	3.510383658	0	0	0	0
+394	RRBP1	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae"	0.367307519	0.229765675	0	0	655902817.6	656020021.8	8.220101329	0	0	0	0
+401	SAMD4B	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae,Veillonella,Veillonella parvula"	0.52774229	0.510251263	0	0	380404.4111	388027.233	4.07793933	0	0	0	0
+404	SBSN	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae"	0.812580772	0.771837461	0	0	-162584336	-162545026.2	2.740605095	0	0	0	0
+409	SDC2	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium gonidiaformans"	0.448030222	0.427586897	0	0	41067.8073	43816.99472	5.360985955	0	0	0	0
+410	SEC11C	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae"	0.199156476	0.169495605	0	0	232170.3247	246627.3427	1.007916402	0	0	0	0
+411	SENP6	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium varium"	0.759303845	0.663025383	0	0	42693417.26	42696215.41	5.715045705	0	0	0	0
+412	SENP7	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae"	0.794215522	0.738092483	0	0	-129022068	-128979793.3	2.994544732	0	0	0	0
+416	SLC25A15	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium pseudoperiodonticum"	0.845729229	0.840015497	0	0	151218.4882	151987.5158	1.959093721	0	0	0	0
+418	SLC35A1	"Fungi,Ascomycota,Dothideomycetes,Mycosphaerellales,Mycosphaerellaceae,Zymoseptoria,Zymoseptoria tritici"	0.898120783	0.894347478	0	0	65355.50923	66230.0437	2.075896739	0	0	0	0
+420	SLC7A10	"Fungi,Ascomycota,Sordariomycetes,Magnaporthales,Pyriculariaceae,Pyricularia,Pyricularia pennisetigena"	0.186271323	0.123676809	0	0	-252743.3145	-252671.7059	0.005529723	0	0	0	0
+424	SMPDL3A	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium pseudoperiodonticum"	0.955918863	0.943896735	0	0	502332.6236	502811.9065	1.226217665	0	0	0	0
+426	SNX4	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae,Veillonella"	0.477414427	0.437215537	0	0	94839.0905	95482.17027	0.531146037	0	0	0	0
+427	SNX8	"Bacteria,Actinobacteria,Actinomycetia,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium pseudocatenulatum"	0.885147624	0.830743867	0	0	-1144839.063	-1144408.496	0.856861939	0	0	0	0
+428	SP2	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides salyersiae"	0.800198881	0.784829564	0	0	160697.7514	161790.2483	3.983115398	0	0	0	0
+429	SRSF3	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola"	0.285495096	0.23053318	0	0	271.1857295	290.3628338	0.467654416	0	0	0	0
+433	SSH2	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae,Coprococcus,Coprococcus catus"	0.409539709	0.248505084	0	0	730920.7989	734194.5509	6.92550357	0	0	0	0
+434	SST	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae,Veillonella"	0.285272065	0.166150743	0	0	151833.78	161446.0122	7.843717998	0	0	0	0
+435	STEAP4	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium gonidiaformans"	0.988120226	0.972280528	0	0	-100371.1805	-99404.92813	1.884216848	0	0	0	0
+436	STON2	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,Porphyromonas endodontalis"	0.876416388	0.849550385	0	0	-333347.6708	-332840.3516	1.632351008	0	0	0	0
+441	SYNE1	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae,Coprococcus"	0.682825324	0.629962878	0	0	18654.74884	18944.01429	0.975199219	0	0	0	0
+443	TAB3	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis"	0.725089943	0.650114473	0	0	2932409.61	2932711.96	6.666237722	0	0	0	0
+444	TAB3	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium varium"	0.725089943	0.650114473	0	0	-32648034.05	-32644770.19	6.666237722	0	0	0	0
+449	TCHH	"Archaea,Euryarchaeota,Halobacteria"	0.515133303	0.497175277	0	0	25658829.58	25848899.68	1.891623678	0	0	0	0
+450	TCHH	"Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas funiformis"	0.515133303	0.497175277	0	0	19147148.57	19148971.42	1.891623678	0	0	0	0
+452	TCOF1	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium pseudoperiodonticum"	0.920596219	0.911067765	0	0	384779.5152	385422.9318	1.6426846	0	0	0	0
+454	TESK2	"Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis"	0.99655905	0.994332554	0	0	-766056.1826	-766027.4557	0.407934243	0	0	0	0
+455	TFF2	"Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Erysipelatoclostridium,[Clostridium] innocuum"	0.767355462	0.657155418	0	0	-184975.4917	-180721.7875	4.847967045	0	0	0	0
+456	THOC3	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.997252793	0.994505586	0	0	-2023322697	-2023120641	0.991445449	0	0	0	0
+459	TMC4	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.992949677	0.985899355	0	0	52490665.65	52492254.5	1.78015831	0	0	0	0
+460	TMED10	"Archaea,Candidatus Thermoplasmatota,Thermoplasmata,Methanomassiliicoccales,Methanomassiliicoccaceae,NA,Methanomassiliicoccaceae archaeon UBA71"	0.641847064	0.614296839	0	0	-466411.8845	-447271.7339	0.417932957	0	0	0	0
+461	TMEM176A	"Bacteria,Actinobacteria,Actinomycetia,Actinomycetales,Actinomycetaceae,Schaalia"	0.546648244	0.448093515	0	0	128335.8495	129253.4714	3.567917487	0	0	0	0
+462	TMEM186	"Bacteria,Actinobacteria,Actinomycetia,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium pseudocatenulatum"	0.297712529	0.271701882	0	0	168959.6627	173248.9154	8.539048286	0	0	0	0
+463	TMEM243	"Bacteria,Actinobacteria,Actinomycetia,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium pseudocatenulatum"	0.627494773	0.546515375	0	0	6111452.871	6114989.211	6.991459353	0	0	0	0
+464	TNFAIP8L1	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides stercoris"	0.609569691	0.524693537	0	0	-10399658.49	-10397671.51	5.409868803	0	0	0	0
+465	TNIP2	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium mortiferum"	0.46131784	0.37153748	0	0	-46183.77825	-42140.10924	5.538250831	0	0	0	0
+467	TOMM40	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.08133084	0.047306057	0	0	8213594.117	8925094.754	3.507339901	0	0	0	0
+468	TPSAB1	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.248465782	0.158281676	0	0	-158126.4002	-156382.7276	1.978537922	0	0	0	0
+471	TRIM33	"Fungi,Ascomycota,Dothideomycetes,Mycosphaerellales,Mycosphaerellaceae"	0.662155481	0.649642721	0	0	497520.4069	498438.9938	2.188083944	0	0	0	0
+473	TSPAN6	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium pseudoperiodonticum"	0.874089211	0.869425848	0	0	180394.5521	181142.5804	1.909765276	0	0	0	0
+474	TSPYL1	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae"	0.127348835	0.095028421	0	0	-4739.250288	-4455.37221	5.354198197	0	0	0	0
+475	TTC19	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium pseudoperiodonticum"	0.914800971	0.911645451	0	0	329682.9479	330324.4956	1.658094264	0	0	0	0
+481	UBE2K	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides salyersiae"	0.591200547	0.5023311	0	0	37069.00776	37236.42374	0.616613842	0	0	0	0
+485	UGT1A1	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae"	0.405135145	0.333751362	0	0	33629002.49	33694267.04	4.623044042	0	0	0	0
+488	USP39	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,Porphyromonas endodontalis"	0.992856868	0.983332692	0	0	8760917.703	8761156.811	0.778953233	0	0	0	0
+489	UTP23	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae"	0.145883081	0.043389051	0	0	-22138290	-22032641.2	7.365637648	0	0	0	0
+490	UTP3	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium pseudoperiodonticum"	0.831294409	0.825046054	0	0	148860.1059	149699.832	2.128544591	0	0	0	0
+492	VAPA	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium gonidiaformans"	0.87489134	0.805386529	0	0	-212075.4817	-211914.1959	0.314719937	0	0	0	0
+494	VGF	"Bacteria,Actinobacteria,Actinomycetia,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium pseudocatenulatum"	0.776774943	0.715895382	0	0	6919772.466	6921816.274	4.067338175	0	0	0	0
+495	VPS33B	"Bacteria,Firmicutes"	0.728968643	0.578395667	0	0	-422443.4366	-422401.242	1.882423307	0	0	0	0
+496	VSIG1	"Archaea,Euryarchaeota,Halobacteria,Halobacteriales"	0.689611819	0.565456546	0	0	-35473211.09	-34852645.7	5.619944689	0	0	0	0
+497	VWF	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.885897387	0.847863183	0	0	-11556211.29	-11555681.78	0.599487897	0	0	0	0
+499	WWP1	"Viruses,Uroviricota,Caudoviricetes,Caudovirales,Podoviridae,NA,CrAss-like virus sp."	0.99899073	0.998233777	0	0	31158830.01	31162117.88	0.288463862	0	0	0	0
+500	ZADH2	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides xylanisolvens"	0.321117929	0.239652081	0	0	1574156.636	1574602.642	0.738937956	0	0	0	0
+502	ZC3H14	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium pseudoperiodonticum"	0.760966457	0.752113363	0	0	141823.0474	142936.2014	2.835754092	0	0	0	0
+504	ZDHHC17	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium varium"	0.331447468	0.220022046	0	0	-696502.4284	-693369.0943	6.359198336	0	0	0	0
+507	ZFYVE16	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.466762513	0.377889598	0	0	-51287.83531	-50511.34615	0.877528952	0	0	0	0
+511	ZHX2	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides stercoris"	0.493358404	0.408918138	0	0	233559.4679	233898.4079	0.914883319	0	0	0	0
+514	ZWINT	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.136659256	0.07024843	0	0	1784924.289	1792163.308	8.195658705	0	0	0	0
+119	CTU1	"Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanosphaera"	0.322949378	0.297873429	3.88E-301	3.92E-301	421677.3979	468727.8767	5.848391436	0	8.51E-295	1.87E-299	1.23E-300
+439	SURF1	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides"	0.666568933	0.594083918	5.17E-295	5.63E-295	132.2267003	147.1425997	0.433568572	0	1.13E-288	2.48E-293	1.63E-294
+378	RECQL5	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.742184674	0.699215453	7.06E-252	7.06E-252	-41051.65705	-36563.99927	5.027991294	0	1.55E-245	3.35E-250	2.21E-251
+448	TBPL1	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.533181488	0.477163266	3.33E-243	3.40E-243	-51729.44149	-45979.28383	6.518369434	0	7.30E-237	1.58E-241	1.04E-242
+302	MRPL39	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Debaryomycetaceae,Candida,Candida albicans"	0.334672409	0.223784477	3.34E-212	3.34E-212	470750.6286	534099.0369	0.503446164	0	7.32E-206	1.56E-210	1.03E-211
+381	RFT1	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae,Coprococcus,Coprococcus comes"	0.090434086	-0.018713824	1.07E-183	2.96E-183	6601.278447	7561.664626	1.18129473	0	2.34E-177	4.95E-182	3.26E-183
+153	EIF4E3	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,Porphyromonas asaccharolytica"	0.823548733	0.817013501	2.48E-162	2.54E-162	3179.741602	3674.540908	1.999072808	0	5.44E-156	1.14E-160	7.52E-162
+286	MEP1B	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium gonidiaformans"	0.826766765	0.805978777	9.28E-134	9.41E-134	7322.775624	8589.951887	2.472663555	0	2.03E-127	4.21E-132	2.77E-133
+252	KANK3	"Bacteria,Verrucomicrobia,Verrucomicrobiae,Verrucomicrobiales,Akkermansiaceae,Akkermansia,Akkermansia muciniphila"	0.307429774	0.281779025	3.10E-122	3.67E-122	4470.957579	5284.158234	6.901273237	0	6.79E-116	1.40E-120	9.21E-122
+300	MPP7	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae,Blautia,Blautia obeum"	0.390824531	0.368262476	4.02E-114	4.16E-114	4278.74644	5087.25835	0.86101812	0	8.82E-108	1.81E-112	1.19E-113
+124	CYP1B1	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium"	0.484617011	0.422771053	3.57E-89	3.79E-89	-3.254152091	-2.673847265	0.00488581	0	7.81E-83	1.58E-87	1.04E-88
+311	MTIF3	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.654362578	0.641561192	2.97E-88	2.97E-88	4230610.159	5154193.35	4.552829595	0	6.51E-82	1.31E-86	8.64E-88
+312	MYO10	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides ovatus"	0.33956664	0.315106145	1.27E-79	1.44E-79	7545.140678	9291.655017	7.970378649	0	2.77E-73	5.55E-78	3.66E-79
+108	COPB1	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides distasonis"	0.257343916	0.229838135	3.46E-79	3.77E-79	-2229.28884	-1809.188156	0.880323254	0	7.58E-73	1.52E-77	9.99E-79
+399	S100A8	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Peptostreptococcaceae"	0.354206926	0.304530536	7.32E-78	8.35E-78	-12036.32677	-9750.297704	1.285130677	0	1.60E-71	3.21E-76	2.11E-77
+51	BCHE	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae,Blautia,Blautia sp. SC05B48"	0.220716274	0.191853914	2.05E-72	2.28E-72	27092.78818	33714.96014	6.632232419	0	4.48E-66	8.93E-71	5.88E-72
+43	B3GNT3	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,Porphyromonas endodontalis"	0.902358349	0.898741991	2.01E-55	2.01E-55	-1678.183892	-1305.298165	1.19979755	0	4.41E-49	8.66E-54	5.71E-55
+493	VAV3	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.233238554	0.14122718	5.24E-55	5.24E-55	5200720.267	6693025.46	7.356360878	0	1.15E-48	2.25E-53	1.48E-54
+398	S100A8	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola"	0.354206926	0.304530536	1.15E-53	1.25E-53	179.3545682	231.5762892	1.285130677	0	2.52E-47	4.93E-52	3.25E-53
+438	SUPT6H	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium varium"	0.168752128	0.030210817	1.19E-51	1.40E-51	-3253.56012	-2506.876849	1.518684061	0	2.60E-45	5.08E-50	3.35E-51
+472	TRIM33	"Fungi,Ascomycota,Dothideomycetes,Mycosphaerellales,Mycosphaerellaceae,Zymoseptoria,Zymoseptoria tritici"	0.662155481	0.649642721	1.32E-49	1.36E-49	3021.027064	3942.823991	2.188083944	0	2.90E-43	5.66E-48	3.73E-49
+182	FIG4	"Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Erysipelatoclostridium,[Clostridium] innocuum"	0.646096894	0.632989372	1.47E-49	1.48E-49	11723.5894	15302.74389	4.059244356	0	3.22E-43	6.28E-48	4.14E-49
+476	TTC27	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.688806632	0.677280952	5.98E-48	5.98E-48	-3294478.231	-2512197.709	3.856274075	0	1.31E-41	2.55E-46	1.68E-47
+506	ZER1	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,Porphyromonas asaccharolytica"	0.880010741	0.870780798	2.52E-45	2.57E-45	1339.432783	1770.898332	1.71963463	0	5.52E-39	1.07E-43	7.06E-45
+171	FAM160B1	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides merdae"	0.086301318	0.016016804	3.76E-44	4.45E-44	1195.453263	1586.701869	0.648446306	0	8.24E-38	1.60E-42	1.05E-43
+414	SH2D3A	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides salyersiae"	0.405144724	0.383113047	5.45E-43	5.77E-43	4524.422104	6029.321769	5.503722168	0	1.19E-36	2.31E-41	1.52E-42
+160	EPB41L1	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae,Anaerostipes,Anaerostipes hadrus"	0.303623583	0.250056166	5.76E-40	5.93E-40	-3162.822742	-2346.709582	0.609683468	0	1.26E-33	2.44E-38	1.61E-39
+361	PSMA2	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes"	0.249236491	0.124109239	1.64E-38	1.86E-38	-467.5873968	-344.8829304	0.624714329	0	3.59E-32	6.92E-37	4.56E-38
+233	IFT43	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.243649437	0.215636453	4.02E-38	4.09E-38	19203.33986	26078.60079	7.783829953	0	8.80E-32	1.69E-36	1.12E-37
+457	TLE3	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis"	0.294130725	0.209426412	4.64E-38	9.41E-38	-117.6858565	-86.63640875	0.684580185	0	1.02E-31	1.96E-36	1.29E-37
+360	PRUNE1	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae,Veillonella,Veillonella parvula"	0.410607966	0.339880922	9.00E-36	9.09E-36	-4817.698455	-3510.328272	0.701299102	0	1.97E-29	3.79E-34	2.49E-35
+417	SLC25A36	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium gonidiaformans"	0.846050325	0.840348485	1.88E-34	1.89E-34	-3645.766338	-2639.414212	1.963712782	0	4.11E-28	7.88E-33	5.19E-34
+14	ADAM17	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis"	0.335877872	0.284791555	9.82E-31	1.48E-30	111.7743431	157.5791951	1.004998475	0	2.15E-24	4.10E-29	2.70E-30
+100	COA3	"Archaea,Candidatus Thermoplasmatota,Thermoplasmata,Methanomassiliicoccales,Methanomassiliicoccaceae,NA,Methanomassiliicoccaceae archaeon UBA71"	0.217550919	0.188571323	2.02E-30	2.02E-30	-91069.24161	-64474.87345	0.584988004	0	4.42E-24	8.41E-29	5.54E-30
+405	SCAF1	"Bacteria,Actinobacteria,Actinomycetia,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium pseudocatenulatum"	0.476746014	0.413955536	6.26E-27	6.38E-27	-1653.023019	-1143.002179	1.002853113	0	1.37E-20	2.60E-25	1.71E-26
+135	DKK3	"Viruses,Peploviricota,Herviviricetes,Herpesvirales,Herpesviridae,Roseolovirus,Human betaherpesvirus 7"	0.235751295	0.207445787	6.65E-25	6.65E-25	-928450.0315	-631726.1695	6.173688896	0	1.46E-18	2.75E-23	1.81E-24
+33	ARHGEF10L	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis"	0.084930123	-0.024878262	1.33E-23	2.17E-23	-70.29008792	-47.27856286	0.499800461	0	2.91E-17	5.47E-22	3.60E-23
+320	NEK6	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.213023892	0.183876629	1.45E-22	1.49E-22	-22738.33031	-15142.40474	8.584336955	0	3.18E-16	5.97E-21	3.93E-22
+23	ANKHD1-EIF4EBP3	"Bacteria,Actinobacteria,Actinomycetia,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium bifidum"	0.154119022	0.052613304	3.97E-21	6.53E-21	-3703.506906	-2429.312993	4.573515172	0	8.69E-15	1.63E-19	1.07E-20
+148	ECI1	"Fungi,Ascomycota,Sordariomycetes,Sordariales,Chaetomiaceae,Thermothelomyces,Thermothelomyces thermophilus"	0.238970944	0.180430248	2.56E-17	2.56E-17	-106430.4811	-66412.18469	0.562950625	0	5.60E-11	1.04E-15	6.85E-17
+78	CD19	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides uniformis"	0.460919486	0.396229825	3.79E-15	4.03E-15	-3501.194871	-2103.806688	5.410700604	0	8.31E-09	1.53E-13	1.01E-14
+419	SLC39A7	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae,Veillonella,Veillonella parvula"	0.174572009	0.111077548	3.33E-14	3.37E-14	-4538.343392	-2674.517277	0.993964912	0	7.29E-08	1.34E-12	8.84E-14
+332	PCP4L1	"Fungi,Ascomycota,Sordariomycetes,Sordariales,Chaetomiaceae,Thermothelomyces,Thermothelomyces thermophilus"	0.635481896	0.607442042	6.65E-14	6.65E-14	363104.1167	620277.107	3.613214227	0	1.46E-07	2.68E-12	1.77E-13
+402	SAP30BP	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,Porphyromonas endodontalis"	0.579555397	0.563983375	1.43E-13	1.44E-13	-1763.867098	-1024.643247	2.346214126	0	3.14E-07	5.76E-12	3.79E-13
+276	LTA4H	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium varium"	0.173194882	0.109594488	1.48E-13	1.89E-13	404.0595351	695.7991542	0.596354197	0	3.24E-07	5.95E-12	3.92E-13
+397	S100A1	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae"	0.522974312	0.465731229	1.59E-13	1.59E-13	-173427.57	-100635.7112	5.156216017	0	3.49E-07	6.40E-12	4.22E-13
+403	SBDS	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas"	0.2889845	0.20366264	1.99E-13	2.23E-13	-217.708388	-126.0363089	0.58071912	0	4.36E-07	8.01E-12	5.28E-13
+156	EMC6	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.35213338	0.32813832	2.02E-10	2.02E-10	-3064840.095	-1620810.765	7.105988909	0	0.000442655	8.04E-09	5.30E-10
+133	DGKZ	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae,Anaerostipes"	0.504628648	0.486281561	1.54E-09	1.55E-09	-11877.60406	-6058.092602	4.540964118	0	0.003363996	6.09E-08	4.01E-09
+363	PSMC4	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae,Blautia,Blautia massiliensis"	0.046145448	0.010817502	3.38E-09	8.41E-09	-1493.60975	-749.8441185	0.435649014	0	0.007407934	1.34E-07	8.82E-09
+396	RTP4	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae"	0.509154255	0.47139689	5.43E-09	5.43E-09	51930.09404	104483.8971	3.685852805	0	0.011900589	2.15E-07	1.42E-08
+26	ANXA8L1	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae"	0.635980755	0.592298446	5.84E-09	5.84E-09	58799.72521	118490.33	4.217185779	0	0.012786212	2.31E-07	1.52E-08
+142	DRAP1	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae,Veillonella,Veillonella parvula"	0.519885831	0.482953972	7.90E-09	7.93E-09	1568.666287	3182.31859	0.874318214	0	0.01730458	3.12E-07	2.06E-08
+317	NCOA7	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.119764242	0.087162917	1.05E-08	1.27E-08	-6063.511525	-2969.90885	3.436451745	0	0.02290815	4.13E-07	2.72E-08
+16	ADH1A	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Phocaeicola,Phocaeicola dorei"	0.04317921	0.007741403	6.27E-08	1.10E-07	-655.6748823	-306.9815678	3.796964961	0	0.137327075	2.47E-06	1.63E-07
+376	RBM7	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.411421061	0.389621841	1.01E-07	1.01E-07	-1901483.437	-878303.6606	5.043761131	0	0.221353702	3.98E-06	2.62E-07
+183	FIP1L1	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.455021685	0.413100276	1.19E-07	1.19E-07	119789.4467	260590.8949	0.694084742	0	0.260870801	4.69E-06	3.09E-07
+150	EDAR	"Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli"	0.556520161	0.503302581	2.63E-07	3.02E-07	68.05856344	151.7450934	3.159579388	0	0.577214947	1.04E-05	6.82E-07
+217	HERC1	"Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pasteurianus"	0.232160124	0.20372161	5.47E-07	7.68E-07	-538.9633244	-235.806507	3.366192485	0	1	2.15E-05	1.41E-06
+366	PUS7L	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.366112353	0.342635033	6.37E-07	6.37E-07	-1927634.589	-838792.0634	5.367480186	0	1	2.50E-05	1.65E-06
+484	UGP2	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae,Veillonella"	0.274698958	0.187662833	6.76E-07	6.76E-07	616.5368743	1419.908052	0.661272554	0	1	2.65E-05	1.75E-06
+45	BACH1	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium pseudoperiodonticum"	0.376982095	0.353907358	1.03E-06	1.05E-06	-3291.504591	-1406.665238	4.80161866	0	1	4.04E-05	2.66E-06
+245	ISOC2	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.345004127	0.320745021	1.64E-06	1.64E-06	-1988900.074	-834417.3223	5.673688094	0	1	6.42E-05	4.23E-06
+512	ZMYM1	"Bacteria,Actinobacteria,Actinomycetia,Actinomycetales,Actinomycetaceae,Schaalia"	0.300401354	0.246586073	2.49E-06	2.55E-06	903.6616231	2192.331524	5.03037707	0	1	9.74E-05	6.42E-06
+355	PPWD1	"Viruses,Uroviricota,Caudoviricetes,Caudovirales"	0.278717003	0.223233695	3.05E-06	3.05E-06	1936.174579	4739.415728	1.031940328	0	1	0.000119155	7.85E-06
+353	PPP4R3B	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.341905609	0.317531742	3.34E-06	3.34E-06	-2235691.407	-909548.6346	6.525875642	0	1	0.0001306	8.61E-06
+498	WRAP53	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.381259417	0.333663988	3.61E-06	3.61E-06	166666.1056	411115.8784	1.204637293	0	1	0.000141024	9.29E-06
+422	SMG6	"Fungi,Ascomycota,Dothideomycetes,Mycosphaerellales,Mycosphaerellaceae,Zymoseptoria,Zymoseptoria tritici"	0.245586348	0.217645101	4.31E-06	4.31E-06	-3760.070715	-1511.8138	5.3367242	0	1	0.000168195	1.11E-05
+36	ATP2B1	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae,Veillonella,Veillonella parvula"	0.38679356	0.339623833	4.86E-06	4.88E-06	646.5070899	1617.123587	0.519245402	0	1	0.000189437	1.25E-05
+273	LRRC41	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae,Veillonella,Veillonella parvula"	0.325290926	0.300301701	5.12E-06	5.14E-06	-19605.83735	-7818.388084	6.244341845	0	1	0.000199578	1.31E-05
+246	ITGA11	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.290450045	0.264170417	6.71E-06	6.71E-06	-2187967.977	-860881.3282	6.541911365	0	1	0.000261401	1.72E-05
+303	MRPS30	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium gonidiaformans"	0.114318105	0.081515072	8.75E-06	9.54E-06	-3201.773847	-1242.516163	3.823134326	0	1	0.000340939	2.25E-05
+177	FBXL18	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides salyersiae"	0	-0.037037037	1.20E-05	0.002625966	-2453.0967	-935.837898	5.531747367	0	1	0.000466653	3.07E-05
+213	GTF3C5	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides salyersiae"	0	-0.037037037	1.21E-05	0.002651121	-2740.21979	-1044.817079	6.20839574	0	1	0.000471107	3.10E-05
+66	C9orf72	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides salyersiae"	0	-0.037037037	1.32E-05	0.002899173	-2384.828987	-904.7436345	5.419925031	0	1	0.00051506	3.39E-05
+140	DOCK4	"Bacteria,Actinobacteria,Actinomycetia,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium longum"	0.305544202	0.252124525	1.47E-05	1.71E-05	244.0782996	647.3475565	6.075833256	0	1	0.000573418	3.78E-05
+357	PRG3	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides salyersiae"	0.20961829	0.180344893	1.51E-05	1.60E-05	-2848.841961	-1072.472507	6.531286977	0	1	0.000588945	3.88E-05
+41	ATPAF1	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.391009843	0.368454652	1.66E-05	1.70E-05	3997.840244	10678.60864	7.510936857	0	1	0.000647251	4.26E-05
+189	FUCA1	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae,Veillonella"	0.323199874	0.271138326	2.23E-05	2.24E-05	849.8023839	2310.737415	1.192143732	0	1	0.000867863	5.72E-05
+134	DHX37	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.266100223	0.238918749	2.26E-05	2.26E-05	-1956789.708	-719178.439	6.100839938	0	1	0.000876695	5.78E-05
+348	PPIAL4C	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.291190222	0.264938008	2.67E-05	2.67E-05	-1655766.359	-602069.3363	5.194229429	0	1	0.001037543	6.84E-05
+105	COL4A2	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.204626018	0.10918114	3.26E-05	3.31E-05	-1399.182126	-502.1809601	0.99641148	0	1	0.001265014	8.34E-05
+437	SULF2	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides sp. ZJ-18"	0.278149253	0.222622272	3.53E-05	3.56E-05	3962.089563	11099.0405	6.638969079	0	1	0.001370432	9.03E-05
+147	ECHDC3	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides sp. ZJ-18"	0.239272639	0.211097552	3.57E-05	3.59E-05	-11091.85958	-3956.626131	6.679619781	0	1	0.001385256	9.13E-05
+384	RHPN2	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Dipodascaceae,Yarrowia,Yarrowia lipolytica"	0.272575016	0.24563335	3.78E-05	3.78E-05	-18706.644	-6646.992678	0.779427846	0	1	0.001466245	9.66E-05
+408	SCO1	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.054250245	0.019222476	4.08E-05	4.08E-05	-1718148.67	-607283.5751	5.476005603	0	1	0.00158232	0.000104258
+218	HEXD	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides xylanisolvens"	0.32489053	0.272959032	5.02E-05	5.05E-05	2362.47964	6783.773518	7.308335168	0	1	0.001946938	0.000128282
+40	ATP9B	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.250932172	0.223188919	5.06E-05	5.13E-05	-10177.89008	-3542.663157	7.434137092	0	1	0.001960791	0.000129195
+92	CHPT1	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.232414397	0.203985301	5.13E-05	5.13E-05	-2033403.429	-707027.163	6.536321533	0	1	0.001989351	0.000131076
+277	MANBA	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.263428344	0.206768986	5.14E-05	5.14E-05	150060.7062	431609.223	1.387901418	0	1	0.001991622	0.000131226
+430	SRSF7	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis"	0.263561043	0.206911892	6.30E-05	7.62E-05	17.77136969	51.89830259	0.755661311	0	1	0.002440665	0.000160813
+2	AASS	"Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli"	0.42345529	0.402101782	6.48E-05	7.39E-05	-185.6881096	-63.45054588	4.615070902	0	1	0.002508755	0.000165299
+158	ENO1	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae,Lachnoclostridium,[Clostridium] scindens"	0.299462203	0.273516358	6.89E-05	6.89E-05	-1069.99347	-363.8819209	0.42205752	0	1	0.002668293	0.000175811
+440	SVIP	"Bacteria,Actinobacteria,Actinomycetia,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium bifidum"	0.498542554	0.479970056	7.00E-05	7.04E-05	-1964.509827	-667.2453229	4.695654302	0	1	0.002711794	0.000178678
+185	FKBP3	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae"	0.298092472	0.272095897	7.11E-05	7.27E-05	-64.30250521	-21.81508384	0.357448501	0	1	0.00275215	0.000181337
+169	FABP4	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides sp. ZJ-18"	0.204506103	0.175043366	7.48E-05	7.59E-05	-12284.0258	-4150.674543	7.51856861	0	1	0.002896584	0.000190853
+336	PIK3CA	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.158685075	0.127525263	7.61E-05	7.61E-05	-1536634.572	-518533.8654	5.017153685	0	1	0.002944981	0.000194042
+188	FUBP1	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0	-0.037037037	7.80E-05	0.017073011	-1643733.742	-553595.9164	5.373865402	0	1	0.003017677	0.000198832
+486	UHRF2	"Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus anginosus"	0	-0.037037037	8.80E-05	0.019269191	-2437.960016	-813.0970445	3.806709598	0	1	0.003404468	0.000224317
+161	EPN1	"Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus salivarius"	0.302060609	0.248372964	8.98E-05	8.98E-05	536.3714847	1610.93451	0.971057545	0	1	0.003474504	0.000228932
+291	MIEF1	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.258475335	0.231011459	0.000142998	0.000144984	-9298.989015	-2973.798669	7.086770759	0	1	0.005523807	0.000363958
+299	MPO	"Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus salivarius"	0.461947365	0.420558701	0.000148503	0.000149184	-1307.532974	-416.6988366	0.808789046	0	1	0.005735771	0.000377924
+71	CAPN2	"Bacteria,Actinobacteria,Coriobacteriia"	0.256237788	0.228691039	0.00014956	0.000156716	-151.0285154	-48.09992819	0.642602113	0	1	0.005776416	0.000380603
+458	TMA16	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.2383135	0.210102889	0.000152271	0.000152969	-10897.89256	-3465.019799	8.434049182	0	1	0.005880761	0.000387478
+306	MSMO1	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.209142264	0.179851236	0.000157725	0.000159179	-9958.127239	-3155.854091	7.556136286	0	1	0.006090678	0.000401309
+354	PPP6R3	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae,Anaerostipes,Anaerostipes hadrus"	0.121292528	0.053699646	0.000197263	0.000200933	616.2349375	1986.761244	1.008421145	0	1	0.007611343	0.000501504
+81	CD6	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides sp. ZJ-18"	0.108717851	0.075707401	0.000240027	0.000245635	-10098.51367	-3070.642675	6.496649232	0	1	0.009254963	0.000609801
+469	TRIM11	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0	-0.037037037	0.000297159	0.065077875	-2055146.959	-610826.2299	7.117546453	0	1	0.01144881	0.000754351
+342	PLEKHO2	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.263129652	0.206447317	0.000305945	0.000308764	355.7383992	1200.743094	0.943289485	0	1	0.011785937	0.000776564
+256	KIAA1143	"Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Campylobacter"	0.199790856	0.138236307	0.000310441	0.000310441	1166.807515	3944.761869	1.28251091	0	1	0.011958478	0.000787933
+172	FAM207A	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.191693812	0.161756545	0.000331493	0.000331493	-1950839.057	-572806.1426	6.793052431	0	1	0.012765988	0.000841139
+382	RGL2	"Bacteria,Proteobacteria"	0	-0.037037037	0.000357548	0.024401035	-131.8980563	-38.39478596	4.613592863	0	1	0.013765219	0.000906977
+68	CA3	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.203665985	0.174172133	0.000371989	0.000371989	-2023088.719	-586210.7948	7.083130577	0	1	0.01431874	0.000943448
+145	E4F1	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae"	0.152418848	0.087220298	0.000384741	0.000384741	37690.58654	130589.8824	6.563404588	0	1	0.01480732	0.00097564
+89	CHADL	"Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanosphaera,Methanosphaera stadtmanae"	0.113727512	0.045552706	0.000393186	0.000393186	22853.37682	79385.40996	5.564227265	0	1	0.015130904	0.000996961
+166	ETFDH	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae,Veillonella,Veillonella parvula"	0	-0.037037037	0.00040001	0.087602146	763.9374788	2659.105245	1.013847541	0	1	0.015392232	0.00101418
+423	SMIM1	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium gonidiaformans"	0.040895433	0.005373041	0.000411506	0.000487134	-5080.231399	-1454.571713	7.074814159	0	1	0.01583277	0.001043206
+374	RBM3	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Tannerellaceae,Parabacteroides,Parabacteroides distasonis"	0.142355272	0.110590653	0.000412052	0.000425658	-540.7765482	-154.8104818	0.805099897	0	1	0.015853729	0.001044587
+508	ZFYVE27	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Peptostreptococcaceae"	0.265166357	0.208640692	0.000437216	0.000437216	5125.971182	18034.7368	7.236792644	0	1	0.016816966	0.001108054
+268	LIPT2	"Fungi,Ascomycota,Sordariomycetes,Magnaporthales,Pyriculariaceae,Pyricularia,Pyricularia pennisetigena"	0.175767082	0.11236455	0.000437813	0.000437813	42315.00791	148901.9994	8.254137552	0	1	0.016839903	0.001109565
+491	UXS1	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.199220226	0.169561715	0.000445639	0.000445639	-2041515.259	-578901.3921	7.197442392	0	1	0.017139819	0.001129326
+395	RRP1B	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Oscillospiraceae,Ruthenibacterium,Ruthenibacterium lactatiformans"	0.211350941	0.150685629	0.000456332	0.000458425	233.1101477	824.4750522	1.187080039	0	1	0.017549055	0.001156291
+329	OSBPL5	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides ovatus"	0.203602904	0.142341589	0.000470139	0.000490288	67.84690874	240.8535687	0.796052587	0	1	0.018077697	0.001191122
+174	FAR2	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides ovatus"	0.036818262	0.001144864	0.000472025	0.000626506	-2628.614237	-740.0942485	8.61843448	0	1	0.018149678	0.001195865
+445	TACC1	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae,Mediterraneibacter,[Ruminococcus] gnavus"	0.093599341	0.023876213	0.000476947	0.000633038	25.66639549	91.27833533	0.792974912	0	1	0.018338114	0.001208281
+407	SCAP	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis"	0.182604316	0.152330402	0.000488829	0.000648809	-503.461254	-141.1304712	7.949853956	0	1	0.018792837	0.001238242
+509	ZFYVE9	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Saccharomycetaceae"	0.159487774	0.094832988	0.000494451	0.000494451	35427.67559	126565.4249	6.41088692	0	1	0.019007909	0.001252413
+406	SCAMP3	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium gonidiaformans"	0.038885954	-0.035045896	0.000515085	0.000626687	132.9194212	477.3316397	0.671990181	0	1	0.019797554	0.001304442
+192	FUT4	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides ovatus"	0.157353802	0.126144683	0.000533735	0.000559272	-2352.565079	-652.1117748	7.837264619	0	1	0.020511054	0.001351454
+446	TAMM41	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.205064566	0.175622512	0.000568036	0.000568036	-1961162.789	-539214.994	6.997326887	0	1	0.021822472	0.001437862
+155	EMC1	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides salyersiae"	0.143439404	0.111714937	0.000599456	0.000628138	-208.7017283	-56.97279717	0.559515718	0	1	0.023023507	0.001516997
+95	CLCN2	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides ovatus"	0.124749884	0.092333213	0.000610497	0.000639708	-2237.45968	-609.3011257	7.401803805	0	1	0.023445584	0.001544807
+54	BEST2	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium mortiferum"	0.135941748	0.069475728	0.000616591	0.00063396	1761.547373	6477.382491	6.319814018	0	1	0.023678837	0.001560176
+453	TENM3	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium gonidiaformans"	0	-0.037037037	0.000630491	0.138077521	1206.873672	4451.225399	6.301280395	0	1	0.024210129	0.001595182
+130	DDR2	"Viruses,Uroviricota,Caudoviricetes,Caudovirales,Myoviridae,Toutatisvirus,Faecalibacterium virus Toutatis"	0.088921484	0.055177836	0.000728119	0.000728119	-1556896.82	-413755.4313	8.041724745	0	1	0.02794074	0.001840989
+487	USP15	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Peptostreptococcaceae"	0.185725982	0.123089519	0.000776107	0.000776107	396.645498	1506.269871	0.627480715	0	1	0.029772477	0.00196168
+53	BCL7B	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis"	0.17206811	0.141403966	0.000779112	0.000992009	-463.2569085	-121.9207797	7.675245439	0	1	0.029887234	0.001969242
+10	ACAD8	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides salyersiae"	0.066204357	0.031619333	0.000905297	0.001006396	-439.0852029	-113.0036212	1.188855144	0	1	0.034701202	0.002286429
+74	CBL	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.196786272	0.1350006	0.000966331	0.000975237	269.789944	1058.901986	0.876565526	0	1	0.037026926	0.002439669
+352	PPP1R3G	"Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae"	0.114720653	0.081932529	0.000969118	0.007579888	-194.5948703	-49.55712237	7.286873751	0	1	0.037133006	0.002446659
+338	PLAT	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides caccae"	0	-0.037037037	0.001014596	0.176793789	-3801.093188	-961.054685	5.672084206	0	1	0.038866222	0.002560859
+237	IGHV3-9	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.194097955	0.164249731	0.00113172	0.001147438	-12399.28354	-3080.110942	10.47719556	0	1	0.043326547	0.002854745
+307	MT-ND2	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.17702593	0.146545408	0.001138344	0.001154155	-9688.385869	-2404.380577	8.161031193	0	1	0.04357846	0.002871343
+203	GMFG	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae"	0.111999106	0.079110184	0.001143294	0.001277456	-1530.391799	-379.5273953	9.682284206	0	1	0.043767148	0.002883776
+261	KRT17	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales"	0.034198016	-0.001572428	0.001181709	0.001192601	-7334.336616	-1808.900953	1.534204651	0	1	0.045229092	0.002980102
+265	LAMB2	"Bacteria,Actinobacteria,Actinomycetia,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium pseudocatenulatum"	0.104839955	0.03598149	0.001312368	0.001362126	126.6427844	522.7424058	0.783101756	0	1	0.050199869	0.003307622
+87	CEP290	"Fungi,Ascomycota,Sordariomycetes,Sordariales,Chaetomiaceae,Thermothelomyces,Thermothelomyces thermophilus"	0.08773906	0.053951618	0.001313518	0.001313518	-764022.6622	-185068.6856	8.192708921	0	1	0.050243368	0.003310488
+254	KCTD21	"Bacteria,Actinobacteria,Actinomycetia,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium bifidum"	0	-0.037037037	0.001320467	0.289182331	-2111.787144	-511.0676736	5.794057606	0	1	0.050507514	0.003327892
+196	FZD6	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides caccae"	0.092821635	0.059222436	0.001354135	0.001385774	-4859.806018	-1170.942751	7.425641333	0	1	0.051788039	0.003412265
+9	ABO	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium pseudoperiodonticum"	0	-0.037037037	0.001356304	0.297030638	-561.4499971	-135.2401692	1.103933855	0	1	0.051870454	0.003417695
+61	C19orf25	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0	-0.037037037	0.001400165	0.30663622	-1560137.467	-373692.5239	5.846746377	0	1	0.053538209	0.003527582
+176	FBP2	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.120889087	0.088329424	0.001465037	0.001485385	-11027.13566	-2619.919797	9.501195499	0	1	0.056004862	0.003690107
+186	FLCN	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae,Veillonella"	0.152314467	0.087107887	0.001474749	0.001481514	373.478085	1573.835121	0.969951463	0	1	0.056373651	0.003714407
+55	BGN	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides"	0.088949357	0.018868539	0.001485622	0.003536425	11.68436844	49.30356309	1.074672516	0	1	0.056786406	0.003741603
+288	MFGE8	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.159864765	0.095238978	0.00159014	0.001604796	234.2026369	1000.690664	0.8514342	0	1	0.060754851	0.00400308
+483	UBN1	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.178017206	0.147573399	0.001714858	0.001730663	-10733.46256	-2476.445628	9.17210231	0	1	0.065486414	0.004314838
+391	RPS16	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium varium"	0.136121617	0.104126122	0.001772272	0.001805245	-462.870958	-106.1173472	0.72864826	0	1	0.06766121	0.004458133
+392	RPS19BP1	"Bacteria,Actinobacteria,Actinomycetia,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium pseudocatenulatum"	0.057351412	-0.015160018	0.001872082	0.001971087	1226.265707	5406.718231	8.300618109	0	1	0.071444576	0.004707415
+513	ZNF845	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae,Anaerostipes"	0.117966007	0.085298081	0.001898163	0.001915658	-11453.09299	-2590.459776	6.915511675	0	1	0.072433836	0.004772597
+501	ZBTB4	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae"	0.260287884	0.203386952	0.001927548	0.002358286	49.43527672	219.2398566	7.230355605	0	1	0.073546901	0.004845936
+415	SLC16A1	"Bacteria,Firmicutes"	0.077144546	0.042964714	0.001977948	0.01312638	-33.81371288	-7.584833377	1.166280984	0	1	0.075458141	0.004971865
+324	NUDT9	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae,Coprococcus,Coprococcus catus"	0.058283606	-0.014156117	0.002019273	0.002222215	81.56049949	365.1385814	0.604891482	0	1	0.07702295	0.005074969
+49	BBS7	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.134976803	0.068436557	0.00202525	0.002034541	427.4074162	1914.621242	1.68716253	0	1	0.077249342	0.005089886
+337	pk	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.165321979	0.134407978	0.002050492	0.002069391	-8794.771244	-1958.29542	7.59412948	0	1	0.078205154	0.005152864
+271	LRP4	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides stercoris"	0.139560344	0.073372679	0.002164121	0.002225082	923.9720146	4196.474143	8.833296607	0	1	0.082509203	0.005436453
+319	NDRG2	"Archaea,Euryarchaeota,Halobacteria,Halobacteriales"	0.164730586	0.133794682	0.002201551	0.002201551	-126490.1415	-27749.60402	0.866823666	0	1	0.083924888	0.005529731
+442	SYPL1	"Fungi,Ascomycota"	0	-0.037037037	0.002226476	0.166257935	-1202.689539	-263.2170807	2.263255087	0	1	0.084869791	0.00559199
+234	IGF2BP3	"Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli"	0	-0.037037037	0.002342828	0.128269815	-131.1139871	-28.38207806	3.878636236	0	1	0.08927404	0.005882182
+367	QARS	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides salyersiae"	0.059467948	0.024633427	0.002380202	0.002646011	-214.4305801	-46.25730771	0.617107856	0	1	0.090686974	0.005975279
+25	ANXA3	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Peptostreptococcaceae"	0.092212437	0.022382625	0.002406402	0.002428581	373.5236395	1735.677326	0.768774367	0	1	0.091675973	0.006040443
+1	A1BG	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae,Coprococcus,Coprococcus catus"	0.113762932	0.080939336	0.002482846	0.002601643	-631.6147107	-134.9865508	1.058701305	0	1	0.094571005	0.006231194
+91	CHPF2	"Bacteria,Actinobacteria,Actinomycetia,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium pseudocatenulatum"	0.128354125	0.096070944	0.002517621	0.00258854	-5032.94174	-1072.279611	7.882025354	0	1	0.095887278	0.006317922
+85	CDCA7	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.16056833	0.129478268	0.002642615	0.002679318	-9053.980921	-1907.880644	8.057225307	0	1	0.100613333	0.006629317
+372	RBBP8NL	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.178846786	0.148433704	0.002747519	0.002772842	-8455.634164	-1765.825889	7.431207473	0	1	0.104580827	0.006890732
+244	IPO11	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae"	0	-0.037037037	0.002834916	0.277619421	9.547064174	46.05347603	0.690846967	0	1	0.10788164	0.007108219
+98	CLPTM1	"Viruses,Uroviricota,Caudoviricetes,Caudovirales,Myoviridae,Toutatisvirus,Faecalibacterium virus Toutatis"	0.116203291	0.048218928	0.00295695	0.00295695	28851.14377	140580.8523	0.794645858	0	1	0.112490576	0.007411898
+197	GANC	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium varium"	0.100911644	0.067612075	0.003117788	0.00316109	-5150.856368	-1043.527572	8.353923304	0	1	0.118554778	0.007811462
+347	POTEKP	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium gonidiaformans"	0.02857045	-0.007408423	0.003123225	0.003638224	-4961.001535	-1004.631758	7.706995081	0	1	0.118759347	0.007824941
+477	TTPAL	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides salyersiae"	0.141109509	0.10929875	0.00313579	0.003209056	-2668.110967	-539.771608	7.801464645	0	1	0.119232924	0.007856144
+65	C8orf82	"Archaea,Euryarchaeota,Halobacteria,Halobacteriales"	0	-0.037037037	0.003170024	0.210003338	-1218205.011	-245785.3207	8.749962352	0	1	0.120527164	0.007941421
+22	ANAPC13	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae,Anaerostipes"	0.088019257	0.054242193	0.003237456	0.003313098	-13191.80492	-2647.608002	8.262938501	0	1	0.123067628	0.00810881
+330	OTUD6B	"Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Erysipelatoclostridium,[Clostridium] innocuum"	0.108878006	0.075873488	0.003473897	0.003489833	-9191.858083	-1811.884599	8.411343308	0	1	0.131975218	0.008695722
+238	IGHV4-28	"Bacteria,Actinobacteria,Actinomycetia,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium bifidum"	0	-0.037037037	0.003698391	0.809947566	-2841.520777	-550.940835	8.249207579	0	1	0.140435803	0.009253182
+364	PSMD11	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.071548792	0.000129468	0.00382234	0.003911647	112.9515492	587.7636777	0.538246262	0	1	0.1451033	0.009560719
+425	SMURF1	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides ovatus"	0	-0.037037037	0.003880308	0.849787358	-1664.213682	-318.5025969	6.117763781	0	1	0.14728252	0.009704306
+84	CDC5L	"Fungi,Ascomycota"	0	-0.037037037	0.003892033	0.442665099	-219.2423842	-41.92459382	0.42143402	0	1	0.147722531	0.009733298
+223	HNRNPAB	"Bacteria,Actinobacteria,Actinomycetia,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium pseudocatenulatum"	0.105656176	0.072532331	0.004063977	0.004198165	-820.8777803	-155.0999742	1.324949561	0	1	0.154190425	0.010159461
+168	F9	"Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Erysipelatoclostridium,[Clostridium] innocuum"	0	-0.037037037	0.00412574	0.301179025	227.9583305	1211.622143	1.117812803	0	1	0.156511784	0.010312413
+221	HMGXB4	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.133378601	0.101281513	0.004323029	0.004383071	-9152.891111	-1699.191824	8.351157083	0	1	0.163926081	0.010800934
+275	LSR	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.134241658	0.102176534	0.004342578	0.004402892	-9293.533502	-1723.046343	8.482006723	0	1	0.164659294	0.010849245
+480	UBA6	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium varium"	0.122499504	0.054999466	0.004669842	0.004734701	40.16609407	221.3485205	0.369616654	0	1	0.176948624	0.011658977
+413	SERPINA7	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae,Coprococcus,Coprococcus catus"	-2.22E-16	-0.037037037	0.0048707	0.694833454	-553.3716981	-99.13437103	0.960922574	0	1	0.184487403	0.0121557
+377	RBP2	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis"	0.025263361	-0.010837997	0.005108947	0.110817317	-506.2335827	-89.34711274	9.146853397	0	1	0.193414528	0.0127439
+239	IGLL5	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae,Coprococcus,Coprococcus catus"	0.084223514	0.050305867	0.005272512	0.005498477	-468.6806257	-81.89140665	0.815589863	0	1	0.19954406	0.013147769
+505	ZEB2	"Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanosphaera,Methanosphaera stadtmanae"	0.064682786	0.030041408	0.005576471	0.005576471	-81416.68086	-13967.3339	6.691397784	0	1	0.210920982	0.013897384
+270	LRCH1	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis"	0	-0.037037037	0.005712401	0.532391892	5.796307287	34.06044196	0.62013981	0	1	0.216009489	0.014232661
+28	APEH	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae,Veillonella"	0.025138683	-0.049850649	0.006406473	0.006586937	206.6369103	1263.730431	0.854187026	0	1	0.241944034	0.015941463
+99	CNN3	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis"	0	-0.037037037	0.006712832	0.604311963	9.997903427	62.19694939	1.17339557	0	1	0.253383472	0.016695197
+18	AIMP2	"Bacteria,Actinobacteria,Actinomycetia,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium pseudocatenulatum"	0	-0.037037037	0.006961938	0.76233221	-405.8653429	-64.35611064	0.675174792	0	1	0.262681293	0.017307822
+31	ARHGAP18	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium varium"	0	-0.037037037	0.007408232	0.540800913	-375.8646677	-58.18435286	0.649380395	0	1	0.27931346	0.018403699
+44	BABAM1	"Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pasteurianus"	0	-0.037037037	0.007410971	0.687664534	-108.8353035	-16.84539405	1.002966528	0	1	0.279416115	0.018410463
+88	CFHR1	"Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Erysipelatoclostridium,[Clostridium] innocuum"	0	-0.037037037	0.007455525	0.408190019	120.6970176	781.6527332	0.753325936	0	1	0.281076186	0.018519844
+19	ALDH3A2	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium varium"	0	-0.037037037	0.00766442	0.658390114	-410.7593053	-62.73006643	0.709988299	0	1	0.288849729	0.019032035
+163	EPS8L3	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis"	0	-0.037037037	0.007780735	0.425995261	7.179848076	47.30169423	0.871429301	0	1	0.293170856	0.01931675
+322	NQO1	"Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae"	0	-0.037037037	0.007804763	0.747102883	321.2735007	2119.249162	1.376358861	0	1	0.294062543	0.019375503
+470	TRIM14	"Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli"	0	-0.037037037	0.007958321	0.34857447	-117.2738556	-17.63681647	3.761789691	0	1	0.299764977	0.019751231
+215	GULP1	"Bacteria,Firmicutes"	0	-0.037037037	0.008091685	0.937213741	4.637595326	31.05078986	1.176335138	0	1	0.304727968	0.020078237
+72	CASTOR2	"Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium,Fusobacterium gonidiaformans"	0	-0.037037037	0.008206892	0.965248147	-4355.278749	-646.634352	7.2367437	0	1	0.309009209	0.020360324
+50	BCAS1	"Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli"	0	-0.037037037	0.008695344	0.634760094	-231.4321057	-33.51700616	7.472271373	0	1	0.327157919	0.021556126
+285	MED4	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0.213145573	0.184002816	0.009109782	0.009109782	-1687366.815	-239349.3413	7.137997074	0	1	0.342542022	0.02256977
+137	DNAJA1	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae,Mediterraneibacter,[Ruminococcus] gnavus"	0	-0.037037037	0.009145768	0.995707574	9.965929897	70.38375604	0.726651224	0	1	0.343876482	0.022657696
+58	C12orf73	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis"	0.022199651	-0.014015177	0.009209503	0.224097898	-422.6451819	-59.65497948	8.113638095	0	1	0.34623374	0.022813013
+451	TCL1A	"Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae"	0	-0.037037037	0.009283138	0.896436752	-184.2179319	-25.90704718	7.953517274	0	1	0.348965394	0.022992999
+478	TUBGCP5	"Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella pneumoniae"	0	-0.037037037	0.009734108	0.710589885	-215.8853081	-29.69464537	5.588469056	0	1	0.365670728	0.024093698
+109	COX10	"Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella pneumoniae"	0	-0.037037037	0.010035071	0.830601827	32.9965372	243.4302804	6.330181976	0	1	0.376807662	0.0248275
+131	DDX21	"Viruses,Uroviricota,Caudoviricetes,Caudovirales,Siphoviridae,Lughvirus,Faecalibacterium virus Lugh"	0	-0.037037037	0.010079108	0.677661362	4002.042835	29587.93426	0.778632721	0	1	0.378439419	0.024935015
+111	CPSF4	"Fungi,Ascomycota,Saccharomycetes,Saccharomycetales,Pichiaceae,Pichia,Pichia kudriavzevii"	0	-0.037037037	0.010265713	0.562047767	-218421.7337	-29278.39365	0.932089723	0	1	0.385333597	0.025389266
+8	ABL1	"Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli"	3.33E-16	-0.037037037	0.010913088	0.398327714	-101.0358929	-13.13016326	3.318874891	0	1	0.409229709	0.026963758
+35	ASB15	"Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli"	0	-0.037037037	0.011111984	0.649056392	-245.7221989	-31.63299139	8.082923675	0	1	0.4165589	0.027446672
+121	CXCL1	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes"	-2.22E-16	-0.037037037	0.011344901	0.907470172	247.8466787	1946.559648	8.65950612	0	1	0.425152781	0.028012914
+82	CD99	"Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae"	0.270084823	0.182495002	0.01158061	0.011687343	-750.0696512	-94.44931307	0.730059843	0	1	0.433833478	0.028584877
+305	MSH2	"Bacteria,Actinobacteria,Actinomycetia,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium pseudocatenulatum"	0.038589939	0.002982159	0.013165331	0.013664491	-299.4402804	-35.02854734	0.526391126	0	1	0.492128649	0.032425891
+164	ERGIC3	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae,Lachnoclostridium"	0	-0.037037037	0.013305157	0.57214589	-385.3369905	-44.78752347	0.692506616	0	1	0.497257589	0.032763832
+267	LILRB5	"Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli"	0	-0.037037037	0.013522997	0.740384084	-140.7002035	-16.19057039	4.70085294	0	1	0.505245105	0.033290122
+225	HPRT1	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides thetaiotaomicron"	0	-0.037037037	0.015545292	0.972049317	-115.2006139	-12.08608021	0.43725073	0	1	0.57923727	0.038165395
+479	UBA5	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Lachnospiraceae,Mediterraneibacter,[Ruminococcus] gnavus"	0.129439463	0.062473268	0.017260494	0.020656001	-92.91016072	-9.013635087	1.02528289	0	1	0.641677384	0.042279515
+421	SLURP2	"Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus anginosus"	0	-0.037037037	0.020064403	0.81271867	0.22707915	2.664617707	0.005754748	0	1	0.74322839	0.048970615
+157	EML2	"Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides ovatus"	0.150515753	0.119053374	0.027997845	0.028786516	113.750515	1992.364181	8.67458821	0	1	1	0.0676921
+90	CHP1	"Bacteria,Firmicutes,Clostridia,Eubacteriales,Oscillospiraceae,Flavonifractor,Flavonifractor plautii"	0	-0.037037037	0.033328837	0.521358239	37.50566497	911.9165842	1.233633342	0	1	1	0.080095639

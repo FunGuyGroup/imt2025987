@@ -1,0 +1,31 @@
+group	protein	protein.coeff	taxa	taxa_coeff
+A	STX3	0.32735792	Halarcobacter bivalviorum	0.42376555
+A	RBMX2	0.31147166	Halarcobacter	0.41440893
+A	PRKCZ	0.30327071	Arcobacteraceae	0.37549431
+A	GCSH	0.19801303	Candida dubliniensis	0.31783712
+A	SLC43A2	0.1836391	Paracoccus denitrificans	0.27917098
+A	PRAF2	0.17068205	Campylobacterales	0.24975454
+A	SEC61B	0.15910277	Epsilonproteobacteria	0.23676247
+A	MOSPD2	0.15876045	Flavobacteriia	0.21269326
+A	NQO2	0.15791457	Flavobacteriales	0.21269326
+A	GPN1	0.15480804	Debaryomycetaceae	0.17984481
+P	GDPD2	0.17844169	Selenomonadales	0.4818773
+P	EIF1AY	0.17840463	Selenomonadaceae	0.480093
+P	STARD4	0.1783864	Megamonas	0.4722987
+P	MUC4	0.17838626	Megamonas funiformis	0.4714698
+P	FUT11	0.17838009	Negativicutes	0.2986542
+P	F2RL1	0.17833647	Candidatus Methanomethylophilus	0.035473
+P	RPL22L1	0.17831402	Candidatus Methanomethylophilus alvus	0.0291954
+P	CLK3	0.17829548	Candidatus Methanomethylophilaceae	0.0254974
+P	EIF1B	0.17820631		NA
+P	ETFRF1	0.17820629		NA
+T	GLYAT	0.08410147	Comamonadaceae	0.51414455
+T	BTNL9	0.08391449	Burkholderiales	0.25314129
+T	EMG1	0.07913041	Alphaproteobacteria	0.60062324
+T	ASF1A	0.07863487	Betaproteobacteria	0.23811233
+T	ATP7A	0.07800311	Aspergillus	0.35646116
+T	MORC3	0.07766552	Aspergillaceae	0.35646116
+T	CETN2	0.07558522		NA
+T	FGL2	0.07232784		NA
+T	LRRC20	0.07131794		NA
+T	YME1L1	0.07042919		NA
