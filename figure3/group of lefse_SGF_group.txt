@@ -1,0 +1,25 @@
+Taxa	Group
+Bacteria|Streptococcaceae	1
+Bacteria|Streptococcus	1
+Bacteria|Moraxellaceae	1
+Bacteria|Acinetobacter	1
+Bacteria|Comamonadaceae	1
+Fungi|Yarrowia lipolytica	1
+Fungi|Dipodascaceae	1
+Bacteria|Bacteroidaceae	2
+Bacteria|Bacteroides	2
+Bacteria|Phocaeicola	2
+Bacteria|Phocaeicola vulgatus	2
+Viruses|Podoviridae	2
+Bacteria|Oscillospiraceae	3
+Bacteria|Lachnospiraceae	3
+Bacteria|Faecalibacterium	3
+Bacteria|Faecalibacterium prausnitzii	3
+Bacteria|Peptoniphilaceae	3
+Archaea|Methanobacteriaceae	3
+Archaea|Methanobrevibacter_A	3
+Bacteria|Enterobacteriaceae	4
+Bacteria|Escherichia	4
+Bacteria|Escherichia coli	4
+Bacteria|Klebsiella	4
+Bacteria|Klebsiella pneumoniae	4

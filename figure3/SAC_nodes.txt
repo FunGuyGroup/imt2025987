@@ -1,0 +1,321 @@
+Node	Type	Mean_counts
+Candidatus Methanomethylophilus alvus	Archaea|Candidatus Thermoplasmatota	0.001
+Methanomassiliicoccaceae archaeon UBA71	Archaea|Candidatus Thermoplasmatota	0.001
+Methanobrevibacter_A smithii_A	Archaea|Euryarchaeota	
+Methanobrevibacter smithii	Archaea|Euryarchaeota	0.001
+Methanobrevibacter sp. AbM4	Archaea|Euryarchaeota	0.001
+Methanosphaera sp900322125	Archaea|Euryarchaeota	
+Methanosphaera stadtmanae	Archaea|Euryarchaeota	0.001
+Actinomyces sp. oral taxon 169	Bacteria|Actinobacteria	
+Actinomyces sp. oral taxon 414	Bacteria|Actinobacteria	0.001
+Schaalia cardiffensis	Bacteria|Actinobacteria	0.001
+Schaalia turicensis	Bacteria|Actinobacteria	0.001
+Bifidobacterium adolescentis	Bacteria|Actinobacteria	0.001
+Bifidobacterium bifidum	Bacteria|Actinobacteria	0.001
+Bifidobacterium breve	Bacteria|Actinobacteria	0.001
+Bifidobacterium catenulatum	Bacteria|Actinobacteria	0.001
+Bifidobacterium longum	Bacteria|Actinobacteria	
+Bifidobacterium pseudocatenulatum	Bacteria|Actinobacteria	
+Micrococcus luteus	Bacteria|Actinobacteria	0.001
+Rothia mucilaginosa	Bacteria|Actinobacteria	0.001
+Actinoplanes sp. OR16	Bacteria|Actinobacteria	
+Nocardioides sp. S5	Bacteria|Actinobacteria	
+Nocardioides sp. TF02-7	Bacteria|Actinobacteria	
+Cutibacterium acnes	Bacteria|Actinobacteria	
+Lancefieldella parvula	Bacteria|Actinobacteria	0.001
+Collinsella aerofaciens	Bacteria|Actinobacteria	
+Collinsella stercoris	Bacteria|Actinobacteria	0.001
+Eggerthella guodeyinii	Bacteria|Actinobacteria	0.001
+Eggerthella lenta	Bacteria|Actinobacteria	
+Gordonibacter pamelaeae	Bacteria|Actinobacteria	
+Bacteroides cellulosilyticus	Bacteria|Bacteroidetes	
+Bacteroides coprosuis	Bacteria|Bacteroidetes	0.001
+Bacteroides faecis	Bacteria|Bacteroidetes	
+Bacteroides fragilis	Bacteria|Bacteroidetes	
+Bacteroides helcogenes	Bacteria|Bacteroidetes	
+Bacteroides intestinalis	Bacteria|Bacteroidetes	
+Bacteroides luhongzhouii	Bacteria|Bacteroidetes	
+Bacteroides nordii	Bacteria|Bacteroidetes	
+Bacteroides ovatus	Bacteria|Bacteroidetes	
+Bacteroides salyersiae	Bacteria|Bacteroidetes	
+Bacteroides sp. A1C1	Bacteria|Bacteroidetes	
+Bacteroides sp. CACC 737	Bacteria|Bacteroidetes	
+Bacteroides sp. CBA7301	Bacteria|Bacteroidetes	
+Bacteroides sp. HF-162	Bacteria|Bacteroidetes	
+Bacteroides sp. KGMB07931	Bacteria|Bacteroidetes	0.001
+Bacteroides sp. KGMB10229	Bacteria|Bacteroidetes	0.001
+Bacteroides sp. M10	Bacteria|Bacteroidetes	
+Bacteroides sp. PHL 2737	Bacteria|Bacteroidetes	
+Bacteroides sp. ZJ-18	Bacteria|Bacteroidetes	
+Bacteroides xylanisolvens	Bacteria|Bacteroidetes	
+Bacteroides zhangwenhongii	Bacteria|Bacteroidetes	
+Phocaeicola coprophilus	Bacteria|Bacteroidetes	
+Phocaeicola salanitronis	Bacteria|Bacteroidetes	
+Phocaeicola vulgatus	Bacteria|Bacteroidetes	
+Butyricimonas virosa	Bacteria|Bacteroidetes	
+Odoribacter splanchnicus	Bacteria|Bacteroidetes	
+Porphyromonas asaccharolytica	Bacteria|Bacteroidetes	0.001
+Porphyromonas endodontalis	Bacteria|Bacteroidetes	0.001
+Porphyromonas gingivalis	Bacteria|Bacteroidetes	0.001
+Porphyromonas somerae	Bacteria|Bacteroidetes	0.001
+Prevotella dentalis	Bacteria|Bacteroidetes	0.001
+Prevotella intermedia	Bacteria|Bacteroidetes	
+Prevotella nigrescens	Bacteria|Bacteroidetes	
+Prevotella oris	Bacteria|Bacteroidetes	0.001
+Prevotella sp. oral taxon 299	Bacteria|Bacteroidetes	0.001
+Prevotella sp. oral taxon 475	Bacteria|Bacteroidetes	0.001
+Alistipes communis	Bacteria|Bacteroidetes	
+Alistipes dispar	Bacteria|Bacteroidetes	
+Alistipes finegoldii	Bacteria|Bacteroidetes	
+Alistipes onderdonkii	Bacteria|Bacteroidetes	
+Alistipes shahii	Bacteria|Bacteroidetes	
+Parabacteroides goldsteinii	Bacteria|Bacteroidetes	
+Parabacteroides johnsonii	Bacteria|Bacteroidetes	
+Parabacteroides sp. CT06	Bacteria|Bacteroidetes	0.001
+Algibacter sp. L1A34	Bacteria|Bacteroidetes	
+Capnocytophaga sputigena	Bacteria|Bacteroidetes	0.001
+Elizabethkingia sp. JS20170427COW	Bacteria|Bacteroidetes	0.001
+Anoxybacillus flavithermus	Bacteria|Firmicutes	0.001
+Bacillus amyloliquefaciens	Bacteria|Firmicutes	0.001
+Bacillus mycoides	Bacteria|Firmicutes	0.001
+Staphylococcus epidermidis	Bacteria|Firmicutes	
+Gemella haemolysans	Bacteria|Firmicutes	0.001
+Gemella morbillorum	Bacteria|Firmicutes	
+Granulicatella adiacens	Bacteria|Firmicutes	
+Granulicatella elegans	Bacteria|Firmicutes	0.001
+Enterococcus avium	Bacteria|Firmicutes	0.001
+Enterococcus faecalis	Bacteria|Firmicutes	0.001
+Enterococcus faecium	Bacteria|Firmicutes	0.001
+Enterococcus raffinosus	Bacteria|Firmicutes	0.001
+Lactobacillus iners	Bacteria|Firmicutes	0.001
+Limosilactobacillus mucosae	Bacteria|Firmicutes	0.001
+Limosilactobacillus pontis	Bacteria|Firmicutes	0.001
+Paucilactobacillus hokkaidonensis	Bacteria|Firmicutes	0.001
+Streptococcus agalactiae	Bacteria|Firmicutes	0.001
+Streptococcus anginosus	Bacteria|Firmicutes	0.001
+Streptococcus australis	Bacteria|Firmicutes	0.001
+Streptococcus constellatus	Bacteria|Firmicutes	0.001
+Streptococcus cristatus	Bacteria|Firmicutes	0.001
+Streptococcus dysgalactiae	Bacteria|Firmicutes	0.001
+Streptococcus equi	Bacteria|Firmicutes	0.001
+Streptococcus gallolyticus	Bacteria|Firmicutes	0.001
+Streptococcus gordonii	Bacteria|Firmicutes	0.001
+Streptococcus ilei	Bacteria|Firmicutes	0.001
+Streptococcus infantarius	Bacteria|Firmicutes	0.001
+Streptococcus intermedius	Bacteria|Firmicutes	0.001
+Streptococcus koreensis	Bacteria|Firmicutes	0.001
+Streptococcus lutetiensis	Bacteria|Firmicutes	0.001
+Streptococcus milleri	Bacteria|Firmicutes	0.001
+Streptococcus mutans	Bacteria|Firmicutes	0.001
+Streptococcus oralis	Bacteria|Firmicutes	0.001
+Streptococcus pasteurianus	Bacteria|Firmicutes	0.001
+Streptococcus periodonticum	Bacteria|Firmicutes	0.001
+Streptococcus pneumoniae	Bacteria|Firmicutes	0.001
+Streptococcus pyogenes	Bacteria|Firmicutes	0.001
+Streptococcus rubneri	Bacteria|Firmicutes	0.001
+Streptococcus ruminantium	Bacteria|Firmicutes	0.001
+Streptococcus sanguinis	Bacteria|Firmicutes	
+Streptococcus sp. KS 6	Bacteria|Firmicutes	0.001
+Streptococcus sp. LPB0220	Bacteria|Firmicutes	0.001
+Streptococcus sp. NPS 308	Bacteria|Firmicutes	0.001
+Streptococcus sp. NSJ-72	Bacteria|Firmicutes	0.001
+Streptococcus sp. oral taxon 064	Bacteria|Firmicutes	0.001
+Streptococcus sp. oral taxon 431	Bacteria|Firmicutes	0.001
+Streptococcus thermophilus	Bacteria|Firmicutes	0.001
+Streptococcus vestibularis	Bacteria|Firmicutes	0.001
+Clostridium botulinum	Bacteria|Firmicutes	0.001
+Clostridium butyricum	Bacteria|Firmicutes	0.001
+Clostridium formicaceticum	Bacteria|Firmicutes	0.001
+Clostridium perfringens	Bacteria|Firmicutes	0.001
+Clostridium saccharobutylicum	Bacteria|Firmicutes	0.001
+Clostridium sp. C1	Bacteria|Firmicutes	0.001
+Clostridium sp. C5S11	Bacteria|Firmicutes	0.001
+Clostridium sp. M62/1	Bacteria|Firmicutes	
+Clostridium sporogenes	Bacteria|Firmicutes	0.001
+Eubacterium limosum	Bacteria|Firmicutes	0.001
+Eubacterium sp. MSJ-33	Bacteria|Firmicutes	
+Eubacterium sp. NSJ-61	Bacteria|Firmicutes	
+Mogibacterium diversum	Bacteria|Firmicutes	0.001
+Mogibacterium pumilum	Bacteria|Firmicutes	0.001
+Anaerostipes caccae	Bacteria|Firmicutes	
+Blautia hansenii	Bacteria|Firmicutes	
+Blautia massiliensis	Bacteria|Firmicutes	
+Blautia producta	Bacteria|Firmicutes	
+Coprococcus sp. ART55/1	Bacteria|Firmicutes	
+Dorea longicatena	Bacteria|Firmicutes	
+Enterocloster clostridioformis	Bacteria|Firmicutes	
+Lachnoanaerobaculum umeaense	Bacteria|Firmicutes	
+[Clostridium] hylemonae	Bacteria|Firmicutes	
+[Clostridium] scindens	Bacteria|Firmicutes	
+Lachnoclostridium phytofermentans	Bacteria|Firmicutes	0.001
+Lachnoclostridium sp. YL32	Bacteria|Firmicutes	
+Lacrimispora saccharolytica	Bacteria|Firmicutes	
+Roseburia sp. NSJ-69	Bacteria|Firmicutes	
+Sellimonas intestinalis	Bacteria|Firmicutes	
+Anaerotruncus colihominis	Bacteria|Firmicutes	
+Dysosmobacter sp. Marseille-Q4140	Bacteria|Firmicutes	
+Dysosmobacter welbionis	Bacteria|Firmicutes	
+Faecalibacterium duncaniae	Bacteria|Firmicutes	0.001
+Flavonifractor plautii	Bacteria|Firmicutes	
+Oscillibacter sp. NSJ-62	Bacteria|Firmicutes	
+Pusillibacter faecalis	Bacteria|Firmicutes	
+Ruminococcus bicirculans	Bacteria|Firmicutes	
+Ruthenibacterium lactatiformans	Bacteria|Firmicutes	
+Vescimonas coprocola	Bacteria|Firmicutes	
+Vescimonas fastidiosa	Bacteria|Firmicutes	
+Clostridioides difficile	Bacteria|Firmicutes	
+Filifactor alocis	Bacteria|Firmicutes	0.001
+Romboutsia hominis	Bacteria|Firmicutes	0.001
+Flintibacter sp. KGMB00164	Bacteria|Firmicutes	
+Intestinimonas butyriciproducens	Bacteria|Firmicutes	
+Amedibacterium intestinale	Bacteria|Firmicutes	
+[Clostridium] innocuum	Bacteria|Firmicutes	
+Erysipelatoclostridium ramosum	Bacteria|Firmicutes	
+Faecalitalea cylindroides	Bacteria|Firmicutes	
+Longicatena caecimuris	Bacteria|Firmicutes	
+Acidaminococcus intestini	Bacteria|Firmicutes	0.001
+Phascolarctobacterium faecium	Bacteria|Firmicutes	
+Phascolarctobacterium sp. Marseille-Q4147	Bacteria|Firmicutes	
+Megamonas funiformis	Bacteria|Firmicutes	0.001
+Selenomonas sputigena	Bacteria|Firmicutes	0.001
+Dialister pneumosintes	Bacteria|Firmicutes	
+Megasphaera elsdenii	Bacteria|Firmicutes	0.001
+Megasphaera stantonii	Bacteria|Firmicutes	0.001
+Veillonella dispar	Bacteria|Firmicutes	0.001
+Veillonella nakazawae	Bacteria|Firmicutes	0.001
+Veillonella parvula	Bacteria|Firmicutes	0.001
+Veillonella sp. S12025-13	Bacteria|Firmicutes	0.001
+Anaerococcus obesiensis	Bacteria|Firmicutes	0.001
+Anaerococcus vaginalis	Bacteria|Firmicutes	0.001
+Parvimonas micra	Bacteria|Firmicutes	
+Peptoniphilus harei	Bacteria|Firmicutes	0.001
+Fusobacterium canifelinum	Bacteria|Fusobacteria	
+Fusobacterium gastrosuis	Bacteria|Fusobacteria	0.001
+Fusobacterium gonidiaformans	Bacteria|Fusobacteria	0.001
+Fusobacterium hwasookii	Bacteria|Fusobacteria	
+Fusobacterium mortiferum	Bacteria|Fusobacteria	0.001
+Fusobacterium necrophorum	Bacteria|Fusobacteria	0.001
+Fusobacterium nucleatum	Bacteria|Fusobacteria	
+Fusobacterium periodonticum	Bacteria|Fusobacteria	
+Fusobacterium pseudoperiodonticum	Bacteria|Fusobacteria	
+Fusobacterium sp. NSJ-57	Bacteria|Fusobacteria	0.001
+Fusobacterium sp. oral taxon 203	Bacteria|Fusobacteria	
+Fusobacterium ulcerans	Bacteria|Fusobacteria	0.001
+Fusobacterium varium	Bacteria|Fusobacteria	0.001
+Leptotrichia hofstadii	Bacteria|Fusobacteria	0.001
+Leptotrichia sp. oral taxon 212	Bacteria|Fusobacteria	0.001
+Leptotrichia trevisanii	Bacteria|Fusobacteria	0.001
+Leptotrichia wadei	Bacteria|Fusobacteria	0.001
+Methylorubrum populi	Bacteria|Proteobacteria	
+Paracoccus denitrificans	Bacteria|Proteobacteria	
+Paracoccus kondratievae	Bacteria|Proteobacteria	
+Paracoccus pantotrophus	Bacteria|Proteobacteria	
+Paracoccus sp. MA	Bacteria|Proteobacteria	
+Sphingomonas melonis	Bacteria|Proteobacteria	
+Sphingomonas paucimobilis	Bacteria|Proteobacteria	
+Sphingomonas sp. NIC1	Bacteria|Proteobacteria	
+Lautropia mirabilis	Bacteria|Proteobacteria	0.001
+Ralstonia sp. 56D2	Bacteria|Proteobacteria	0.001
+Acidovorax sp. 1608163	Bacteria|Proteobacteria	
+Acidovorax sp. KKS102	Bacteria|Proteobacteria	
+Alicycliphilus denitrificans	Bacteria|Proteobacteria	
+Comamonas aquatica	Bacteria|Proteobacteria	0.001
+Diaphorobacter sp. JS3050	Bacteria|Proteobacteria	
+Diaphorobacter sp. MNS-0	Bacteria|Proteobacteria	
+Sutterella megalosphaeroides	Bacteria|Proteobacteria	0.001
+Sutterella wadsworthensis	Bacteria|Proteobacteria	0.001
+Eikenella corrodens	Bacteria|Proteobacteria	
+Desulfovibrio desulfuricans	Bacteria|Proteobacteria	0.001
+Desulfovibrio piger	Bacteria|Proteobacteria	0.001
+Halarcobacter bivalviorum	Bacteria|Proteobacteria	
+Campylobacter gracilis	Bacteria|Proteobacteria	0.001
+Campylobacter lari	Bacteria|Proteobacteria	0.001
+Campylobacter rectus	Bacteria|Proteobacteria	
+Campylobacter showae	Bacteria|Proteobacteria	
+Aeromonas veronii	Bacteria|Proteobacteria	0.001
+Shewanella algae	Bacteria|Proteobacteria	0.001
+Citrobacter freundii	Bacteria|Proteobacteria	
+Enterobacter cancerogenus	Bacteria|Proteobacteria	0.001
+Enterobacter cloacae	Bacteria|Proteobacteria	0.001
+Enterobacter hormaechei	Bacteria|Proteobacteria	0.001
+Enterobacter kobei	Bacteria|Proteobacteria	
+Enterobacter roggenkampii	Bacteria|Proteobacteria	
+Enterobacter sichuanensis	Bacteria|Proteobacteria	0.001
+Klebsiella michiganensis	Bacteria|Proteobacteria	0.001
+Klebsiella pneumoniae	Bacteria|Proteobacteria	
+Klebsiella quasipneumoniae	Bacteria|Proteobacteria	0.001
+Klebsiella variicola	Bacteria|Proteobacteria	0.001
+Salmonella enterica	Bacteria|Proteobacteria	0.001
+Morganella morganii	Bacteria|Proteobacteria	0.001
+Acinetobacter baumannii	Bacteria|Proteobacteria	
+Acinetobacter baylyi	Bacteria|Proteobacteria	
+Acinetobacter calcoaceticus	Bacteria|Proteobacteria	
+Acinetobacter cumulans	Bacteria|Proteobacteria	
+Acinetobacter defluvii	Bacteria|Proteobacteria	0.001
+Acinetobacter gyllenbergii	Bacteria|Proteobacteria	
+Acinetobacter haemolyticus	Bacteria|Proteobacteria	
+Acinetobacter indicus	Bacteria|Proteobacteria	
+Acinetobacter johnsonii	Bacteria|Proteobacteria	
+Acinetobacter junii	Bacteria|Proteobacteria	
+Acinetobacter lanii	Bacteria|Proteobacteria	
+Acinetobacter larvae	Bacteria|Proteobacteria	
+Acinetobacter nosocomialis	Bacteria|Proteobacteria	
+Acinetobacter piscicola	Bacteria|Proteobacteria	
+Acinetobacter pittii	Bacteria|Proteobacteria	0.001
+Acinetobacter radioresistens	Bacteria|Proteobacteria	
+Acinetobacter seifertii	Bacteria|Proteobacteria	
+Acinetobacter shaoyimingii	Bacteria|Proteobacteria	
+Acinetobacter soli	Bacteria|Proteobacteria	
+Acinetobacter sp. 10FS3-1	Bacteria|Proteobacteria	
+Acinetobacter sp. ACNIH2	Bacteria|Proteobacteria	
+Acinetobacter sp. C16S1	Bacteria|Proteobacteria	
+Acinetobacter sp. CS-2	Bacteria|Proteobacteria	
+Acinetobacter sp. Marseille-Q1620	Bacteria|Proteobacteria	0.001
+Acinetobacter sp. SCLZS86	Bacteria|Proteobacteria	
+Acinetobacter sp. SH20PTE14	Bacteria|Proteobacteria	
+Acinetobacter sp. TGL-Y2	Bacteria|Proteobacteria	
+Acinetobacter sp. TTH0-4	Bacteria|Proteobacteria	
+Acinetobacter tandoii	Bacteria|Proteobacteria	
+Acinetobacter towneri	Bacteria|Proteobacteria	
+Acinetobacter ursingii	Bacteria|Proteobacteria	0.001
+Acinetobacter venetianus	Bacteria|Proteobacteria	
+Acinetobacter wanghuae	Bacteria|Proteobacteria	0.001
+Acinetobacter wuhouensis	Bacteria|Proteobacteria	
+Candidatus Carsonella ruddii	Bacteria|Proteobacteria	0.001
+Aggregatibacter segnis	Bacteria|Proteobacteria	0.001
+Haemophilus influenzae	Bacteria|Proteobacteria	0.001
+Pseudomonas aeruginosa	Bacteria|Proteobacteria	
+Pseudomonas balearica	Bacteria|Proteobacteria	
+Pseudomonas thivervalensis	Bacteria|Proteobacteria	0.001
+Pseudoxanthomonas suwonensis	Bacteria|Proteobacteria	
+Xanthomonas campestris	Bacteria|Proteobacteria	0.001
+Hydrogenophilus thermoluteolus	Bacteria|Proteobacteria	
+Treponema denticola	Bacteria|Spirochaetes	0.001
+Treponema socranskii	Bacteria|Spirochaetes	0.001
+Treponema sp. Marseille-Q4132	Bacteria|Spirochaetes	0.001
+Cloacibacillus porcorum	Bacteria|Synergistetes	0.001
+Fretibacterium fastidiosum	Bacteria|Synergistetes	0.001
+Akkermansia muciniphila	Bacteria|Verrucomicrobia	
+Cercospora beticola	Fungi|Ascomycota	0.001
+Zymoseptoria tritici	Fungi|Ascomycota	
+Aspergillus fumigatus	Fungi|Ascomycota	0.001
+Aspergillus luchuensis	Fungi|Ascomycota	
+Aspergillus oryzae	Fungi|Ascomycota	
+Aspergillus puulaauensis	Fungi|Ascomycota	0.001
+Candida albicans	Fungi|Ascomycota	0.001
+Candida dubliniensis	Fungi|Ascomycota	0.001
+Yarrowia lipolytica	Fungi|Ascomycota	
+Kluyveromyces marxianus	Fungi|Ascomycota	0.001
+[Candida] glabrata	Fungi|Ascomycota	0.001
+Colletotrichum higginsianum	Fungi|Ascomycota	0.001
+Fusarium poae	Fungi|Ascomycota	0.001
+Thermothelomyces thermophilus	Fungi|Ascomycota	0.001
+Human immunodeficiency virus 1	Viruses|Artverviricota	0.001
+Human betaherpesvirus 5	Viruses|Peploviricota	
+Human gammaherpesvirus 4	Viruses|Peploviricota	
+Human betaherpesvirus 6B	Viruses|Peploviricota	
+Human betaherpesvirus 7	Viruses|Peploviricota	
+Faecalibacterium virus Brigit	Viruses|Uroviricota	0.001
+CrAss-like virus sp.	Viruses|Uroviricota	0.001
+uncultured crAssphage	Viruses|Uroviricota	0.001
+Faecalibacterium virus Lugh	Viruses|Uroviricota	0.001

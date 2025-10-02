@@ -1,0 +1,147 @@
+node1	node2	cor_value
+[Clostridium] hylemonae	Yarrowia lipolytica	-0.347196638
+[Clostridium] hylemonae	Aspergillus fumigatus	-0.337220167
+[Clostridium] hylemonae	Aspergillus oryzae	-0.372211104
+[Clostridium] hylemonae	Kluyveromyces marxianus	-0.362682416
+[Clostridium] hylemonae	[Candida] glabrata	-0.326433188
+[Clostridium] innocuum	Aspergillus luchuensis	-0.304648832
+[Clostridium] innocuum	Aspergillus oryzae	-0.315877927
+[Clostridium] innocuum	Cercospora beticola	-0.3215568
+[Clostridium] innocuum	[Candida] glabrata	-0.318978658
+[Clostridium] scindens	Yarrowia lipolytica	-0.328560389
+[Clostridium] scindens	Aspergillus fumigatus	-0.369974011
+[Clostridium] scindens	Aspergillus luchuensis	-0.307352177
+[Clostridium] scindens	Aspergillus oryzae	-0.375593003
+[Clostridium] scindens	Cercospora beticola	-0.350496052
+[Clostridium] scindens	Kluyveromyces marxianus	-0.372097384
+[Clostridium] scindens	[Candida] glabrata	-0.317288558
+Acinetobacter gyllenbergii	Aspergillus oryzae	0.368686752
+Acinetobacter lanii	Aspergillus oryzae	0.338837529
+Acinetobacter larvae	Aspergillus oryzae	0.305712605
+Acinetobacter piscicola	Aspergillus oryzae	0.327834922
+Acinetobacter shaoyimingii	Aspergillus oryzae	0.311626513
+Acinetobacter soli	Aspergillus oryzae	0.304082188
+Acinetobacter sp. 10FS3-1	Aspergillus oryzae	0.301429141
+Acinetobacter sp. ACNIH2	Aspergillus fumigatus	0.300978129
+Acinetobacter sp. ACNIH2	Aspergillus oryzae	0.358191131
+Acinetobacter sp. C16S1	Aspergillus oryzae	0.323153738
+Acinetobacter sp. CS-2	Aspergillus oryzae	0.361510926
+Acinetobacter sp. Marseille-Q1620	Aspergillus oryzae	0.302154977
+Acinetobacter sp. SCLZS86	Aspergillus oryzae	0.360890262
+Acinetobacter sp. TGL-Y2	Aspergillus oryzae	0.309618464
+Acinetobacter sp. TTH0-4	Cercospora beticola	0.317421264
+Acinetobacter tandoii	Aspergillus oryzae	0.313294629
+Acinetobacter towneri	Aspergillus fumigatus	0.300031664
+Acinetobacter towneri	Aspergillus oryzae	0.352631522
+Acinetobacter towneri	Cercospora beticola	0.323652301
+Acinetobacter ursingii	Aspergillus oryzae	0.362643369
+Acinetobacter venetianus	Aspergillus fumigatus	0.303650114
+Acinetobacter venetianus	Aspergillus oryzae	0.349537948
+Acinetobacter wanghuae	Aspergillus oryzae	0.330272228
+Algibacter sp. L1A34	Aspergillus oryzae	0.322723888
+Aspergillus fumigatus	Human gammaherpesvirus 4	0.316355026
+Aspergillus oryzae	Human gammaherpesvirus 4	0.373362791
+Aspergillus oryzae	Human immunodeficiency virus 1	0.303166902
+Aspergillus oryzae	Kluyveromyces marxianus	0.314930173
+Bacteroides fragilis	Aspergillus luchuensis	-0.306871548
+Bacteroides sp. KGMB07931	Zymoseptoria tritici	-0.302784813
+Blautia hansenii	Yarrowia lipolytica	-0.3445772
+Blautia hansenii	Aspergillus fumigatus	-0.345572739
+Blautia hansenii	Aspergillus oryzae	-0.36258315
+Blautia massiliensis	Yarrowia lipolytica	-0.334343886
+Blautia massiliensis	Aspergillus fumigatus	-0.348396654
+Blautia massiliensis	Aspergillus luchuensis	-0.340785467
+Blautia massiliensis	Aspergillus oryzae	-0.393292509
+Blautia massiliensis	Cercospora beticola	-0.333668441
+Blautia massiliensis	Kluyveromyces marxianus	-0.324071318
+Blautia massiliensis	[Candida] glabrata	-0.359275011
+Blautia massiliensis	Fusarium poae	-0.309495541
+Blautia massiliensis	Thermothelomyces thermophilus	-0.302826722
+Blautia producta	Aspergillus fumigatus	-0.326598518
+Blautia producta	Aspergillus oryzae	-0.345578989
+Blautia producta	Cercospora beticola	-0.323513187
+Blautia producta	Kluyveromyces marxianus	-0.304135922
+Blautia producta	[Candida] glabrata	-0.324406274
+Cercospora beticola	Zymoseptoria tritici	0.372941294
+Cercospora beticola	Aspergillus oryzae	0.386547228
+Clostridioides difficile	Yarrowia lipolytica	-0.334253388
+Clostridioides difficile	Aspergillus fumigatus	-0.352088716
+Clostridioides difficile	Aspergillus luchuensis	-0.317640055
+Clostridioides difficile	Aspergillus oryzae	-0.419511726
+Clostridioides difficile	Cercospora beticola	-0.329593786
+Clostridioides difficile	Kluyveromyces marxianus	-0.342932224
+Clostridioides difficile	[Candida] glabrata	-0.345049075
+Clostridioides difficile	Fusarium poae	-0.30097165
+Clostridium sp. M62/1	Yarrowia lipolytica	-0.378025383
+Clostridium sp. M62/1	Aspergillus fumigatus	-0.344440941
+Clostridium sp. M62/1	Aspergillus oryzae	-0.3871883
+Clostridium sp. M62/1	Cercospora beticola	-0.33805339
+Clostridium sp. M62/1	Kluyveromyces marxianus	-0.302974199
+Clostridium sp. M62/1	Thermothelomyces thermophilus	-0.319956701
+Coprococcus sp. ART55/1	Aspergillus oryzae	-0.337011798
+Dorea longicatena	Aspergillus fumigatus	-0.32582764
+Dorea longicatena	Aspergillus oryzae	-0.384737077
+Dorea longicatena	Cercospora beticola	-0.30105653
+Dorea longicatena	[Candida] glabrata	-0.32608501
+Dorea longicatena	Colletotrichum higginsianum	-0.314141676
+Dorea longicatena	Fusarium poae	-0.313371704
+Dorea longicatena	Thermothelomyces thermophilus	-0.32847715
+Dysosmobacter sp. Marseille-Q4140	Aspergillus fumigatus	-0.301515345
+Dysosmobacter sp. Marseille-Q4140	Aspergillus oryzae	-0.335135077
+Dysosmobacter welbionis	Yarrowia lipolytica	-0.353891726
+Dysosmobacter welbionis	Aspergillus fumigatus	-0.335836873
+Dysosmobacter welbionis	Aspergillus oryzae	-0.3929693
+Dysosmobacter welbionis	Cercospora beticola	-0.331028073
+Enterocloster clostridioformis	Zymoseptoria tritici	-0.332092127
+Enterocloster clostridioformis	Aspergillus fumigatus	-0.335584067
+Enterocloster clostridioformis	Aspergillus oryzae	-0.402511371
+Enterocloster clostridioformis	Cercospora beticola	-0.438393412
+Enterocloster clostridioformis	Kluyveromyces marxianus	-0.332297875
+Eubacterium sp. NSJ-61	Yarrowia lipolytica	-0.344598241
+Eubacterium sp. NSJ-61	Aspergillus oryzae	-0.305450951
+Faecalitalea cylindroides	Aspergillus oryzae	-0.315476743
+Faecalitalea cylindroides	Cercospora beticola	-0.313752758
+Flintibacter sp. KGMB00164	Aspergillus oryzae	-0.302067922
+Fusobacterium nucleatum	Zymoseptoria tritici	-0.305193743
+Halarcobacter bivalviorum	Yarrowia lipolytica	0.318735567
+Intestinimonas butyriciproducens	Aspergillus oryzae	-0.332639339
+Lachnoclostridium sp. YL32	Yarrowia lipolytica	-0.319832666
+Lachnoclostridium sp. YL32	Aspergillus fumigatus	-0.377024369
+Lachnoclostridium sp. YL32	Aspergillus oryzae	-0.362217159
+Lachnoclostridium sp. YL32	Cercospora beticola	-0.358159083
+Lachnoclostridium sp. YL32	Kluyveromyces marxianus	-0.320908977
+Lacrimispora saccharolytica	Yarrowia lipolytica	-0.336466877
+Lacrimispora saccharolytica	Aspergillus fumigatus	-0.361456199
+Lacrimispora saccharolytica	Aspergillus luchuensis	-0.314565086
+Lacrimispora saccharolytica	Aspergillus oryzae	-0.394731647
+Lacrimispora saccharolytica	Cercospora beticola	-0.361818405
+Lacrimispora saccharolytica	Kluyveromyces marxianus	-0.333367782
+Longicatena caecimuris	Yarrowia lipolytica	-0.300468188
+Longicatena caecimuris	Thermothelomyces thermophilus	-0.308376968
+Methanobrevibacter sp. AbM4	Aspergillus fumigatus	0.319123004
+Methanobrevibacter sp. AbM4	Aspergillus oryzae	0.327061739
+Methanobrevibacter sp. AbM4	Kluyveromyces marxianus	0.314547397
+Methanobrevibacter_A smithii_A	Yarrowia lipolytica	-0.346461183
+Methanobrevibacter_A smithii_A	Aspergillus fumigatus	-0.350828037
+Methanobrevibacter_A smithii_A	Aspergillus oryzae	-0.416763959
+Methanobrevibacter_A smithii_A	Cercospora beticola	-0.325417969
+Methanobrevibacter_A smithii_A	Kluyveromyces marxianus	-0.32297873
+Methanobrevibacter_A smithii_A	[Candida] glabrata	-0.332077112
+Methanobrevibacter_A smithii_A	Thermothelomyces thermophilus	-0.337942637
+Nocardioides sp. TF02-7	Yarrowia lipolytica	0.313514459
+Nocardioides sp. TF02-7	Aspergillus fumigatus	0.333523716
+Nocardioides sp. TF02-7	Aspergillus oryzae	0.352506043
+Nocardioides sp. TF02-7	Kluyveromyces marxianus	0.309551782
+Nocardioides sp. TF02-7	[Candida] glabrata	0.308377917
+Oscillibacter sp. NSJ-62	Yarrowia lipolytica	-0.328943909
+Oscillibacter sp. NSJ-62	Aspergillus oryzae	-0.375363212
+Oscillibacter sp. NSJ-62	Thermothelomyces thermophilus	-0.315329892
+Pseudomonas thivervalensis	Aspergillus oryzae	0.328259537
+Pusillibacter faecalis	Aspergillus oryzae	-0.306158652
+Roseburia sp. NSJ-69	Aspergillus oryzae	-0.354900274
+Ruthenibacterium lactatiformans	Yarrowia lipolytica	-0.329451552
+Sphingomonas melonis	Aspergillus oryzae	0.304256813
+Sphingomonas sp. NIC1	Aspergillus oryzae	0.320699419
+Vescimonas coprocola	Aspergillus oryzae	-0.374771558
+Vescimonas coprocola	Kluyveromyces marxianus	-0.30711736
+Vescimonas fastidiosa	Aspergillus oryzae	-0.330508558

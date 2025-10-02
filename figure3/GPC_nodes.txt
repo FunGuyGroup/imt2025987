@@ -1,0 +1,756 @@
+Node	Type	Mean_counts
+Acaryochloris	Bacteria|Cyanobacteria	0.001
+Acetobacter	Bacteria|Proteobacteria	0.001
+Achromobacter	Bacteria|Proteobacteria	
+Acidianus	Archaea|Crenarchaeota	0.001
+Acidiphilium	Bacteria|Proteobacteria	0.001
+Acidithiobacillus	Bacteria|Proteobacteria	0.001
+Acidovorax	Bacteria|Proteobacteria	
+Acinetobacter	Bacteria|Proteobacteria	
+Actinomyces	Bacteria|Actinobacteria	
+Actinosynnema	Bacteria|Actinobacteria	0.001
+Aeromicrobium	Bacteria|Actinobacteria	0.001
+Aeromonas	Bacteria|Proteobacteria	
+Agrobacterium	Bacteria|Proteobacteria	0.001
+Agrococcus	Bacteria|Actinobacteria	0.001
+Algibacter	Bacteria|Bacteroidetes	0.001
+Alteromonas	Bacteria|Proteobacteria	0.001
+Alysiella	Bacteria|Proteobacteria	0.001
+Aminobacter	Bacteria|Proteobacteria	0.001
+Amycolatopsis	Bacteria|Actinobacteria	
+Ancylobacter	Bacteria|Proteobacteria	0.001
+Anoxybacillus	Bacteria|Firmicutes	
+Aquihabitans	Bacteria|Actinobacteria	0.001
+Aquirufa	Bacteria|Bacteroidetes	0.001
+Aquitalea	Bacteria|Proteobacteria	0.001
+Arachidicoccus	Bacteria|Bacteroidetes	0.001
+Arcobacter	Bacteria|Proteobacteria	0.001
+Arthrobacter	Bacteria|Actinobacteria	
+Aurantimicrobium	Bacteria|Actinobacteria	0.001
+Avipoxvirus	Viruses|Nucleocytoviricota	0.001
+Azospirillum	Bacteria|Proteobacteria	0.001
+Azotobacter	Bacteria|Proteobacteria	0.001
+Bacillus	Bacteria|Firmicutes	
+Basfia	Bacteria|Proteobacteria	0.001
+Blattabacterium	Bacteria|Bacteroidetes	
+Bordetella	Bacteria|Proteobacteria	
+Bradyrhizobium	Bacteria|Proteobacteria	
+Brevibacillus	Bacteria|Firmicutes	
+Brevundimonas	Bacteria|Proteobacteria	
+Brucella	Bacteria|Proteobacteria	
+Burkholderia	Bacteria|Proteobacteria	
+Buttiauxella	Bacteria|Proteobacteria	0.001
+Caenibius	Bacteria|Proteobacteria	0.001
+Campylobacter	Bacteria|Proteobacteria	
+Candidatus Arthromitus	Bacteria|Firmicutes	0.001
+Candidatus Kinetoplastibacterium	Bacteria|Proteobacteria	0.001
+Candidatus Nitrosocosmicus	Archaea|Thaumarchaeota	
+Candidatus Nitrotoga	Bacteria|Proteobacteria	0.001
+Candidatus Ruthia	Bacteria|Proteobacteria	
+Capnocytophaga	Bacteria|Bacteroidetes	
+Capripoxvirus	Viruses|Nucleocytoviricota	0.001
+Carnobacterium	Bacteria|Firmicutes	
+Caulobacter	Bacteria|Proteobacteria	0.001
+Cellulophaga	Bacteria|Bacteroidetes	0.001
+Chitinophaga	Bacteria|Bacteroidetes	0.001
+Chromobacterium	Bacteria|Proteobacteria	0.001
+Chryseobacterium	Bacteria|Bacteroidetes	
+Citrobacter	Bacteria|Proteobacteria	
+Clostridioides	Bacteria|Firmicutes	
+Clostridium	Bacteria|Firmicutes	
+Cobetia	Bacteria|Proteobacteria	0.001
+Corynebacterium	Bacteria|Actinobacteria	
+Croceicoccus	Bacteria|Proteobacteria	0.001
+Cryobacterium	Bacteria|Actinobacteria	0.001
+Cryptococcus	Fungi|Basidiomycota	0.001
+Cupriavidus	Bacteria|Proteobacteria	
+Dehalobacter	Bacteria|Firmicutes	
+Deinococcus	Bacteria|Deinococcus-Thermus	
+Delftia	Bacteria|Proteobacteria	
+Dermacoccus	Bacteria|Actinobacteria	0.001
+Dolichospermum	Bacteria|Cyanobacteria	0.001
+Ectothiorhodospira	Bacteria|Proteobacteria	0.001
+Edwardsiella	Bacteria|Proteobacteria	0.001
+Elizabethkingia	Bacteria|Bacteroidetes	
+Emaravirus	Viruses|Negarnaviricota	0.001
+Enterobacter	Bacteria|Proteobacteria	
+Enterococcus	Bacteria|Firmicutes	
+Entomomonas	Bacteria|Proteobacteria	0.001
+Eremothecium	Fungi|Ascomycota	0.001
+Erwinia	Bacteria|Proteobacteria	
+Erythrobacter	Bacteria|Proteobacteria	0.001
+Exiguobacterium	Bacteria|Firmicutes	
+Ferroplasma	Archaea|Candidatus Thermoplasmatota	0.001
+Fervidobacterium	Bacteria|Thermotogae	0.001
+Flavobacterium	Bacteria|Bacteroidetes	
+Francisella	Bacteria|Proteobacteria	
+Frankia	Bacteria|Actinobacteria	0.001
+Frondihabitans	Bacteria|Actinobacteria	0.001
+Gemmata	Bacteria|Planctomycetes	0.001
+Geobacillus	Bacteria|Firmicutes	
+Geobacter	Bacteria|Proteobacteria	
+Gloeobacter	Bacteria|Cyanobacteria	0.001
+Gordonia	Bacteria|Actinobacteria	0.001
+Gramella	Bacteria|Bacteroidetes	0.001
+Granulicella	Bacteria|Acidobacteria	0.001
+Haemophilus	Bacteria|Proteobacteria	
+Halobacterium	Archaea|Euryarchaeota	0.001
+Halomicrobium	Archaea|Euryarchaeota	0.001
+Halomonas	Bacteria|Proteobacteria	
+Haloplanus	Archaea|Euryarchaeota	0.001
+Haloprofundus	Archaea|Euryarchaeota	
+Halorientalis	Archaea|Euryarchaeota	
+Halosimplex	Archaea|Euryarchaeota	0.001
+Halothiobacillus	Bacteria|Proteobacteria	0.001
+Helicobacter	Bacteria|Proteobacteria	0.001
+Hydrogenobacter	Bacteria|Aquificae	0.001
+Hydrogenophaga	Bacteria|Proteobacteria	
+Hydrogenovibrio	Bacteria|Proteobacteria	0.001
+Hymenobacter	Bacteria|Bacteroidetes	
+Idiomarina	Bacteria|Proteobacteria	0.001
+Jeotgalibaca	Bacteria|Firmicutes	
+Kaistella	Bacteria|Bacteroidetes	0.001
+Ketogulonicigenium	Bacteria|Proteobacteria	0.001
+Kingella	Bacteria|Proteobacteria	0.001
+Kinneretia	Bacteria|Proteobacteria	0.001
+Klebsiella	Bacteria|Proteobacteria	
+Komagataeibacter	Bacteria|Proteobacteria	0.001
+Kosakonia	Bacteria|Proteobacteria	
+Lacticaseibacillus	Bacteria|Firmicutes	
+Lactiplantibacillus	Bacteria|Firmicutes	0.001
+Lactobacillus	Bacteria|Firmicutes	
+Lactococcus	Bacteria|Firmicutes	
+Leclercia	Bacteria|Proteobacteria	
+Leeuwenhoekiella	Bacteria|Bacteroidetes	0.001
+Legionella	Bacteria|Proteobacteria	0.001
+Leisingera	Bacteria|Proteobacteria	0.001
+Lentilactobacillus	Bacteria|Firmicutes	0.001
+Leptospira	Bacteria|Spirochaetes	
+Leptospirillum	Bacteria|Nitrospirae	
+Leucobacter	Bacteria|Actinobacteria	0.001
+Leuconostoc	Bacteria|Firmicutes	0.001
+Liberibacter	Bacteria|Proteobacteria	0.001
+Lichenihabitans	Bacteria|Proteobacteria	0.001
+Limnohabitans	Bacteria|Proteobacteria	0.001
+Limosilactobacillus	Bacteria|Firmicutes	
+Luteibacter	Bacteria|Proteobacteria	0.001
+Luteimonas	Bacteria|Proteobacteria	0.001
+Lysinibacillus	Bacteria|Firmicutes	
+Lysobacter	Bacteria|Proteobacteria	0.001
+Macrococcus	Bacteria|Firmicutes	
+Malaciobacter	Bacteria|Proteobacteria	0.001
+Mannheimia	Bacteria|Proteobacteria	0.001
+Marinobacter	Bacteria|Proteobacteria	0.001
+Massilia	Bacteria|Proteobacteria	
+Mesoflavibacter	Bacteria|Bacteroidetes	0.001
+Mesorhizobium	Bacteria|Proteobacteria	
+Metabacillus	Bacteria|Firmicutes	
+Methanospirillum	Archaea|Euryarchaeota	0.001
+Methanothrix	Archaea|Euryarchaeota	0.001
+Methylobacterium	Bacteria|Proteobacteria	
+Methylococcus	Bacteria|Proteobacteria	0.001
+Methylocystis	Bacteria|Proteobacteria	0.001
+Methylophaga	Bacteria|Proteobacteria	0.001
+Microbacterium	Bacteria|Actinobacteria	
+Microbulbifer	Bacteria|Proteobacteria	0.001
+Microcella	Bacteria|Actinobacteria	0.001
+Microlunatus	Bacteria|Actinobacteria	0.001
+Micromonospora	Bacteria|Actinobacteria	0.001
+Microvirga	Bacteria|Proteobacteria	0.001
+Moraxella	Bacteria|Proteobacteria	0.001
+Mucilaginibacter	Bacteria|Bacteroidetes	
+Muricauda	Bacteria|Bacteroidetes	0.001
+Mycobacterium	Bacteria|Actinobacteria	0.001
+Mycolicibacter	Bacteria|Actinobacteria	0.001
+Mycolicibacterium	Bacteria|Actinobacteria	
+Mycoplasma	Bacteria|Tenericutes	0.001
+Mycoplasmopsis	Bacteria|Tenericutes	
+Natronorubrum	Archaea|Euryarchaeota	0.001
+Neisseria	Bacteria|Proteobacteria	
+Nitrosococcus	Bacteria|Proteobacteria	
+Nitrosopumilus	Archaea|Thaumarchaeota	0.001
+Nitrososphaera	Archaea|Thaumarchaeota	0.001
+Nitrosospira	Bacteria|Proteobacteria	
+Nocardia	Bacteria|Actinobacteria	
+Nocardioides	Bacteria|Actinobacteria	
+Nostoc	Bacteria|Cyanobacteria	0.001
+Octadecabacter	Bacteria|Proteobacteria	0.001
+Oenococcus	Bacteria|Firmicutes	
+Paenibacillus	Bacteria|Firmicutes	
+Pandoraea	Bacteria|Proteobacteria	0.001
+Pantoea	Bacteria|Proteobacteria	
+Paraburkholderia	Bacteria|Proteobacteria	0.001
+Paracoccus	Bacteria|Proteobacteria	
+Parasphingopyxis	Bacteria|Proteobacteria	0.001
+Pasteurella	Bacteria|Proteobacteria	0.001
+Pectobacterium	Bacteria|Proteobacteria	
+Pediococcus	Bacteria|Firmicutes	0.001
+Phytobacter	Bacteria|Proteobacteria	0.001
+Pirellula	Bacteria|Planctomycetes	0.001
+Planctomyces	Bacteria|Planctomycetes	0.001
+Planococcus	Bacteria|Firmicutes	
+Plantibacter	Bacteria|Actinobacteria	0.001
+Polaribacter	Bacteria|Bacteroidetes	
+Polynucleobacter	Bacteria|Proteobacteria	0.001
+Porphyrobacter	Bacteria|Proteobacteria	0.001
+Priestia	Bacteria|Firmicutes	
+Prochlorococcus	Bacteria|Cyanobacteria	0.001
+Proteus	Bacteria|Proteobacteria	
+Providencia	Bacteria|Proteobacteria	
+Pseudarthrobacter	Bacteria|Actinobacteria	0.001
+Pseudoalteromonas	Bacteria|Proteobacteria	
+Pseudomonas	Bacteria|Proteobacteria	
+Pseudovibrio	Bacteria|Proteobacteria	0.001
+Pseudoxanthomonas	Bacteria|Proteobacteria	
+Psychrobacter	Bacteria|Proteobacteria	0.001
+Raoultella	Bacteria|Proteobacteria	
+Rhizobium	Bacteria|Proteobacteria	
+Rhodobacter	Bacteria|Proteobacteria	0.001
+Rhodococcus	Bacteria|Actinobacteria	
+Rhodoluna	Bacteria|Actinobacteria	0.001
+Roseiflexus	Bacteria|Chloroflexi	0.001
+Roseivivax	Bacteria|Proteobacteria	0.001
+Roseolovirus	Viruses|Peploviricota	0.001
+Rothia	Bacteria|Actinobacteria	
+Ruegeria	Bacteria|Proteobacteria	0.001
+Sepunavirus	Viruses|Uroviricota	0.001
+Serinicoccus	Bacteria|Actinobacteria	0.001
+Serratia	Bacteria|Proteobacteria	
+Shewanella	Bacteria|Proteobacteria	
+Shigella	Bacteria|Proteobacteria	
+Shinella	Bacteria|Proteobacteria	0.001
+Skermanella	Bacteria|Proteobacteria	0.001
+Sphingobacterium	Bacteria|Bacteroidetes	
+Sphingobium	Bacteria|Proteobacteria	0.001
+Sphingomonas	Bacteria|Proteobacteria	
+Sphingosinicella	Bacteria|Proteobacteria	0.001
+Sphingosinithalassobacter	Bacteria|Proteobacteria	0.001
+Spiribacter	Bacteria|Proteobacteria	0.001
+Spiroplasma	Bacteria|Tenericutes	
+Spirosoma	Bacteria|Bacteroidetes	0.001
+Sporosarcina	Bacteria|Firmicutes	
+Staphylococcus	Bacteria|Firmicutes	
+Staphylothermus	Archaea|Crenarchaeota	0.001
+Stappia	Bacteria|Proteobacteria	0.001
+Stenotrophomonas	Bacteria|Proteobacteria	
+Stieleria	Bacteria|Planctomycetes	0.001
+Streptococcus	Bacteria|Firmicutes	
+Streptomyces	Bacteria|Actinobacteria	
+Sulfolobus	Archaea|Crenarchaeota	0.001
+Sulfurimonas	Bacteria|Proteobacteria	
+Sulfurospirillum	Bacteria|Proteobacteria	0.001
+Synechocystis	Bacteria|Cyanobacteria	0.001
+Tardiphaga	Bacteria|Proteobacteria	0.001
+Tetragenococcus	Bacteria|Firmicutes	0.001
+Thalassospira	Bacteria|Proteobacteria	0.001
+Thermoanaerobacter	Bacteria|Firmicutes	
+Thermomonas	Bacteria|Proteobacteria	
+Thermus	Bacteria|Deinococcus-Thermus	0.001
+Thiohalobacter	Bacteria|Proteobacteria	0.001
+Thiomonas	Bacteria|Proteobacteria	0.001
+Tomitella	Bacteria|Actinobacteria	0.001
+Treponema	Bacteria|Spirochaetes	
+Variovorax	Bacteria|Proteobacteria	
+Vibrio	Bacteria|Proteobacteria	
+Virgibacillus	Bacteria|Firmicutes	
+Weissella	Bacteria|Firmicutes	0.001
+Winogradskyella	Bacteria|Bacteroidetes	
+Xanthomonas	Bacteria|Proteobacteria	
+Xylanimonas	Bacteria|Actinobacteria	0.001
+Yersinia	Bacteria|Proteobacteria	
+Candidatus Methanomethylophilus	Archaea|Candidatus Thermoplasmatota	
+Methanomassiliicoccus_A	Archaea|Candidatus Thermoplasmatota	
+Ignicoccus	Archaea|Crenarchaeota	0.001
+Hyperthermus	Archaea|Crenarchaeota	0.001
+Infirmifilum	Archaea|Crenarchaeota	0.001
+Halanaeroarchaeum	Archaea|Euryarchaeota	0.001
+Halopenitus	Archaea|Euryarchaeota	0.001
+Natronococcus	Archaea|Euryarchaeota	
+Methanobrevibacter	Archaea|Euryarchaeota	
+Methanobrevibacter_A	Archaea|Euryarchaeota	
+Methanosphaera	Archaea|Euryarchaeota	
+Candidatus Nitrosocaldus	Archaea|Thaumarchaeota	0.001
+Candidatus Nitrosopelagicus	Archaea|Thaumarchaeota	0.001
+Candidatus Chazhemtobacterium	Bacteria|NA	0.001
+Iamia	Bacteria|Actinobacteria	0.001
+Ilumatobacter	Bacteria|Actinobacteria	0.001
+Actinobaculum	Bacteria|Actinobacteria	0.001
+Actinotignum	Bacteria|Actinobacteria	0.001
+Arcanobacterium	Bacteria|Actinobacteria	0.001
+Mobiluncus	Bacteria|Actinobacteria	0.001
+Schaalia	Bacteria|Actinobacteria	
+Trueperella	Bacteria|Actinobacteria	0.001
+Bifidobacterium	Bacteria|Actinobacteria	
+Gardnerella	Bacteria|Actinobacteria	0.001
+Lawsonella	Bacteria|Actinobacteria	0.001
+Miniimonas	Bacteria|Actinobacteria	0.001
+Paraoerskovia	Bacteria|Actinobacteria	0.001
+Allobranchiibius	Bacteria|Actinobacteria	0.001
+Gephyromycinifex	Bacteria|Actinobacteria	0.001
+Arsenicicoccus	Bacteria|Actinobacteria	0.001
+Kytococcus	Bacteria|Actinobacteria	0.001
+Herbiconiux	Bacteria|Actinobacteria	0.001
+Micrococcus	Bacteria|Actinobacteria	0.001
+Pengzhenrongella	Bacteria|Actinobacteria	0.001
+Actinoplanes	Bacteria|Actinobacteria	
+Pimelobacter	Bacteria|Actinobacteria	0.001
+Arachnia	Bacteria|Actinobacteria	0.001
+Brevilactibacter	Bacteria|Actinobacteria	0.001
+Cutibacterium	Bacteria|Actinobacteria	
+Vaginimicrobium	Bacteria|Actinobacteria	0.001
+Alloactinosynnema	Bacteria|Actinobacteria	0.001
+Allokutzneria	Bacteria|Actinobacteria	0.001
+Allosaccharopolyspora	Bacteria|Actinobacteria	0.001
+Saccharothrix	Bacteria|Actinobacteria	0.001
+Actinomadura	Bacteria|Actinobacteria	0.001
+Atopobium	Bacteria|Actinobacteria	
+Lancefieldella	Bacteria|Actinobacteria	
+Olsenella	Bacteria|Actinobacteria	
+Parafannyhessea	Bacteria|Actinobacteria	
+Parolsenella	Bacteria|Actinobacteria	
+Thermophilibacter	Bacteria|Actinobacteria	
+Collinsella	Bacteria|Actinobacteria	
+Adlercreutzia	Bacteria|Actinobacteria	
+Arabiibacter	Bacteria|Actinobacteria	
+Berryella	Bacteria|Actinobacteria	
+Denitrobacterium	Bacteria|Actinobacteria	
+Eggerthella	Bacteria|Actinobacteria	
+Gordonibacter	Bacteria|Actinobacteria	
+Raoultibacter	Bacteria|Actinobacteria	
+Slackia	Bacteria|Actinobacteria	
+Sulfurihydrogenibium	Bacteria|Aquificae	0.001
+Bacteroides	Bacteria|Bacteroidetes	
+Phocaeicola	Bacteria|Bacteroidetes	
+Barnesiella	Bacteria|Bacteroidetes	
+Coprobacter	Bacteria|Bacteroidetes	
+Petrimonas	Bacteria|Bacteroidetes	0.001
+Duncaniella	Bacteria|Bacteroidetes	
+Muribaculum	Bacteria|Bacteroidetes	
+Butyricimonas	Bacteria|Bacteroidetes	
+Odoribacter	Bacteria|Bacteroidetes	
+Porphyromonas	Bacteria|Bacteroidetes	
+Paraprevotella	Bacteria|Bacteroidetes	
+Prevotella	Bacteria|Bacteroidetes	
+Pseudoprevotella	Bacteria|Bacteroidetes	0.001
+Alistipes	Bacteria|Bacteroidetes	
+Parabacteroides	Bacteria|Bacteroidetes	
+Tannerella	Bacteria|Bacteroidetes	
+Tenuifilum	Bacteria|Bacteroidetes	0.001
+Pseudobacter	Bacteria|Bacteroidetes	0.001
+Belliella	Bacteria|Bacteroidetes	0.001
+Echinicola	Bacteria|Bacteroidetes	
+Flammeovirga	Bacteria|Bacteroidetes	0.001
+Chryseolinea	Bacteria|Bacteroidetes	0.001
+Fulvivirga	Bacteria|Bacteroidetes	0.001
+Larkinella	Bacteria|Bacteroidetes	0.001
+Fluviicola	Bacteria|Bacteroidetes	0.001
+Aquimarina	Bacteria|Bacteroidetes	0.001
+Oceanihabitans	Bacteria|Bacteroidetes	0.001
+Siansivirga	Bacteria|Bacteroidetes	0.001
+Bergeyella	Bacteria|Bacteroidetes	0.001
+Cloacibacterium	Bacteria|Bacteroidetes	0.001
+Cruoricaptor	Bacteria|Bacteroidetes	0.001
+Empedobacter	Bacteria|Bacteroidetes	0.001
+Riemerella	Bacteria|Bacteroidetes	0.001
+Pedobacter	Bacteria|Bacteroidetes	
+Rhodocaloribacter	Bacteria|Bacteroidetes	0.001
+Candidatus Nanosynbacter	Bacteria|Candidatus Saccharibacteria	
+Candidatus Promineofilum	Bacteria|Chloroflexi	0.001
+Dehalococcoides	Bacteria|Chloroflexi	0.001
+Chroococcidiopsis	Bacteria|Cyanobacteria	0.001
+Richelia	Bacteria|Cyanobacteria	0.001
+Geitlerinema	Bacteria|Cyanobacteria	0.001
+Thermoleptolyngbya	Bacteria|Cyanobacteria	0.001
+Parasynechococcus	Bacteria|Cyanobacteria	0.001
+Alkalihalobacillus	Bacteria|Firmicutes	
+Cytobacillus	Bacteria|Firmicutes	
+Evansella	Bacteria|Firmicutes	0.001
+Fictibacillus	Bacteria|Firmicutes	0.001
+Gracilibacillus	Bacteria|Firmicutes	0.001
+Halobacillus	Bacteria|Firmicutes	
+Mesobacillus	Bacteria|Firmicutes	0.001
+Neobacillus	Bacteria|Firmicutes	0.001
+Oceanobacillus	Bacteria|Firmicutes	0.001
+Parageobacillus	Bacteria|Firmicutes	
+Peribacillus	Bacteria|Firmicutes	
+Psychrobacillus	Bacteria|Firmicutes	0.001
+Rossellomorea	Bacteria|Firmicutes	0.001
+Salicibibacter	Bacteria|Firmicutes	0.001
+Sutcliffiella	Bacteria|Firmicutes	
+Listeria	Bacteria|Firmicutes	
+Cohnella	Bacteria|Firmicutes	
+Paenisporosarcina	Bacteria|Firmicutes	0.001
+Solibacillus	Bacteria|Firmicutes	0.001
+Ureibacillus	Bacteria|Firmicutes	0.001
+Viridibacillus	Bacteria|Firmicutes	0.001
+Jeotgalicoccus	Bacteria|Firmicutes	0.001
+Mammaliicoccus	Bacteria|Firmicutes	0.001
+Nosocomiicoccus	Bacteria|Firmicutes	0.001
+Gemella	Bacteria|Firmicutes	
+Aerococcus	Bacteria|Firmicutes	
+Dolosigranulum	Bacteria|Firmicutes	0.001
+Granulicatella	Bacteria|Firmicutes	
+Vagococcus	Bacteria|Firmicutes	
+Companilactobacillus	Bacteria|Firmicutes	
+Furfurilactobacillus	Bacteria|Firmicutes	0.001
+Ligilactobacillus	Bacteria|Firmicutes	
+Christensenella	Bacteria|Firmicutes	
+Alkaliphilus	Bacteria|Firmicutes	
+Caloramator	Bacteria|Firmicutes	0.001
+Crassaminicella	Bacteria|Firmicutes	
+Geosporobacter	Bacteria|Firmicutes	
+Hathewaya	Bacteria|Firmicutes	0.001
+Hungatella	Bacteria|Firmicutes	
+Paraclostridium	Bacteria|Firmicutes	
+Sarcina	Bacteria|Firmicutes	
+Serpentinicella	Bacteria|Firmicutes	0.001
+Desulfitobacterium	Bacteria|Firmicutes	
+Desulfosporosinus	Bacteria|Firmicutes	
+Syntrophobotulus	Bacteria|Firmicutes	0.001
+Acetobacterium	Bacteria|Firmicutes	
+Eubacterium	Bacteria|Firmicutes	
+Aminipila	Bacteria|Firmicutes	
+Emergencia	Bacteria|Firmicutes	
+Mogibacterium	Bacteria|Firmicutes	
+Anaerobutyricum	Bacteria|Firmicutes	
+Anaerocolumna	Bacteria|Firmicutes	
+Anaerostipes	Bacteria|Firmicutes	
+Anaerotignum	Bacteria|Firmicutes	
+Blautia	Bacteria|Firmicutes	
+Butyrivibrio	Bacteria|Firmicutes	
+Cellulosilyticum	Bacteria|Firmicutes	
+Coprococcus	Bacteria|Firmicutes	
+Dorea	Bacteria|Firmicutes	
+Enterocloster	Bacteria|Firmicutes	
+Faecalicatena	Bacteria|Firmicutes	
+Herbinix	Bacteria|Firmicutes	
+Lachnoanaerobaculum	Bacteria|Firmicutes	
+Lachnoclostridium	Bacteria|Firmicutes	
+Lachnospira	Bacteria|Firmicutes	
+Lacrimispora	Bacteria|Firmicutes	
+Mediterraneibacter	Bacteria|Firmicutes	
+Novisyntrophococcus	Bacteria|Firmicutes	
+Pseudobutyrivibrio	Bacteria|Firmicutes	
+Roseburia	Bacteria|Firmicutes	
+Sellimonas	Bacteria|Firmicutes	
+Acetivibrio	Bacteria|Firmicutes	
+Acutalibacter	Bacteria|Firmicutes	
+Anaerotruncus	Bacteria|Firmicutes	
+Caproicibacter	Bacteria|Firmicutes	
+Caproicibacterium	Bacteria|Firmicutes	
+Caproiciproducens	Bacteria|Firmicutes	
+Dysosmobacter	Bacteria|Firmicutes	
+Ethanoligenens	Bacteria|Firmicutes	
+Faecalibacterium	Bacteria|Firmicutes	
+Fastidiosipila	Bacteria|Firmicutes	0.001
+Flavonifractor	Bacteria|Firmicutes	
+Mageeibacillus	Bacteria|Firmicutes	
+Monoglobus	Bacteria|Firmicutes	
+Oscillibacter	Bacteria|Firmicutes	
+Pseudoclostridium	Bacteria|Firmicutes	0.001
+Pusillibacter	Bacteria|Firmicutes	
+Ruminiclostridium	Bacteria|Firmicutes	
+Ruminococcus	Bacteria|Firmicutes	
+Ruthenibacterium	Bacteria|Firmicutes	
+Solibaculum	Bacteria|Firmicutes	
+Vescimonas	Bacteria|Firmicutes	
+Acetoanaerobium	Bacteria|Firmicutes	
+Filifactor	Bacteria|Firmicutes	
+Paeniclostridium	Bacteria|Firmicutes	
+Peptacetobacter	Bacteria|Firmicutes	
+Peptoclostridium	Bacteria|Firmicutes	
+Romboutsia	Bacteria|Firmicutes	
+Terrisporobacter	Bacteria|Firmicutes	
+Alkalicella	Bacteria|Firmicutes	0.001
+Caloranaerobacter	Bacteria|Firmicutes	0.001
+Petrocella	Bacteria|Firmicutes	
+Vallitalea	Bacteria|Firmicutes	
+Flintibacter	Bacteria|Firmicutes	
+Intestinimonas	Bacteria|Firmicutes	
+Massilistercora	Bacteria|Firmicutes	
+Halanaerobium	Bacteria|Firmicutes	0.001
+Iocasia	Bacteria|Firmicutes	
+Acetohalobium	Bacteria|Firmicutes	0.001
+Anoxybacter	Bacteria|Firmicutes	0.001
+Thermacetogenium	Bacteria|Firmicutes	0.001
+Caldicellulosiruptor	Bacteria|Firmicutes	
+Thermoanaerobacterium	Bacteria|Firmicutes	
+Allobaculum	Bacteria|Firmicutes	
+Amedibacterium	Bacteria|Firmicutes	
+Bulleidia	Bacteria|Firmicutes	
+Erysipelatoclostridium	Bacteria|Firmicutes	
+Erysipelothrix	Bacteria|Firmicutes	
+Faecalibacillus	Bacteria|Firmicutes	
+Faecalibaculum	Bacteria|Firmicutes	
+Faecalitalea	Bacteria|Firmicutes	
+Intestinibaculum	Bacteria|Firmicutes	
+Longicatena	Bacteria|Firmicutes	
+Turicibacter	Bacteria|Firmicutes	
+Acidaminococcus	Bacteria|Firmicutes	
+Phascolarctobacterium	Bacteria|Firmicutes	
+Megamonas	Bacteria|Firmicutes	
+Selenomonas	Bacteria|Firmicutes	
+Pelosinus	Bacteria|Firmicutes	0.001
+Dialister	Bacteria|Firmicutes	
+Megasphaera	Bacteria|Firmicutes	
+Veillonella	Bacteria|Firmicutes	
+Ezakiella	Bacteria|Firmicutes	
+Sedimentibacter	Bacteria|Firmicutes	0.001
+Gottschalkia	Bacteria|Firmicutes	0.001
+Anaerococcus	Bacteria|Firmicutes	
+Finegoldia	Bacteria|Firmicutes	
+Helcococcus	Bacteria|Firmicutes	
+Murdochiella	Bacteria|Firmicutes	
+Parvimonas	Bacteria|Firmicutes	
+Peptoniphilus	Bacteria|Firmicutes	
+Gudongella	Bacteria|Firmicutes	
+Schnuerera	Bacteria|Firmicutes	0.001
+Tissierella	Bacteria|Firmicutes	0.001
+Ndongobacter	Bacteria|Firmicutes	0.001
+Cetobacterium	Bacteria|Fusobacteria	0.001
+Fusobacterium	Bacteria|Fusobacteria	
+Leptotrichia	Bacteria|Fusobacteria	
+Pseudoleptotrichia	Bacteria|Fusobacteria	0.001
+Sebaldella	Bacteria|Fusobacteria	0.001
+Sneathia	Bacteria|Fusobacteria	0.001
+Streptobacillus	Bacteria|Fusobacteria	0.001
+Melioribacter	Bacteria|Ignavibacteriae	0.001
+Tuwongella	Bacteria|Planctomycetes	0.001
+Urbifossiella	Bacteria|Planctomycetes	0.001
+Tautonia	Bacteria|Planctomycetes	0.001
+Botrimarina	Bacteria|Planctomycetes	0.001
+Pirellulimonas	Bacteria|Planctomycetes	0.001
+Caulifigura	Bacteria|Planctomycetes	0.001
+Acuticoccus	Bacteria|Proteobacteria	0.001
+Bosea	Bacteria|Proteobacteria	0.001
+Chelatococcus	Bacteria|Proteobacteria	0.001
+Methylorubrum	Bacteria|Proteobacteria	
+Kaustia	Bacteria|Proteobacteria	0.001
+Phreatobacter	Bacteria|Proteobacteria	0.001
+Hartmannibacter	Bacteria|Proteobacteria	0.001
+Georhizobium	Bacteria|Proteobacteria	0.001
+Starkeya	Bacteria|Proteobacteria	0.001
+Terrihabitans	Bacteria|Proteobacteria	0.001
+Marinicauda	Bacteria|Proteobacteria	0.001
+Cereibacter	Bacteria|Proteobacteria	0.001
+Gymnodinialimonas	Bacteria|Proteobacteria	0.001
+Pseudopuniceibacterium	Bacteria|Proteobacteria	0.001
+Qingshengfaniella	Bacteria|Proteobacteria	0.001
+Silicimonas	Bacteria|Proteobacteria	0.001
+Tabrizicola	Bacteria|Proteobacteria	0.001
+Tritonibacter	Bacteria|Proteobacteria	0.001
+Actibacterium	Bacteria|Proteobacteria	0.001
+Antarctobacter	Bacteria|Proteobacteria	0.001
+Maribius	Bacteria|Proteobacteria	0.001
+Sagittula	Bacteria|Proteobacteria	0.001
+Kozakia	Bacteria|Proteobacteria	0.001
+Roseococcus	Bacteria|Proteobacteria	0.001
+Nitrospirillum	Bacteria|Proteobacteria	0.001
+Stella	Bacteria|Proteobacteria	0.001
+Allosphingosinicella	Bacteria|Proteobacteria	0.001
+Hankyongella	Bacteria|Proteobacteria	0.001
+Castellaniella	Bacteria|Proteobacteria	
+Lautropia	Bacteria|Proteobacteria	0.001
+Ralstonia	Bacteria|Proteobacteria	
+Alicycliphilus	Bacteria|Proteobacteria	
+Candidatus Symbiobacter	Bacteria|Proteobacteria	0.001
+Comamonas	Bacteria|Proteobacteria	
+Curvibacter	Bacteria|Proteobacteria	0.001
+Diaphorobacter	Bacteria|Proteobacteria	
+Melaminivora	Bacteria|Proteobacteria	0.001
+Pulveribacter	Bacteria|Proteobacteria	0.001
+Rhodoferax	Bacteria|Proteobacteria	
+Serpentinimonas	Bacteria|Proteobacteria	0.001
+Simplicispira	Bacteria|Proteobacteria	0.001
+Duganella	Bacteria|Proteobacteria	0.001
+Noviherbaspirillum	Bacteria|Proteobacteria	0.001
+Sutterella	Bacteria|Proteobacteria	
+Aquabacterium	Bacteria|Proteobacteria	0.001
+Ideonella	Bacteria|Proteobacteria	0.001
+Leptothrix	Bacteria|Proteobacteria	0.001
+Methylibium	Bacteria|Proteobacteria	0.001
+Mitsuaria	Bacteria|Proteobacteria	0.001
+Rhizobacter	Bacteria|Proteobacteria	0.001
+Rubrivivax	Bacteria|Proteobacteria	0.001
+Sphaerotilus	Bacteria|Proteobacteria	0.001
+Microvirgula	Bacteria|Proteobacteria	0.001
+Eikenella	Bacteria|Proteobacteria	
+Methylobacillus	Bacteria|Proteobacteria	0.001
+Methylotenera	Bacteria|Proteobacteria	0.001
+Sulfurimicrobium	Bacteria|Proteobacteria	0.001
+Sulfuritortus	Bacteria|Proteobacteria	0.001
+Thiobacillus	Bacteria|Proteobacteria	0.001
+Quatrionicoccus	Bacteria|Proteobacteria	0.001
+Oryzomicrobium	Bacteria|Proteobacteria	0.001
+Nitrogeniibacter	Bacteria|Proteobacteria	0.001
+Desulfatibacillum	Bacteria|Proteobacteria	0.001
+Desulfobulbus	Bacteria|Proteobacteria	0.001
+Desulfolutivibrio	Bacteria|Proteobacteria	0.001
+Desulfovibrio	Bacteria|Proteobacteria	
+Megalodesulfovibrio	Bacteria|Proteobacteria	0.001
+Pseudodesulfovibrio	Bacteria|Proteobacteria	
+Citrifermentans	Bacteria|Proteobacteria	0.001
+Stigmatella	Bacteria|Proteobacteria	0.001
+Syntrophus	Bacteria|Proteobacteria	0.001
+Aliarcobacter	Bacteria|Proteobacteria	0.001
+Halarcobacter	Bacteria|Proteobacteria	
+Hydrogenimonas	Bacteria|Proteobacteria	0.001
+Nitrosophilus	Bacteria|Proteobacteria	0.001
+Sedimenticola	Bacteria|Proteobacteria	0.001
+Sulfuricaulis	Bacteria|Proteobacteria	0.001
+Sulfurifustis	Bacteria|Proteobacteria	0.001
+Dongshaea	Bacteria|Proteobacteria	0.001
+Zobellella	Bacteria|Proteobacteria	0.001
+Lacimicrobium	Bacteria|Proteobacteria	0.001
+Dichelobacter	Bacteria|Proteobacteria	0.001
+Suttonella	Bacteria|Proteobacteria	0.001
+Simiduia	Bacteria|Proteobacteria	0.001
+Thermochromatium	Bacteria|Proteobacteria	0.001
+Thiodictyon	Bacteria|Proteobacteria	0.001
+Alkalilimnicola	Bacteria|Proteobacteria	0.001
+Guyparkeria	Bacteria|Proteobacteria	0.001
+Pragia	Bacteria|Proteobacteria	0.001
+Atlantibacter	Bacteria|Proteobacteria	0.001
+Candidatus Doolittlea	Bacteria|Proteobacteria	0.001
+Candidatus Purcelliella	Bacteria|Proteobacteria	0.001
+Escherichia	Bacteria|Proteobacteria	
+Lelliottia	Bacteria|Proteobacteria	0.001
+Metakosakonia	Bacteria|Proteobacteria	0.001
+Pseudocitrobacter	Bacteria|Proteobacteria	0.001
+Salmonella	Bacteria|Proteobacteria	
+Buchnera	Bacteria|Proteobacteria	
+Tatumella	Bacteria|Proteobacteria	0.001
+Morganella	Bacteria|Proteobacteria	
+Musicola	Bacteria|Proteobacteria	0.001
+Ewingella	Bacteria|Proteobacteria	0.001
+Gibbsiella	Bacteria|Proteobacteria	0.001
+Nissabacter	Bacteria|Proteobacteria	0.001
+Rouxiella	Bacteria|Proteobacteria	0.001
+Methylocaldum	Bacteria|Proteobacteria	0.001
+Solimonas	Bacteria|Proteobacteria	0.001
+Candidatus Portiera	Bacteria|Proteobacteria	0.001
+Nitrincola	Bacteria|Proteobacteria	0.001
+Venatorbacter	Bacteria|Proteobacteria	0.001
+Aggregatibacter	Bacteria|Proteobacteria	
+Avibacterium	Bacteria|Proteobacteria	0.001
+Gallibacterium	Bacteria|Proteobacteria	0.001
+Piscirickettsia	Bacteria|Proteobacteria	0.001
+Beggiatoa	Bacteria|Proteobacteria	0.001
+Photobacterium	Bacteria|Proteobacteria	0.001
+Pseudolysobacter	Bacteria|Proteobacteria	0.001
+Hydrogenophilus	Bacteria|Proteobacteria	0.001
+Bacteriovorax	Bacteria|Proteobacteria	0.001
+Brachyspira	Bacteria|Spirochaetes	
+Sphaerochaeta	Bacteria|Spirochaetes	0.001
+Salinispira	Bacteria|Spirochaetes	0.001
+Thiospirochaeta	Bacteria|Spirochaetes	0.001
+Cloacibacillus	Bacteria|Synergistetes	0.001
+Fretibacterium	Bacteria|Synergistetes	
+Jonquetella	Bacteria|Synergistetes	0.001
+Pyramidobacter	Bacteria|Synergistetes	
+Thermodesulfobacterium	Bacteria|Thermodesulfobacteria	0.001
+Defluviitoga	Bacteria|Thermotogae	0.001
+Tepiditoga	Bacteria|Thermotogae	0.001
+Akkermansia	Bacteria|Verrucomicrobia	
+Cercospora	Fungi|Ascomycota	
+Zymoseptoria	Fungi|Ascomycota	
+Aspergillus	Fungi|Ascomycota	0.001
+Botrytis	Fungi|Ascomycota	0.001
+Candida	Fungi|Ascomycota	0.001
+Yarrowia	Fungi|Ascomycota	0.001
+Lachancea	Fungi|Ascomycota	0.001
+Tetrapisispora	Fungi|Ascomycota	0.001
+Zygosaccharomyces	Fungi|Ascomycota	0.001
+Zygotorulaspora	Fungi|Ascomycota	0.001
+Saccharomycodes	Fungi|Ascomycota	0.001
+Fusarium	Fungi|Ascomycota	
+Pyricularia	Fungi|Ascomycota	0.001
+Thermothelomyces	Fungi|Ascomycota	0.001
+Neurospora	Fungi|Ascomycota	0.001
+Malassezia	Fungi|Basidiomycota	
+Glossinavirus	Viruses|NA	0.001
+Gammanudivirus	Viruses|NA	0.001
+Chlorovirus	Viruses|Nucleocytoviricota	0.001
+Asfivirus	Viruses|Nucleocytoviricota	0.001
+Orthopoxvirus	Viruses|Nucleocytoviricota	
+Parapoxvirus	Viruses|Nucleocytoviricota	0.001
+Cytomegalovirus	Viruses|Peploviricota	0.001
+Lymphocryptovirus	Viruses|Peploviricota	
+Macavirus	Viruses|Peploviricota	0.001
+Mardivirus	Viruses|Peploviricota	0.001
+Quwivirus	Viruses|Peploviricota	0.001
+Rhadinovirus	Viruses|Peploviricota	0.001
+Kotilavirus	Viruses|Uroviricota	
+Cetovirus	Viruses|Uroviricota	0.001
+Hongcheonvirus	Viruses|Uroviricota	0.001
+Susfortunavirus	Viruses|Uroviricota	0.001
+Baoshanvirus	Viruses|Uroviricota	0.001
+Eldridgevirus	Viruses|Uroviricota	0.001
+Kayvirus	Viruses|Uroviricota	0.001
+Pecentumvirus	Viruses|Uroviricota	0.001
+Twortvirus	Viruses|Uroviricota	0.001
+Ahtivirus	Viruses|Uroviricota	0.001
+Brigitvirus	Viruses|Uroviricota	0.001
+Certrevirus	Viruses|Uroviricota	
+Eponavirus	Viruses|Uroviricota	0.001
+Erskinevirus	Viruses|Uroviricota	0.001
+Eurybiavirus	Viruses|Uroviricota	0.001
+Felixounavirus	Viruses|Uroviricota	
+Firehammervirus	Viruses|Uroviricota	0.001
+Jedunavirus	Viruses|Uroviricota	0.001
+Jiaodavirus	Viruses|Uroviricota	0.001
+Krischvirus	Viruses|Uroviricota	0.001
+Lasallevirus	Viruses|Uroviricota	0.001
+Lubbockvirus	Viruses|Uroviricota	0.001
+Machinavirus	Viruses|Uroviricota	0.001
+Marfavirus	Viruses|Uroviricota	0.001
+Myoalterovirus	Viruses|Uroviricota	0.001
+Novemvirus	Viruses|Uroviricota	0.001
+Salacisavirus	Viruses|Uroviricota	0.001
+Slopekvirus	Viruses|Uroviricota	0.001
+Takahashivirus	Viruses|Uroviricota	0.001
+Taranisvirus	Viruses|Uroviricota	0.001
+Toutatisvirus	Viruses|Uroviricota	0.001
+Tulanevirus	Viruses|Uroviricota	0.001
+Rosenblumvirus	Viruses|Uroviricota	0.001
+Salasvirus	Viruses|Uroviricota	0.001
+Bronvirus	Viruses|Uroviricota	0.001
+Camvirus	Viruses|Uroviricota	0.001
+Efquatrovirus	Viruses|Uroviricota	
+Fairfaxidumvirus	Viruses|Uroviricota	0.001
+Fromanvirus	Viruses|Uroviricota	0.001
+Incheonvrus	Viruses|Uroviricota	
+Kamchatkavirus	Viruses|Uroviricota	0.001
+Kojivirus	Viruses|Uroviricota	0.001
+Latrobevirus	Viruses|Uroviricota	0.001
+Lentavirus	Viruses|Uroviricota	
+Lillamyvirus	Viruses|Uroviricota	0.001
+Lughvirus	Viruses|Uroviricota	
+Moineauvirus	Viruses|Uroviricota	
+Oengusvirus	Viruses|Uroviricota	0.001
+Phietavirus	Viruses|Uroviricota	0.001
+Phifelvirus	Viruses|Uroviricota	0.001
+Priunavirus	Viruses|Uroviricota	0.001
+Rockefellervirus	Viruses|Uroviricota	0.001
+Roufvirus	Viruses|Uroviricota	0.001
+Wongtaivirus	Viruses|Uroviricota	0.001
+Yuavirus	Viruses|Uroviricota	0.001
+Paundecimvirus	Viruses|Uroviricota	
+Pomovirus	Viruses|Kitrinoviricota	
+Trichovirus	Viruses|Kitrinoviricota	0.001
+Ebolavirus	Viruses|Negarnaviricota	0.001
+Hapavirus	Viruses|Negarnaviricota	0.001
+Betapartitivirus	Viruses|Pisuviricota	0.001
+Deltacoronavirus	Viruses|Pisuviricota	0.001
+Avihepadnavirus	Viruses|Artverviricota	
+Petuvirus	Viruses|Artverviricota	0.001
+Lentivirus	Viruses|Artverviricota	
+Erythroparvovirus	Viruses|Cossaviricota	0.001
+Circovirus	Viruses|Cressdnaviricota	0.001
+Gammapleolipovirus	Viruses|Saleviricota	0.001
+Gammalipothrixvirus	Viruses|Taleaviricota	0.001
+Alphatorquevirus	Viruses|NA	
+Betatorquevirus	Viruses|NA	0.001
+Thetatorquevirus	Viruses|NA	0.001
+Pithovirus	Viruses|NA	0.001
+Bracovirus	Viruses|NA	0.001

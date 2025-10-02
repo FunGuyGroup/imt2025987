@@ -1,0 +1,68 @@
+Node	Type	Mean_counts
+Cercospora beticola	Fungi|Ascomycota	
+Zymoseptoria tritici	Fungi|Ascomycota	
+Aspergillus fumigatus	Fungi|Ascomycota	
+Aspergillus luchuensis	Fungi|Ascomycota	
+Aspergillus oryzae	Fungi|Ascomycota	
+Aspergillus puulaauensis	Fungi|Ascomycota	0.001
+Candida albicans	Fungi|Ascomycota	
+Candida dubliniensis	Fungi|Ascomycota	
+Yarrowia lipolytica	Fungi|Ascomycota	
+Kluyveromyces marxianus	Fungi|Ascomycota	
+[Candida] glabrata	Fungi|Ascomycota	
+Colletotrichum higginsianum	Fungi|Ascomycota	
+Fusarium poae	Fungi|Ascomycota	
+Thermothelomyces thermophilus	Fungi|Ascomycota	
+[Clostridium] hylemonae	Bacteria|Firmicutes	
+[Clostridium] scindens	Bacteria|Firmicutes	
+Acinetobacter baylyi	Bacteria|Proteobacteria	
+Acinetobacter larvae	Bacteria|Proteobacteria	
+Acinetobacter piscicola	Bacteria|Proteobacteria	
+Acinetobacter radioresistens	Bacteria|Proteobacteria	
+Acinetobacter shaoyimingii	Bacteria|Proteobacteria	
+Acinetobacter sp. ACNIH2	Bacteria|Proteobacteria	
+Acinetobacter sp. C16S1	Bacteria|Proteobacteria	
+Acinetobacter sp. SCLZS86	Bacteria|Proteobacteria	
+Acinetobacter sp. SH20PTE14	Bacteria|Proteobacteria	
+Acinetobacter sp. TTH0-4	Bacteria|Proteobacteria	
+Acinetobacter venetianus	Bacteria|Proteobacteria	
+Acinetobacter wanghuae	Bacteria|Proteobacteria	
+Acinetobacter wuhouensis	Bacteria|Proteobacteria	
+Alistipes shahii	Bacteria|Bacteroidetes	
+Bacteroides salyersiae	Bacteria|Bacteroidetes	
+Bacteroides zhangwenhongii	Bacteria|Bacteroidetes	
+Blautia hansenii	Bacteria|Firmicutes	
+Blautia massiliensis	Bacteria|Firmicutes	
+Blautia producta	Bacteria|Firmicutes	
+Capnocytophaga sputigena	Bacteria|Bacteroidetes	
+Cercospora beticola	Fungi|Ascomycota	
+Clostridioides difficile	Bacteria|Firmicutes	
+Clostridium sp. M62/1	Bacteria|Firmicutes	
+Dorea longicatena	Bacteria|Firmicutes	
+Dysosmobacter welbionis	Bacteria|Firmicutes	
+Eggerthella lenta	Bacteria|Actinobacteria	
+Enterobacter kobei	Bacteria|Proteobacteria	
+Enterocloster clostridioformis	Bacteria|Firmicutes	
+Erysipelatoclostridium ramosum	Bacteria|Firmicutes	
+Eubacterium sp. MSJ-33	Bacteria|Firmicutes	
+Eubacterium sp. NSJ-61	Bacteria|Firmicutes	
+Faecalitalea cylindroides	Bacteria|Firmicutes	
+Flavonifractor plautii	Bacteria|Firmicutes	
+Fusobacterium nucleatum	Bacteria|Fusobacteria	
+Halarcobacter bivalviorum	Bacteria|Proteobacteria	
+Hydrogenophilus thermoluteolus	Bacteria|Proteobacteria	
+Lachnoanaerobaculum umeaense	Bacteria|Firmicutes	
+Lachnoclostridium sp. YL32	Bacteria|Firmicutes	
+Lacrimispora saccharolytica	Bacteria|Firmicutes	
+Longicatena caecimuris	Bacteria|Firmicutes	
+Methanobrevibacter_A smithii_A	Archaea|Euryarchaeota	
+Nocardioides sp. S5	Bacteria|Actinobacteria	
+Nocardioides sp. TF02-7	Bacteria|Actinobacteria	
+Oscillibacter sp. NSJ-62	Bacteria|Firmicutes	
+Pseudomonas thivervalensis	Bacteria|Proteobacteria	
+Pusillibacter faecalis	Bacteria|Firmicutes	
+Ralstonia sp. 56D2	Bacteria|Proteobacteria	
+Roseburia sp. NSJ-69	Bacteria|Firmicutes	
+Ruthenibacterium lactatiformans	Bacteria|Firmicutes	
+Staphylococcus epidermidis	Bacteria|Firmicutes	
+Xanthomonas campestris	Bacteria|Proteobacteria	

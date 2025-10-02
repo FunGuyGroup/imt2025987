@@ -1,0 +1,28 @@
+Node	Type	Mean_counts
+Cercospora beticola	Fungi|Ascomycota	0.001
+Zymoseptoria tritici	Fungi|Ascomycota	
+Aspergillus fumigatus	Fungi|Ascomycota	0.001
+Aspergillus luchuensis	Fungi|Ascomycota	
+Aspergillus oryzae	Fungi|Ascomycota	
+Aspergillus puulaauensis	Fungi|Ascomycota	0.001
+Candida albicans	Fungi|Ascomycota	0.001
+Candida dubliniensis	Fungi|Ascomycota	0.001
+Yarrowia lipolytica	Fungi|Ascomycota	
+Kluyveromyces marxianus	Fungi|Ascomycota	0.001
+[Candida] glabrata	Fungi|Ascomycota	0.001
+Colletotrichum higginsianum	Fungi|Ascomycota	0.001
+Fusarium poae	Fungi|Ascomycota	0.001
+Thermothelomyces thermophilus	Fungi|Ascomycota	0.001
+[Clostridium] scindens	Bacteria|Firmicutes	
+Acinetobacter tandoii	Bacteria|Proteobacteria	
+Bacteroides cellulosilyticus	Bacteria|Bacteroidetes	
+Bacteroides faecis	Bacteria|Bacteroidetes	
+Bacteroides salyersiae	Bacteria|Bacteroidetes	
+Bacteroides xylanisolvens	Bacteria|Bacteroidetes	
+Blautia massiliensis	Bacteria|Firmicutes	
+Blautia producta	Bacteria|Firmicutes	
+Dorea longicatena	Bacteria|Firmicutes	
+Dysosmobacter welbionis	Bacteria|Firmicutes	
+Eggerthella lenta	Bacteria|Actinobacteria	
+Enterocloster clostridioformis	Bacteria|Firmicutes	
+Flavonifractor plautii	Bacteria|Firmicutes	

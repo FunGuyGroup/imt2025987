@@ -1,0 +1,3227 @@
+node1	node2	cor_value
+Candidatus Methanomethylophilus alvus	Methanobrevibacter_A smithii_A	0.34611761
+Candidatus Methanomethylophilus alvus	Eubacterium sp. MSJ-33	0.359728865
+Candidatus Methanomethylophilus alvus	Coprococcus sp. ART55/1	0.33444151
+Candidatus Methanomethylophilus alvus	Lachnoclostridium phytofermentans	0.334949326
+Candidatus Methanomethylophilus alvus	Roseburia sp. NSJ-69	0.346364582
+Candidatus Methanomethylophilus alvus	Flintibacter sp. KGMB00164	0.342488892
+Candidatus Methanomethylophilus alvus	Longicatena caecimuris	0.351720742
+Methanomassiliicoccaceae archaeon UBA71	Methanobrevibacter_A smithii_A	0.425024578
+Methanomassiliicoccaceae archaeon UBA71	Phocaeicola coprophilus	0.31812606
+Methanomassiliicoccaceae archaeon UBA71	Streptococcus constellatus	-0.318576301
+Methanomassiliicoccaceae archaeon UBA71	Clostridium sp. M62/1	0.33319589
+Methanomassiliicoccaceae archaeon UBA71	Eubacterium sp. MSJ-33	0.332642333
+Methanomassiliicoccaceae archaeon UBA71	Coprococcus sp. ART55/1	0.305933227
+Methanomassiliicoccaceae archaeon UBA71	Lachnoclostridium phytofermentans	0.323162224
+Methanomassiliicoccaceae archaeon UBA71	Roseburia sp. NSJ-69	0.377759801
+Methanomassiliicoccaceae archaeon UBA71	Sellimonas intestinalis	0.329684445
+Methanomassiliicoccaceae archaeon UBA71	Oscillibacter sp. NSJ-62	0.353560667
+Methanomassiliicoccaceae archaeon UBA71	Ruminococcus bicirculans	0.349942871
+Methanomassiliicoccaceae archaeon UBA71	Vescimonas coprocola	0.337880999
+Methanomassiliicoccaceae archaeon UBA71	Vescimonas fastidiosa	0.328426351
+Methanomassiliicoccaceae archaeon UBA71	Flintibacter sp. KGMB00164	0.330457854
+Methanobrevibacter_A smithii_A	Methanobrevibacter sp. AbM4	-0.41948868
+Methanobrevibacter_A smithii_A	Schaalia turicensis	-0.323442474
+Methanobrevibacter_A smithii_A	Bifidobacterium longum	0.349359793
+Methanobrevibacter_A smithii_A	Nocardioides sp. S5	-0.319785294
+Methanobrevibacter_A smithii_A	Nocardioides sp. TF02-7	-0.430337915
+Methanobrevibacter_A smithii_A	Collinsella aerofaciens	0.487684331
+Methanobrevibacter_A smithii_A	Eggerthella lenta	0.310939272
+Methanobrevibacter_A smithii_A	Bacteroides ovatus	0.403271572
+Methanobrevibacter_A smithii_A	Bacteroides sp. HF-162	0.374127081
+Methanobrevibacter_A smithii_A	Bacteroides xylanisolvens	0.388923004
+Methanobrevibacter_A smithii_A	Phocaeicola coprophilus	0.396998879
+Methanobrevibacter_A smithii_A	Phocaeicola vulgatus	0.364191902
+Methanobrevibacter_A smithii_A	Alistipes finegoldii	0.322438208
+Methanobrevibacter_A smithii_A	Algibacter sp. L1A34	-0.355964019
+Methanobrevibacter_A smithii_A	Capnocytophaga sputigena	-0.320095368
+Methanobrevibacter_A smithii_A	Limosilactobacillus pontis	-0.320084731
+Methanobrevibacter_A smithii_A	Clostridium botulinum	0.300616395
+Methanobrevibacter_A smithii_A	Clostridium sp. M62/1	0.673000281
+Methanobrevibacter_A smithii_A	Eubacterium sp. MSJ-33	0.53246771
+Methanobrevibacter_A smithii_A	Eubacterium sp. NSJ-61	0.510681678
+Methanobrevibacter_A smithii_A	Anaerostipes caccae	0.48017504
+Methanobrevibacter_A smithii_A	Blautia hansenii	0.681628401
+Methanobrevibacter_A smithii_A	Blautia massiliensis	0.77231547
+Methanobrevibacter_A smithii_A	Blautia producta	0.640172422
+Methanobrevibacter_A smithii_A	Coprococcus sp. ART55/1	0.566871116
+Methanobrevibacter_A smithii_A	Dorea longicatena	0.739448834
+Methanobrevibacter_A smithii_A	Enterocloster clostridioformis	0.477253941
+Methanobrevibacter_A smithii_A	Lachnoanaerobaculum umeaense	0.417529027
+Methanobrevibacter_A smithii_A	[Clostridium] hylemonae	0.638313931
+Methanobrevibacter_A smithii_A	[Clostridium] scindens	0.58017302
+Methanobrevibacter_A smithii_A	Lachnoclostridium phytofermentans	0.421723566
+Methanobrevibacter_A smithii_A	Lachnoclostridium sp. YL32	0.49633435
+Methanobrevibacter_A smithii_A	Lacrimispora saccharolytica	0.581747035
+Methanobrevibacter_A smithii_A	Roseburia sp. NSJ-69	0.674077726
+Methanobrevibacter_A smithii_A	Sellimonas intestinalis	0.4147266
+Methanobrevibacter_A smithii_A	Anaerotruncus colihominis	0.462415939
+Methanobrevibacter_A smithii_A	Dysosmobacter sp. Marseille-Q4140	0.489536222
+Methanobrevibacter_A smithii_A	Dysosmobacter welbionis	0.502862043
+Methanobrevibacter_A smithii_A	Flavonifractor plautii	0.525871671
+Methanobrevibacter_A smithii_A	Oscillibacter sp. NSJ-62	0.564143845
+Methanobrevibacter_A smithii_A	Pusillibacter faecalis	0.512727734
+Methanobrevibacter_A smithii_A	Ruminococcus bicirculans	0.553481641
+Methanobrevibacter_A smithii_A	Ruthenibacterium lactatiformans	0.401821185
+Methanobrevibacter_A smithii_A	Vescimonas coprocola	0.560360367
+Methanobrevibacter_A smithii_A	Vescimonas fastidiosa	0.482688295
+Methanobrevibacter_A smithii_A	Clostridioides difficile	0.632954177
+Methanobrevibacter_A smithii_A	Flintibacter sp. KGMB00164	0.547659031
+Methanobrevibacter_A smithii_A	Intestinimonas butyriciproducens	0.464129841
+Methanobrevibacter_A smithii_A	Amedibacterium intestinale	0.392962115
+Methanobrevibacter_A smithii_A	[Clostridium] innocuum	0.416854222
+Methanobrevibacter_A smithii_A	Faecalitalea cylindroides	0.568573287
+Methanobrevibacter_A smithii_A	Longicatena caecimuris	0.558547581
+Methanobrevibacter_A smithii_A	Sphingomonas melonis	-0.317094724
+Methanobrevibacter_A smithii_A	Sphingomonas sp. NIC1	-0.351882783
+Methanobrevibacter_A smithii_A	Halarcobacter bivalviorum	-0.397147312
+Methanobrevibacter_A smithii_A	Campylobacter gracilis	-0.304731202
+Methanobrevibacter_A smithii_A	Campylobacter lari	-0.323295543
+Methanobrevibacter_A smithii_A	Enterobacter sichuanensis	-0.38191705
+Methanobrevibacter_A smithii_A	Klebsiella pneumoniae	0.344110651
+Methanobrevibacter_A smithii_A	Acinetobacter baylyi	-0.367033806
+Methanobrevibacter_A smithii_A	Acinetobacter defluvii	-0.331792663
+Methanobrevibacter_A smithii_A	Acinetobacter gyllenbergii	-0.354267108
+Methanobrevibacter_A smithii_A	Acinetobacter haemolyticus	-0.312435591
+Methanobrevibacter_A smithii_A	Acinetobacter lanii	-0.435074194
+Methanobrevibacter_A smithii_A	Acinetobacter larvae	-0.314628145
+Methanobrevibacter_A smithii_A	Acinetobacter piscicola	-0.358516832
+Methanobrevibacter_A smithii_A	Acinetobacter radioresistens	-0.34676835
+Methanobrevibacter_A smithii_A	Acinetobacter seifertii	-0.344706342
+Methanobrevibacter_A smithii_A	Acinetobacter shaoyimingii	-0.369362347
+Methanobrevibacter_A smithii_A	Acinetobacter soli	-0.320578928
+Methanobrevibacter_A smithii_A	Acinetobacter sp. 10FS3-1	-0.357777282
+Methanobrevibacter_A smithii_A	Acinetobacter sp. ACNIH2	-0.403906037
+Methanobrevibacter_A smithii_A	Acinetobacter sp. C16S1	-0.358604683
+Methanobrevibacter_A smithii_A	Acinetobacter sp. CS-2	-0.359684098
+Methanobrevibacter_A smithii_A	Acinetobacter sp. Marseille-Q1620	-0.348127754
+Methanobrevibacter_A smithii_A	Acinetobacter sp. SCLZS86	-0.390122697
+Methanobrevibacter_A smithii_A	Acinetobacter sp. SH20PTE14	-0.31701818
+Methanobrevibacter_A smithii_A	Acinetobacter sp. TGL-Y2	-0.363709562
+Methanobrevibacter_A smithii_A	Acinetobacter sp. TTH0-4	-0.355304622
+Methanobrevibacter_A smithii_A	Acinetobacter tandoii	-0.404224752
+Methanobrevibacter_A smithii_A	Acinetobacter towneri	-0.360622291
+Methanobrevibacter_A smithii_A	Acinetobacter ursingii	-0.410377014
+Methanobrevibacter_A smithii_A	Acinetobacter venetianus	-0.399947996
+Methanobrevibacter_A smithii_A	Acinetobacter wanghuae	-0.390684816
+Methanobrevibacter_A smithii_A	Acinetobacter wuhouensis	-0.341334585
+Methanobrevibacter_A smithii_A	Aggregatibacter segnis	-0.320539667
+Methanobrevibacter_A smithii_A	Haemophilus influenzae	-0.329513725
+Methanobrevibacter_A smithii_A	Pseudomonas thivervalensis	-0.366218997
+Methanobrevibacter_A smithii_A	Cercospora beticola	-0.325417969
+Methanobrevibacter_A smithii_A	Aspergillus fumigatus	-0.350828037
+Methanobrevibacter_A smithii_A	Aspergillus oryzae	-0.416763959
+Methanobrevibacter_A smithii_A	Yarrowia lipolytica	-0.346461183
+Methanobrevibacter_A smithii_A	Kluyveromyces marxianus	-0.32297873
+Methanobrevibacter_A smithii_A	[Candida] glabrata	-0.332077112
+Methanobrevibacter_A smithii_A	Thermothelomyces thermophilus	-0.337942637
+Methanobrevibacter_A smithii_A	Human gammaherpesvirus 4	-0.420748366
+Methanobrevibacter_A smithii_A	Human immunodeficiency virus 1	-0.322792014
+Methanobrevibacter smithii	Eggerthella lenta	-0.48275746
+Methanobrevibacter smithii	Dorea longicatena	-0.302595802
+Methanobrevibacter sp. AbM4	Nocardioides sp. TF02-7	0.360816612
+Methanobrevibacter sp. AbM4	Eggerthella lenta	-0.366370213
+Methanobrevibacter sp. AbM4	Clostridium sp. M62/1	-0.390913874
+Methanobrevibacter sp. AbM4	Eubacterium sp. NSJ-61	-0.305288971
+Methanobrevibacter sp. AbM4	Blautia hansenii	-0.367381022
+Methanobrevibacter sp. AbM4	Blautia massiliensis	-0.395526489
+Methanobrevibacter sp. AbM4	Blautia producta	-0.343604313
+Methanobrevibacter sp. AbM4	Dorea longicatena	-0.393894418
+Methanobrevibacter sp. AbM4	Enterocloster clostridioformis	-0.371830523
+Methanobrevibacter sp. AbM4	[Clostridium] hylemonae	-0.418382128
+Methanobrevibacter sp. AbM4	[Clostridium] scindens	-0.396128564
+Methanobrevibacter sp. AbM4	Lachnoclostridium sp. YL32	-0.371242215
+Methanobrevibacter sp. AbM4	Lacrimispora saccharolytica	-0.395707071
+Methanobrevibacter sp. AbM4	Roseburia sp. NSJ-69	-0.33735301
+Methanobrevibacter sp. AbM4	Dysosmobacter welbionis	-0.332855481
+Methanobrevibacter sp. AbM4	Clostridioides difficile	-0.423473877
+Methanobrevibacter sp. AbM4	Faecalitalea cylindroides	-0.306412436
+Methanobrevibacter sp. AbM4	Longicatena caecimuris	-0.351655596
+Methanobrevibacter sp. AbM4	Halarcobacter bivalviorum	0.302217885
+Methanobrevibacter sp. AbM4	Acinetobacter lanii	0.326783648
+Methanobrevibacter sp. AbM4	Acinetobacter larvae	0.306348246
+Methanobrevibacter sp. AbM4	Acinetobacter piscicola	0.328702368
+Methanobrevibacter sp. AbM4	Acinetobacter shaoyimingii	0.310990693
+Methanobrevibacter sp. AbM4	Acinetobacter sp. 10FS3-1	0.300321101
+Methanobrevibacter sp. AbM4	Acinetobacter sp. ACNIH2	0.326018916
+Methanobrevibacter sp. AbM4	Acinetobacter sp. CS-2	0.345506129
+Methanobrevibacter sp. AbM4	Acinetobacter sp. SCLZS86	0.303234156
+Methanobrevibacter sp. AbM4	Acinetobacter towneri	0.330195793
+Methanobrevibacter sp. AbM4	Acinetobacter venetianus	0.317266036
+Methanobrevibacter sp. AbM4	Acinetobacter wuhouensis	0.309169674
+Methanobrevibacter sp. AbM4	Pseudomonas thivervalensis	0.328492471
+Methanobrevibacter sp. AbM4	Aspergillus fumigatus	0.319123004
+Methanobrevibacter sp. AbM4	Aspergillus oryzae	0.327061739
+Methanobrevibacter sp. AbM4	Kluyveromyces marxianus	0.314547397
+Methanobrevibacter sp. AbM4	Human gammaherpesvirus 4	0.325486046
+Methanosphaera sp900322125	Prevotella intermedia	0.30910734
+Methanosphaera sp900322125	Parabacteroides johnsonii	-0.32928614
+Methanosphaera sp900322125	Gemella morbillorum	0.409006551
+Methanosphaera sp900322125	Granulicatella elegans	0.326020691
+Methanosphaera sp900322125	Streptococcus agalactiae	0.331761582
+Methanosphaera sp900322125	Streptococcus anginosus	0.352861977
+Methanosphaera sp900322125	Streptococcus constellatus	0.421968432
+Methanosphaera sp900322125	Streptococcus dysgalactiae	0.437316344
+Methanosphaera sp900322125	Streptococcus equi	0.51727531
+Methanosphaera sp900322125	Streptococcus intermedius	0.408160116
+Methanosphaera sp900322125	Streptococcus milleri	0.351638316
+Methanosphaera sp900322125	Streptococcus mutans	0.538102384
+Methanosphaera sp900322125	Streptococcus pyogenes	0.472508622
+Methanosphaera sp900322125	Streptococcus sp. NSJ-72	0.383876335
+Methanosphaera sp900322125	Streptococcus thermophilus	0.418709932
+Methanosphaera sp900322125	Mogibacterium pumilum	0.525737429
+Methanosphaera sp900322125	Filifactor alocis	0.452255667
+Methanosphaera sp900322125	Romboutsia hominis	0.346561009
+Methanosphaera sp900322125	Dialister pneumosintes	0.303987577
+Methanosphaera sp900322125	Parvimonas micra	0.519674087
+Methanosphaera sp900322125	Peptoniphilus harei	0.322916833
+Methanosphaera sp900322125	Fusobacterium hwasookii	0.41138124
+Methanosphaera sp900322125	Fusobacterium necrophorum	0.382623274
+Methanosphaera sp900322125	Fusobacterium nucleatum	0.430199337
+Methanosphaera sp900322125	Fusobacterium pseudoperiodonticum	0.301047727
+Methanosphaera sp900322125	Leptotrichia sp. oral taxon 212	0.311883187
+Methanosphaera sp900322125	Treponema denticola	0.328511779
+Methanosphaera stadtmanae	Flintibacter sp. KGMB00164	0.335211338
+Schaalia turicensis	Collinsella aerofaciens	-0.317873696
+Schaalia turicensis	Porphyromonas asaccharolytica	0.404183944
+Schaalia turicensis	Porphyromonas somerae	0.403672757
+Schaalia turicensis	Clostridium botulinum	-0.3593469
+Schaalia turicensis	Blautia hansenii	-0.303273865
+Schaalia turicensis	Blautia massiliensis	-0.342877752
+Schaalia turicensis	Blautia producta	-0.364061044
+Schaalia turicensis	Coprococcus sp. ART55/1	-0.337895613
+Schaalia turicensis	Dorea longicatena	-0.412023573
+Schaalia turicensis	[Clostridium] hylemonae	-0.34920004
+Schaalia turicensis	[Clostridium] scindens	-0.322869062
+Schaalia turicensis	Clostridioides difficile	-0.320347857
+Schaalia turicensis	Amedibacterium intestinale	-0.342284269
+Schaalia turicensis	Faecalitalea cylindroides	-0.33995132
+Schaalia turicensis	Longicatena caecimuris	-0.332879631
+Bifidobacterium adolescentis	Bifidobacterium bifidum	0.553459703
+Bifidobacterium adolescentis	Bifidobacterium breve	0.477103798
+Bifidobacterium adolescentis	Bifidobacterium catenulatum	0.576052158
+Bifidobacterium adolescentis	Bifidobacterium longum	0.624708629
+Bifidobacterium adolescentis	Bifidobacterium pseudocatenulatum	0.609031847
+Bifidobacterium adolescentis	Porphyromonas gingivalis	-0.308243511
+Bifidobacterium adolescentis	Prevotella intermedia	-0.394204568
+Bifidobacterium adolescentis	Gemella morbillorum	-0.389338865
+Bifidobacterium adolescentis	Eubacterium limosum	0.382389421
+Bifidobacterium adolescentis	Megasphaera stantonii	0.406346186
+Bifidobacterium adolescentis	Sutterella wadsworthensis	0.340244149
+Bifidobacterium bifidum	Bifidobacterium breve	0.446369708
+Bifidobacterium bifidum	Bifidobacterium catenulatum	0.518954416
+Bifidobacterium bifidum	Bifidobacterium longum	0.596089778
+Bifidobacterium bifidum	Bifidobacterium pseudocatenulatum	0.512806249
+Bifidobacterium bifidum	Eubacterium limosum	0.361008966
+Bifidobacterium bifidum	Megasphaera stantonii	0.471692199
+Bifidobacterium breve	Bifidobacterium catenulatum	0.534633729
+Bifidobacterium breve	Bifidobacterium longum	0.658030123
+Bifidobacterium breve	Bifidobacterium pseudocatenulatum	0.564569183
+Bifidobacterium breve	Bacteroides cellulosilyticus	0.304899475
+Bifidobacterium breve	Limosilactobacillus mucosae	0.307763722
+Bifidobacterium breve	Eubacterium limosum	0.411083558
+Bifidobacterium breve	[Clostridium] innocuum	0.357624609
+Bifidobacterium breve	Megasphaera stantonii	0.327158986
+Bifidobacterium breve	Fusobacterium hwasookii	-0.317244926
+Bifidobacterium breve	Fusobacterium pseudoperiodonticum	-0.303821145
+Bifidobacterium catenulatum	Bifidobacterium longum	0.620472731
+Bifidobacterium catenulatum	Bifidobacterium pseudocatenulatum	0.7333081
+Bifidobacterium catenulatum	Gemella morbillorum	-0.307644065
+Bifidobacterium catenulatum	Limosilactobacillus mucosae	0.456639574
+Bifidobacterium catenulatum	Eubacterium limosum	0.373370111
+Bifidobacterium catenulatum	[Clostridium] innocuum	0.300343752
+Bifidobacterium catenulatum	Megasphaera stantonii	0.33220551
+Bifidobacterium catenulatum	Fusobacterium pseudoperiodonticum	-0.305619648
+Bifidobacterium longum	Bifidobacterium pseudocatenulatum	0.690459963
+Bifidobacterium longum	Bacteroides ovatus	0.421052485
+Bifidobacterium longum	Bacteroides sp. M10	0.350388888
+Bifidobacterium longum	Bacteroides xylanisolvens	0.396313971
+Bifidobacterium longum	Limosilactobacillus mucosae	0.321866068
+Bifidobacterium longum	Eubacterium limosum	0.341915131
+Bifidobacterium longum	Anaerostipes caccae	0.356870175
+Bifidobacterium longum	Pusillibacter faecalis	0.308359485
+Bifidobacterium longum	Amedibacterium intestinale	0.301586125
+Bifidobacterium longum	[Clostridium] innocuum	0.474929318
+Bifidobacterium longum	Erysipelatoclostridium ramosum	0.326571652
+Bifidobacterium longum	Megasphaera stantonii	0.367834599
+Bifidobacterium longum	Human betaherpesvirus 7	-0.312339029
+Bifidobacterium pseudocatenulatum	Porphyromonas gingivalis	-0.315058041
+Bifidobacterium pseudocatenulatum	Prevotella intermedia	-0.378096165
+Bifidobacterium pseudocatenulatum	Prevotella nigrescens	-0.344379199
+Bifidobacterium pseudocatenulatum	Limosilactobacillus mucosae	0.405240787
+Bifidobacterium pseudocatenulatum	Streptococcus milleri	-0.332407533
+Bifidobacterium pseudocatenulatum	Eubacterium limosum	0.343838915
+Bifidobacterium pseudocatenulatum	[Clostridium] innocuum	0.336643711
+Bifidobacterium pseudocatenulatum	Erysipelatoclostridium ramosum	0.354989311
+Bifidobacterium pseudocatenulatum	Dialister pneumosintes	-0.312181413
+Bifidobacterium pseudocatenulatum	Megasphaera stantonii	0.304173659
+Bifidobacterium pseudocatenulatum	Parvimonas micra	-0.327293779
+Bifidobacterium pseudocatenulatum	Fusobacterium hwasookii	-0.342488762
+Bifidobacterium pseudocatenulatum	Faecalibacterium virus Lugh	0.300060839
+Micrococcus luteus	Blautia massiliensis	-0.334861595
+Micrococcus luteus	[Clostridium] scindens	-0.332301187
+Rothia mucilaginosa	Collinsella aerofaciens	0.348227718
+Rothia mucilaginosa	Streptococcus ilei	0.317501989
+Rothia mucilaginosa	Faecalibacterium duncaniae	0.374381211
+Nocardioides sp. S5	Clostridium sp. M62/1	-0.361405563
+Nocardioides sp. S5	Blautia hansenii	-0.323196282
+Nocardioides sp. S5	Blautia massiliensis	-0.328960012
+Nocardioides sp. S5	Blautia producta	-0.328496161
+Nocardioides sp. S5	Enterocloster clostridioformis	-0.325127505
+Nocardioides sp. S5	[Clostridium] hylemonae	-0.3380971
+Nocardioides sp. S5	[Clostridium] scindens	-0.374237127
+Nocardioides sp. S5	Lachnoclostridium sp. YL32	-0.317228012
+Nocardioides sp. S5	Lacrimispora saccharolytica	-0.316681122
+Nocardioides sp. S5	Dysosmobacter welbionis	-0.354190543
+Nocardioides sp. S5	Flavonifractor plautii	-0.314594517
+Nocardioides sp. S5	Oscillibacter sp. NSJ-62	-0.303595625
+Nocardioides sp. S5	Clostridioides difficile	-0.361609946
+Nocardioides sp. S5	Acinetobacter sp. C16S1	0.301504198
+Nocardioides sp. TF02-7	Collinsella aerofaciens	-0.32231437
+Nocardioides sp. TF02-7	Limosilactobacillus pontis	0.351529591
+Nocardioides sp. TF02-7	Streptococcus agalactiae	-0.338939775
+Nocardioides sp. TF02-7	Streptococcus dysgalactiae	-0.323747015
+Nocardioides sp. TF02-7	Clostridium sp. M62/1	-0.435371322
+Nocardioides sp. TF02-7	Eubacterium sp. MSJ-33	-0.334804525
+Nocardioides sp. TF02-7	Eubacterium sp. NSJ-61	-0.350908341
+Nocardioides sp. TF02-7	Anaerostipes caccae	-0.327018766
+Nocardioides sp. TF02-7	Blautia hansenii	-0.401110956
+Nocardioides sp. TF02-7	Blautia massiliensis	-0.440461946
+Nocardioides sp. TF02-7	Blautia producta	-0.381016859
+Nocardioides sp. TF02-7	Coprococcus sp. ART55/1	-0.32903051
+Nocardioides sp. TF02-7	Dorea longicatena	-0.406025019
+Nocardioides sp. TF02-7	Enterocloster clostridioformis	-0.371191428
+Nocardioides sp. TF02-7	Lachnoanaerobaculum umeaense	-0.328248116
+Nocardioides sp. TF02-7	[Clostridium] hylemonae	-0.429532617
+Nocardioides sp. TF02-7	[Clostridium] scindens	-0.446936558
+Nocardioides sp. TF02-7	Lachnoclostridium sp. YL32	-0.329747205
+Nocardioides sp. TF02-7	Lacrimispora saccharolytica	-0.430843103
+Nocardioides sp. TF02-7	Roseburia sp. NSJ-69	-0.400357032
+Nocardioides sp. TF02-7	Anaerotruncus colihominis	-0.31095235
+Nocardioides sp. TF02-7	Dysosmobacter sp. Marseille-Q4140	-0.37722063
+Nocardioides sp. TF02-7	Dysosmobacter welbionis	-0.415075695
+Nocardioides sp. TF02-7	Flavonifractor plautii	-0.347454678
+Nocardioides sp. TF02-7	Oscillibacter sp. NSJ-62	-0.447256411
+Nocardioides sp. TF02-7	Pusillibacter faecalis	-0.367588247
+Nocardioides sp. TF02-7	Ruminococcus bicirculans	-0.308638903
+Nocardioides sp. TF02-7	Vescimonas coprocola	-0.363285983
+Nocardioides sp. TF02-7	Vescimonas fastidiosa	-0.333115498
+Nocardioides sp. TF02-7	Clostridioides difficile	-0.373338744
+Nocardioides sp. TF02-7	Flintibacter sp. KGMB00164	-0.336757265
+Nocardioides sp. TF02-7	Intestinimonas butyriciproducens	-0.31307395
+Nocardioides sp. TF02-7	[Clostridium] innocuum	-0.306438337
+Nocardioides sp. TF02-7	Longicatena caecimuris	-0.360340027
+Nocardioides sp. TF02-7	Sphingomonas melonis	0.387274873
+Nocardioides sp. TF02-7	Sphingomonas paucimobilis	0.337844446
+Nocardioides sp. TF02-7	Sphingomonas sp. NIC1	0.381278844
+Nocardioides sp. TF02-7	Halarcobacter bivalviorum	0.392908937
+Nocardioides sp. TF02-7	Enterobacter cancerogenus	0.331313305
+Nocardioides sp. TF02-7	Acinetobacter gyllenbergii	0.309761918
+Nocardioides sp. TF02-7	Acinetobacter lanii	0.351497981
+Nocardioides sp. TF02-7	Acinetobacter larvae	0.361616118
+Nocardioides sp. TF02-7	Acinetobacter shaoyimingii	0.331656242
+Nocardioides sp. TF02-7	Acinetobacter sp. 10FS3-1	0.338635397
+Nocardioides sp. TF02-7	Acinetobacter sp. ACNIH2	0.36512021
+Nocardioides sp. TF02-7	Acinetobacter sp. C16S1	0.319099181
+Nocardioides sp. TF02-7	Acinetobacter sp. CS-2	0.33080285
+Nocardioides sp. TF02-7	Acinetobacter sp. Marseille-Q1620	0.306345151
+Nocardioides sp. TF02-7	Acinetobacter sp. SCLZS86	0.367307654
+Nocardioides sp. TF02-7	Acinetobacter sp. SH20PTE14	0.300246414
+Nocardioides sp. TF02-7	Acinetobacter sp. TGL-Y2	0.332407503
+Nocardioides sp. TF02-7	Acinetobacter sp. TTH0-4	0.343124631
+Nocardioides sp. TF02-7	Acinetobacter towneri	0.338531281
+Nocardioides sp. TF02-7	Acinetobacter ursingii	0.360288782
+Nocardioides sp. TF02-7	Acinetobacter venetianus	0.355207313
+Nocardioides sp. TF02-7	Acinetobacter wanghuae	0.325245068
+Nocardioides sp. TF02-7	Pseudomonas thivervalensis	0.38256912
+Nocardioides sp. TF02-7	Pseudoxanthomonas suwonensis	0.324381451
+Nocardioides sp. TF02-7	Xanthomonas campestris	0.364365461
+Nocardioides sp. TF02-7	Hydrogenophilus thermoluteolus	0.335892671
+Nocardioides sp. TF02-7	Aspergillus fumigatus	0.333523716
+Nocardioides sp. TF02-7	Aspergillus oryzae	0.352506043
+Nocardioides sp. TF02-7	Candida dubliniensis	0.317913664
+Nocardioides sp. TF02-7	Yarrowia lipolytica	0.313514459
+Nocardioides sp. TF02-7	Kluyveromyces marxianus	0.309551782
+Nocardioides sp. TF02-7	[Candida] glabrata	0.308377917
+Nocardioides sp. TF02-7	Human gammaherpesvirus 4	0.399670683
+Nocardioides sp. TF02-7	Human immunodeficiency virus 1	0.360051262
+Cutibacterium acnes	Bacteroides cellulosilyticus	-0.300429095
+Cutibacterium acnes	Bacteroides fragilis	-0.325970089
+Cutibacterium acnes	Bacteroides zhangwenhongii	-0.313133845
+Cutibacterium acnes	Phocaeicola salanitronis	-0.324243163
+Cutibacterium acnes	Alistipes finegoldii	-0.307560805
+Cutibacterium acnes	Alistipes onderdonkii	-0.339310572
+Cutibacterium acnes	Methylorubrum populi	0.358065413
+Cutibacterium acnes	Paracoccus denitrificans	0.483840747
+Cutibacterium acnes	Paracoccus kondratievae	0.348685151
+Cutibacterium acnes	Paracoccus pantotrophus	0.494481718
+Cutibacterium acnes	Paracoccus sp. MA	0.430796318
+Cutibacterium acnes	Sphingomonas paucimobilis	0.32275499
+Cutibacterium acnes	Acidovorax sp. 1608163	0.317939
+Cutibacterium acnes	Alicycliphilus denitrificans	0.422120205
+Cutibacterium acnes	Comamonas aquatica	0.389126668
+Cutibacterium acnes	Diaphorobacter sp. JS3050	0.479023324
+Cutibacterium acnes	Diaphorobacter sp. MNS-0	0.460654428
+Cutibacterium acnes	Enterobacter roggenkampii	0.314422268
+Cutibacterium acnes	Acinetobacter johnsonii	0.455862585
+Cutibacterium acnes	Pseudomonas aeruginosa	0.430446622
+Cutibacterium acnes	Pseudomonas balearica	0.391732207
+Cutibacterium acnes	Pseudoxanthomonas suwonensis	0.300352129
+Cutibacterium acnes	Xanthomonas campestris	0.392686732
+Collinsella aerofaciens	Phocaeicola vulgatus	0.354213846
+Collinsella aerofaciens	Clostridium botulinum	0.326761876
+Collinsella aerofaciens	Clostridium sp. M62/1	0.323442665
+Collinsella aerofaciens	Blautia hansenii	0.416019331
+Collinsella aerofaciens	Blautia massiliensis	0.538820683
+Collinsella aerofaciens	Blautia producta	0.492130902
+Collinsella aerofaciens	Coprococcus sp. ART55/1	0.351617301
+Collinsella aerofaciens	Dorea longicatena	0.496210695
+Collinsella aerofaciens	Lachnoanaerobaculum umeaense	0.312111122
+Collinsella aerofaciens	[Clostridium] hylemonae	0.364443536
+Collinsella aerofaciens	[Clostridium] scindens	0.368643581
+Collinsella aerofaciens	Lacrimispora saccharolytica	0.312061446
+Collinsella aerofaciens	Roseburia sp. NSJ-69	0.440707897
+Collinsella aerofaciens	Dysosmobacter sp. Marseille-Q4140	0.328630256
+Collinsella aerofaciens	Vescimonas coprocola	0.341560779
+Collinsella aerofaciens	Clostridioides difficile	0.391765904
+Collinsella aerofaciens	Intestinimonas butyriciproducens	0.302385219
+Collinsella aerofaciens	Amedibacterium intestinale	0.314377588
+Collinsella aerofaciens	Longicatena caecimuris	0.379091393
+Collinsella aerofaciens	Shewanella algae	-0.31504484
+Collinsella aerofaciens	Human gammaherpesvirus 4	-0.312025842
+Collinsella aerofaciens	Human betaherpesvirus 7	-0.360624075
+Collinsella stercoris	Bacteroides sp. KGMB10229	-0.314764535
+Collinsella stercoris	Lachnoanaerobaculum umeaense	0.32122591
+Collinsella stercoris	Sellimonas intestinalis	0.369024071
+Collinsella stercoris	Faecalibacterium duncaniae	0.340140475
+Collinsella stercoris	Faecalibacterium virus Lugh	0.312942523
+Eggerthella guodeyinii	Eggerthella lenta	0.475935168
+Eggerthella guodeyinii	Gordonibacter pamelaeae	0.399256379
+Eggerthella guodeyinii	Enterococcus avium	0.327205097
+Eggerthella guodeyinii	Streptococcus pyogenes	0.346484568
+Eggerthella guodeyinii	[Clostridium] scindens	0.310376269
+Eggerthella guodeyinii	Ruthenibacterium lactatiformans	0.384911199
+Eggerthella guodeyinii	[Clostridium] innocuum	0.345503316
+Eggerthella lenta	Gordonibacter pamelaeae	0.487879793
+Eggerthella lenta	Bacteroides fragilis	0.301060901
+Eggerthella lenta	Paucilactobacillus hokkaidonensis	-0.306146276
+Eggerthella lenta	Streptococcus anginosus	0.384383963
+Eggerthella lenta	Streptococcus equi	0.333955782
+Eggerthella lenta	Streptococcus pyogenes	0.321908388
+Eggerthella lenta	Streptococcus thermophilus	0.306735132
+Eggerthella lenta	Clostridium botulinum	0.359876339
+Eggerthella lenta	Clostridium sp. M62/1	0.477338745
+Eggerthella lenta	Eubacterium sp. NSJ-61	0.336365241
+Eggerthella lenta	Mogibacterium diversum	0.33192178
+Eggerthella lenta	Mogibacterium pumilum	0.314084269
+Eggerthella lenta	Anaerostipes caccae	0.495751886
+Eggerthella lenta	Blautia hansenii	0.474375784
+Eggerthella lenta	Blautia massiliensis	0.497615608
+Eggerthella lenta	Blautia producta	0.404289705
+Eggerthella lenta	Dorea longicatena	0.388410338
+Eggerthella lenta	Enterocloster clostridioformis	0.51144438
+Eggerthella lenta	Lachnoanaerobaculum umeaense	0.405771514
+Eggerthella lenta	[Clostridium] hylemonae	0.471084611
+Eggerthella lenta	[Clostridium] scindens	0.549987052
+Eggerthella lenta	Lachnoclostridium sp. YL32	0.545651488
+Eggerthella lenta	Lacrimispora saccharolytica	0.448155831
+Eggerthella lenta	Sellimonas intestinalis	0.402965877
+Eggerthella lenta	Dysosmobacter welbionis	0.378944685
+Eggerthella lenta	Flavonifractor plautii	0.491225386
+Eggerthella lenta	Ruthenibacterium lactatiformans	0.640663972
+Eggerthella lenta	Clostridioides difficile	0.55670755
+Eggerthella lenta	Filifactor alocis	0.356865431
+Eggerthella lenta	[Clostridium] innocuum	0.541595133
+Eggerthella lenta	Longicatena caecimuris	0.40610206
+Eggerthella lenta	Parvimonas micra	0.302795173
+Eggerthella lenta	Fusobacterium necrophorum	0.316715599
+Eggerthella lenta	Halarcobacter bivalviorum	-0.315897219
+Eggerthella lenta	Enterobacter roggenkampii	-0.306400051
+Eggerthella lenta	Acinetobacter defluvii	-0.327960718
+Eggerthella lenta	Acinetobacter larvae	-0.317997556
+Eggerthella lenta	Acinetobacter seifertii	-0.307113186
+Eggerthella lenta	Acinetobacter shaoyimingii	-0.320444456
+Eggerthella lenta	Acinetobacter sp. ACNIH2	-0.320791396
+Eggerthella lenta	Acinetobacter sp. C16S1	-0.301996926
+Eggerthella lenta	Acinetobacter sp. SCLZS86	-0.305452224
+Eggerthella lenta	Acinetobacter sp. SH20PTE14	-0.303584961
+Eggerthella lenta	Acinetobacter wuhouensis	-0.316857759
+Eggerthella lenta	Pseudomonas thivervalensis	-0.342335107
+Eggerthella lenta	Akkermansia muciniphila	0.326035504
+Gordonibacter pamelaeae	Streptococcus anginosus	0.36963877
+Gordonibacter pamelaeae	Streptococcus pyogenes	0.331792655
+Gordonibacter pamelaeae	Anaerostipes caccae	0.366451497
+Gordonibacter pamelaeae	Blautia massiliensis	0.351726571
+Gordonibacter pamelaeae	Blautia producta	0.346350485
+Gordonibacter pamelaeae	Enterocloster clostridioformis	0.396625968
+Gordonibacter pamelaeae	[Clostridium] scindens	0.386937149
+Gordonibacter pamelaeae	Sellimonas intestinalis	0.49454965
+Gordonibacter pamelaeae	Anaerotruncus colihominis	0.326357369
+Gordonibacter pamelaeae	Dysosmobacter welbionis	0.361920034
+Gordonibacter pamelaeae	Flavonifractor plautii	0.384471066
+Gordonibacter pamelaeae	Ruthenibacterium lactatiformans	0.48700077
+Gordonibacter pamelaeae	Vescimonas coprocola	0.305083347
+Gordonibacter pamelaeae	Clostridioides difficile	0.407839363
+Gordonibacter pamelaeae	[Clostridium] innocuum	0.490320062
+Gordonibacter pamelaeae	Erysipelatoclostridium ramosum	0.365807024
+Gordonibacter pamelaeae	Akkermansia muciniphila	0.350556357
+Bacteroides cellulosilyticus	Bacteroides helcogenes	0.327496097
+Bacteroides cellulosilyticus	Bacteroides intestinalis	0.504642421
+Bacteroides cellulosilyticus	Bacteroides luhongzhouii	0.348034977
+Bacteroides cellulosilyticus	Bacteroides nordii	0.469370581
+Bacteroides cellulosilyticus	Bacteroides sp. A1C1	0.457428812
+Bacteroides cellulosilyticus	Bacteroides sp. CACC 737	0.396207718
+Bacteroides cellulosilyticus	Bacteroides sp. CBA7301	0.359969871
+Bacteroides cellulosilyticus	Bacteroides sp. HF-162	0.318136374
+Bacteroides cellulosilyticus	Bacteroides sp. KGMB07931	0.300798155
+Bacteroides cellulosilyticus	Bacteroides sp. KGMB10229	0.341725748
+Bacteroides cellulosilyticus	Bacteroides xylanisolvens	0.369900872
+Bacteroides cellulosilyticus	Bacteroides zhangwenhongii	0.437730202
+Bacteroides cellulosilyticus	Phocaeicola coprophilus	0.475294404
+Bacteroides cellulosilyticus	Phocaeicola salanitronis	0.499459114
+Bacteroides cellulosilyticus	Phocaeicola vulgatus	0.312031796
+Bacteroides cellulosilyticus	Butyricimonas virosa	0.394439323
+Bacteroides cellulosilyticus	Odoribacter splanchnicus	0.369751106
+Bacteroides cellulosilyticus	Alistipes communis	0.402854945
+Bacteroides cellulosilyticus	Alistipes finegoldii	0.465205875
+Bacteroides cellulosilyticus	Alistipes onderdonkii	0.418638492
+Bacteroides cellulosilyticus	Alistipes shahii	0.39880934
+Bacteroides cellulosilyticus	Parabacteroides goldsteinii	0.47379953
+Bacteroides cellulosilyticus	Parabacteroides johnsonii	0.424003432
+Bacteroides cellulosilyticus	Streptococcus cristatus	-0.326216345
+Bacteroides cellulosilyticus	Streptococcus gallolyticus	-0.380699189
+Bacteroides cellulosilyticus	Streptococcus gordonii	-0.366714747
+Bacteroides cellulosilyticus	Streptococcus sp. NPS 308	-0.382432962
+Bacteroides cellulosilyticus	Streptococcus sp. oral taxon 064	-0.301300231
+Bacteroides cellulosilyticus	Streptococcus sp. oral taxon 431	-0.31366579
+Bacteroides cellulosilyticus	Coprococcus sp. ART55/1	0.321126472
+Bacteroides cellulosilyticus	Dysosmobacter sp. Marseille-Q4140	0.351736945
+Bacteroides cellulosilyticus	Dysosmobacter welbionis	0.369956943
+Bacteroides cellulosilyticus	Flavonifractor plautii	0.325037515
+Bacteroides cellulosilyticus	Pusillibacter faecalis	0.305310756
+Bacteroides cellulosilyticus	Vescimonas fastidiosa	0.337896831
+Bacteroides cellulosilyticus	Flintibacter sp. KGMB00164	0.36023129
+Bacteroides cellulosilyticus	Paracoccus denitrificans	-0.329468433
+Bacteroides cellulosilyticus	Paracoccus pantotrophus	-0.370769582
+Bacteroides cellulosilyticus	Paracoccus sp. MA	-0.353775863
+Bacteroides cellulosilyticus	Acidovorax sp. 1608163	-0.329826146
+Bacteroides cellulosilyticus	Acidovorax sp. KKS102	-0.375701413
+Bacteroides cellulosilyticus	Diaphorobacter sp. JS3050	-0.398110034
+Bacteroides cellulosilyticus	Diaphorobacter sp. MNS-0	-0.316860004
+Bacteroides faecis	Bacteroides luhongzhouii	0.395517634
+Bacteroides faecis	Bacteroides nordii	0.349036766
+Bacteroides faecis	Bacteroides ovatus	0.308121422
+Bacteroides faecis	Bacteroides sp. HF-162	0.31840168
+Bacteroides faecis	Bacteroides sp. M10	0.340761786
+Bacteroides faecis	Bacteroides xylanisolvens	0.394011315
+Bacteroides faecis	Bacteroides zhangwenhongii	0.433819846
+Bacteroides faecis	Phocaeicola coprophilus	0.317333285
+Bacteroides faecis	Phocaeicola salanitronis	0.465348037
+Bacteroides faecis	Parabacteroides johnsonii	0.328573924
+Bacteroides fragilis	Bacteroides nordii	0.300760859
+Bacteroides fragilis	Bacteroides ovatus	0.401846998
+Bacteroides fragilis	Bacteroides sp. M10	0.429810497
+Bacteroides fragilis	Bacteroides sp. ZJ-18	0.328029694
+Bacteroides fragilis	Bacteroides xylanisolvens	0.389575554
+Bacteroides fragilis	Phocaeicola vulgatus	0.308133057
+Bacteroides fragilis	Streptococcus pneumoniae	0.301204536
+Bacteroides fragilis	Blautia massiliensis	0.352207567
+Bacteroides fragilis	Dorea longicatena	0.357538807
+Bacteroides fragilis	[Clostridium] scindens	0.401354495
+Bacteroides fragilis	Lachnoclostridium sp. YL32	0.379896301
+Bacteroides fragilis	Flavonifractor plautii	0.343266626
+Bacteroides fragilis	Clostridioides difficile	0.363690296
+Bacteroides fragilis	Erysipelatoclostridium ramosum	0.526917467
+Bacteroides fragilis	Phascolarctobacterium faecium	0.39989277
+Bacteroides fragilis	Aspergillus luchuensis	-0.306871548
+Bacteroides helcogenes	Bacteroides intestinalis	0.389922757
+Bacteroides helcogenes	Bacteroides sp. A1C1	0.396990152
+Bacteroides helcogenes	Bacteroides sp. CACC 737	0.32101121
+Bacteroides helcogenes	Bacteroides zhangwenhongii	0.330447343
+Bacteroides helcogenes	Phocaeicola coprophilus	0.474877259
+Bacteroides helcogenes	Phocaeicola salanitronis	0.487277899
+Bacteroides helcogenes	Parabacteroides johnsonii	0.347953953
+Bacteroides helcogenes	Roseburia sp. NSJ-69	0.351858011
+Bacteroides intestinalis	Bacteroides nordii	0.303710072
+Bacteroides intestinalis	Bacteroides sp. A1C1	0.391142468
+Bacteroides intestinalis	Bacteroides sp. CACC 737	0.363324498
+Bacteroides intestinalis	Bacteroides sp. HF-162	0.315980815
+Bacteroides intestinalis	Bacteroides sp. KGMB10229	0.370628152
+Bacteroides intestinalis	Bacteroides zhangwenhongii	0.469235859
+Bacteroides intestinalis	Phocaeicola coprophilus	0.456982994
+Bacteroides intestinalis	Phocaeicola salanitronis	0.475633337
+Bacteroides intestinalis	Butyricimonas virosa	0.443424994
+Bacteroides intestinalis	Alistipes communis	0.374059773
+Bacteroides intestinalis	Alistipes dispar	0.318500466
+Bacteroides intestinalis	Alistipes finegoldii	0.310042787
+Bacteroides intestinalis	Alistipes shahii	0.343557476
+Bacteroides intestinalis	Parabacteroides johnsonii	0.361646838
+Bacteroides intestinalis	Streptococcus constellatus	-0.367495055
+Bacteroides intestinalis	Coprococcus sp. ART55/1	0.385749308
+Bacteroides intestinalis	Roseburia sp. NSJ-69	0.302684054
+Bacteroides intestinalis	Ruminococcus bicirculans	0.38441979
+Bacteroides luhongzhouii	Bacteroides nordii	0.360750127
+Bacteroides luhongzhouii	Bacteroides ovatus	0.627929406
+Bacteroides luhongzhouii	Bacteroides sp. CBA7301	0.536492711
+Bacteroides luhongzhouii	Bacteroides sp. HF-162	0.318108244
+Bacteroides luhongzhouii	Bacteroides sp. M10	0.60367217
+Bacteroides luhongzhouii	Bacteroides xylanisolvens	0.606545476
+Bacteroides luhongzhouii	Bacteroides zhangwenhongii	0.399868521
+Bacteroides luhongzhouii	Phocaeicola salanitronis	0.371462397
+Bacteroides luhongzhouii	Gemella morbillorum	-0.314408909
+Bacteroides luhongzhouii	Streptococcus gallolyticus	-0.314176508
+Bacteroides luhongzhouii	Streptococcus pasteurianus	-0.326137185
+Bacteroides luhongzhouii	Flavonifractor plautii	0.331575189
+Bacteroides luhongzhouii	Ruthenibacterium lactatiformans	0.345332702
+Bacteroides luhongzhouii	Phascolarctobacterium faecium	0.302540788
+Bacteroides luhongzhouii	Desulfovibrio desulfuricans	0.303638471
+Bacteroides luhongzhouii	Acinetobacter johnsonii	-0.306344103
+Bacteroides luhongzhouii	Akkermansia muciniphila	0.309898481
+Bacteroides nordii	Bacteroides ovatus	0.306714272
+Bacteroides nordii	Bacteroides sp. CBA7301	0.398817508
+Bacteroides nordii	Bacteroides sp. M10	0.324945806
+Bacteroides nordii	Bacteroides xylanisolvens	0.382877608
+Bacteroides nordii	Bacteroides zhangwenhongii	0.469375426
+Bacteroides nordii	Phocaeicola salanitronis	0.363308553
+Bacteroides nordii	Parabacteroides goldsteinii	0.328014539
+Bacteroides nordii	Parabacteroides johnsonii	0.338683708
+Bacteroides nordii	Clostridium sp. M62/1	0.303843482
+Bacteroides nordii	Blautia massiliensis	0.303703262
+Bacteroides nordii	[Clostridium] hylemonae	0.330453097
+Bacteroides nordii	[Clostridium] scindens	0.338211752
+Bacteroides nordii	Anaerotruncus colihominis	0.317145686
+Bacteroides nordii	Dysosmobacter welbionis	0.376650681
+Bacteroides nordii	Clostridioides difficile	0.311216933
+Bacteroides nordii	Phascolarctobacterium faecium	0.311011444
+Bacteroides nordii	Fusobacterium ulcerans	0.364957054
+Bacteroides nordii	Paracoccus sp. MA	-0.300254389
+Bacteroides ovatus	Bacteroides salyersiae	0.310805594
+Bacteroides ovatus	Bacteroides sp. CBA7301	0.434419643
+Bacteroides ovatus	Bacteroides sp. HF-162	0.431427862
+Bacteroides ovatus	Bacteroides sp. M10	0.760958016
+Bacteroides ovatus	Bacteroides xylanisolvens	0.764991391
+Bacteroides ovatus	Bacteroides zhangwenhongii	0.361413896
+Bacteroides ovatus	Phocaeicola vulgatus	0.382740718
+Bacteroides ovatus	Alistipes finegoldii	0.345152782
+Bacteroides ovatus	Clostridium sp. M62/1	0.374067525
+Bacteroides ovatus	Eubacterium sp. NSJ-61	0.360974858
+Bacteroides ovatus	Anaerostipes caccae	0.440077915
+Bacteroides ovatus	Blautia hansenii	0.371306573
+Bacteroides ovatus	Blautia massiliensis	0.385614164
+Bacteroides ovatus	Blautia producta	0.427383138
+Bacteroides ovatus	Dorea longicatena	0.3299134
+Bacteroides ovatus	Enterocloster clostridioformis	0.406216747
+Bacteroides ovatus	[Clostridium] hylemonae	0.366064232
+Bacteroides ovatus	[Clostridium] scindens	0.513390646
+Bacteroides ovatus	Lachnoclostridium sp. YL32	0.387022136
+Bacteroides ovatus	Lacrimispora saccharolytica	0.35666895
+Bacteroides ovatus	Sellimonas intestinalis	0.307595022
+Bacteroides ovatus	Anaerotruncus colihominis	0.386807473
+Bacteroides ovatus	Dysosmobacter welbionis	0.321385889
+Bacteroides ovatus	Flavonifractor plautii	0.528108385
+Bacteroides ovatus	Ruthenibacterium lactatiformans	0.448452829
+Bacteroides ovatus	Clostridioides difficile	0.40226971
+Bacteroides ovatus	Amedibacterium intestinale	0.313182157
+Bacteroides ovatus	[Clostridium] innocuum	0.467424055
+Bacteroides ovatus	Erysipelatoclostridium ramosum	0.402723479
+Bacteroides ovatus	Faecalitalea cylindroides	0.318887304
+Bacteroides ovatus	Phascolarctobacterium faecium	0.436236832
+Bacteroides ovatus	Fusobacterium ulcerans	0.317286441
+Bacteroides ovatus	Methylorubrum populi	-0.340899462
+Bacteroides ovatus	Acidovorax sp. 1608163	-0.315747626
+Bacteroides salyersiae	Butyricimonas virosa	0.472451476
+Bacteroides salyersiae	Odoribacter splanchnicus	0.453639968
+Bacteroides salyersiae	Porphyromonas asaccharolytica	0.354592707
+Bacteroides salyersiae	Porphyromonas somerae	0.322744403
+Bacteroides salyersiae	Alistipes communis	0.398402844
+Bacteroides salyersiae	Alistipes dispar	0.320122121
+Bacteroides salyersiae	Alistipes finegoldii	0.430619804
+Bacteroides salyersiae	Alistipes onderdonkii	0.44005905
+Bacteroides salyersiae	Alistipes shahii	0.391321093
+Bacteroides salyersiae	Dialister pneumosintes	0.365380581
+Bacteroides sp. A1C1	Bacteroides sp. CACC 737	0.527483083
+Bacteroides sp. A1C1	Bacteroides sp. HF-162	0.439889572
+Bacteroides sp. A1C1	Bacteroides sp. KGMB07931	0.369359913
+Bacteroides sp. A1C1	Bacteroides sp. KGMB10229	0.340465621
+Bacteroides sp. A1C1	Bacteroides xylanisolvens	0.389974727
+Bacteroides sp. A1C1	Bacteroides zhangwenhongii	0.446199662
+Bacteroides sp. A1C1	Phocaeicola coprophilus	0.512612313
+Bacteroides sp. A1C1	Phocaeicola salanitronis	0.406246147
+Bacteroides sp. A1C1	Phocaeicola vulgatus	0.396220591
+Bacteroides sp. A1C1	Alistipes finegoldii	0.402268486
+Bacteroides sp. A1C1	Parabacteroides sp. CT06	0.321559069
+Bacteroides sp. A1C1	Streptococcus sp. NPS 308	-0.308512523
+Bacteroides sp. A1C1	Clostridium sp. M62/1	0.342407613
+Bacteroides sp. A1C1	Eubacterium sp. NSJ-61	0.350202707
+Bacteroides sp. A1C1	Blautia massiliensis	0.36572835
+Bacteroides sp. A1C1	Blautia producta	0.345442829
+Bacteroides sp. A1C1	[Clostridium] hylemonae	0.302556498
+Bacteroides sp. A1C1	[Clostridium] scindens	0.340946983
+Bacteroides sp. A1C1	Roseburia sp. NSJ-69	0.356773508
+Bacteroides sp. A1C1	Dysosmobacter sp. Marseille-Q4140	0.346038672
+Bacteroides sp. A1C1	Dysosmobacter welbionis	0.32178841
+Bacteroides sp. A1C1	Flavonifractor plautii	0.38472858
+Bacteroides sp. A1C1	Flintibacter sp. KGMB00164	0.385785212
+Bacteroides sp. A1C1	Phascolarctobacterium faecium	0.317443648
+Bacteroides sp. A1C1	Acidovorax sp. 1608163	-0.305761207
+Bacteroides sp. CACC 737	Bacteroides sp. KGMB07931	0.433209506
+Bacteroides sp. CACC 737	Bacteroides zhangwenhongii	0.330935666
+Bacteroides sp. CACC 737	Phocaeicola salanitronis	0.328824211
+Bacteroides sp. CACC 737	Alistipes finegoldii	0.359624121
+Bacteroides sp. CBA7301	Bacteroides sp. HF-162	0.382555961
+Bacteroides sp. CBA7301	Bacteroides sp. M10	0.502963647
+Bacteroides sp. CBA7301	Bacteroides xylanisolvens	0.537777239
+Bacteroides sp. CBA7301	Bacteroides zhangwenhongii	0.458361161
+Bacteroides sp. CBA7301	Phocaeicola salanitronis	0.353579213
+Bacteroides sp. CBA7301	Alistipes finegoldii	0.323043926
+Bacteroides sp. CBA7301	Parabacteroides goldsteinii	0.411015326
+Bacteroides sp. CBA7301	Parabacteroides johnsonii	0.336937167
+Bacteroides sp. CBA7301	Parabacteroides sp. CT06	0.301311419
+Bacteroides sp. CBA7301	Streptococcus infantarius	-0.300141064
+Bacteroides sp. CBA7301	Clostridium sp. M62/1	0.357297078
+Bacteroides sp. CBA7301	Blautia hansenii	0.336346582
+Bacteroides sp. CBA7301	Blautia producta	0.312433646
+Bacteroides sp. CBA7301	Enterocloster clostridioformis	0.401309618
+Bacteroides sp. CBA7301	[Clostridium] scindens	0.389330298
+Bacteroides sp. CBA7301	Lachnoclostridium sp. YL32	0.387665348
+Bacteroides sp. CBA7301	Dysosmobacter welbionis	0.358576344
+Bacteroides sp. CBA7301	Flavonifractor plautii	0.418634199
+Bacteroides sp. CBA7301	Ruthenibacterium lactatiformans	0.397227378
+Bacteroides sp. CBA7301	Clostridioides difficile	0.335632826
+Bacteroides sp. CBA7301	Desulfovibrio desulfuricans	0.316042085
+Bacteroides sp. HF-162	Bacteroides sp. M10	0.342636108
+Bacteroides sp. HF-162	Bacteroides xylanisolvens	0.513388015
+Bacteroides sp. HF-162	Phocaeicola coprophilus	0.434422991
+Bacteroides sp. HF-162	Phocaeicola salanitronis	0.392020497
+Bacteroides sp. HF-162	Phocaeicola vulgatus	0.420056488
+Bacteroides sp. HF-162	Butyricimonas virosa	0.317681064
+Bacteroides sp. HF-162	Alistipes finegoldii	0.414811001
+Bacteroides sp. HF-162	Enterococcus raffinosus	-0.329098349
+Bacteroides sp. HF-162	Streptococcus intermedius	-0.305270101
+Bacteroides sp. HF-162	Streptococcus sp. NSJ-72	-0.331628457
+Bacteroides sp. HF-162	Clostridium sp. M62/1	0.382844029
+Bacteroides sp. HF-162	Blautia hansenii	0.330270484
+Bacteroides sp. HF-162	Blautia massiliensis	0.420577503
+Bacteroides sp. HF-162	Blautia producta	0.372548277
+Bacteroides sp. HF-162	Dorea longicatena	0.330554876
+Bacteroides sp. HF-162	Enterocloster clostridioformis	0.412380483
+Bacteroides sp. HF-162	[Clostridium] hylemonae	0.324844846
+Bacteroides sp. HF-162	[Clostridium] scindens	0.364625529
+Bacteroides sp. HF-162	Lachnoclostridium sp. YL32	0.367519776
+Bacteroides sp. HF-162	Roseburia sp. NSJ-69	0.3706844
+Bacteroides sp. HF-162	Ruthenibacterium lactatiformans	0.324918183
+Bacteroides sp. HF-162	Vescimonas coprocola	0.321183893
+Bacteroides sp. HF-162	Clostridioides difficile	0.329081811
+Bacteroides sp. HF-162	Intestinimonas butyriciproducens	0.315965471
+Bacteroides sp. KGMB07931	Bacteroides sp. KGMB10229	0.451458176
+Bacteroides sp. KGMB07931	Parabacteroides sp. CT06	0.303974999
+Bacteroides sp. KGMB07931	Zymoseptoria tritici	-0.302784813
+Bacteroides sp. KGMB10229	Alistipes finegoldii	0.315376967
+Bacteroides sp. M10	Bacteroides xylanisolvens	0.639825978
+Bacteroides sp. M10	Bacteroides zhangwenhongii	0.408932967
+Bacteroides sp. M10	Parabacteroides goldsteinii	0.361111669
+Bacteroides sp. M10	Clostridium sp. M62/1	0.35694401
+Bacteroides sp. M10	Eubacterium sp. NSJ-61	0.31293256
+Bacteroides sp. M10	Anaerostipes caccae	0.460719223
+Bacteroides sp. M10	Blautia hansenii	0.375432095
+Bacteroides sp. M10	Blautia massiliensis	0.31556918
+Bacteroides sp. M10	Blautia producta	0.307519145
+Bacteroides sp. M10	Enterocloster clostridioformis	0.375816586
+Bacteroides sp. M10	[Clostridium] scindens	0.405561429
+Bacteroides sp. M10	Lachnoclostridium sp. YL32	0.380330007
+Bacteroides sp. M10	Lacrimispora saccharolytica	0.329528779
+Bacteroides sp. M10	Flavonifractor plautii	0.503049824
+Bacteroides sp. M10	Ruthenibacterium lactatiformans	0.487971488
+Bacteroides sp. M10	Clostridioides difficile	0.349692616
+Bacteroides sp. M10	Amedibacterium intestinale	0.319751369
+Bacteroides sp. M10	[Clostridium] innocuum	0.386472043
+Bacteroides sp. M10	Erysipelatoclostridium ramosum	0.333573101
+Bacteroides sp. M10	Phascolarctobacterium faecium	0.358084582
+Bacteroides sp. M10	Methylorubrum populi	-0.327267906
+Bacteroides sp. M10	Sphingomonas paucimobilis	-0.311243942
+Bacteroides sp. M10	Acidovorax sp. 1608163	-0.376353821
+Bacteroides sp. M10	Acidovorax sp. KKS102	-0.306064514
+Bacteroides sp. M10	Akkermansia muciniphila	0.301119593
+Bacteroides sp. PHL 2737	Bacteroides sp. ZJ-18	0.33747832
+Bacteroides xylanisolvens	Bacteroides zhangwenhongii	0.499644049
+Bacteroides xylanisolvens	Phocaeicola coprophilus	0.326953384
+Bacteroides xylanisolvens	Phocaeicola salanitronis	0.350480156
+Bacteroides xylanisolvens	Phocaeicola vulgatus	0.487056208
+Bacteroides xylanisolvens	Alistipes finegoldii	0.324721715
+Bacteroides xylanisolvens	Alistipes onderdonkii	0.318552162
+Bacteroides xylanisolvens	Parabacteroides goldsteinii	0.331292547
+Bacteroides xylanisolvens	Parabacteroides johnsonii	0.332990911
+Bacteroides xylanisolvens	Streptococcus sp. NPS 308	-0.300728607
+Bacteroides xylanisolvens	Clostridium sp. M62/1	0.384008354
+Bacteroides xylanisolvens	Anaerostipes caccae	0.390864605
+Bacteroides xylanisolvens	Blautia hansenii	0.384322184
+Bacteroides xylanisolvens	Blautia massiliensis	0.428039373
+Bacteroides xylanisolvens	Blautia producta	0.459370091
+Bacteroides xylanisolvens	Dorea longicatena	0.367203089
+Bacteroides xylanisolvens	Enterocloster clostridioformis	0.406146407
+Bacteroides xylanisolvens	[Clostridium] hylemonae	0.347602395
+Bacteroides xylanisolvens	[Clostridium] scindens	0.538665682
+Bacteroides xylanisolvens	Lachnoclostridium sp. YL32	0.434843188
+Bacteroides xylanisolvens	Lacrimispora saccharolytica	0.359162338
+Bacteroides xylanisolvens	Roseburia sp. NSJ-69	0.317199946
+Bacteroides xylanisolvens	Sellimonas intestinalis	0.405367923
+Bacteroides xylanisolvens	Anaerotruncus colihominis	0.39802845
+Bacteroides xylanisolvens	Dysosmobacter sp. Marseille-Q4140	0.308772196
+Bacteroides xylanisolvens	Dysosmobacter welbionis	0.369953106
+Bacteroides xylanisolvens	Flavonifractor plautii	0.578499259
+Bacteroides xylanisolvens	Pusillibacter faecalis	0.313894193
+Bacteroides xylanisolvens	Ruthenibacterium lactatiformans	0.426035385
+Bacteroides xylanisolvens	Clostridioides difficile	0.445073455
+Bacteroides xylanisolvens	[Clostridium] innocuum	0.470046365
+Bacteroides xylanisolvens	Erysipelatoclostridium ramosum	0.374059861
+Bacteroides xylanisolvens	Phascolarctobacterium faecium	0.377507894
+Bacteroides xylanisolvens	Methylorubrum populi	-0.33493041
+Bacteroides xylanisolvens	Acidovorax sp. 1608163	-0.356146325
+Bacteroides xylanisolvens	Acinetobacter johnsonii	-0.309595851
+Bacteroides zhangwenhongii	Phocaeicola coprophilus	0.382422879
+Bacteroides zhangwenhongii	Phocaeicola salanitronis	0.50979886
+Bacteroides zhangwenhongii	Butyricimonas virosa	0.306025642
+Bacteroides zhangwenhongii	Alistipes finegoldii	0.369340607
+Bacteroides zhangwenhongii	Parabacteroides johnsonii	0.308679978
+Bacteroides zhangwenhongii	Parabacteroides sp. CT06	0.346166224
+Bacteroides zhangwenhongii	Clostridium sp. M62/1	0.302793282
+Bacteroides zhangwenhongii	Eubacterium sp. NSJ-61	0.386460742
+Bacteroides zhangwenhongii	Blautia massiliensis	0.334148415
+Bacteroides zhangwenhongii	Blautia producta	0.312136596
+Bacteroides zhangwenhongii	Dorea longicatena	0.321638266
+Bacteroides zhangwenhongii	[Clostridium] hylemonae	0.342514279
+Bacteroides zhangwenhongii	[Clostridium] scindens	0.35315511
+Bacteroides zhangwenhongii	Roseburia sp. NSJ-69	0.352680033
+Bacteroides zhangwenhongii	Dysosmobacter welbionis	0.362061583
+Bacteroides zhangwenhongii	Flavonifractor plautii	0.400108554
+Bacteroides zhangwenhongii	Pusillibacter faecalis	0.34010558
+Bacteroides zhangwenhongii	Phascolarctobacterium faecium	0.483749727
+Bacteroides zhangwenhongii	Paracoccus denitrificans	-0.36606502
+Bacteroides zhangwenhongii	Alicycliphilus denitrificans	-0.322133075
+Bacteroides zhangwenhongii	Diaphorobacter sp. MNS-0	-0.319383765
+Phocaeicola coprophilus	Phocaeicola salanitronis	0.598767705
+Phocaeicola coprophilus	Phocaeicola vulgatus	0.426043156
+Phocaeicola coprophilus	Butyricimonas virosa	0.329468141
+Phocaeicola coprophilus	Alistipes finegoldii	0.482486816
+Phocaeicola coprophilus	Alistipes shahii	0.320900064
+Phocaeicola coprophilus	Parabacteroides johnsonii	0.373186635
+Phocaeicola coprophilus	Streptococcus constellatus	-0.310831328
+Phocaeicola coprophilus	Clostridium sp. M62/1	0.414966313
+Phocaeicola coprophilus	Eubacterium sp. NSJ-61	0.342236438
+Phocaeicola coprophilus	Blautia hansenii	0.357365568
+Phocaeicola coprophilus	Blautia massiliensis	0.349056357
+Phocaeicola coprophilus	Coprococcus sp. ART55/1	0.399530202
+Phocaeicola coprophilus	Dorea longicatena	0.385099425
+Phocaeicola coprophilus	[Clostridium] hylemonae	0.394918462
+Phocaeicola coprophilus	[Clostridium] scindens	0.326990866
+Phocaeicola coprophilus	Roseburia sp. NSJ-69	0.474811991
+Phocaeicola coprophilus	Dysosmobacter sp. Marseille-Q4140	0.331893865
+Phocaeicola coprophilus	Dysosmobacter welbionis	0.320345657
+Phocaeicola coprophilus	Pusillibacter faecalis	0.414233462
+Phocaeicola coprophilus	Clostridioides difficile	0.316692747
+Phocaeicola coprophilus	Flintibacter sp. KGMB00164	0.393067975
+Phocaeicola coprophilus	Intestinimonas butyriciproducens	0.347493458
+Phocaeicola coprophilus	Acidovorax sp. KKS102	-0.307628289
+Phocaeicola coprophilus	Diaphorobacter sp. MNS-0	-0.300958029
+Phocaeicola salanitronis	Butyricimonas virosa	0.451661019
+Phocaeicola salanitronis	Odoribacter splanchnicus	0.320851319
+Phocaeicola salanitronis	Alistipes finegoldii	0.445288071
+Phocaeicola salanitronis	Parabacteroides johnsonii	0.378635789
+Phocaeicola salanitronis	Parabacteroides sp. CT06	0.302431741
+Phocaeicola salanitronis	[Clostridium] hylemonae	0.312263397
+Phocaeicola salanitronis	Roseburia sp. NSJ-69	0.311820611
+Phocaeicola salanitronis	Phascolarctobacterium faecium	0.323380813
+Phocaeicola salanitronis	Paracoccus denitrificans	-0.372616837
+Phocaeicola salanitronis	Paracoccus kondratievae	-0.303023163
+Phocaeicola salanitronis	Paracoccus pantotrophus	-0.341485383
+Phocaeicola salanitronis	Paracoccus sp. MA	-0.349929789
+Phocaeicola salanitronis	Acidovorax sp. KKS102	-0.306575043
+Phocaeicola salanitronis	Alicycliphilus denitrificans	-0.377575242
+Phocaeicola salanitronis	Comamonas aquatica	-0.310843069
+Phocaeicola salanitronis	Diaphorobacter sp. JS3050	-0.325491233
+Phocaeicola salanitronis	Diaphorobacter sp. MNS-0	-0.398244697
+Phocaeicola salanitronis	Morganella morganii	-0.305966135
+Phocaeicola salanitronis	Pseudomonas balearica	-0.309369702
+Phocaeicola vulgatus	Alistipes finegoldii	0.357639496
+Phocaeicola vulgatus	Granulicatella elegans	-0.302013409
+Phocaeicola vulgatus	Enterococcus avium	-0.377840142
+Phocaeicola vulgatus	Enterococcus raffinosus	-0.318853048
+Phocaeicola vulgatus	Streptococcus sp. NSJ-72	-0.328431153
+Phocaeicola vulgatus	Blautia hansenii	0.310732671
+Phocaeicola vulgatus	Blautia massiliensis	0.407678096
+Phocaeicola vulgatus	Blautia producta	0.333003051
+Phocaeicola vulgatus	Coprococcus sp. ART55/1	0.378947297
+Phocaeicola vulgatus	Dorea longicatena	0.427639403
+Phocaeicola vulgatus	[Clostridium] hylemonae	0.345830992
+Phocaeicola vulgatus	[Clostridium] scindens	0.451410971
+Phocaeicola vulgatus	Roseburia sp. NSJ-69	0.353557173
+Phocaeicola vulgatus	Flavonifractor plautii	0.387503733
+Phocaeicola vulgatus	Clostridioides difficile	0.344906126
+Butyricimonas virosa	Odoribacter splanchnicus	0.423089336
+Butyricimonas virosa	Alistipes communis	0.499424713
+Butyricimonas virosa	Alistipes dispar	0.445170422
+Butyricimonas virosa	Alistipes finegoldii	0.528572025
+Butyricimonas virosa	Alistipes onderdonkii	0.425085911
+Butyricimonas virosa	Alistipes shahii	0.603954455
+Butyricimonas virosa	Enterococcus avium	-0.303311261
+Butyricimonas virosa	Streptococcus rubneri	-0.36003089
+Butyricimonas virosa	Coprococcus sp. ART55/1	0.324329288
+Butyricimonas virosa	Roseburia sp. NSJ-69	0.31446101
+Butyricimonas virosa	Dysosmobacter welbionis	0.300314216
+Butyricimonas virosa	Vescimonas coprocola	0.487620874
+Butyricimonas virosa	Vescimonas fastidiosa	0.386957232
+Butyricimonas virosa	Intestinimonas butyriciproducens	0.310675756
+Butyricimonas virosa	Faecalitalea cylindroides	0.305705576
+Odoribacter splanchnicus	Prevotella intermedia	0.310362893
+Odoribacter splanchnicus	Alistipes communis	0.48791505
+Odoribacter splanchnicus	Alistipes dispar	0.400650881
+Odoribacter splanchnicus	Alistipes finegoldii	0.41583935
+Odoribacter splanchnicus	Alistipes onderdonkii	0.515874042
+Odoribacter splanchnicus	Alistipes shahii	0.508358034
+Odoribacter splanchnicus	Enterococcus faecalis	-0.33743315
+Odoribacter splanchnicus	Dysosmobacter welbionis	0.321645382
+Odoribacter splanchnicus	Vescimonas coprocola	0.450143485
+Odoribacter splanchnicus	Vescimonas fastidiosa	0.319480877
+Odoribacter splanchnicus	Dialister pneumosintes	0.340140664
+Odoribacter splanchnicus	Parvimonas micra	0.309714289
+Odoribacter splanchnicus	Fusobacterium nucleatum	0.33359422
+Odoribacter splanchnicus	Desulfovibrio piger	0.343018367
+Odoribacter splanchnicus	Morganella morganii	-0.365579756
+Porphyromonas asaccharolytica	Porphyromonas somerae	0.5813424
+Porphyromonas asaccharolytica	Blautia producta	-0.308274376
+Porphyromonas asaccharolytica	Amedibacterium intestinale	-0.355925419
+Porphyromonas asaccharolytica	Dialister pneumosintes	0.334266051
+Porphyromonas asaccharolytica	Fretibacterium fastidiosum	0.322033927
+Porphyromonas endodontalis	Porphyromonas gingivalis	0.308442155
+Porphyromonas endodontalis	Prevotella intermedia	0.348127226
+Porphyromonas endodontalis	Prevotella nigrescens	0.302113185
+Porphyromonas endodontalis	Mogibacterium pumilum	0.381274622
+Porphyromonas endodontalis	Fusobacterium pseudoperiodonticum	0.301411958
+Porphyromonas endodontalis	Treponema denticola	0.305575858
+Porphyromonas gingivalis	Prevotella intermedia	0.44325783
+Porphyromonas gingivalis	Prevotella nigrescens	0.420247439
+Porphyromonas gingivalis	Prevotella oris	0.362377467
+Porphyromonas gingivalis	Limosilactobacillus mucosae	-0.335582482
+Porphyromonas gingivalis	Streptococcus equi	0.313337636
+Porphyromonas gingivalis	Dialister pneumosintes	0.446293312
+Porphyromonas gingivalis	Anaerococcus vaginalis	0.309666341
+Porphyromonas gingivalis	Parvimonas micra	0.438269789
+Porphyromonas gingivalis	Fusobacterium hwasookii	0.328044494
+Porphyromonas gingivalis	Fusobacterium nucleatum	0.406833379
+Porphyromonas gingivalis	Fusobacterium pseudoperiodonticum	0.302508999
+Prevotella dentalis	Prevotella nigrescens	0.30852183
+Prevotella dentalis	Prevotella oris	0.310113786
+Prevotella dentalis	Prevotella sp. oral taxon 475	0.354186424
+Prevotella dentalis	Campylobacter rectus	0.321695798
+Prevotella intermedia	Prevotella nigrescens	0.614253519
+Prevotella intermedia	Prevotella oris	0.345928062
+Prevotella intermedia	Gemella morbillorum	0.453306351
+Prevotella intermedia	Streptococcus agalactiae	0.347071123
+Prevotella intermedia	Streptococcus anginosus	0.313661315
+Prevotella intermedia	Streptococcus dysgalactiae	0.404392503
+Prevotella intermedia	Streptococcus equi	0.313345494
+Prevotella intermedia	Streptococcus milleri	0.307012561
+Prevotella intermedia	Streptococcus mutans	0.338789172
+Prevotella intermedia	Streptococcus pyogenes	0.322631872
+Prevotella intermedia	Streptococcus thermophilus	0.321421179
+Prevotella intermedia	Mogibacterium diversum	0.412676278
+Prevotella intermedia	Mogibacterium pumilum	0.52470942
+Prevotella intermedia	Lachnoanaerobaculum umeaense	0.339806382
+Prevotella intermedia	Filifactor alocis	0.390067094
+Prevotella intermedia	Dialister pneumosintes	0.495659714
+Prevotella intermedia	Parvimonas micra	0.562752315
+Prevotella intermedia	Peptoniphilus harei	0.361272216
+Prevotella intermedia	Fusobacterium hwasookii	0.361789506
+Prevotella intermedia	Fusobacterium nucleatum	0.524191389
+Prevotella intermedia	Fusobacterium pseudoperiodonticum	0.385725584
+Prevotella intermedia	Fretibacterium fastidiosum	0.351286084
+Prevotella nigrescens	Prevotella oris	0.401908781
+Prevotella nigrescens	Prevotella sp. oral taxon 475	0.355542998
+Prevotella nigrescens	Alistipes shahii	0.326972401
+Prevotella nigrescens	Gemella morbillorum	0.334022274
+Prevotella nigrescens	Limosilactobacillus mucosae	-0.325830814
+Prevotella nigrescens	Streptococcus milleri	0.307199792
+Prevotella nigrescens	Mogibacterium diversum	0.399914348
+Prevotella nigrescens	Mogibacterium pumilum	0.466086519
+Prevotella nigrescens	Filifactor alocis	0.308348002
+Prevotella nigrescens	Selenomonas sputigena	0.329031118
+Prevotella nigrescens	Dialister pneumosintes	0.484034764
+Prevotella nigrescens	Parvimonas micra	0.460018079
+Prevotella nigrescens	Fusobacterium hwasookii	0.342776797
+Prevotella nigrescens	Fusobacterium nucleatum	0.489693876
+Prevotella nigrescens	Leptotrichia trevisanii	0.323593833
+Prevotella nigrescens	Campylobacter rectus	0.315668757
+Prevotella nigrescens	Campylobacter showae	0.36293331
+Prevotella oris	Fusobacterium mortiferum	0.314109122
+Prevotella oris	Campylobacter rectus	0.328672029
+Prevotella sp. oral taxon 475	Campylobacter rectus	0.340326491
+Prevotella sp. oral taxon 475	Campylobacter showae	0.331022448
+Alistipes communis	Alistipes dispar	0.453401197
+Alistipes communis	Alistipes finegoldii	0.473475446
+Alistipes communis	Alistipes onderdonkii	0.467502738
+Alistipes communis	Alistipes shahii	0.496441754
+Alistipes communis	Parabacteroides sp. CT06	0.304061949
+Alistipes communis	Vescimonas coprocola	0.371882346
+Alistipes dispar	Alistipes finegoldii	0.385766781
+Alistipes dispar	Alistipes onderdonkii	0.315320724
+Alistipes dispar	Alistipes shahii	0.459665552
+Alistipes finegoldii	Alistipes onderdonkii	0.567127236
+Alistipes finegoldii	Alistipes shahii	0.523813919
+Alistipes finegoldii	Parabacteroides goldsteinii	0.405847527
+Alistipes finegoldii	Parabacteroides johnsonii	0.331380615
+Alistipes finegoldii	Enterococcus avium	-0.351992873
+Alistipes finegoldii	Streptococcus gallolyticus	-0.351437974
+Alistipes finegoldii	Clostridium sp. M62/1	0.385151705
+Alistipes finegoldii	Blautia producta	0.325174878
+Alistipes finegoldii	Coprococcus sp. ART55/1	0.309237741
+Alistipes finegoldii	[Clostridium] hylemonae	0.370613245
+Alistipes finegoldii	[Clostridium] scindens	0.317840279
+Alistipes finegoldii	Anaerotruncus colihominis	0.302856301
+Alistipes finegoldii	Dysosmobacter welbionis	0.33533215
+Alistipes finegoldii	Flavonifractor plautii	0.365393595
+Alistipes finegoldii	Oscillibacter sp. NSJ-62	0.349328839
+Alistipes finegoldii	Pusillibacter faecalis	0.390454294
+Alistipes finegoldii	Vescimonas coprocola	0.359061146
+Alistipes finegoldii	Vescimonas fastidiosa	0.37959014
+Alistipes finegoldii	Flintibacter sp. KGMB00164	0.344764272
+Alistipes finegoldii	Intestinimonas butyriciproducens	0.455217221
+Alistipes finegoldii	Faecalitalea cylindroides	0.343632753
+Alistipes finegoldii	Phascolarctobacterium faecium	0.365011523
+Alistipes finegoldii	Akkermansia muciniphila	0.303390344
+Alistipes onderdonkii	Alistipes shahii	0.448840215
+Alistipes onderdonkii	Parabacteroides goldsteinii	0.493590653
+Alistipes onderdonkii	Streptococcus gallolyticus	-0.400761858
+Alistipes onderdonkii	Streptococcus infantarius	-0.325472016
+Alistipes onderdonkii	Streptococcus koreensis	-0.317968579
+Alistipes onderdonkii	Enterocloster clostridioformis	0.364976137
+Alistipes onderdonkii	[Clostridium] scindens	0.333417676
+Alistipes onderdonkii	Dysosmobacter welbionis	0.384385214
+Alistipes onderdonkii	Flavonifractor plautii	0.406327718
+Alistipes onderdonkii	Pusillibacter faecalis	0.349339212
+Alistipes onderdonkii	Ruthenibacterium lactatiformans	0.413076346
+Alistipes onderdonkii	Vescimonas coprocola	0.352835706
+Alistipes onderdonkii	Vescimonas fastidiosa	0.352049468
+Alistipes onderdonkii	Intestinimonas butyriciproducens	0.4522207
+Alistipes onderdonkii	[Clostridium] innocuum	0.338956077
+Alistipes onderdonkii	Akkermansia muciniphila	0.347827752
+Alistipes shahii	[Clostridium] hylemonae	0.303202411
+Alistipes shahii	Roseburia sp. NSJ-69	0.319276851
+Alistipes shahii	Dysosmobacter welbionis	0.33339443
+Alistipes shahii	Vescimonas coprocola	0.390282002
+Alistipes shahii	Vescimonas fastidiosa	0.392215741
+Alistipes shahii	Intestinimonas butyriciproducens	0.349949999
+Alistipes shahii	Veillonella parvula	-0.30629648
+Parabacteroides goldsteinii	Parabacteroides johnsonii	0.43145153
+Parabacteroides goldsteinii	Parabacteroides sp. CT06	0.378559992
+Parabacteroides goldsteinii	Enterococcus faecium	0.317736986
+Parabacteroides goldsteinii	Clostridium sp. M62/1	0.312761795
+Parabacteroides goldsteinii	Enterocloster clostridioformis	0.32552455
+Parabacteroides goldsteinii	Sellimonas intestinalis	0.309532884
+Parabacteroides goldsteinii	Dysosmobacter sp. Marseille-Q4140	0.327175287
+Parabacteroides goldsteinii	Dysosmobacter welbionis	0.319081451
+Parabacteroides goldsteinii	Flavonifractor plautii	0.481635764
+Parabacteroides goldsteinii	Pusillibacter faecalis	0.310813709
+Parabacteroides goldsteinii	Ruthenibacterium lactatiformans	0.357311213
+Parabacteroides goldsteinii	Intestinimonas butyriciproducens	0.349019975
+Parabacteroides goldsteinii	[Clostridium] innocuum	0.426833586
+Parabacteroides johnsonii	Parabacteroides sp. CT06	0.344997051
+Parabacteroides johnsonii	Blautia producta	0.325064564
+Parabacteroides johnsonii	Coprococcus sp. ART55/1	0.33755723
+Parabacteroides johnsonii	Flavonifractor plautii	0.32560145
+Parabacteroides johnsonii	Pusillibacter faecalis	0.364639877
+Parabacteroides johnsonii	Paracoccus denitrificans	-0.316842999
+Parabacteroides johnsonii	Diaphorobacter sp. JS3050	-0.342448055
+Parabacteroides sp. CT06	Clostridium sp. M62/1	0.316569652
+Parabacteroides sp. CT06	Blautia producta	0.302413181
+Parabacteroides sp. CT06	Lacrimispora saccharolytica	0.305187041
+Parabacteroides sp. CT06	[Clostridium] innocuum	0.37694974
+Parabacteroides sp. CT06	Phascolarctobacterium faecium	0.359390292
+Parabacteroides sp. CT06	Alicycliphilus denitrificans	-0.367965217
+Parabacteroides sp. CT06	Aeromonas veronii	-0.366413952
+Algibacter sp. L1A34	Clostridium sp. M62/1	-0.373218471
+Algibacter sp. L1A34	Eubacterium sp. MSJ-33	-0.312263385
+Algibacter sp. L1A34	Blautia hansenii	-0.345023982
+Algibacter sp. L1A34	Blautia massiliensis	-0.381587136
+Algibacter sp. L1A34	Blautia producta	-0.318061479
+Algibacter sp. L1A34	Coprococcus sp. ART55/1	-0.311381516
+Algibacter sp. L1A34	Dorea longicatena	-0.371372562
+Algibacter sp. L1A34	Enterocloster clostridioformis	-0.350391853
+Algibacter sp. L1A34	[Clostridium] hylemonae	-0.331107393
+Algibacter sp. L1A34	[Clostridium] scindens	-0.336477518
+Algibacter sp. L1A34	Lachnoclostridium sp. YL32	-0.330276437
+Algibacter sp. L1A34	Lacrimispora saccharolytica	-0.351414315
+Algibacter sp. L1A34	Roseburia sp. NSJ-69	-0.32074905
+Algibacter sp. L1A34	Dysosmobacter welbionis	-0.339787145
+Algibacter sp. L1A34	Clostridioides difficile	-0.36857841
+Algibacter sp. L1A34	Acinetobacter lanii	0.300326192
+Algibacter sp. L1A34	Aspergillus oryzae	0.322723888
+Capnocytophaga sputigena	Limosilactobacillus pontis	0.30384812
+Capnocytophaga sputigena	Streptococcus agalactiae	-0.302083055
+Capnocytophaga sputigena	Blautia massiliensis	-0.31774351
+Capnocytophaga sputigena	Dorea longicatena	-0.33903243
+Capnocytophaga sputigena	[Clostridium] scindens	-0.38753745
+Capnocytophaga sputigena	Longicatena caecimuris	-0.311637389
+Capnocytophaga sputigena	Ralstonia sp. 56D2	0.370156475
+Capnocytophaga sputigena	Enterobacter sichuanensis	0.359304124
+Elizabethkingia sp. JS20170427COW	Blautia hansenii	-0.346856994
+Elizabethkingia sp. JS20170427COW	Blautia massiliensis	-0.324268625
+Elizabethkingia sp. JS20170427COW	Dorea longicatena	-0.332940133
+Elizabethkingia sp. JS20170427COW	[Clostridium] hylemonae	-0.310191341
+Staphylococcus epidermidis	Alicycliphilus denitrificans	0.333407032
+Gemella haemolysans	Gemella morbillorum	0.438700983
+Gemella haemolysans	Granulicatella adiacens	0.373389846
+Gemella haemolysans	Streptococcus agalactiae	0.31747259
+Gemella haemolysans	Streptococcus anginosus	0.30531026
+Gemella haemolysans	Streptococcus intermedius	0.352658867
+Gemella haemolysans	Streptococcus milleri	0.349748242
+Gemella haemolysans	Streptococcus sanguinis	0.38207182
+Gemella haemolysans	Streptococcus sp. NSJ-72	0.311773725
+Gemella haemolysans	Parvimonas micra	0.302138576
+Gemella haemolysans	Fusobacterium pseudoperiodonticum	0.303937195
+Gemella morbillorum	Granulicatella adiacens	0.403265112
+Gemella morbillorum	Limosilactobacillus mucosae	-0.340341353
+Gemella morbillorum	Streptococcus agalactiae	0.359141485
+Gemella morbillorum	Streptococcus anginosus	0.439480776
+Gemella morbillorum	Streptococcus constellatus	0.458787838
+Gemella morbillorum	Streptococcus dysgalactiae	0.406635952
+Gemella morbillorum	Streptococcus equi	0.472688772
+Gemella morbillorum	Streptococcus gallolyticus	0.320713409
+Gemella morbillorum	Streptococcus intermedius	0.456392123
+Gemella morbillorum	Streptococcus milleri	0.321944115
+Gemella morbillorum	Streptococcus mutans	0.45374059
+Gemella morbillorum	Streptococcus oralis	0.317183506
+Gemella morbillorum	Streptococcus pasteurianus	0.44876087
+Gemella morbillorum	Streptococcus sanguinis	0.321128052
+Gemella morbillorum	Streptococcus sp. NSJ-72	0.324243257
+Gemella morbillorum	Streptococcus thermophilus	0.393179013
+Gemella morbillorum	Mogibacterium diversum	0.304035697
+Gemella morbillorum	Mogibacterium pumilum	0.384260405
+Gemella morbillorum	Filifactor alocis	0.378444896
+Gemella morbillorum	Dialister pneumosintes	0.387603927
+Gemella morbillorum	Parvimonas micra	0.653120683
+Gemella morbillorum	Fusobacterium hwasookii	0.489398041
+Gemella morbillorum	Fusobacterium nucleatum	0.486287963
+Gemella morbillorum	Fusobacterium pseudoperiodonticum	0.488158092
+Gemella morbillorum	Leptotrichia trevisanii	0.306949814
+Granulicatella adiacens	Streptococcus anginosus	0.356628661
+Granulicatella adiacens	Streptococcus constellatus	0.436666953
+Granulicatella adiacens	Streptococcus cristatus	0.39951938
+Granulicatella adiacens	Streptococcus equi	0.332730277
+Granulicatella adiacens	Streptococcus gallolyticus	0.314453603
+Granulicatella adiacens	Streptococcus gordonii	0.404817492
+Granulicatella adiacens	Streptococcus intermedius	0.496208905
+Granulicatella adiacens	Streptococcus mutans	0.383521119
+Granulicatella adiacens	Streptococcus oralis	0.433233165
+Granulicatella adiacens	Streptococcus periodonticum	0.305370189
+Granulicatella adiacens	Streptococcus pneumoniae	0.350906182
+Granulicatella adiacens	Streptococcus sanguinis	0.605805408
+Granulicatella adiacens	Streptococcus thermophilus	0.335951967
+Granulicatella adiacens	Eubacterium limosum	-0.320600086
+Granulicatella adiacens	Parvimonas micra	0.390274001
+Granulicatella adiacens	Fusobacterium pseudoperiodonticum	0.370435759
+Granulicatella elegans	Streptococcus equi	0.30835271
+Granulicatella elegans	Streptococcus mutans	0.351800202
+Granulicatella elegans	Streptococcus pyogenes	0.351937372
+Granulicatella elegans	Mogibacterium pumilum	0.32404452
+Granulicatella elegans	Filifactor alocis	0.356219565
+Granulicatella elegans	Parvimonas micra	0.382506105
+Enterococcus avium	Enterococcus raffinosus	0.349867566
+Enterococcus avium	Streptococcus cristatus	0.30880598
+Enterococcus avium	Streptococcus sp. NSJ-72	0.368345923
+Enterococcus avium	Vescimonas coprocola	-0.338387952
+Enterococcus avium	Erysipelatoclostridium ramosum	0.363724369
+Enterococcus avium	Morganella morganii	0.321390605
+Enterococcus faecalis	Limosilactobacillus mucosae	0.303451036
+Enterococcus faecalis	Streptococcus rubneri	0.304126729
+Enterococcus faecium	Clostridium sp. M62/1	0.313927809
+Enterococcus faecium	Anaerostipes caccae	0.322319444
+Enterococcus faecium	Clostridioides difficile	0.339045579
+Enterococcus faecium	[Clostridium] innocuum	0.319407861
+Enterococcus faecium	Fusobacterium hwasookii	-0.312051951
+Enterococcus raffinosus	Vescimonas coprocola	-0.388523426
+Enterococcus raffinosus	Morganella morganii	0.405003466
+Limosilactobacillus mucosae	Parvimonas micra	-0.325351494
+Limosilactobacillus mucosae	Fusobacterium hwasookii	-0.332948734
+Limosilactobacillus mucosae	Fusobacterium nucleatum	-0.311897184
+Limosilactobacillus mucosae	Fusobacterium pseudoperiodonticum	-0.339801153
+Limosilactobacillus mucosae	Klebsiella variicola	0.336505622
+Limosilactobacillus mucosae	CrAss-like virus sp.	0.384528325
+Limosilactobacillus mucosae	uncultured crAssphage	0.313542157
+Limosilactobacillus pontis	Clostridium sp. M62/1	-0.30355172
+Limosilactobacillus pontis	Blautia hansenii	-0.333715001
+Limosilactobacillus pontis	Blautia massiliensis	-0.346508791
+Limosilactobacillus pontis	Blautia producta	-0.323558105
+Limosilactobacillus pontis	Dorea longicatena	-0.329947948
+Limosilactobacillus pontis	[Clostridium] hylemonae	-0.332065346
+Limosilactobacillus pontis	[Clostridium] scindens	-0.420487584
+Limosilactobacillus pontis	Lacrimispora saccharolytica	-0.309131446
+Limosilactobacillus pontis	Dysosmobacter welbionis	-0.33694237
+Limosilactobacillus pontis	Flavonifractor plautii	-0.330586578
+Limosilactobacillus pontis	Vescimonas coprocola	-0.326004919
+Limosilactobacillus pontis	Vescimonas fastidiosa	-0.306945981
+Limosilactobacillus pontis	Clostridioides difficile	-0.359020037
+Limosilactobacillus pontis	Longicatena caecimuris	-0.330029281
+Limosilactobacillus pontis	Enterobacter roggenkampii	0.305572945
+Limosilactobacillus pontis	Enterobacter sichuanensis	0.308271997
+Limosilactobacillus pontis	Acinetobacter towneri	0.320874679
+Limosilactobacillus pontis	Acinetobacter venetianus	0.312483456
+Paucilactobacillus hokkaidonensis	[Clostridium] scindens	-0.306447254
+Streptococcus agalactiae	Streptococcus anginosus	0.430773917
+Streptococcus agalactiae	Streptococcus dysgalactiae	0.41221294
+Streptococcus agalactiae	Streptococcus equi	0.389708787
+Streptococcus agalactiae	Streptococcus gordonii	0.325191812
+Streptococcus agalactiae	Streptococcus intermedius	0.372962885
+Streptococcus agalactiae	Streptococcus milleri	0.380784883
+Streptococcus agalactiae	Streptococcus mutans	0.461117432
+Streptococcus agalactiae	Streptococcus oralis	0.320257083
+Streptococcus agalactiae	Streptococcus pyogenes	0.344400415
+Streptococcus agalactiae	Streptococcus sanguinis	0.310411782
+Streptococcus agalactiae	Streptococcus thermophilus	0.372964247
+Streptococcus agalactiae	Clostridium sporogenes	0.328672885
+Streptococcus agalactiae	Mogibacterium pumilum	0.31338041
+Streptococcus agalactiae	Filifactor alocis	0.391900533
+Streptococcus agalactiae	Romboutsia hominis	0.310286191
+Streptococcus agalactiae	Parvimonas micra	0.38565166
+Streptococcus agalactiae	Peptoniphilus harei	0.322112036
+Streptococcus agalactiae	Fusobacterium nucleatum	0.366429579
+Streptococcus agalactiae	Leptotrichia trevisanii	0.392875379
+Streptococcus agalactiae	Acinetobacter sp. SCLZS86	-0.306122006
+Streptococcus agalactiae	Human gammaherpesvirus 4	-0.354301518
+Streptococcus anginosus	Streptococcus constellatus	0.484739866
+Streptococcus anginosus	Streptococcus cristatus	0.364268443
+Streptococcus anginosus	Streptococcus dysgalactiae	0.480187694
+Streptococcus anginosus	Streptococcus equi	0.465167088
+Streptococcus anginosus	Streptococcus intermedius	0.550500372
+Streptococcus anginosus	Streptococcus milleri	0.464318934
+Streptococcus anginosus	Streptococcus mutans	0.420612045
+Streptococcus anginosus	Streptococcus oralis	0.410342494
+Streptococcus anginosus	Streptococcus periodonticum	0.510276117
+Streptococcus anginosus	Streptococcus pneumoniae	0.367074319
+Streptococcus anginosus	Streptococcus pyogenes	0.441882408
+Streptococcus anginosus	Streptococcus sanguinis	0.309044377
+Streptococcus anginosus	Streptococcus sp. KS 6	0.419030995
+Streptococcus anginosus	Streptococcus sp. NSJ-72	0.446117519
+Streptococcus anginosus	Streptococcus thermophilus	0.534738707
+Streptococcus anginosus	Mogibacterium diversum	0.407536338
+Streptococcus anginosus	Mogibacterium pumilum	0.449787485
+Streptococcus anginosus	Filifactor alocis	0.463878885
+Streptococcus anginosus	Romboutsia hominis	0.333301061
+Streptococcus anginosus	Dialister pneumosintes	0.307587423
+Streptococcus anginosus	Parvimonas micra	0.615387548
+Streptococcus anginosus	Fusobacterium hwasookii	0.318965112
+Streptococcus anginosus	Fusobacterium necrophorum	0.399304719
+Streptococcus anginosus	Fusobacterium nucleatum	0.516548063
+Streptococcus anginosus	Fusobacterium pseudoperiodonticum	0.33861769
+Streptococcus australis	Streptococcus cristatus	0.351287622
+Streptococcus australis	Streptococcus gordonii	0.431772304
+Streptococcus australis	Streptococcus ilei	0.343552057
+Streptococcus australis	Streptococcus oralis	0.456692058
+Streptococcus australis	Streptococcus pneumoniae	0.372001614
+Streptococcus australis	Streptococcus rubneri	0.363417812
+Streptococcus australis	Streptococcus sanguinis	0.322915359
+Streptococcus australis	Streptococcus sp. NPS 308	0.319279951
+Streptococcus australis	Streptococcus sp. oral taxon 064	0.308740349
+Streptococcus australis	Erysipelatoclostridium ramosum	0.303588888
+Streptococcus constellatus	Streptococcus dysgalactiae	0.412553719
+Streptococcus constellatus	Streptococcus equi	0.465853148
+Streptococcus constellatus	Streptococcus intermedius	0.458979386
+Streptococcus constellatus	Streptococcus milleri	0.42396863
+Streptococcus constellatus	Streptococcus mutans	0.373505796
+Streptococcus constellatus	Streptococcus oralis	0.331587571
+Streptococcus constellatus	Streptococcus pneumoniae	0.324629575
+Streptococcus constellatus	Streptococcus pyogenes	0.399812399
+Streptococcus constellatus	Streptococcus sanguinis	0.341416007
+Streptococcus constellatus	Streptococcus sp. KS 6	0.332802677
+Streptococcus constellatus	Streptococcus sp. NSJ-72	0.462444144
+Streptococcus constellatus	Streptococcus thermophilus	0.36929935
+Streptococcus constellatus	Mogibacterium pumilum	0.441952241
+Streptococcus constellatus	Filifactor alocis	0.360925395
+Streptococcus constellatus	Parvimonas micra	0.546059515
+Streptococcus constellatus	Fusobacterium hwasookii	0.401108301
+Streptococcus constellatus	Fusobacterium necrophorum	0.427464379
+Streptococcus constellatus	Fusobacterium nucleatum	0.379477475
+Streptococcus constellatus	Fusobacterium pseudoperiodonticum	0.441610603
+Streptococcus cristatus	Streptococcus gallolyticus	0.346029976
+Streptococcus cristatus	Streptococcus gordonii	0.531970004
+Streptococcus cristatus	Streptococcus ilei	0.316163006
+Streptococcus cristatus	Streptococcus intermedius	0.417304329
+Streptococcus cristatus	Streptococcus milleri	0.309999291
+Streptococcus cristatus	Streptococcus mutans	0.302880764
+Streptococcus cristatus	Streptococcus oralis	0.592722222
+Streptococcus cristatus	Streptococcus periodonticum	0.351869759
+Streptococcus cristatus	Streptococcus pneumoniae	0.421813756
+Streptococcus cristatus	Streptococcus rubneri	0.422125883
+Streptococcus cristatus	Streptococcus sanguinis	0.51430161
+Streptococcus cristatus	Streptococcus sp. KS 6	0.312773457
+Streptococcus cristatus	Streptococcus sp. NPS 308	0.391366335
+Streptococcus cristatus	Streptococcus sp. NSJ-72	0.327796597
+Streptococcus cristatus	Streptococcus sp. oral taxon 431	0.365644388
+Streptococcus cristatus	Streptococcus thermophilus	0.391225085
+Streptococcus cristatus	Streptococcus vestibularis	0.323265656
+Streptococcus cristatus	Morganella morganii	0.318342032
+Streptococcus dysgalactiae	Streptococcus equi	0.474088575
+Streptococcus dysgalactiae	Streptococcus intermedius	0.336062656
+Streptococcus dysgalactiae	Streptococcus milleri	0.364123374
+Streptococcus dysgalactiae	Streptococcus mutans	0.426730658
+Streptococcus dysgalactiae	Streptococcus pyogenes	0.507692134
+Streptococcus dysgalactiae	Streptococcus sp. NSJ-72	0.341812781
+Streptococcus dysgalactiae	Streptococcus thermophilus	0.392666833
+Streptococcus dysgalactiae	Mogibacterium diversum	0.342835863
+Streptococcus dysgalactiae	Mogibacterium pumilum	0.441260394
+Streptococcus dysgalactiae	Filifactor alocis	0.472866208
+Streptococcus dysgalactiae	Parvimonas micra	0.538754902
+Streptococcus dysgalactiae	Fusobacterium hwasookii	0.397719213
+Streptococcus dysgalactiae	Fusobacterium necrophorum	0.318226068
+Streptococcus dysgalactiae	Fusobacterium nucleatum	0.411526492
+Streptococcus dysgalactiae	Leptotrichia trevisanii	0.345262203
+Streptococcus dysgalactiae	Sphingomonas melonis	-0.319632274
+Streptococcus dysgalactiae	Enterobacter kobei	-0.327997445
+Streptococcus dysgalactiae	Acinetobacter sp. TTH0-4	-0.302540807
+Streptococcus equi	Streptococcus intermedius	0.452150491
+Streptococcus equi	Streptococcus milleri	0.398755936
+Streptococcus equi	Streptococcus mutans	0.577943781
+Streptococcus equi	Streptococcus pyogenes	0.447302401
+Streptococcus equi	Streptococcus sp. NSJ-72	0.355050846
+Streptococcus equi	Streptococcus thermophilus	0.44626413
+Streptococcus equi	Mogibacterium pumilum	0.506000241
+Streptococcus equi	Filifactor alocis	0.390204067
+Streptococcus equi	Romboutsia hominis	0.332434047
+Streptococcus equi	Dialister pneumosintes	0.415931879
+Streptococcus equi	Parvimonas micra	0.580224204
+Streptococcus equi	Peptoniphilus harei	0.307185616
+Streptococcus equi	Fusobacterium hwasookii	0.416827396
+Streptococcus equi	Fusobacterium necrophorum	0.389480224
+Streptococcus equi	Fusobacterium nucleatum	0.494901751
+Streptococcus equi	Fusobacterium pseudoperiodonticum	0.332650962
+Streptococcus gallolyticus	Streptococcus gordonii	0.346659298
+Streptococcus gallolyticus	Streptococcus infantarius	0.343476897
+Streptococcus gallolyticus	Streptococcus lutetiensis	0.550180766
+Streptococcus gallolyticus	Streptococcus pasteurianus	0.668932989
+Streptococcus gallolyticus	Streptococcus thermophilus	0.305366605
+Streptococcus gordonii	Streptococcus oralis	0.48471625
+Streptococcus gordonii	Streptococcus pneumoniae	0.328537917
+Streptococcus gordonii	Streptococcus rubneri	0.38141895
+Streptococcus gordonii	Streptococcus sanguinis	0.593409231
+Streptococcus gordonii	Streptococcus sp. NPS 308	0.422435385
+Streptococcus gordonii	Streptococcus sp. oral taxon 064	0.306320578
+Streptococcus ilei	Streptococcus koreensis	0.300072953
+Streptococcus ilei	Streptococcus rubneri	0.340134964
+Streptococcus infantarius	Streptococcus lutetiensis	0.341143114
+Streptococcus infantarius	Streptococcus pasteurianus	0.346056126
+Streptococcus infantarius	Dysosmobacter sp. Marseille-Q4140	-0.313453243
+Streptococcus infantarius	Dysosmobacter welbionis	-0.323001844
+Streptococcus infantarius	Flavonifractor plautii	-0.306992503
+Streptococcus infantarius	Ruthenibacterium lactatiformans	-0.323609716
+Streptococcus infantarius	Vescimonas coprocola	-0.322178261
+Streptococcus intermedius	Streptococcus milleri	0.49388068
+Streptococcus intermedius	Streptococcus mutans	0.531903129
+Streptococcus intermedius	Streptococcus oralis	0.365721445
+Streptococcus intermedius	Streptococcus periodonticum	0.407872124
+Streptococcus intermedius	Streptococcus pneumoniae	0.324728776
+Streptococcus intermedius	Streptococcus sanguinis	0.45353715
+Streptococcus intermedius	Streptococcus sp. KS 6	0.409334028
+Streptococcus intermedius	Streptococcus sp. NSJ-72	0.49022885
+Streptococcus intermedius	Streptococcus thermophilus	0.385532295
+Streptococcus intermedius	Mogibacterium pumilum	0.362516506
+Streptococcus intermedius	Filifactor alocis	0.394481822
+Streptococcus intermedius	Parvimonas micra	0.518219585
+Streptococcus intermedius	Fusobacterium necrophorum	0.320398577
+Streptococcus intermedius	Leptotrichia trevisanii	0.37999184
+Streptococcus koreensis	Streptococcus rubneri	0.338509965
+Streptococcus lutetiensis	Streptococcus pasteurianus	0.572558718
+Streptococcus lutetiensis	Morganella morganii	0.342360254
+Streptococcus milleri	Streptococcus mutans	0.405085793
+Streptococcus milleri	Streptococcus oralis	0.320449596
+Streptococcus milleri	Streptococcus periodonticum	0.388088398
+Streptococcus milleri	Streptococcus sp. KS 6	0.444687505
+Streptococcus milleri	Streptococcus sp. NSJ-72	0.468206973
+Streptococcus milleri	Streptococcus thermophilus	0.347747466
+Streptococcus milleri	Mogibacterium diversum	0.310651625
+Streptococcus milleri	Mogibacterium pumilum	0.434339055
+Streptococcus milleri	Filifactor alocis	0.372199106
+Streptococcus milleri	Parvimonas micra	0.435969236
+Streptococcus milleri	Fusobacterium nucleatum	0.319454945
+Streptococcus mutans	Streptococcus oralis	0.324724684
+Streptococcus mutans	Streptococcus pyogenes	0.451421744
+Streptococcus mutans	Streptococcus sanguinis	0.334086304
+Streptococcus mutans	Streptococcus sp. NSJ-72	0.334295741
+Streptococcus mutans	Streptococcus thermophilus	0.500583711
+Streptococcus mutans	Mogibacterium diversum	0.333659655
+Streptococcus mutans	Mogibacterium pumilum	0.53995535
+Streptococcus mutans	Filifactor alocis	0.460303308
+Streptococcus mutans	Romboutsia hominis	0.387417472
+Streptococcus mutans	Parvimonas micra	0.542151446
+Streptococcus mutans	Peptoniphilus harei	0.344654856
+Streptococcus mutans	Fusobacterium hwasookii	0.335929461
+Streptococcus mutans	Fusobacterium necrophorum	0.373937919
+Streptococcus mutans	Fusobacterium nucleatum	0.415178862
+Streptococcus mutans	Leptotrichia sp. oral taxon 212	0.333726856
+Streptococcus oralis	Streptococcus periodonticum	0.343350142
+Streptococcus oralis	Streptococcus pneumoniae	0.581018035
+Streptococcus oralis	Streptococcus sanguinis	0.461581811
+Streptococcus oralis	Streptococcus sp. KS 6	0.4024775
+Streptococcus oralis	Streptococcus sp. NPS 308	0.473447876
+Streptococcus oralis	Streptococcus sp. oral taxon 064	0.379475264
+Streptococcus oralis	Streptococcus sp. oral taxon 431	0.488453278
+Streptococcus oralis	Streptococcus thermophilus	0.376093467
+Streptococcus pasteurianus	Anaerococcus vaginalis	0.302321615
+Streptococcus periodonticum	Streptococcus sp. KS 6	0.447898907
+Streptococcus periodonticum	Streptococcus sp. NSJ-72	0.346228186
+Streptococcus periodonticum	Parvimonas micra	0.301486945
+Streptococcus pneumoniae	Streptococcus rubneri	0.324823205
+Streptococcus pneumoniae	Streptococcus sanguinis	0.357457545
+Streptococcus pneumoniae	Streptococcus sp. NPS 308	0.323338097
+Streptococcus pneumoniae	Streptococcus sp. oral taxon 431	0.420368548
+Streptococcus pneumoniae	Streptococcus thermophilus	0.325720958
+Streptococcus pyogenes	Streptococcus sp. NSJ-72	0.356945045
+Streptococcus pyogenes	Streptococcus thermophilus	0.408722992
+Streptococcus pyogenes	Mogibacterium diversum	0.357070816
+Streptococcus pyogenes	Mogibacterium pumilum	0.458115508
+Streptococcus pyogenes	Filifactor alocis	0.492105896
+Streptococcus pyogenes	Romboutsia hominis	0.316406995
+Streptococcus pyogenes	Parvimonas micra	0.515731461
+Streptococcus pyogenes	Fusobacterium necrophorum	0.307837406
+Streptococcus pyogenes	Fusobacterium nucleatum	0.391077549
+Streptococcus pyogenes	Human betaherpesvirus 6B	-0.301552545
+Streptococcus rubneri	Streptococcus sanguinis	0.334986285
+Streptococcus rubneri	Streptococcus sp. oral taxon 431	0.320585409
+Streptococcus sanguinis	Streptococcus sp. NPS 308	0.30521778
+Streptococcus sanguinis	Morganella morganii	0.351776933
+Streptococcus sp. KS 6	Streptococcus sp. NSJ-72	0.353580088
+Streptococcus sp. LPB0220	Streptococcus vestibularis	0.313042448
+Streptococcus sp. LPB0220	Veillonella dispar	0.359081218
+Streptococcus sp. NPS 308	Streptococcus sp. oral taxon 064	0.448709143
+Streptococcus sp. NPS 308	Streptococcus sp. oral taxon 431	0.419262668
+Streptococcus sp. NPS 308	Enterocloster clostridioformis	-0.300406341
+Streptococcus sp. NPS 308	Dysosmobacter sp. Marseille-Q4140	-0.32570651
+Streptococcus sp. NPS 308	Dysosmobacter welbionis	-0.405873686
+Streptococcus sp. NPS 308	Flavonifractor plautii	-0.381585409
+Streptococcus sp. NPS 308	Pusillibacter faecalis	-0.30051668
+Streptococcus sp. NPS 308	Ruminococcus bicirculans	-0.310596023
+Streptococcus sp. NPS 308	Ruthenibacterium lactatiformans	-0.369211848
+Streptococcus sp. NPS 308	Aggregatibacter segnis	0.324175083
+Streptococcus sp. NSJ-72	Mogibacterium pumilum	0.327690963
+Streptococcus sp. NSJ-72	Filifactor alocis	0.350357266
+Streptococcus sp. NSJ-72	Parvimonas micra	0.370691522
+Streptococcus sp. oral taxon 064	Streptococcus sp. oral taxon 431	0.366448262
+Streptococcus sp. oral taxon 064	Clostridium sp. M62/1	-0.305892252
+Streptococcus sp. oral taxon 064	Eubacterium sp. NSJ-61	-0.308496427
+Streptococcus sp. oral taxon 064	Dysosmobacter sp. Marseille-Q4140	-0.335486
+Streptococcus sp. oral taxon 064	Dysosmobacter welbionis	-0.362451928
+Streptococcus sp. oral taxon 064	Flavonifractor plautii	-0.330618424
+Streptococcus sp. oral taxon 064	Ruthenibacterium lactatiformans	-0.36547398
+Streptococcus thermophilus	Clostridium botulinum	0.300644439
+Streptococcus thermophilus	Mogibacterium diversum	0.398666596
+Streptococcus thermophilus	Mogibacterium pumilum	0.457327735
+Streptococcus thermophilus	Filifactor alocis	0.362971194
+Streptococcus thermophilus	Romboutsia hominis	0.323203839
+Streptococcus thermophilus	Parvimonas micra	0.457349798
+Streptococcus thermophilus	Fusobacterium hwasookii	0.303514945
+Streptococcus thermophilus	Fusobacterium nucleatum	0.435012544
+Streptococcus thermophilus	Fusobacterium pseudoperiodonticum	0.345297492
+Streptococcus vestibularis	Ruthenibacterium lactatiformans	-0.375094019
+Streptococcus vestibularis	Veillonella dispar	0.335110255
+Streptococcus vestibularis	Veillonella sp. S12025-13	0.306850707
+Clostridium botulinum	Clostridium sp. M62/1	0.322644348
+Clostridium botulinum	Mogibacterium diversum	0.344972163
+Clostridium botulinum	Anaerostipes caccae	0.315638234
+Clostridium botulinum	Blautia hansenii	0.324511743
+Clostridium botulinum	Blautia massiliensis	0.373385047
+Clostridium botulinum	Blautia producta	0.352962051
+Clostridium botulinum	Dorea longicatena	0.372914764
+Clostridium botulinum	Enterocloster clostridioformis	0.30483885
+Clostridium botulinum	Lachnoanaerobaculum umeaense	0.345418548
+Clostridium botulinum	[Clostridium] hylemonae	0.368591482
+Clostridium botulinum	[Clostridium] scindens	0.367506913
+Clostridium botulinum	Lachnoclostridium sp. YL32	0.406344707
+Clostridium botulinum	Lacrimispora saccharolytica	0.387854154
+Clostridium botulinum	Clostridioides difficile	0.411483902
+Clostridium botulinum	Filifactor alocis	0.302783744
+Clostridium butyricum	Blautia hansenii	0.304544282
+Clostridium butyricum	Blautia massiliensis	0.302359655
+Clostridium perfringens	Dorea longicatena	0.305191464
+Clostridium perfringens	[Clostridium] scindens	0.331339418
+Clostridium perfringens	Clostridioides difficile	0.31538578
+Clostridium perfringens	Erysipelatoclostridium ramosum	0.40021006
+Clostridium sp. C1	Sellimonas intestinalis	0.38878742
+Clostridium sp. C1	Anaerotruncus colihominis	0.361867283
+Clostridium sp. C1	Dysosmobacter sp. Marseille-Q4140	0.302574748
+Clostridium sp. C1	Flintibacter sp. KGMB00164	0.341095915
+Clostridium sp. C1	[Clostridium] innocuum	0.308706112
+Clostridium sp. C1	Akkermansia muciniphila	0.336668421
+Clostridium sp. M62/1	Eubacterium sp. MSJ-33	0.53034588
+Clostridium sp. M62/1	Eubacterium sp. NSJ-61	0.592477424
+Clostridium sp. M62/1	Anaerostipes caccae	0.513065796
+Clostridium sp. M62/1	Blautia hansenii	0.732668636
+Clostridium sp. M62/1	Blautia massiliensis	0.72158445
+Clostridium sp. M62/1	Blautia producta	0.636015411
+Clostridium sp. M62/1	Coprococcus sp. ART55/1	0.554689926
+Clostridium sp. M62/1	Dorea longicatena	0.650120957
+Clostridium sp. M62/1	Enterocloster clostridioformis	0.622778771
+Clostridium sp. M62/1	Lachnoanaerobaculum umeaense	0.445000713
+Clostridium sp. M62/1	[Clostridium] hylemonae	0.686813475
+Clostridium sp. M62/1	[Clostridium] scindens	0.641880432
+Clostridium sp. M62/1	Lachnoclostridium phytofermentans	0.383256495
+Clostridium sp. M62/1	Lachnoclostridium sp. YL32	0.621111567
+Clostridium sp. M62/1	Lacrimispora saccharolytica	0.658345211
+Clostridium sp. M62/1	Roseburia sp. NSJ-69	0.595994875
+Clostridium sp. M62/1	Sellimonas intestinalis	0.485384991
+Clostridium sp. M62/1	Anaerotruncus colihominis	0.432124234
+Clostridium sp. M62/1	Dysosmobacter sp. Marseille-Q4140	0.529545691
+Clostridium sp. M62/1	Dysosmobacter welbionis	0.67617096
+Clostridium sp. M62/1	Flavonifractor plautii	0.591165914
+Clostridium sp. M62/1	Oscillibacter sp. NSJ-62	0.570851912
+Clostridium sp. M62/1	Pusillibacter faecalis	0.559685037
+Clostridium sp. M62/1	Ruminococcus bicirculans	0.419800607
+Clostridium sp. M62/1	Ruthenibacterium lactatiformans	0.570900509
+Clostridium sp. M62/1	Vescimonas coprocola	0.448276426
+Clostridium sp. M62/1	Vescimonas fastidiosa	0.489519729
+Clostridium sp. M62/1	Clostridioides difficile	0.723694269
+Clostridium sp. M62/1	Flintibacter sp. KGMB00164	0.589197625
+Clostridium sp. M62/1	Intestinimonas butyriciproducens	0.508337457
+Clostridium sp. M62/1	Amedibacterium intestinale	0.354802417
+Clostridium sp. M62/1	[Clostridium] innocuum	0.501503149
+Clostridium sp. M62/1	Faecalitalea cylindroides	0.532997757
+Clostridium sp. M62/1	Longicatena caecimuris	0.528381839
+Clostridium sp. M62/1	Sphingomonas melonis	-0.38645028
+Clostridium sp. M62/1	Sphingomonas sp. NIC1	-0.397867066
+Clostridium sp. M62/1	Halarcobacter bivalviorum	-0.432342901
+Clostridium sp. M62/1	Campylobacter gracilis	-0.342781588
+Clostridium sp. M62/1	Enterobacter cancerogenus	-0.304171589
+Clostridium sp. M62/1	Acinetobacter baylyi	-0.350941869
+Clostridium sp. M62/1	Acinetobacter defluvii	-0.313693602
+Clostridium sp. M62/1	Acinetobacter gyllenbergii	-0.366218074
+Clostridium sp. M62/1	Acinetobacter junii	-0.310580186
+Clostridium sp. M62/1	Acinetobacter lanii	-0.420466007
+Clostridium sp. M62/1	Acinetobacter larvae	-0.301905204
+Clostridium sp. M62/1	Acinetobacter piscicola	-0.337282563
+Clostridium sp. M62/1	Acinetobacter radioresistens	-0.336581389
+Clostridium sp. M62/1	Acinetobacter seifertii	-0.351972629
+Clostridium sp. M62/1	Acinetobacter shaoyimingii	-0.363618817
+Clostridium sp. M62/1	Acinetobacter soli	-0.310872274
+Clostridium sp. M62/1	Acinetobacter sp. 10FS3-1	-0.353266818
+Clostridium sp. M62/1	Acinetobacter sp. ACNIH2	-0.413427014
+Clostridium sp. M62/1	Acinetobacter sp. C16S1	-0.366367709
+Clostridium sp. M62/1	Acinetobacter sp. CS-2	-0.36400697
+Clostridium sp. M62/1	Acinetobacter sp. Marseille-Q1620	-0.339790589
+Clostridium sp. M62/1	Acinetobacter sp. SCLZS86	-0.362651139
+Clostridium sp. M62/1	Acinetobacter sp. TGL-Y2	-0.304555929
+Clostridium sp. M62/1	Acinetobacter sp. TTH0-4	-0.345496961
+Clostridium sp. M62/1	Acinetobacter tandoii	-0.39724884
+Clostridium sp. M62/1	Acinetobacter towneri	-0.306206849
+Clostridium sp. M62/1	Acinetobacter ursingii	-0.397033436
+Clostridium sp. M62/1	Acinetobacter venetianus	-0.39449415
+Clostridium sp. M62/1	Acinetobacter wanghuae	-0.371986518
+Clostridium sp. M62/1	Acinetobacter wuhouensis	-0.375935631
+Clostridium sp. M62/1	Aggregatibacter segnis	-0.310795663
+Clostridium sp. M62/1	Pseudomonas thivervalensis	-0.383867778
+Clostridium sp. M62/1	Pseudoxanthomonas suwonensis	-0.308394369
+Clostridium sp. M62/1	Hydrogenophilus thermoluteolus	-0.375454633
+Clostridium sp. M62/1	Akkermansia muciniphila	0.378055776
+Clostridium sp. M62/1	Cercospora beticola	-0.33805339
+Clostridium sp. M62/1	Aspergillus fumigatus	-0.344440941
+Clostridium sp. M62/1	Aspergillus oryzae	-0.3871883
+Clostridium sp. M62/1	Yarrowia lipolytica	-0.378025383
+Clostridium sp. M62/1	Kluyveromyces marxianus	-0.302974199
+Clostridium sp. M62/1	Thermothelomyces thermophilus	-0.319956701
+Clostridium sp. M62/1	Human gammaherpesvirus 4	-0.391882556
+Clostridium sp. M62/1	Human immunodeficiency virus 1	-0.361222309
+Eubacterium limosum	Blautia hansenii	0.348102882
+Eubacterium limosum	Blautia massiliensis	0.318948211
+Eubacterium limosum	Blautia producta	0.363760118
+Eubacterium limosum	Sellimonas intestinalis	0.382670775
+Eubacterium limosum	Amedibacterium intestinale	0.387927949
+Eubacterium limosum	[Clostridium] innocuum	0.334946864
+Eubacterium sp. MSJ-33	Eubacterium sp. NSJ-61	0.354294975
+Eubacterium sp. MSJ-33	Anaerostipes caccae	0.370875371
+Eubacterium sp. MSJ-33	Blautia hansenii	0.604090922
+Eubacterium sp. MSJ-33	Blautia massiliensis	0.608091916
+Eubacterium sp. MSJ-33	Blautia producta	0.464288042
+Eubacterium sp. MSJ-33	Coprococcus sp. ART55/1	0.505906325
+Eubacterium sp. MSJ-33	Dorea longicatena	0.630149766
+Eubacterium sp. MSJ-33	[Clostridium] hylemonae	0.487607315
+Eubacterium sp. MSJ-33	[Clostridium] scindens	0.407883122
+Eubacterium sp. MSJ-33	Lachnoclostridium phytofermentans	0.42883542
+Eubacterium sp. MSJ-33	Lachnoclostridium sp. YL32	0.320367115
+Eubacterium sp. MSJ-33	Lacrimispora saccharolytica	0.488309779
+Eubacterium sp. MSJ-33	Roseburia sp. NSJ-69	0.613225436
+Eubacterium sp. MSJ-33	Sellimonas intestinalis	0.335074644
+Eubacterium sp. MSJ-33	Anaerotruncus colihominis	0.313268232
+Eubacterium sp. MSJ-33	Dysosmobacter sp. Marseille-Q4140	0.339960836
+Eubacterium sp. MSJ-33	Dysosmobacter welbionis	0.396032287
+Eubacterium sp. MSJ-33	Flavonifractor plautii	0.338142754
+Eubacterium sp. MSJ-33	Oscillibacter sp. NSJ-62	0.365868742
+Eubacterium sp. MSJ-33	Pusillibacter faecalis	0.377501785
+Eubacterium sp. MSJ-33	Ruminococcus bicirculans	0.42945019
+Eubacterium sp. MSJ-33	Ruthenibacterium lactatiformans	0.303160637
+Eubacterium sp. MSJ-33	Clostridioides difficile	0.436440431
+Eubacterium sp. MSJ-33	Flintibacter sp. KGMB00164	0.394400417
+Eubacterium sp. MSJ-33	Amedibacterium intestinale	0.36004955
+Eubacterium sp. MSJ-33	Faecalitalea cylindroides	0.410388982
+Eubacterium sp. MSJ-33	Longicatena caecimuris	0.53962376
+Eubacterium sp. MSJ-33	Sphingomonas sp. NIC1	-0.323791915
+Eubacterium sp. MSJ-33	Halarcobacter bivalviorum	-0.427636276
+Eubacterium sp. MSJ-33	Acinetobacter baylyi	-0.302817977
+Eubacterium sp. MSJ-33	Acinetobacter lanii	-0.342080641
+Eubacterium sp. MSJ-33	Acinetobacter sp. SCLZS86	-0.308799143
+Eubacterium sp. MSJ-33	Acinetobacter tandoii	-0.314425644
+Eubacterium sp. MSJ-33	Acinetobacter towneri	-0.302965066
+Eubacterium sp. MSJ-33	Acinetobacter wanghuae	-0.324734006
+Eubacterium sp. NSJ-61	Anaerostipes caccae	0.400727511
+Eubacterium sp. NSJ-61	Blautia hansenii	0.542547917
+Eubacterium sp. NSJ-61	Blautia massiliensis	0.550172138
+Eubacterium sp. NSJ-61	Blautia producta	0.51870648
+Eubacterium sp. NSJ-61	Coprococcus sp. ART55/1	0.36462417
+Eubacterium sp. NSJ-61	Dorea longicatena	0.528257742
+Eubacterium sp. NSJ-61	Enterocloster clostridioformis	0.47308743
+Eubacterium sp. NSJ-61	[Clostridium] hylemonae	0.554502095
+Eubacterium sp. NSJ-61	[Clostridium] scindens	0.536014534
+Eubacterium sp. NSJ-61	Lachnoclostridium sp. YL32	0.438030921
+Eubacterium sp. NSJ-61	Lacrimispora saccharolytica	0.46775928
+Eubacterium sp. NSJ-61	Roseburia sp. NSJ-69	0.467810162
+Eubacterium sp. NSJ-61	Sellimonas intestinalis	0.323781892
+Eubacterium sp. NSJ-61	Dysosmobacter sp. Marseille-Q4140	0.429365686
+Eubacterium sp. NSJ-61	Dysosmobacter welbionis	0.552402225
+Eubacterium sp. NSJ-61	Flavonifractor plautii	0.500136278
+Eubacterium sp. NSJ-61	Oscillibacter sp. NSJ-62	0.464477912
+Eubacterium sp. NSJ-61	Pusillibacter faecalis	0.466308992
+Eubacterium sp. NSJ-61	Ruminococcus bicirculans	0.308889402
+Eubacterium sp. NSJ-61	Ruthenibacterium lactatiformans	0.343333786
+Eubacterium sp. NSJ-61	Vescimonas fastidiosa	0.408093593
+Eubacterium sp. NSJ-61	Clostridioides difficile	0.545584642
+Eubacterium sp. NSJ-61	Flintibacter sp. KGMB00164	0.432922812
+Eubacterium sp. NSJ-61	Intestinimonas butyriciproducens	0.348798531
+Eubacterium sp. NSJ-61	[Clostridium] innocuum	0.383369698
+Eubacterium sp. NSJ-61	Faecalitalea cylindroides	0.416210711
+Eubacterium sp. NSJ-61	Longicatena caecimuris	0.520180464
+Eubacterium sp. NSJ-61	Phascolarctobacterium faecium	0.385450295
+Eubacterium sp. NSJ-61	Sphingomonas melonis	-0.315967655
+Eubacterium sp. NSJ-61	Halarcobacter bivalviorum	-0.37832675
+Eubacterium sp. NSJ-61	Campylobacter lari	-0.314105552
+Eubacterium sp. NSJ-61	Acinetobacter gyllenbergii	-0.324868949
+Eubacterium sp. NSJ-61	Acinetobacter lanii	-0.337527862
+Eubacterium sp. NSJ-61	Acinetobacter sp. CS-2	-0.315639565
+Eubacterium sp. NSJ-61	Acinetobacter sp. SCLZS86	-0.327183989
+Eubacterium sp. NSJ-61	Acinetobacter sp. TTH0-4	-0.32250804
+Eubacterium sp. NSJ-61	Acinetobacter tandoii	-0.301039273
+Eubacterium sp. NSJ-61	Acinetobacter ursingii	-0.31692678
+Eubacterium sp. NSJ-61	Acinetobacter venetianus	-0.300534569
+Eubacterium sp. NSJ-61	Acinetobacter wanghuae	-0.328239601
+Eubacterium sp. NSJ-61	Acinetobacter wuhouensis	-0.30742976
+Eubacterium sp. NSJ-61	Aggregatibacter segnis	-0.330155447
+Eubacterium sp. NSJ-61	Haemophilus influenzae	-0.315986168
+Eubacterium sp. NSJ-61	Pseudomonas thivervalensis	-0.320191258
+Eubacterium sp. NSJ-61	Aspergillus oryzae	-0.305450951
+Eubacterium sp. NSJ-61	Yarrowia lipolytica	-0.344598241
+Eubacterium sp. NSJ-61	Human gammaherpesvirus 4	-0.323116171
+Mogibacterium diversum	Mogibacterium pumilum	0.593581894
+Mogibacterium diversum	Lachnoanaerobaculum umeaense	0.329227654
+Mogibacterium diversum	Filifactor alocis	0.385109631
+Mogibacterium diversum	Parvimonas micra	0.412701342
+Mogibacterium diversum	Fusobacterium nucleatum	0.399895832
+Mogibacterium diversum	Acinetobacter defluvii	-0.305033706
+Mogibacterium diversum	Acinetobacter venetianus	-0.310434232
+Mogibacterium diversum	Xanthomonas campestris	-0.316100765
+Mogibacterium pumilum	Lachnoanaerobaculum umeaense	0.30691741
+Mogibacterium pumilum	Filifactor alocis	0.520798977
+Mogibacterium pumilum	Romboutsia hominis	0.375451247
+Mogibacterium pumilum	Dialister pneumosintes	0.441641922
+Mogibacterium pumilum	Parvimonas micra	0.573102484
+Mogibacterium pumilum	Peptoniphilus harei	0.36982592
+Mogibacterium pumilum	Fusobacterium hwasookii	0.373864043
+Mogibacterium pumilum	Fusobacterium necrophorum	0.425045483
+Mogibacterium pumilum	Fusobacterium nucleatum	0.578867882
+Mogibacterium pumilum	Fretibacterium fastidiosum	0.329880671
+Anaerostipes caccae	Blautia hansenii	0.495195982
+Anaerostipes caccae	Blautia massiliensis	0.509322891
+Anaerostipes caccae	Blautia producta	0.526045194
+Anaerostipes caccae	Dorea longicatena	0.40528097
+Anaerostipes caccae	Enterocloster clostridioformis	0.46596578
+Anaerostipes caccae	Lachnoanaerobaculum umeaense	0.30714872
+Anaerostipes caccae	[Clostridium] hylemonae	0.477082359
+Anaerostipes caccae	[Clostridium] scindens	0.536966267
+Anaerostipes caccae	Lachnoclostridium sp. YL32	0.486819391
+Anaerostipes caccae	Lacrimispora saccharolytica	0.526412086
+Anaerostipes caccae	Roseburia sp. NSJ-69	0.323992868
+Anaerostipes caccae	Sellimonas intestinalis	0.4716783
+Anaerostipes caccae	Anaerotruncus colihominis	0.452828337
+Anaerostipes caccae	Dysosmobacter welbionis	0.430286949
+Anaerostipes caccae	Flavonifractor plautii	0.559628806
+Anaerostipes caccae	Pusillibacter faecalis	0.46026362
+Anaerostipes caccae	Ruminococcus bicirculans	0.33770161
+Anaerostipes caccae	Ruthenibacterium lactatiformans	0.557082408
+Anaerostipes caccae	Clostridioides difficile	0.605845174
+Anaerostipes caccae	Flintibacter sp. KGMB00164	0.326063425
+Anaerostipes caccae	Intestinimonas butyriciproducens	0.353099892
+Anaerostipes caccae	Amedibacterium intestinale	0.326163082
+Anaerostipes caccae	[Clostridium] innocuum	0.511842881
+Anaerostipes caccae	Faecalitalea cylindroides	0.360368035
+Anaerostipes caccae	Longicatena caecimuris	0.361395895
+Anaerostipes caccae	Sphingomonas sp. NIC1	-0.31789184
+Anaerostipes caccae	Acidovorax sp. 1608163	-0.300258978
+Anaerostipes caccae	Halarcobacter bivalviorum	-0.383063478
+Anaerostipes caccae	Enterobacter cancerogenus	-0.387974392
+Anaerostipes caccae	Enterobacter roggenkampii	-0.314787953
+Anaerostipes caccae	Acinetobacter baylyi	-0.305568064
+Anaerostipes caccae	Acinetobacter johnsonii	-0.314983697
+Anaerostipes caccae	Acinetobacter lanii	-0.302415478
+Anaerostipes caccae	Acinetobacter sp. ACNIH2	-0.315457011
+Anaerostipes caccae	Acinetobacter sp. SCLZS86	-0.321091153
+Anaerostipes caccae	Acinetobacter ursingii	-0.319528139
+Anaerostipes caccae	Acinetobacter venetianus	-0.30579555
+Anaerostipes caccae	Hydrogenophilus thermoluteolus	-0.304665497
+Anaerostipes caccae	Akkermansia muciniphila	0.404827107
+Anaerostipes caccae	Human gammaherpesvirus 4	-0.303217567
+Blautia hansenii	Blautia massiliensis	0.794532302
+Blautia hansenii	Blautia producta	0.664532422
+Blautia hansenii	Coprococcus sp. ART55/1	0.567969735
+Blautia hansenii	Dorea longicatena	0.760560267
+Blautia hansenii	Enterocloster clostridioformis	0.546235475
+Blautia hansenii	Lachnoanaerobaculum umeaense	0.346540605
+Blautia hansenii	[Clostridium] hylemonae	0.707846684
+Blautia hansenii	[Clostridium] scindens	0.68420749
+Blautia hansenii	Lachnoclostridium phytofermentans	0.472977682
+Blautia hansenii	Lachnoclostridium sp. YL32	0.611455519
+Blautia hansenii	Lacrimispora saccharolytica	0.645364655
+Blautia hansenii	Roseburia sp. NSJ-69	0.718487279
+Blautia hansenii	Sellimonas intestinalis	0.447573254
+Blautia hansenii	Anaerotruncus colihominis	0.38046496
+Blautia hansenii	Dysosmobacter sp. Marseille-Q4140	0.420711492
+Blautia hansenii	Dysosmobacter welbionis	0.532838086
+Blautia hansenii	Flavonifractor plautii	0.541094308
+Blautia hansenii	Oscillibacter sp. NSJ-62	0.491571229
+Blautia hansenii	Pusillibacter faecalis	0.501291446
+Blautia hansenii	Ruminococcus bicirculans	0.405452547
+Blautia hansenii	Ruthenibacterium lactatiformans	0.5298699
+Blautia hansenii	Vescimonas coprocola	0.34217262
+Blautia hansenii	Vescimonas fastidiosa	0.393906876
+Blautia hansenii	Clostridioides difficile	0.680404528
+Blautia hansenii	Flintibacter sp. KGMB00164	0.431795403
+Blautia hansenii	Intestinimonas butyriciproducens	0.30789723
+Blautia hansenii	Amedibacterium intestinale	0.490571715
+Blautia hansenii	[Clostridium] innocuum	0.476120791
+Blautia hansenii	Erysipelatoclostridium ramosum	0.36698225
+Blautia hansenii	Faecalitalea cylindroides	0.567630976
+Blautia hansenii	Longicatena caecimuris	0.628578253
+Blautia hansenii	Phascolarctobacterium faecium	0.332809328
+Blautia hansenii	Sphingomonas melonis	-0.318245403
+Blautia hansenii	Sphingomonas sp. NIC1	-0.379180504
+Blautia hansenii	Halarcobacter bivalviorum	-0.431279562
+Blautia hansenii	Enterobacter sichuanensis	-0.359287228
+Blautia hansenii	Klebsiella pneumoniae	0.302399103
+Blautia hansenii	Acinetobacter baylyi	-0.317636884
+Blautia hansenii	Acinetobacter defluvii	-0.314430523
+Blautia hansenii	Acinetobacter gyllenbergii	-0.344706304
+Blautia hansenii	Acinetobacter lanii	-0.420465309
+Blautia hansenii	Acinetobacter larvae	-0.322176936
+Blautia hansenii	Acinetobacter seifertii	-0.318446564
+Blautia hansenii	Acinetobacter shaoyimingii	-0.33167596
+Blautia hansenii	Acinetobacter sp. 10FS3-1	-0.359639534
+Blautia hansenii	Acinetobacter sp. ACNIH2	-0.368726407
+Blautia hansenii	Acinetobacter sp. C16S1	-0.351202717
+Blautia hansenii	Acinetobacter sp. CS-2	-0.333540492
+Blautia hansenii	Acinetobacter sp. Marseille-Q1620	-0.320559929
+Blautia hansenii	Acinetobacter sp. SCLZS86	-0.336047755
+Blautia hansenii	Acinetobacter sp. SH20PTE14	-0.334574044
+Blautia hansenii	Acinetobacter sp. TGL-Y2	-0.311010715
+Blautia hansenii	Acinetobacter sp. TTH0-4	-0.340190085
+Blautia hansenii	Acinetobacter tandoii	-0.372854287
+Blautia hansenii	Acinetobacter towneri	-0.389707695
+Blautia hansenii	Acinetobacter ursingii	-0.379472769
+Blautia hansenii	Acinetobacter venetianus	-0.348726583
+Blautia hansenii	Acinetobacter wanghuae	-0.384279483
+Blautia hansenii	Acinetobacter wuhouensis	-0.305715329
+Blautia hansenii	Pseudomonas thivervalensis	-0.356667955
+Blautia hansenii	Hydrogenophilus thermoluteolus	-0.315822856
+Blautia hansenii	Aspergillus fumigatus	-0.345572739
+Blautia hansenii	Aspergillus oryzae	-0.36258315
+Blautia hansenii	Yarrowia lipolytica	-0.3445772
+Blautia hansenii	Human gammaherpesvirus 4	-0.384545119
+Blautia hansenii	Human immunodeficiency virus 1	-0.353038568
+Blautia massiliensis	Blautia producta	0.780788317
+Blautia massiliensis	Coprococcus sp. ART55/1	0.602464326
+Blautia massiliensis	Dorea longicatena	0.840746815
+Blautia massiliensis	Enterocloster clostridioformis	0.623057714
+Blautia massiliensis	Lachnoanaerobaculum umeaense	0.40530918
+Blautia massiliensis	[Clostridium] hylemonae	0.741133535
+Blautia massiliensis	[Clostridium] scindens	0.745516924
+Blautia massiliensis	Lachnoclostridium phytofermentans	0.398303735
+Blautia massiliensis	Lachnoclostridium sp. YL32	0.61020579
+Blautia massiliensis	Lacrimispora saccharolytica	0.646717448
+Blautia massiliensis	Roseburia sp. NSJ-69	0.734976583
+Blautia massiliensis	Sellimonas intestinalis	0.498482859
+Blautia massiliensis	Anaerotruncus colihominis	0.43341607
+Blautia massiliensis	Dysosmobacter sp. Marseille-Q4140	0.490367001
+Blautia massiliensis	Dysosmobacter welbionis	0.554819822
+Blautia massiliensis	Flavonifractor plautii	0.622856514
+Blautia massiliensis	Oscillibacter sp. NSJ-62	0.505788604
+Blautia massiliensis	Pusillibacter faecalis	0.508601272
+Blautia massiliensis	Ruminococcus bicirculans	0.509718966
+Blautia massiliensis	Ruthenibacterium lactatiformans	0.511841063
+Blautia massiliensis	Vescimonas coprocola	0.444931747
+Blautia massiliensis	Vescimonas fastidiosa	0.425667571
+Blautia massiliensis	Clostridioides difficile	0.718224463
+Blautia massiliensis	Flintibacter sp. KGMB00164	0.489851561
+Blautia massiliensis	Intestinimonas butyriciproducens	0.423060901
+Blautia massiliensis	Amedibacterium intestinale	0.517733352
+Blautia massiliensis	[Clostridium] innocuum	0.52205808
+Blautia massiliensis	Erysipelatoclostridium ramosum	0.405006288
+Blautia massiliensis	Faecalitalea cylindroides	0.591856604
+Blautia massiliensis	Longicatena caecimuris	0.632218309
+Blautia massiliensis	Sphingomonas melonis	-0.312598139
+Blautia massiliensis	Sphingomonas sp. NIC1	-0.382421535
+Blautia massiliensis	Halarcobacter bivalviorum	-0.447061718
+Blautia massiliensis	Campylobacter lari	-0.315899971
+Blautia massiliensis	Enterobacter cancerogenus	-0.30606816
+Blautia massiliensis	Enterobacter roggenkampii	-0.305240847
+Blautia massiliensis	Enterobacter sichuanensis	-0.333351602
+Blautia massiliensis	Acinetobacter baylyi	-0.390154103
+Blautia massiliensis	Acinetobacter calcoaceticus	-0.325140823
+Blautia massiliensis	Acinetobacter defluvii	-0.335608576
+Blautia massiliensis	Acinetobacter gyllenbergii	-0.355683595
+Blautia massiliensis	Acinetobacter haemolyticus	-0.312245453
+Blautia massiliensis	Acinetobacter lanii	-0.432934274
+Blautia massiliensis	Acinetobacter larvae	-0.329664119
+Blautia massiliensis	Acinetobacter piscicola	-0.361734171
+Blautia massiliensis	Acinetobacter pittii	-0.303715627
+Blautia massiliensis	Acinetobacter radioresistens	-0.35681011
+Blautia massiliensis	Acinetobacter seifertii	-0.376497131
+Blautia massiliensis	Acinetobacter shaoyimingii	-0.389585583
+Blautia massiliensis	Acinetobacter soli	-0.332744425
+Blautia massiliensis	Acinetobacter sp. 10FS3-1	-0.388329337
+Blautia massiliensis	Acinetobacter sp. ACNIH2	-0.404368779
+Blautia massiliensis	Acinetobacter sp. C16S1	-0.380845269
+Blautia massiliensis	Acinetobacter sp. CS-2	-0.374607613
+Blautia massiliensis	Acinetobacter sp. Marseille-Q1620	-0.35951652
+Blautia massiliensis	Acinetobacter sp. SCLZS86	-0.382669004
+Blautia massiliensis	Acinetobacter sp. SH20PTE14	-0.356326336
+Blautia massiliensis	Acinetobacter sp. TGL-Y2	-0.356272224
+Blautia massiliensis	Acinetobacter sp. TTH0-4	-0.335220722
+Blautia massiliensis	Acinetobacter tandoii	-0.397412056
+Blautia massiliensis	Acinetobacter towneri	-0.378817752
+Blautia massiliensis	Acinetobacter ursingii	-0.395366698
+Blautia massiliensis	Acinetobacter venetianus	-0.391167585
+Blautia massiliensis	Acinetobacter wanghuae	-0.407964849
+Blautia massiliensis	Acinetobacter wuhouensis	-0.354154276
+Blautia massiliensis	Aggregatibacter segnis	-0.304577092
+Blautia massiliensis	Pseudomonas thivervalensis	-0.378857032
+Blautia massiliensis	Hydrogenophilus thermoluteolus	-0.33391603
+Blautia massiliensis	Akkermansia muciniphila	0.312445945
+Blautia massiliensis	Cercospora beticola	-0.333668441
+Blautia massiliensis	Aspergillus fumigatus	-0.348396654
+Blautia massiliensis	Aspergillus luchuensis	-0.340785467
+Blautia massiliensis	Aspergillus oryzae	-0.393292509
+Blautia massiliensis	Candida dubliniensis	-0.343782288
+Blautia massiliensis	Yarrowia lipolytica	-0.334343886
+Blautia massiliensis	Kluyveromyces marxianus	-0.324071318
+Blautia massiliensis	[Candida] glabrata	-0.359275011
+Blautia massiliensis	Fusarium poae	-0.309495541
+Blautia massiliensis	Thermothelomyces thermophilus	-0.302826722
+Blautia massiliensis	Human gammaherpesvirus 4	-0.395064646
+Blautia massiliensis	Human immunodeficiency virus 1	-0.315923449
+Blautia producta	Coprococcus sp. ART55/1	0.468333414
+Blautia producta	Dorea longicatena	0.664029324
+Blautia producta	Enterocloster clostridioformis	0.571087865
+Blautia producta	Lachnoanaerobaculum umeaense	0.428517637
+Blautia producta	[Clostridium] hylemonae	0.710683073
+Blautia producta	[Clostridium] scindens	0.716018498
+Blautia producta	Lachnoclostridium phytofermentans	0.354881859
+Blautia producta	Lachnoclostridium sp. YL32	0.518918027
+Blautia producta	Lacrimispora saccharolytica	0.586411892
+Blautia producta	Roseburia sp. NSJ-69	0.599820211
+Blautia producta	Sellimonas intestinalis	0.557595557
+Blautia producta	Anaerotruncus colihominis	0.474743913
+Blautia producta	Dysosmobacter sp. Marseille-Q4140	0.413947071
+Blautia producta	Dysosmobacter welbionis	0.473805938
+Blautia producta	Flavonifractor plautii	0.615536052
+Blautia producta	Oscillibacter sp. NSJ-62	0.400454211
+Blautia producta	Pusillibacter faecalis	0.493766197
+Blautia producta	Ruminococcus bicirculans	0.345863957
+Blautia producta	Ruthenibacterium lactatiformans	0.478484403
+Blautia producta	Vescimonas coprocola	0.350234187
+Blautia producta	Vescimonas fastidiosa	0.381160747
+Blautia producta	Clostridioides difficile	0.702068017
+Blautia producta	Flintibacter sp. KGMB00164	0.424987216
+Blautia producta	Intestinimonas butyriciproducens	0.362754723
+Blautia producta	Amedibacterium intestinale	0.501277561
+Blautia producta	[Clostridium] innocuum	0.576401992
+Blautia producta	Erysipelatoclostridium ramosum	0.373418519
+Blautia producta	Faecalitalea cylindroides	0.629275366
+Blautia producta	Longicatena caecimuris	0.493562258
+Blautia producta	Phascolarctobacterium faecium	0.311066497
+Blautia producta	Methylorubrum populi	-0.328930445
+Blautia producta	Sphingomonas melonis	-0.318481908
+Blautia producta	Sphingomonas sp. NIC1	-0.365189959
+Blautia producta	Acidovorax sp. 1608163	-0.320562925
+Blautia producta	Halarcobacter bivalviorum	-0.422727487
+Blautia producta	Enterobacter cancerogenus	-0.303712375
+Blautia producta	Enterobacter sichuanensis	-0.306813834
+Blautia producta	Acinetobacter baylyi	-0.385062267
+Blautia producta	Acinetobacter defluvii	-0.306104624
+Blautia producta	Acinetobacter gyllenbergii	-0.324888585
+Blautia producta	Acinetobacter lanii	-0.389539717
+Blautia producta	Acinetobacter larvae	-0.320014911
+Blautia producta	Acinetobacter piscicola	-0.326659959
+Blautia producta	Acinetobacter radioresistens	-0.313478667
+Blautia producta	Acinetobacter seifertii	-0.338302989
+Blautia producta	Acinetobacter shaoyimingii	-0.359983467
+Blautia producta	Acinetobacter soli	-0.316798518
+Blautia producta	Acinetobacter sp. 10FS3-1	-0.367358312
+Blautia producta	Acinetobacter sp. ACNIH2	-0.39205668
+Blautia producta	Acinetobacter sp. C16S1	-0.372586065
+Blautia producta	Acinetobacter sp. CS-2	-0.339379776
+Blautia producta	Acinetobacter sp. Marseille-Q1620	-0.356552985
+Blautia producta	Acinetobacter sp. SCLZS86	-0.352305328
+Blautia producta	Acinetobacter sp. TGL-Y2	-0.337837124
+Blautia producta	Acinetobacter sp. TTH0-4	-0.318216099
+Blautia producta	Acinetobacter tandoii	-0.381053237
+Blautia producta	Acinetobacter towneri	-0.366517597
+Blautia producta	Acinetobacter ursingii	-0.367127443
+Blautia producta	Acinetobacter venetianus	-0.358410648
+Blautia producta	Acinetobacter wanghuae	-0.369607737
+Blautia producta	Acinetobacter wuhouensis	-0.310538515
+Blautia producta	Pseudomonas thivervalensis	-0.361671608
+Blautia producta	Pseudoxanthomonas suwonensis	-0.314188614
+Blautia producta	Hydrogenophilus thermoluteolus	-0.328699381
+Blautia producta	Akkermansia muciniphila	0.330117124
+Blautia producta	Cercospora beticola	-0.323513187
+Blautia producta	Aspergillus fumigatus	-0.326598518
+Blautia producta	Aspergillus oryzae	-0.345578989
+Blautia producta	Candida dubliniensis	-0.317781326
+Blautia producta	Kluyveromyces marxianus	-0.304135922
+Blautia producta	[Candida] glabrata	-0.324406274
+Blautia producta	Human gammaherpesvirus 4	-0.347915763
+Blautia producta	Human immunodeficiency virus 1	-0.356561042
+Coprococcus sp. ART55/1	Dorea longicatena	0.618910327
+Coprococcus sp. ART55/1	Enterocloster clostridioformis	0.375480921
+Coprococcus sp. ART55/1	Lachnoanaerobaculum umeaense	0.344222886
+Coprococcus sp. ART55/1	[Clostridium] hylemonae	0.529940694
+Coprococcus sp. ART55/1	[Clostridium] scindens	0.465761321
+Coprococcus sp. ART55/1	Lachnoclostridium phytofermentans	0.363343598
+Coprococcus sp. ART55/1	Lachnoclostridium sp. YL32	0.365153166
+Coprococcus sp. ART55/1	Lacrimispora saccharolytica	0.438914247
+Coprococcus sp. ART55/1	Roseburia sp. NSJ-69	0.629758003
+Coprococcus sp. ART55/1	Sellimonas intestinalis	0.337995435
+Coprococcus sp. ART55/1	Anaerotruncus colihominis	0.39247231
+Coprococcus sp. ART55/1	Dysosmobacter sp. Marseille-Q4140	0.427786534
+Coprococcus sp. ART55/1	Dysosmobacter welbionis	0.55342862
+Coprococcus sp. ART55/1	Flavonifractor plautii	0.460900933
+Coprococcus sp. ART55/1	Oscillibacter sp. NSJ-62	0.488529725
+Coprococcus sp. ART55/1	Pusillibacter faecalis	0.485493977
+Coprococcus sp. ART55/1	Ruminococcus bicirculans	0.562439112
+Coprococcus sp. ART55/1	Ruthenibacterium lactatiformans	0.300771648
+Coprococcus sp. ART55/1	Vescimonas coprocola	0.489937231
+Coprococcus sp. ART55/1	Vescimonas fastidiosa	0.511436467
+Coprococcus sp. ART55/1	Clostridioides difficile	0.481283737
+Coprococcus sp. ART55/1	Flintibacter sp. KGMB00164	0.509407918
+Coprococcus sp. ART55/1	Intestinimonas butyriciproducens	0.453488167
+Coprococcus sp. ART55/1	Faecalitalea cylindroides	0.442191326
+Coprococcus sp. ART55/1	Longicatena caecimuris	0.427196351
+Coprococcus sp. ART55/1	Sphingomonas melonis	-0.310823429
+Coprococcus sp. ART55/1	Sphingomonas sp. NIC1	-0.309295089
+Coprococcus sp. ART55/1	Halarcobacter bivalviorum	-0.39502753
+Coprococcus sp. ART55/1	Enterobacter sichuanensis	-0.357216583
+Coprococcus sp. ART55/1	Acinetobacter baylyi	-0.323177723
+Coprococcus sp. ART55/1	Acinetobacter lanii	-0.340425918
+Coprococcus sp. ART55/1	Acinetobacter radioresistens	-0.311786446
+Coprococcus sp. ART55/1	Acinetobacter soli	-0.300962585
+Coprococcus sp. ART55/1	Acinetobacter sp. ACNIH2	-0.333399871
+Coprococcus sp. ART55/1	Acinetobacter sp. C16S1	-0.332739842
+Coprococcus sp. ART55/1	Acinetobacter sp. SH20PTE14	-0.301154027
+Coprococcus sp. ART55/1	Acinetobacter tandoii	-0.314874566
+Coprococcus sp. ART55/1	Acinetobacter ursingii	-0.316291022
+Coprococcus sp. ART55/1	Acinetobacter venetianus	-0.332642074
+Coprococcus sp. ART55/1	Aspergillus oryzae	-0.337011798
+Coprococcus sp. ART55/1	Human gammaherpesvirus 4	-0.38357151
+Coprococcus sp. ART55/1	Human immunodeficiency virus 1	-0.34772107
+Dorea longicatena	Enterocloster clostridioformis	0.472803624
+Dorea longicatena	Lachnoanaerobaculum umeaense	0.354641911
+Dorea longicatena	[Clostridium] hylemonae	0.701673825
+Dorea longicatena	[Clostridium] scindens	0.644389424
+Dorea longicatena	Lachnoclostridium phytofermentans	0.404601032
+Dorea longicatena	Lachnoclostridium sp. YL32	0.483349754
+Dorea longicatena	Lacrimispora saccharolytica	0.589874574
+Dorea longicatena	Roseburia sp. NSJ-69	0.76110686
+Dorea longicatena	Sellimonas intestinalis	0.321564287
+Dorea longicatena	Anaerotruncus colihominis	0.357133627
+Dorea longicatena	Dysosmobacter sp. Marseille-Q4140	0.396059236
+Dorea longicatena	Dysosmobacter welbionis	0.51537858
+Dorea longicatena	Flavonifractor plautii	0.536711626
+Dorea longicatena	Oscillibacter sp. NSJ-62	0.442622639
+Dorea longicatena	Pusillibacter faecalis	0.456816278
+Dorea longicatena	Ruminococcus bicirculans	0.444312185
+Dorea longicatena	Ruthenibacterium lactatiformans	0.374334898
+Dorea longicatena	Vescimonas coprocola	0.346852216
+Dorea longicatena	Vescimonas fastidiosa	0.422054936
+Dorea longicatena	Clostridioides difficile	0.666114665
+Dorea longicatena	Flintibacter sp. KGMB00164	0.436843686
+Dorea longicatena	Intestinimonas butyriciproducens	0.373352811
+Dorea longicatena	Amedibacterium intestinale	0.471898123
+Dorea longicatena	[Clostridium] innocuum	0.386671543
+Dorea longicatena	Erysipelatoclostridium ramosum	0.347246375
+Dorea longicatena	Faecalitalea cylindroides	0.5723833
+Dorea longicatena	Longicatena caecimuris	0.641523988
+Dorea longicatena	Sphingomonas melonis	-0.316741816
+Dorea longicatena	Sphingomonas sp. NIC1	-0.380415825
+Dorea longicatena	Halarcobacter bivalviorum	-0.412315284
+Dorea longicatena	Campylobacter lari	-0.30839378
+Dorea longicatena	Enterobacter roggenkampii	-0.306620105
+Dorea longicatena	Enterobacter sichuanensis	-0.38904453
+Dorea longicatena	Acinetobacter baylyi	-0.360147429
+Dorea longicatena	Acinetobacter calcoaceticus	-0.314609359
+Dorea longicatena	Acinetobacter defluvii	-0.317388194
+Dorea longicatena	Acinetobacter gyllenbergii	-0.342686505
+Dorea longicatena	Acinetobacter haemolyticus	-0.366340358
+Dorea longicatena	Acinetobacter lanii	-0.42137958
+Dorea longicatena	Acinetobacter larvae	-0.308701491
+Dorea longicatena	Acinetobacter piscicola	-0.33548308
+Dorea longicatena	Acinetobacter radioresistens	-0.390007277
+Dorea longicatena	Acinetobacter seifertii	-0.32579691
+Dorea longicatena	Acinetobacter shaoyimingii	-0.353286685
+Dorea longicatena	Acinetobacter soli	-0.331108971
+Dorea longicatena	Acinetobacter sp. 10FS3-1	-0.347365626
+Dorea longicatena	Acinetobacter sp. ACNIH2	-0.393820187
+Dorea longicatena	Acinetobacter sp. C16S1	-0.344843902
+Dorea longicatena	Acinetobacter sp. CS-2	-0.356697903
+Dorea longicatena	Acinetobacter sp. Marseille-Q1620	-0.344395815
+Dorea longicatena	Acinetobacter sp. SCLZS86	-0.358278637
+Dorea longicatena	Acinetobacter sp. SH20PTE14	-0.337249089
+Dorea longicatena	Acinetobacter sp. TGL-Y2	-0.338147108
+Dorea longicatena	Acinetobacter sp. TTH0-4	-0.346999411
+Dorea longicatena	Acinetobacter tandoii	-0.378718638
+Dorea longicatena	Acinetobacter towneri	-0.37583963
+Dorea longicatena	Acinetobacter ursingii	-0.405861097
+Dorea longicatena	Acinetobacter venetianus	-0.378065401
+Dorea longicatena	Acinetobacter wanghuae	-0.397282116
+Dorea longicatena	Candidatus Carsonella ruddii	-0.319427371
+Dorea longicatena	Pseudomonas thivervalensis	-0.362842266
+Dorea longicatena	Hydrogenophilus thermoluteolus	-0.31494276
+Dorea longicatena	Cercospora beticola	-0.30105653
+Dorea longicatena	Aspergillus fumigatus	-0.32582764
+Dorea longicatena	Aspergillus oryzae	-0.384737077
+Dorea longicatena	Candida dubliniensis	-0.360393218
+Dorea longicatena	[Candida] glabrata	-0.32608501
+Dorea longicatena	Colletotrichum higginsianum	-0.314141676
+Dorea longicatena	Fusarium poae	-0.313371704
+Dorea longicatena	Thermothelomyces thermophilus	-0.32847715
+Dorea longicatena	Human gammaherpesvirus 4	-0.363893562
+Dorea longicatena	Human immunodeficiency virus 1	-0.328528716
+Enterocloster clostridioformis	Lachnoanaerobaculum umeaense	0.300787004
+Enterocloster clostridioformis	[Clostridium] hylemonae	0.563390458
+Enterocloster clostridioformis	[Clostridium] scindens	0.649851139
+Enterocloster clostridioformis	Lachnoclostridium sp. YL32	0.732282345
+Enterocloster clostridioformis	Lacrimispora saccharolytica	0.582007537
+Enterocloster clostridioformis	Roseburia sp. NSJ-69	0.448353789
+Enterocloster clostridioformis	Sellimonas intestinalis	0.438215373
+Enterocloster clostridioformis	Anaerotruncus colihominis	0.313019775
+Enterocloster clostridioformis	Dysosmobacter sp. Marseille-Q4140	0.375615578
+Enterocloster clostridioformis	Dysosmobacter welbionis	0.57164859
+Enterocloster clostridioformis	Flavonifractor plautii	0.61596955
+Enterocloster clostridioformis	Oscillibacter sp. NSJ-62	0.436006568
+Enterocloster clostridioformis	Pusillibacter faecalis	0.43548277
+Enterocloster clostridioformis	Ruthenibacterium lactatiformans	0.608922993
+Enterocloster clostridioformis	Vescimonas coprocola	0.363400724
+Enterocloster clostridioformis	Vescimonas fastidiosa	0.332258357
+Enterocloster clostridioformis	Clostridioides difficile	0.648484449
+Enterocloster clostridioformis	Flintibacter sp. KGMB00164	0.383126119
+Enterocloster clostridioformis	Intestinimonas butyriciproducens	0.371763692
+Enterocloster clostridioformis	Amedibacterium intestinale	0.377893597
+Enterocloster clostridioformis	[Clostridium] innocuum	0.540782209
+Enterocloster clostridioformis	Faecalitalea cylindroides	0.42810514
+Enterocloster clostridioformis	Longicatena caecimuris	0.318902652
+Enterocloster clostridioformis	Sphingomonas melonis	-0.375286776
+Enterocloster clostridioformis	Sphingomonas sp. NIC1	-0.3416805
+Enterocloster clostridioformis	Halarcobacter bivalviorum	-0.360462732
+Enterocloster clostridioformis	Aeromonas veronii	-0.335841169
+Enterocloster clostridioformis	Enterobacter cancerogenus	-0.305664181
+Enterocloster clostridioformis	Acinetobacter baylyi	-0.332481779
+Enterocloster clostridioformis	Acinetobacter defluvii	-0.320555481
+Enterocloster clostridioformis	Acinetobacter gyllenbergii	-0.346814212
+Enterocloster clostridioformis	Acinetobacter junii	-0.309070385
+Enterocloster clostridioformis	Acinetobacter lanii	-0.383524682
+Enterocloster clostridioformis	Acinetobacter larvae	-0.308444726
+Enterocloster clostridioformis	Acinetobacter nosocomialis	-0.310572734
+Enterocloster clostridioformis	Acinetobacter piscicola	-0.355500336
+Enterocloster clostridioformis	Acinetobacter seifertii	-0.353059916
+Enterocloster clostridioformis	Acinetobacter shaoyimingii	-0.353021207
+Enterocloster clostridioformis	Acinetobacter soli	-0.322217034
+Enterocloster clostridioformis	Acinetobacter sp. 10FS3-1	-0.366497731
+Enterocloster clostridioformis	Acinetobacter sp. ACNIH2	-0.367280964
+Enterocloster clostridioformis	Acinetobacter sp. C16S1	-0.37813323
+Enterocloster clostridioformis	Acinetobacter sp. CS-2	-0.398793291
+Enterocloster clostridioformis	Acinetobacter sp. Marseille-Q1620	-0.338491042
+Enterocloster clostridioformis	Acinetobacter sp. SCLZS86	-0.350258708
+Enterocloster clostridioformis	Acinetobacter sp. SH20PTE14	-0.321539385
+Enterocloster clostridioformis	Acinetobacter sp. TGL-Y2	-0.314737909
+Enterocloster clostridioformis	Acinetobacter sp. TTH0-4	-0.354599468
+Enterocloster clostridioformis	Acinetobacter tandoii	-0.323059169
+Enterocloster clostridioformis	Acinetobacter towneri	-0.346433539
+Enterocloster clostridioformis	Acinetobacter ursingii	-0.359908806
+Enterocloster clostridioformis	Acinetobacter venetianus	-0.37858634
+Enterocloster clostridioformis	Acinetobacter wanghuae	-0.354899615
+Enterocloster clostridioformis	Acinetobacter wuhouensis	-0.345155517
+Enterocloster clostridioformis	Aggregatibacter segnis	-0.35671729
+Enterocloster clostridioformis	Haemophilus influenzae	-0.311801768
+Enterocloster clostridioformis	Pseudomonas thivervalensis	-0.400179685
+Enterocloster clostridioformis	Hydrogenophilus thermoluteolus	-0.329908087
+Enterocloster clostridioformis	Akkermansia muciniphila	0.350744507
+Enterocloster clostridioformis	Cercospora beticola	-0.438393412
+Enterocloster clostridioformis	Zymoseptoria tritici	-0.332092127
+Enterocloster clostridioformis	Aspergillus fumigatus	-0.335584067
+Enterocloster clostridioformis	Aspergillus oryzae	-0.402511371
+Enterocloster clostridioformis	Candida dubliniensis	-0.319424781
+Enterocloster clostridioformis	Kluyveromyces marxianus	-0.332297875
+Enterocloster clostridioformis	Human gammaherpesvirus 4	-0.373154763
+Enterocloster clostridioformis	Human immunodeficiency virus 1	-0.328400332
+Lachnoanaerobaculum umeaense	[Clostridium] hylemonae	0.440209177
+Lachnoanaerobaculum umeaense	[Clostridium] scindens	0.369084125
+Lachnoanaerobaculum umeaense	Lachnoclostridium sp. YL32	0.308926751
+Lachnoanaerobaculum umeaense	Lacrimispora saccharolytica	0.446514213
+Lachnoanaerobaculum umeaense	Roseburia sp. NSJ-69	0.323215501
+Lachnoanaerobaculum umeaense	Sellimonas intestinalis	0.393458812
+Lachnoanaerobaculum umeaense	Anaerotruncus colihominis	0.378405639
+Lachnoanaerobaculum umeaense	Dysosmobacter sp. Marseille-Q4140	0.332126347
+Lachnoanaerobaculum umeaense	Dysosmobacter welbionis	0.305469041
+Lachnoanaerobaculum umeaense	Flavonifractor plautii	0.328898491
+Lachnoanaerobaculum umeaense	Ruminococcus bicirculans	0.309980949
+Lachnoanaerobaculum umeaense	Vescimonas coprocola	0.362447195
+Lachnoanaerobaculum umeaense	Vescimonas fastidiosa	0.333259417
+Lachnoanaerobaculum umeaense	Clostridioides difficile	0.405350656
+Lachnoanaerobaculum umeaense	Intestinimonas butyriciproducens	0.414721024
+Lachnoanaerobaculum umeaense	[Clostridium] innocuum	0.323298705
+Lachnoanaerobaculum umeaense	Faecalitalea cylindroides	0.362043644
+Lachnoanaerobaculum umeaense	Sphingomonas melonis	-0.312526063
+Lachnoanaerobaculum umeaense	Sphingomonas sp. NIC1	-0.325581545
+Lachnoanaerobaculum umeaense	Lautropia mirabilis	-0.303067248
+Lachnoanaerobaculum umeaense	Acinetobacter lanii	-0.302160485
+Lachnoanaerobaculum umeaense	Acinetobacter shaoyimingii	-0.306160777
+Lachnoanaerobaculum umeaense	Acinetobacter sp. ACNIH2	-0.30786458
+Lachnoanaerobaculum umeaense	Acinetobacter sp. C16S1	-0.314997872
+Lachnoanaerobaculum umeaense	Acinetobacter tandoii	-0.31305087
+Lachnoanaerobaculum umeaense	Acinetobacter venetianus	-0.304224725
+Lachnoanaerobaculum umeaense	Human gammaherpesvirus 4	-0.316451068
+[Clostridium] hylemonae	[Clostridium] scindens	0.689313433
+[Clostridium] hylemonae	Lachnoclostridium phytofermentans	0.383630082
+[Clostridium] hylemonae	Lachnoclostridium sp. YL32	0.535315923
+[Clostridium] hylemonae	Lacrimispora saccharolytica	0.59110728
+[Clostridium] hylemonae	Roseburia sp. NSJ-69	0.643488994
+[Clostridium] hylemonae	Sellimonas intestinalis	0.44278962
+[Clostridium] hylemonae	Anaerotruncus colihominis	0.452742223
+[Clostridium] hylemonae	Dysosmobacter sp. Marseille-Q4140	0.428311418
+[Clostridium] hylemonae	Dysosmobacter welbionis	0.551744591
+[Clostridium] hylemonae	Flavonifractor plautii	0.547409501
+[Clostridium] hylemonae	Oscillibacter sp. NSJ-62	0.49121481
+[Clostridium] hylemonae	Pusillibacter faecalis	0.507232909
+[Clostridium] hylemonae	Ruminococcus bicirculans	0.375518969
+[Clostridium] hylemonae	Ruthenibacterium lactatiformans	0.487661377
+[Clostridium] hylemonae	Vescimonas coprocola	0.425236018
+[Clostridium] hylemonae	Vescimonas fastidiosa	0.434309275
+[Clostridium] hylemonae	Clostridioides difficile	0.704776581
+[Clostridium] hylemonae	Flintibacter sp. KGMB00164	0.48460019
+[Clostridium] hylemonae	Intestinimonas butyriciproducens	0.380595974
+[Clostridium] hylemonae	Amedibacterium intestinale	0.43940899
+[Clostridium] hylemonae	[Clostridium] innocuum	0.471925095
+[Clostridium] hylemonae	Faecalitalea cylindroides	0.580885333
+[Clostridium] hylemonae	Longicatena caecimuris	0.531392895
+[Clostridium] hylemonae	Phascolarctobacterium faecium	0.312949339
+[Clostridium] hylemonae	Methylorubrum populi	-0.305760583
+[Clostridium] hylemonae	Sphingomonas melonis	-0.399253123
+[Clostridium] hylemonae	Sphingomonas sp. NIC1	-0.379866443
+[Clostridium] hylemonae	Lautropia mirabilis	-0.316096785
+[Clostridium] hylemonae	Halarcobacter bivalviorum	-0.469246031
+[Clostridium] hylemonae	Enterobacter sichuanensis	-0.304952751
+[Clostridium] hylemonae	Acinetobacter baylyi	-0.377467465
+[Clostridium] hylemonae	Acinetobacter defluvii	-0.330669927
+[Clostridium] hylemonae	Acinetobacter gyllenbergii	-0.374183825
+[Clostridium] hylemonae	Acinetobacter lanii	-0.433301443
+[Clostridium] hylemonae	Acinetobacter larvae	-0.350603852
+[Clostridium] hylemonae	Acinetobacter piscicola	-0.345201465
+[Clostridium] hylemonae	Acinetobacter radioresistens	-0.369310449
+[Clostridium] hylemonae	Acinetobacter seifertii	-0.349509673
+[Clostridium] hylemonae	Acinetobacter shaoyimingii	-0.376224948
+[Clostridium] hylemonae	Acinetobacter soli	-0.348616962
+[Clostridium] hylemonae	Acinetobacter sp. 10FS3-1	-0.405919964
+[Clostridium] hylemonae	Acinetobacter sp. ACNIH2	-0.38814112
+[Clostridium] hylemonae	Acinetobacter sp. C16S1	-0.415592859
+[Clostridium] hylemonae	Acinetobacter sp. CS-2	-0.405417953
+[Clostridium] hylemonae	Acinetobacter sp. Marseille-Q1620	-0.374952697
+[Clostridium] hylemonae	Acinetobacter sp. SCLZS86	-0.411239023
+[Clostridium] hylemonae	Acinetobacter sp. SH20PTE14	-0.393292358
+[Clostridium] hylemonae	Acinetobacter sp. TGL-Y2	-0.328349802
+[Clostridium] hylemonae	Acinetobacter sp. TTH0-4	-0.357039739
+[Clostridium] hylemonae	Acinetobacter tandoii	-0.391345953
+[Clostridium] hylemonae	Acinetobacter towneri	-0.379527906
+[Clostridium] hylemonae	Acinetobacter ursingii	-0.41337932
+[Clostridium] hylemonae	Acinetobacter venetianus	-0.37971483
+[Clostridium] hylemonae	Acinetobacter wanghuae	-0.3768298
+[Clostridium] hylemonae	Acinetobacter wuhouensis	-0.344797736
+[Clostridium] hylemonae	Pseudomonas thivervalensis	-0.398846753
+[Clostridium] hylemonae	Pseudoxanthomonas suwonensis	-0.352381607
+[Clostridium] hylemonae	Hydrogenophilus thermoluteolus	-0.353759317
+[Clostridium] hylemonae	Aspergillus fumigatus	-0.337220167
+[Clostridium] hylemonae	Aspergillus oryzae	-0.372211104
+[Clostridium] hylemonae	Candida dubliniensis	-0.333775058
+[Clostridium] hylemonae	Yarrowia lipolytica	-0.347196638
+[Clostridium] hylemonae	Kluyveromyces marxianus	-0.362682416
+[Clostridium] hylemonae	[Candida] glabrata	-0.326433188
+[Clostridium] hylemonae	Human gammaherpesvirus 4	-0.400420117
+[Clostridium] hylemonae	Human immunodeficiency virus 1	-0.376334289
+[Clostridium] scindens	Lachnoclostridium phytofermentans	0.307887154
+[Clostridium] scindens	Lachnoclostridium sp. YL32	0.687932689
+[Clostridium] scindens	Lacrimispora saccharolytica	0.609391257
+[Clostridium] scindens	Roseburia sp. NSJ-69	0.558853885
+[Clostridium] scindens	Sellimonas intestinalis	0.536897763
+[Clostridium] scindens	Anaerotruncus colihominis	0.423170271
+[Clostridium] scindens	Dysosmobacter sp. Marseille-Q4140	0.460819038
+[Clostridium] scindens	Dysosmobacter welbionis	0.550269473
+[Clostridium] scindens	Flavonifractor plautii	0.687356459
+[Clostridium] scindens	Oscillibacter sp. NSJ-62	0.388116473
+[Clostridium] scindens	Pusillibacter faecalis	0.466115762
+[Clostridium] scindens	Ruthenibacterium lactatiformans	0.577971088
+[Clostridium] scindens	Vescimonas coprocola	0.356134234
+[Clostridium] scindens	Vescimonas fastidiosa	0.389462708
+[Clostridium] scindens	Clostridioides difficile	0.75082253
+[Clostridium] scindens	Flintibacter sp. KGMB00164	0.39867661
+[Clostridium] scindens	Intestinimonas butyriciproducens	0.434088015
+[Clostridium] scindens	Amedibacterium intestinale	0.446314262
+[Clostridium] scindens	[Clostridium] innocuum	0.526077248
+[Clostridium] scindens	Erysipelatoclostridium ramosum	0.47721465
+[Clostridium] scindens	Faecalitalea cylindroides	0.52599119
+[Clostridium] scindens	Longicatena caecimuris	0.500525904
+[Clostridium] scindens	Phascolarctobacterium faecium	0.391277559
+[Clostridium] scindens	Methylorubrum populi	-0.340549284
+[Clostridium] scindens	Sphingomonas melonis	-0.347412247
+[Clostridium] scindens	Sphingomonas sp. NIC1	-0.35279653
+[Clostridium] scindens	Lautropia mirabilis	-0.312853681
+[Clostridium] scindens	Ralstonia sp. 56D2	-0.335355521
+[Clostridium] scindens	Halarcobacter bivalviorum	-0.446048148
+[Clostridium] scindens	Campylobacter gracilis	-0.310841526
+[Clostridium] scindens	Campylobacter rectus	-0.305426676
+[Clostridium] scindens	Enterobacter cancerogenus	-0.32695173
+[Clostridium] scindens	Enterobacter roggenkampii	-0.334017138
+[Clostridium] scindens	Enterobacter sichuanensis	-0.356196437
+[Clostridium] scindens	Acinetobacter baylyi	-0.374983601
+[Clostridium] scindens	Acinetobacter calcoaceticus	-0.338892103
+[Clostridium] scindens	Acinetobacter defluvii	-0.354135385
+[Clostridium] scindens	Acinetobacter gyllenbergii	-0.383609833
+[Clostridium] scindens	Acinetobacter indicus	-0.341458491
+[Clostridium] scindens	Acinetobacter junii	-0.32312067
+[Clostridium] scindens	Acinetobacter lanii	-0.405074657
+[Clostridium] scindens	Acinetobacter larvae	-0.363327308
+[Clostridium] scindens	Acinetobacter nosocomialis	-0.301561067
+[Clostridium] scindens	Acinetobacter piscicola	-0.371904213
+[Clostridium] scindens	Acinetobacter radioresistens	-0.331343233
+[Clostridium] scindens	Acinetobacter seifertii	-0.391069621
+[Clostridium] scindens	Acinetobacter shaoyimingii	-0.391045175
+[Clostridium] scindens	Acinetobacter soli	-0.354069845
+[Clostridium] scindens	Acinetobacter sp. 10FS3-1	-0.400264462
+[Clostridium] scindens	Acinetobacter sp. ACNIH2	-0.393958621
+[Clostridium] scindens	Acinetobacter sp. C16S1	-0.3810483
+[Clostridium] scindens	Acinetobacter sp. CS-2	-0.393462411
+[Clostridium] scindens	Acinetobacter sp. Marseille-Q1620	-0.362366194
+[Clostridium] scindens	Acinetobacter sp. SCLZS86	-0.402094347
+[Clostridium] scindens	Acinetobacter sp. SH20PTE14	-0.384716526
+[Clostridium] scindens	Acinetobacter sp. TGL-Y2	-0.374415728
+[Clostridium] scindens	Acinetobacter sp. TTH0-4	-0.322563351
+[Clostridium] scindens	Acinetobacter tandoii	-0.33900365
+[Clostridium] scindens	Acinetobacter towneri	-0.380504668
+[Clostridium] scindens	Acinetobacter ursingii	-0.364464009
+[Clostridium] scindens	Acinetobacter venetianus	-0.393462547
+[Clostridium] scindens	Acinetobacter wanghuae	-0.370499524
+[Clostridium] scindens	Acinetobacter wuhouensis	-0.360590291
+[Clostridium] scindens	Aggregatibacter segnis	-0.311386203
+[Clostridium] scindens	Pseudomonas thivervalensis	-0.388891527
+[Clostridium] scindens	Pseudoxanthomonas suwonensis	-0.305821442
+[Clostridium] scindens	Xanthomonas campestris	-0.348052777
+[Clostridium] scindens	Hydrogenophilus thermoluteolus	-0.345377898
+[Clostridium] scindens	Treponema sp. Marseille-Q4132	-0.30679241
+[Clostridium] scindens	Akkermansia muciniphila	0.364618229
+[Clostridium] scindens	Cercospora beticola	-0.350496052
+[Clostridium] scindens	Aspergillus fumigatus	-0.369974011
+[Clostridium] scindens	Aspergillus luchuensis	-0.307352177
+[Clostridium] scindens	Aspergillus oryzae	-0.375593003
+[Clostridium] scindens	Candida dubliniensis	-0.316654594
+[Clostridium] scindens	Yarrowia lipolytica	-0.328560389
+[Clostridium] scindens	Kluyveromyces marxianus	-0.372097384
+[Clostridium] scindens	[Candida] glabrata	-0.317288558
+[Clostridium] scindens	Human gammaherpesvirus 4	-0.419106654
+[Clostridium] scindens	Human immunodeficiency virus 1	-0.36362464
+Lachnoclostridium phytofermentans	Lacrimispora saccharolytica	0.360386602
+Lachnoclostridium phytofermentans	Roseburia sp. NSJ-69	0.468863678
+Lachnoclostridium phytofermentans	Ruminococcus bicirculans	0.348121265
+Lachnoclostridium phytofermentans	Amedibacterium intestinale	0.34745341
+Lachnoclostridium phytofermentans	Faecalitalea cylindroides	0.359014854
+Lachnoclostridium phytofermentans	Longicatena caecimuris	0.347992121
+Lachnoclostridium phytofermentans	Halarcobacter bivalviorum	-0.308562233
+Lachnoclostridium sp. YL32	Lacrimispora saccharolytica	0.582389158
+Lachnoclostridium sp. YL32	Roseburia sp. NSJ-69	0.406980505
+Lachnoclostridium sp. YL32	Sellimonas intestinalis	0.384424458
+Lachnoclostridium sp. YL32	Dysosmobacter sp. Marseille-Q4140	0.337863982
+Lachnoclostridium sp. YL32	Dysosmobacter welbionis	0.505509475
+Lachnoclostridium sp. YL32	Flavonifractor plautii	0.540204091
+Lachnoclostridium sp. YL32	Oscillibacter sp. NSJ-62	0.349773135
+Lachnoclostridium sp. YL32	Pusillibacter faecalis	0.352662342
+Lachnoclostridium sp. YL32	Ruthenibacterium lactatiformans	0.592929872
+Lachnoclostridium sp. YL32	Clostridioides difficile	0.670480359
+Lachnoclostridium sp. YL32	Flintibacter sp. KGMB00164	0.314011699
+Lachnoclostridium sp. YL32	Intestinimonas butyriciproducens	0.340762166
+Lachnoclostridium sp. YL32	Amedibacterium intestinale	0.32679217
+Lachnoclostridium sp. YL32	[Clostridium] innocuum	0.478959265
+Lachnoclostridium sp. YL32	Faecalitalea cylindroides	0.331900783
+Lachnoclostridium sp. YL32	Longicatena caecimuris	0.344888897
+Lachnoclostridium sp. YL32	Fusobacterium periodonticum	-0.300756634
+Lachnoclostridium sp. YL32	Sphingomonas melonis	-0.314772259
+Lachnoclostridium sp. YL32	Sphingomonas sp. NIC1	-0.337284266
+Lachnoclostridium sp. YL32	Halarcobacter bivalviorum	-0.353110953
+Lachnoclostridium sp. YL32	Shewanella algae	-0.303751438
+Lachnoclostridium sp. YL32	Acinetobacter baylyi	-0.351296693
+Lachnoclostridium sp. YL32	Acinetobacter defluvii	-0.32051582
+Lachnoclostridium sp. YL32	Acinetobacter gyllenbergii	-0.350897937
+Lachnoclostridium sp. YL32	Acinetobacter lanii	-0.360708417
+Lachnoclostridium sp. YL32	Acinetobacter larvae	-0.305050544
+Lachnoclostridium sp. YL32	Acinetobacter piscicola	-0.332682496
+Lachnoclostridium sp. YL32	Acinetobacter seifertii	-0.35251022
+Lachnoclostridium sp. YL32	Acinetobacter shaoyimingii	-0.321730832
+Lachnoclostridium sp. YL32	Acinetobacter sp. 10FS3-1	-0.323987674
+Lachnoclostridium sp. YL32	Acinetobacter sp. ACNIH2	-0.346693751
+Lachnoclostridium sp. YL32	Acinetobacter sp. C16S1	-0.362553737
+Lachnoclostridium sp. YL32	Acinetobacter sp. CS-2	-0.371412871
+Lachnoclostridium sp. YL32	Acinetobacter sp. Marseille-Q1620	-0.307397198
+Lachnoclostridium sp. YL32	Acinetobacter sp. SCLZS86	-0.365091946
+Lachnoclostridium sp. YL32	Acinetobacter sp. SH20PTE14	-0.346556844
+Lachnoclostridium sp. YL32	Acinetobacter sp. TGL-Y2	-0.30271369
+Lachnoclostridium sp. YL32	Acinetobacter towneri	-0.328791378
+Lachnoclostridium sp. YL32	Acinetobacter ursingii	-0.348957078
+Lachnoclostridium sp. YL32	Acinetobacter venetianus	-0.364459167
+Lachnoclostridium sp. YL32	Acinetobacter wanghuae	-0.359291463
+Lachnoclostridium sp. YL32	Acinetobacter wuhouensis	-0.352255073
+Lachnoclostridium sp. YL32	Pseudomonas thivervalensis	-0.367522405
+Lachnoclostridium sp. YL32	Pseudoxanthomonas suwonensis	-0.300214287
+Lachnoclostridium sp. YL32	Hydrogenophilus thermoluteolus	-0.336580742
+Lachnoclostridium sp. YL32	Akkermansia muciniphila	0.371278401
+Lachnoclostridium sp. YL32	Cercospora beticola	-0.358159083
+Lachnoclostridium sp. YL32	Aspergillus fumigatus	-0.377024369
+Lachnoclostridium sp. YL32	Aspergillus oryzae	-0.362217159
+Lachnoclostridium sp. YL32	Yarrowia lipolytica	-0.319832666
+Lachnoclostridium sp. YL32	Kluyveromyces marxianus	-0.320908977
+Lachnoclostridium sp. YL32	Human gammaherpesvirus 4	-0.399296371
+Lachnoclostridium sp. YL32	Human immunodeficiency virus 1	-0.311592716
+Lacrimispora saccharolytica	Roseburia sp. NSJ-69	0.554002395
+Lacrimispora saccharolytica	Sellimonas intestinalis	0.390263599
+Lacrimispora saccharolytica	Anaerotruncus colihominis	0.333396717
+Lacrimispora saccharolytica	Dysosmobacter sp. Marseille-Q4140	0.417798649
+Lacrimispora saccharolytica	Dysosmobacter welbionis	0.459418088
+Lacrimispora saccharolytica	Flavonifractor plautii	0.519785197
+Lacrimispora saccharolytica	Oscillibacter sp. NSJ-62	0.376813387
+Lacrimispora saccharolytica	Pusillibacter faecalis	0.424567146
+Lacrimispora saccharolytica	Ruminococcus bicirculans	0.351284385
+Lacrimispora saccharolytica	Ruthenibacterium lactatiformans	0.491219681
+Lacrimispora saccharolytica	Vescimonas coprocola	0.314701663
+Lacrimispora saccharolytica	Clostridioides difficile	0.631303166
+Lacrimispora saccharolytica	Flintibacter sp. KGMB00164	0.367766653
+Lacrimispora saccharolytica	Intestinimonas butyriciproducens	0.344911358
+Lacrimispora saccharolytica	Amedibacterium intestinale	0.356424266
+Lacrimispora saccharolytica	[Clostridium] innocuum	0.470532942
+Lacrimispora saccharolytica	Faecalitalea cylindroides	0.509657137
+Lacrimispora saccharolytica	Longicatena caecimuris	0.45189595
+Lacrimispora saccharolytica	Methylorubrum populi	-0.308837541
+Lacrimispora saccharolytica	Sphingomonas melonis	-0.389776433
+Lacrimispora saccharolytica	Sphingomonas paucimobilis	-0.304383887
+Lacrimispora saccharolytica	Sphingomonas sp. NIC1	-0.404203676
+Lacrimispora saccharolytica	Acidovorax sp. 1608163	-0.339614984
+Lacrimispora saccharolytica	Halarcobacter bivalviorum	-0.42228344
+Lacrimispora saccharolytica	Enterobacter cancerogenus	-0.398575907
+Lacrimispora saccharolytica	Enterobacter roggenkampii	-0.30964992
+Lacrimispora saccharolytica	Acinetobacter baylyi	-0.374315432
+Lacrimispora saccharolytica	Acinetobacter defluvii	-0.317768313
+Lacrimispora saccharolytica	Acinetobacter gyllenbergii	-0.353838654
+Lacrimispora saccharolytica	Acinetobacter lanii	-0.366956914
+Lacrimispora saccharolytica	Acinetobacter larvae	-0.301707047
+Lacrimispora saccharolytica	Acinetobacter piscicola	-0.360055826
+Lacrimispora saccharolytica	Acinetobacter radioresistens	-0.337559934
+Lacrimispora saccharolytica	Acinetobacter seifertii	-0.345200126
+Lacrimispora saccharolytica	Acinetobacter shaoyimingii	-0.328744
+Lacrimispora saccharolytica	Acinetobacter soli	-0.325150945
+Lacrimispora saccharolytica	Acinetobacter sp. 10FS3-1	-0.315353818
+Lacrimispora saccharolytica	Acinetobacter sp. ACNIH2	-0.401990018
+Lacrimispora saccharolytica	Acinetobacter sp. C16S1	-0.351593912
+Lacrimispora saccharolytica	Acinetobacter sp. CS-2	-0.388215286
+Lacrimispora saccharolytica	Acinetobacter sp. Marseille-Q1620	-0.344772848
+Lacrimispora saccharolytica	Acinetobacter sp. SCLZS86	-0.363467351
+Lacrimispora saccharolytica	Acinetobacter sp. SH20PTE14	-0.310107174
+Lacrimispora saccharolytica	Acinetobacter sp. TTH0-4	-0.341455107
+Lacrimispora saccharolytica	Acinetobacter tandoii	-0.357801444
+Lacrimispora saccharolytica	Acinetobacter towneri	-0.348426873
+Lacrimispora saccharolytica	Acinetobacter ursingii	-0.387937319
+Lacrimispora saccharolytica	Acinetobacter venetianus	-0.381636403
+Lacrimispora saccharolytica	Acinetobacter wanghuae	-0.37033565
+Lacrimispora saccharolytica	Acinetobacter wuhouensis	-0.306092479
+Lacrimispora saccharolytica	Aggregatibacter segnis	-0.314708549
+Lacrimispora saccharolytica	Pseudomonas thivervalensis	-0.373699601
+Lacrimispora saccharolytica	Pseudoxanthomonas suwonensis	-0.335354332
+Lacrimispora saccharolytica	Hydrogenophilus thermoluteolus	-0.352183814
+Lacrimispora saccharolytica	Cercospora beticola	-0.361818405
+Lacrimispora saccharolytica	Aspergillus fumigatus	-0.361456199
+Lacrimispora saccharolytica	Aspergillus luchuensis	-0.314565086
+Lacrimispora saccharolytica	Aspergillus oryzae	-0.394731647
+Lacrimispora saccharolytica	Candida dubliniensis	-0.301421109
+Lacrimispora saccharolytica	Yarrowia lipolytica	-0.336466877
+Lacrimispora saccharolytica	Kluyveromyces marxianus	-0.333367782
+Lacrimispora saccharolytica	Human gammaherpesvirus 4	-0.395681552
+Lacrimispora saccharolytica	Human immunodeficiency virus 1	-0.338833079
+Roseburia sp. NSJ-69	Dysosmobacter sp. Marseille-Q4140	0.423261159
+Roseburia sp. NSJ-69	Dysosmobacter welbionis	0.49435651
+Roseburia sp. NSJ-69	Flavonifractor plautii	0.438379909
+Roseburia sp. NSJ-69	Oscillibacter sp. NSJ-62	0.455342065
+Roseburia sp. NSJ-69	Pusillibacter faecalis	0.463919684
+Roseburia sp. NSJ-69	Ruminococcus bicirculans	0.481995682
+Roseburia sp. NSJ-69	Vescimonas coprocola	0.407608475
+Roseburia sp. NSJ-69	Vescimonas fastidiosa	0.430633761
+Roseburia sp. NSJ-69	Clostridioides difficile	0.533468677
+Roseburia sp. NSJ-69	Flintibacter sp. KGMB00164	0.449556893
+Roseburia sp. NSJ-69	Intestinimonas butyriciproducens	0.325111846
+Roseburia sp. NSJ-69	Amedibacterium intestinale	0.366501982
+Roseburia sp. NSJ-69	Faecalitalea cylindroides	0.528397176
+Roseburia sp. NSJ-69	Longicatena caecimuris	0.526505697
+Roseburia sp. NSJ-69	Phascolarctobacterium faecium	0.307170573
+Roseburia sp. NSJ-69	Sphingomonas sp. NIC1	-0.32186584
+Roseburia sp. NSJ-69	Halarcobacter bivalviorum	-0.426552324
+Roseburia sp. NSJ-69	Enterobacter sichuanensis	-0.346005811
+Roseburia sp. NSJ-69	Klebsiella pneumoniae	0.326185897
+Roseburia sp. NSJ-69	Acinetobacter lanii	-0.372798965
+Roseburia sp. NSJ-69	Acinetobacter radioresistens	-0.325255504
+Roseburia sp. NSJ-69	Acinetobacter shaoyimingii	-0.348871024
+Roseburia sp. NSJ-69	Acinetobacter sp. 10FS3-1	-0.333723457
+Roseburia sp. NSJ-69	Acinetobacter sp. ACNIH2	-0.337272918
+Roseburia sp. NSJ-69	Acinetobacter sp. C16S1	-0.33032774
+Roseburia sp. NSJ-69	Acinetobacter sp. CS-2	-0.336527721
+Roseburia sp. NSJ-69	Acinetobacter sp. Marseille-Q1620	-0.321397153
+Roseburia sp. NSJ-69	Acinetobacter sp. SCLZS86	-0.319827025
+Roseburia sp. NSJ-69	Acinetobacter sp. SH20PTE14	-0.307663523
+Roseburia sp. NSJ-69	Acinetobacter tandoii	-0.353033644
+Roseburia sp. NSJ-69	Acinetobacter towneri	-0.364788342
+Roseburia sp. NSJ-69	Acinetobacter ursingii	-0.364684491
+Roseburia sp. NSJ-69	Acinetobacter venetianus	-0.324946803
+Roseburia sp. NSJ-69	Acinetobacter wanghuae	-0.357316548
+Roseburia sp. NSJ-69	Pseudomonas thivervalensis	-0.343462169
+Roseburia sp. NSJ-69	Aspergillus oryzae	-0.354900274
+Roseburia sp. NSJ-69	Candida dubliniensis	-0.310088777
+Roseburia sp. NSJ-69	Human gammaherpesvirus 4	-0.364944527
+Roseburia sp. NSJ-69	Human immunodeficiency virus 1	-0.330241576
+Sellimonas intestinalis	Anaerotruncus colihominis	0.57602618
+Sellimonas intestinalis	Dysosmobacter sp. Marseille-Q4140	0.374161625
+Sellimonas intestinalis	Dysosmobacter welbionis	0.417462912
+Sellimonas intestinalis	Flavonifractor plautii	0.556007976
+Sellimonas intestinalis	Oscillibacter sp. NSJ-62	0.316380949
+Sellimonas intestinalis	Pusillibacter faecalis	0.333071812
+Sellimonas intestinalis	Ruminococcus bicirculans	0.312328905
+Sellimonas intestinalis	Ruthenibacterium lactatiformans	0.432081831
+Sellimonas intestinalis	Vescimonas coprocola	0.332026986
+Sellimonas intestinalis	Vescimonas fastidiosa	0.385229186
+Sellimonas intestinalis	Clostridioides difficile	0.54204662
+Sellimonas intestinalis	Flintibacter sp. KGMB00164	0.32761646
+Sellimonas intestinalis	Intestinimonas butyriciproducens	0.302291704
+Sellimonas intestinalis	Amedibacterium intestinale	0.327997663
+Sellimonas intestinalis	[Clostridium] innocuum	0.576659149
+Sellimonas intestinalis	Faecalitalea cylindroides	0.433265547
+Sellimonas intestinalis	Methylorubrum populi	-0.317891531
+Sellimonas intestinalis	Sphingomonas sp. NIC1	-0.30678687
+Sellimonas intestinalis	Halarcobacter bivalviorum	-0.323357231
+Sellimonas intestinalis	Akkermansia muciniphila	0.303823223
+Anaerotruncus colihominis	Dysosmobacter sp. Marseille-Q4140	0.361441251
+Anaerotruncus colihominis	Dysosmobacter welbionis	0.42815222
+Anaerotruncus colihominis	Flavonifractor plautii	0.463124559
+Anaerotruncus colihominis	Oscillibacter sp. NSJ-62	0.3831842
+Anaerotruncus colihominis	Pusillibacter faecalis	0.381574211
+Anaerotruncus colihominis	Ruminococcus bicirculans	0.396668099
+Anaerotruncus colihominis	Ruthenibacterium lactatiformans	0.363259185
+Anaerotruncus colihominis	Vescimonas coprocola	0.518790789
+Anaerotruncus colihominis	Vescimonas fastidiosa	0.462052086
+Anaerotruncus colihominis	Clostridioides difficile	0.396067922
+Anaerotruncus colihominis	Flintibacter sp. KGMB00164	0.42785746
+Anaerotruncus colihominis	Intestinimonas butyriciproducens	0.367101777
+Anaerotruncus colihominis	Amedibacterium intestinale	0.314879328
+Anaerotruncus colihominis	[Clostridium] innocuum	0.427160776
+Anaerotruncus colihominis	Faecalitalea cylindroides	0.507516306
+Anaerotruncus colihominis	Methylorubrum populi	-0.348518176
+Anaerotruncus colihominis	Sphingomonas sp. NIC1	-0.302028235
+Anaerotruncus colihominis	Enterobacter sichuanensis	-0.319715993
+Anaerotruncus colihominis	Acinetobacter johnsonii	-0.328545202
+Anaerotruncus colihominis	Akkermansia muciniphila	0.41088525
+Dysosmobacter sp. Marseille-Q4140	Dysosmobacter welbionis	0.592746732
+Dysosmobacter sp. Marseille-Q4140	Flavonifractor plautii	0.477416286
+Dysosmobacter sp. Marseille-Q4140	Oscillibacter sp. NSJ-62	0.542127717
+Dysosmobacter sp. Marseille-Q4140	Pusillibacter faecalis	0.456957691
+Dysosmobacter sp. Marseille-Q4140	Ruminococcus bicirculans	0.393277182
+Dysosmobacter sp. Marseille-Q4140	Ruthenibacterium lactatiformans	0.371874422
+Dysosmobacter sp. Marseille-Q4140	Vescimonas coprocola	0.509010913
+Dysosmobacter sp. Marseille-Q4140	Vescimonas fastidiosa	0.498520311
+Dysosmobacter sp. Marseille-Q4140	Clostridioides difficile	0.452702035
+Dysosmobacter sp. Marseille-Q4140	Flintibacter sp. KGMB00164	0.521457896
+Dysosmobacter sp. Marseille-Q4140	Intestinimonas butyriciproducens	0.515651749
+Dysosmobacter sp. Marseille-Q4140	Faecalitalea cylindroides	0.344036707
+Dysosmobacter sp. Marseille-Q4140	Longicatena caecimuris	0.409915164
+Dysosmobacter sp. Marseille-Q4140	Veillonella nakazawae	-0.303230573
+Dysosmobacter sp. Marseille-Q4140	Veillonella sp. S12025-13	-0.367624458
+Dysosmobacter sp. Marseille-Q4140	Acinetobacter lanii	-0.300124568
+Dysosmobacter sp. Marseille-Q4140	Acinetobacter piscicola	-0.317713566
+Dysosmobacter sp. Marseille-Q4140	Acinetobacter radioresistens	-0.311409634
+Dysosmobacter sp. Marseille-Q4140	Acinetobacter sp. 10FS3-1	-0.303214053
+Dysosmobacter sp. Marseille-Q4140	Acinetobacter sp. Marseille-Q1620	-0.319130181
+Dysosmobacter sp. Marseille-Q4140	Acinetobacter tandoii	-0.335494703
+Dysosmobacter sp. Marseille-Q4140	Aggregatibacter segnis	-0.342297946
+Dysosmobacter sp. Marseille-Q4140	Akkermansia muciniphila	0.335775439
+Dysosmobacter sp. Marseille-Q4140	Aspergillus fumigatus	-0.301515345
+Dysosmobacter sp. Marseille-Q4140	Aspergillus oryzae	-0.335135077
+Dysosmobacter sp. Marseille-Q4140	Human gammaherpesvirus 4	-0.357891135
+Dysosmobacter welbionis	Flavonifractor plautii	0.617788095
+Dysosmobacter welbionis	Oscillibacter sp. NSJ-62	0.60337762
+Dysosmobacter welbionis	Pusillibacter faecalis	0.598372394
+Dysosmobacter welbionis	Ruminococcus bicirculans	0.421494542
+Dysosmobacter welbionis	Ruthenibacterium lactatiformans	0.559383291
+Dysosmobacter welbionis	Vescimonas coprocola	0.519067774
+Dysosmobacter welbionis	Vescimonas fastidiosa	0.583122202
+Dysosmobacter welbionis	Clostridioides difficile	0.592643141
+Dysosmobacter welbionis	Flintibacter sp. KGMB00164	0.561417164
+Dysosmobacter welbionis	Intestinimonas butyriciproducens	0.53751619
+Dysosmobacter welbionis	[Clostridium] innocuum	0.403533323
+Dysosmobacter welbionis	Faecalitalea cylindroides	0.382075628
+Dysosmobacter welbionis	Longicatena caecimuris	0.449048049
+Dysosmobacter welbionis	Veillonella nakazawae	-0.361293542
+Dysosmobacter welbionis	Veillonella sp. S12025-13	-0.322597926
+Dysosmobacter welbionis	Methylorubrum populi	-0.308415911
+Dysosmobacter welbionis	Sphingomonas melonis	-0.336830091
+Dysosmobacter welbionis	Sphingomonas sp. NIC1	-0.332555255
+Dysosmobacter welbionis	Halarcobacter bivalviorum	-0.431847782
+Dysosmobacter welbionis	Aeromonas veronii	-0.3421939
+Dysosmobacter welbionis	Acinetobacter baylyi	-0.307779048
+Dysosmobacter welbionis	Acinetobacter gyllenbergii	-0.364807627
+Dysosmobacter welbionis	Acinetobacter indicus	-0.316221319
+Dysosmobacter welbionis	Acinetobacter lanii	-0.394396087
+Dysosmobacter welbionis	Acinetobacter piscicola	-0.33264776
+Dysosmobacter welbionis	Acinetobacter radioresistens	-0.316301545
+Dysosmobacter welbionis	Acinetobacter seifertii	-0.330161671
+Dysosmobacter welbionis	Acinetobacter shaoyimingii	-0.36886728
+Dysosmobacter welbionis	Acinetobacter soli	-0.315210863
+Dysosmobacter welbionis	Acinetobacter sp. 10FS3-1	-0.362165787
+Dysosmobacter welbionis	Acinetobacter sp. ACNIH2	-0.343057833
+Dysosmobacter welbionis	Acinetobacter sp. C16S1	-0.365365406
+Dysosmobacter welbionis	Acinetobacter sp. CS-2	-0.334806152
+Dysosmobacter welbionis	Acinetobacter sp. Marseille-Q1620	-0.369268669
+Dysosmobacter welbionis	Acinetobacter sp. SCLZS86	-0.368514209
+Dysosmobacter welbionis	Acinetobacter sp. TGL-Y2	-0.318229181
+Dysosmobacter welbionis	Acinetobacter tandoii	-0.372458789
+Dysosmobacter welbionis	Acinetobacter towneri	-0.300036336
+Dysosmobacter welbionis	Acinetobacter ursingii	-0.344915043
+Dysosmobacter welbionis	Acinetobacter venetianus	-0.366542242
+Dysosmobacter welbionis	Acinetobacter wanghuae	-0.334280168
+Dysosmobacter welbionis	Acinetobacter wuhouensis	-0.330279613
+Dysosmobacter welbionis	Aggregatibacter segnis	-0.383294081
+Dysosmobacter welbionis	Haemophilus influenzae	-0.351572154
+Dysosmobacter welbionis	Pseudomonas thivervalensis	-0.363078402
+Dysosmobacter welbionis	Hydrogenophilus thermoluteolus	-0.325917039
+Dysosmobacter welbionis	Akkermansia muciniphila	0.39129281
+Dysosmobacter welbionis	Cercospora beticola	-0.331028073
+Dysosmobacter welbionis	Aspergillus fumigatus	-0.335836873
+Dysosmobacter welbionis	Aspergillus oryzae	-0.3929693
+Dysosmobacter welbionis	Yarrowia lipolytica	-0.353891726
+Dysosmobacter welbionis	Human gammaherpesvirus 4	-0.405243063
+Dysosmobacter welbionis	Human immunodeficiency virus 1	-0.368702312
+Faecalibacterium duncaniae	Faecalibacterium virus Lugh	0.393350964
+Flavonifractor plautii	Oscillibacter sp. NSJ-62	0.500191757
+Flavonifractor plautii	Pusillibacter faecalis	0.529908786
+Flavonifractor plautii	Ruminococcus bicirculans	0.339297147
+Flavonifractor plautii	Ruthenibacterium lactatiformans	0.666279458
+Flavonifractor plautii	Vescimonas coprocola	0.37078861
+Flavonifractor plautii	Vescimonas fastidiosa	0.401437008
+Flavonifractor plautii	Clostridioides difficile	0.627730422
+Flavonifractor plautii	Flintibacter sp. KGMB00164	0.440724167
+Flavonifractor plautii	Intestinimonas butyriciproducens	0.464174966
+Flavonifractor plautii	[Clostridium] innocuum	0.526458688
+Flavonifractor plautii	Faecalitalea cylindroides	0.51959883
+Flavonifractor plautii	Longicatena caecimuris	0.415346995
+Flavonifractor plautii	Methylorubrum populi	-0.315589165
+Flavonifractor plautii	Paracoccus kondratievae	-0.307808458
+Flavonifractor plautii	Sphingomonas melonis	-0.30968439
+Flavonifractor plautii	Sphingomonas sp. NIC1	-0.309905247
+Flavonifractor plautii	Acidovorax sp. 1608163	-0.317596198
+Flavonifractor plautii	Halarcobacter bivalviorum	-0.345799013
+Flavonifractor plautii	Enterobacter sichuanensis	-0.314407434
+Flavonifractor plautii	Acinetobacter baylyi	-0.333502841
+Flavonifractor plautii	Acinetobacter johnsonii	-0.319915519
+Flavonifractor plautii	Acinetobacter lanii	-0.327752957
+Flavonifractor plautii	Acinetobacter piscicola	-0.301876806
+Flavonifractor plautii	Acinetobacter seifertii	-0.359070728
+Flavonifractor plautii	Acinetobacter shaoyimingii	-0.352330864
+Flavonifractor plautii	Acinetobacter sp. 10FS3-1	-0.313867639
+Flavonifractor plautii	Acinetobacter sp. ACNIH2	-0.331777571
+Flavonifractor plautii	Acinetobacter sp. C16S1	-0.32692833
+Flavonifractor plautii	Acinetobacter sp. Marseille-Q1620	-0.311133326
+Flavonifractor plautii	Acinetobacter sp. SCLZS86	-0.339187831
+Flavonifractor plautii	Acinetobacter sp. TGL-Y2	-0.311157494
+Flavonifractor plautii	Acinetobacter tandoii	-0.330976276
+Flavonifractor plautii	Acinetobacter ursingii	-0.301174677
+Flavonifractor plautii	Acinetobacter venetianus	-0.325844214
+Flavonifractor plautii	Acinetobacter wuhouensis	-0.312649742
+Flavonifractor plautii	Pseudomonas thivervalensis	-0.320029945
+Flavonifractor plautii	Hydrogenophilus thermoluteolus	-0.346034249
+Flavonifractor plautii	Human gammaherpesvirus 4	-0.305696064
+Flavonifractor plautii	Human immunodeficiency virus 1	-0.3260122
+Oscillibacter sp. NSJ-62	Pusillibacter faecalis	0.535723003
+Oscillibacter sp. NSJ-62	Ruminococcus bicirculans	0.425804048
+Oscillibacter sp. NSJ-62	Ruthenibacterium lactatiformans	0.440412414
+Oscillibacter sp. NSJ-62	Vescimonas coprocola	0.581895365
+Oscillibacter sp. NSJ-62	Vescimonas fastidiosa	0.573454886
+Oscillibacter sp. NSJ-62	Clostridioides difficile	0.431085736
+Oscillibacter sp. NSJ-62	Flintibacter sp. KGMB00164	0.556556737
+Oscillibacter sp. NSJ-62	Intestinimonas butyriciproducens	0.447889941
+Oscillibacter sp. NSJ-62	[Clostridium] innocuum	0.323298281
+Oscillibacter sp. NSJ-62	Faecalitalea cylindroides	0.351509014
+Oscillibacter sp. NSJ-62	Longicatena caecimuris	0.402402417
+Oscillibacter sp. NSJ-62	Veillonella sp. S12025-13	-0.336152791
+Oscillibacter sp. NSJ-62	Sphingomonas melonis	-0.311692817
+Oscillibacter sp. NSJ-62	Sphingomonas sp. NIC1	-0.327696899
+Oscillibacter sp. NSJ-62	Halarcobacter bivalviorum	-0.357082523
+Oscillibacter sp. NSJ-62	Acinetobacter lanii	-0.360210523
+Oscillibacter sp. NSJ-62	Acinetobacter shaoyimingii	-0.319318351
+Oscillibacter sp. NSJ-62	Acinetobacter sp. 10FS3-1	-0.31152575
+Oscillibacter sp. NSJ-62	Acinetobacter sp. ACNIH2	-0.306682176
+Oscillibacter sp. NSJ-62	Acinetobacter sp. SCLZS86	-0.302925962
+Oscillibacter sp. NSJ-62	Acinetobacter ursingii	-0.330041844
+Oscillibacter sp. NSJ-62	Acinetobacter venetianus	-0.314604525
+Oscillibacter sp. NSJ-62	Aggregatibacter segnis	-0.328200071
+Oscillibacter sp. NSJ-62	Haemophilus influenzae	-0.309486772
+Oscillibacter sp. NSJ-62	Pseudomonas thivervalensis	-0.308887192
+Oscillibacter sp. NSJ-62	Aspergillus oryzae	-0.375363212
+Oscillibacter sp. NSJ-62	Yarrowia lipolytica	-0.328943909
+Oscillibacter sp. NSJ-62	Thermothelomyces thermophilus	-0.315329892
+Oscillibacter sp. NSJ-62	Human gammaherpesvirus 4	-0.345473457
+Oscillibacter sp. NSJ-62	Human immunodeficiency virus 1	-0.30329119
+Pusillibacter faecalis	Ruminococcus bicirculans	0.399563251
+Pusillibacter faecalis	Ruthenibacterium lactatiformans	0.47666151
+Pusillibacter faecalis	Vescimonas coprocola	0.412727641
+Pusillibacter faecalis	Vescimonas fastidiosa	0.475792188
+Pusillibacter faecalis	Clostridioides difficile	0.468660107
+Pusillibacter faecalis	Flintibacter sp. KGMB00164	0.550981668
+Pusillibacter faecalis	Intestinimonas butyriciproducens	0.484903463
+Pusillibacter faecalis	[Clostridium] innocuum	0.350154911
+Pusillibacter faecalis	Faecalitalea cylindroides	0.420183626
+Pusillibacter faecalis	Longicatena caecimuris	0.439493427
+Pusillibacter faecalis	Phascolarctobacterium faecium	0.331642076
+Pusillibacter faecalis	Sphingomonas melonis	-0.313582291
+Pusillibacter faecalis	Sphingomonas sp. NIC1	-0.315731924
+Pusillibacter faecalis	Halarcobacter bivalviorum	-0.364416515
+Pusillibacter faecalis	Enterobacter sichuanensis	-0.333803053
+Pusillibacter faecalis	Acinetobacter lanii	-0.335118727
+Pusillibacter faecalis	Acinetobacter shaoyimingii	-0.310463229
+Pusillibacter faecalis	Acinetobacter sp. ACNIH2	-0.304863426
+Pusillibacter faecalis	Acinetobacter sp. Marseille-Q1620	-0.319978093
+Pusillibacter faecalis	Acinetobacter sp. SCLZS86	-0.310185263
+Pusillibacter faecalis	Acinetobacter tandoii	-0.336190821
+Pusillibacter faecalis	Acinetobacter ursingii	-0.310228364
+Pusillibacter faecalis	Acinetobacter wanghuae	-0.32447367
+Pusillibacter faecalis	Aggregatibacter segnis	-0.30691324
+Pusillibacter faecalis	Akkermansia muciniphila	0.315894665
+Pusillibacter faecalis	Aspergillus oryzae	-0.306158652
+Pusillibacter faecalis	Human gammaherpesvirus 4	-0.324619279
+Ruminococcus bicirculans	Vescimonas coprocola	0.524139841
+Ruminococcus bicirculans	Vescimonas fastidiosa	0.475115988
+Ruminococcus bicirculans	Flintibacter sp. KGMB00164	0.423764768
+Ruminococcus bicirculans	Intestinimonas butyriciproducens	0.34976366
+Ruminococcus bicirculans	Longicatena caecimuris	0.354422532
+Ruminococcus bicirculans	Halarcobacter bivalviorum	-0.399318717
+Ruminococcus bicirculans	Akkermansia muciniphila	0.325591042
+Ruminococcus bicirculans	CrAss-like virus sp.	0.44423317
+Ruminococcus bicirculans	uncultured crAssphage	0.398267388
+Ruthenibacterium lactatiformans	Vescimonas coprocola	0.337914687
+Ruthenibacterium lactatiformans	Clostridioides difficile	0.580888335
+Ruthenibacterium lactatiformans	Flintibacter sp. KGMB00164	0.376867267
+Ruthenibacterium lactatiformans	Intestinimonas butyriciproducens	0.378159778
+Ruthenibacterium lactatiformans	[Clostridium] innocuum	0.610583186
+Ruthenibacterium lactatiformans	Faecalitalea cylindroides	0.307435014
+Ruthenibacterium lactatiformans	Longicatena caecimuris	0.335020589
+Ruthenibacterium lactatiformans	Halarcobacter bivalviorum	-0.342397238
+Ruthenibacterium lactatiformans	Acinetobacter baylyi	-0.301809387
+Ruthenibacterium lactatiformans	Acinetobacter lanii	-0.31313887
+Ruthenibacterium lactatiformans	Acinetobacter seifertii	-0.310957425
+Ruthenibacterium lactatiformans	Acinetobacter shaoyimingii	-0.309995246
+Ruthenibacterium lactatiformans	Acinetobacter sp. 10FS3-1	-0.316557711
+Ruthenibacterium lactatiformans	Acinetobacter sp. ACNIH2	-0.307078906
+Ruthenibacterium lactatiformans	Acinetobacter sp. C16S1	-0.318172042
+Ruthenibacterium lactatiformans	Acinetobacter ursingii	-0.312285092
+Ruthenibacterium lactatiformans	Pseudomonas thivervalensis	-0.308299698
+Ruthenibacterium lactatiformans	Hydrogenophilus thermoluteolus	-0.304406182
+Ruthenibacterium lactatiformans	Akkermansia muciniphila	0.440271785
+Ruthenibacterium lactatiformans	Yarrowia lipolytica	-0.329451552
+Vescimonas coprocola	Vescimonas fastidiosa	0.64514941
+Vescimonas coprocola	Clostridioides difficile	0.346773798
+Vescimonas coprocola	Flintibacter sp. KGMB00164	0.49876524
+Vescimonas coprocola	Intestinimonas butyriciproducens	0.512148641
+Vescimonas coprocola	Faecalitalea cylindroides	0.36342643
+Vescimonas coprocola	Veillonella dispar	-0.302432318
+Vescimonas coprocola	Veillonella sp. S12025-13	-0.30285087
+Vescimonas coprocola	Morganella morganii	-0.306411201
+Vescimonas coprocola	Acinetobacter lanii	-0.317167522
+Vescimonas coprocola	Acinetobacter shaoyimingii	-0.300140721
+Vescimonas coprocola	Acinetobacter sp. 10FS3-1	-0.322108357
+Vescimonas coprocola	Acinetobacter sp. C16S1	-0.310954739
+Vescimonas coprocola	Acinetobacter sp. CS-2	-0.31923635
+Vescimonas coprocola	Acinetobacter venetianus	-0.329794886
+Vescimonas coprocola	Aggregatibacter segnis	-0.304094164
+Vescimonas coprocola	Akkermansia muciniphila	0.422565672
+Vescimonas coprocola	Aspergillus oryzae	-0.374771558
+Vescimonas coprocola	Kluyveromyces marxianus	-0.30711736
+Vescimonas coprocola	Human gammaherpesvirus 4	-0.333033627
+Vescimonas fastidiosa	Clostridioides difficile	0.397654543
+Vescimonas fastidiosa	Flintibacter sp. KGMB00164	0.496514953
+Vescimonas fastidiosa	Intestinimonas butyriciproducens	0.480685805
+Vescimonas fastidiosa	Faecalitalea cylindroides	0.388584232
+Vescimonas fastidiosa	Longicatena caecimuris	0.354596927
+Vescimonas fastidiosa	Sphingomonas melonis	-0.301409387
+Vescimonas fastidiosa	Halarcobacter bivalviorum	-0.311140024
+Vescimonas fastidiosa	Campylobacter gracilis	-0.321047483
+Vescimonas fastidiosa	Enterobacter sichuanensis	-0.311169416
+Vescimonas fastidiosa	Acinetobacter lanii	-0.332227201
+Vescimonas fastidiosa	Acinetobacter shaoyimingii	-0.309235314
+Vescimonas fastidiosa	Acinetobacter sp. 10FS3-1	-0.309472181
+Vescimonas fastidiosa	Acinetobacter sp. C16S1	-0.325149616
+Vescimonas fastidiosa	Acinetobacter tandoii	-0.31149899
+Vescimonas fastidiosa	Acinetobacter venetianus	-0.338615884
+Vescimonas fastidiosa	Aggregatibacter segnis	-0.322940124
+Vescimonas fastidiosa	Akkermansia muciniphila	0.340769704
+Vescimonas fastidiosa	Aspergillus oryzae	-0.330508558
+Vescimonas fastidiosa	Human gammaherpesvirus 4	-0.31854259
+Vescimonas fastidiosa	Human immunodeficiency virus 1	-0.312819802
+Clostridioides difficile	Flintibacter sp. KGMB00164	0.45609336
+Clostridioides difficile	Intestinimonas butyriciproducens	0.465269323
+Clostridioides difficile	Amedibacterium intestinale	0.367718871
+Clostridioides difficile	[Clostridium] innocuum	0.590670923
+Clostridioides difficile	Erysipelatoclostridium ramosum	0.383330924
+Clostridioides difficile	Faecalitalea cylindroides	0.48290882
+Clostridioides difficile	Longicatena caecimuris	0.463276293
+Clostridioides difficile	Methylorubrum populi	-0.348749896
+Clostridioides difficile	Sphingomonas melonis	-0.391027629
+Clostridioides difficile	Sphingomonas sp. NIC1	-0.413553447
+Clostridioides difficile	Halarcobacter bivalviorum	-0.442030665
+Clostridioides difficile	Enterobacter cancerogenus	-0.335093244
+Clostridioides difficile	Acinetobacter baylyi	-0.398985855
+Clostridioides difficile	Acinetobacter calcoaceticus	-0.301919387
+Clostridioides difficile	Acinetobacter defluvii	-0.337229659
+Clostridioides difficile	Acinetobacter gyllenbergii	-0.415414473
+Clostridioides difficile	Acinetobacter haemolyticus	-0.305046856
+Clostridioides difficile	Acinetobacter indicus	-0.325257901
+Clostridioides difficile	Acinetobacter junii	-0.32066657
+Clostridioides difficile	Acinetobacter lanii	-0.431750528
+Clostridioides difficile	Acinetobacter larvae	-0.33973568
+Clostridioides difficile	Acinetobacter piscicola	-0.392651809
+Clostridioides difficile	Acinetobacter radioresistens	-0.347254666
+Clostridioides difficile	Acinetobacter seifertii	-0.398659867
+Clostridioides difficile	Acinetobacter shaoyimingii	-0.398510718
+Clostridioides difficile	Acinetobacter soli	-0.384020369
+Clostridioides difficile	Acinetobacter sp. 10FS3-1	-0.38538208
+Clostridioides difficile	Acinetobacter sp. ACNIH2	-0.416490261
+Clostridioides difficile	Acinetobacter sp. C16S1	-0.377334145
+Clostridioides difficile	Acinetobacter sp. CS-2	-0.415430831
+Clostridioides difficile	Acinetobacter sp. Marseille-Q1620	-0.367979312
+Clostridioides difficile	Acinetobacter sp. SCLZS86	-0.411122139
+Clostridioides difficile	Acinetobacter sp. SH20PTE14	-0.353267902
+Clostridioides difficile	Acinetobacter sp. TGL-Y2	-0.349960501
+Clostridioides difficile	Acinetobacter sp. TTH0-4	-0.361122184
+Clostridioides difficile	Acinetobacter tandoii	-0.384506269
+Clostridioides difficile	Acinetobacter towneri	-0.376048268
+Clostridioides difficile	Acinetobacter ursingii	-0.379814482
+Clostridioides difficile	Acinetobacter venetianus	-0.407224844
+Clostridioides difficile	Acinetobacter wanghuae	-0.390220004
+Clostridioides difficile	Acinetobacter wuhouensis	-0.377564393
+Clostridioides difficile	Candidatus Carsonella ruddii	-0.304461685
+Clostridioides difficile	Pseudomonas thivervalensis	-0.395380266
+Clostridioides difficile	Pseudoxanthomonas suwonensis	-0.34643178
+Clostridioides difficile	Hydrogenophilus thermoluteolus	-0.383747289
+Clostridioides difficile	Akkermansia muciniphila	0.300292095
+Clostridioides difficile	Cercospora beticola	-0.329593786
+Clostridioides difficile	Aspergillus fumigatus	-0.352088716
+Clostridioides difficile	Aspergillus luchuensis	-0.317640055
+Clostridioides difficile	Aspergillus oryzae	-0.419511726
+Clostridioides difficile	Candida dubliniensis	-0.325354051
+Clostridioides difficile	Yarrowia lipolytica	-0.334253388
+Clostridioides difficile	Kluyveromyces marxianus	-0.342932224
+Clostridioides difficile	[Candida] glabrata	-0.345049075
+Clostridioides difficile	Fusarium poae	-0.30097165
+Clostridioides difficile	Human gammaherpesvirus 4	-0.40253472
+Clostridioides difficile	Human immunodeficiency virus 1	-0.370942975
+Filifactor alocis	Romboutsia hominis	0.301473716
+Filifactor alocis	Parvimonas micra	0.535796642
+Filifactor alocis	Fusobacterium hwasookii	0.429827876
+Filifactor alocis	Fusobacterium necrophorum	0.41095167
+Filifactor alocis	Fusobacterium nucleatum	0.393037103
+Filifactor alocis	Treponema denticola	0.310579943
+Filifactor alocis	Human betaherpesvirus 6B	-0.311907965
+Romboutsia hominis	Parvimonas micra	0.342309222
+Romboutsia hominis	Peptoniphilus harei	0.340577751
+Flintibacter sp. KGMB00164	Intestinimonas butyriciproducens	0.445026129
+Flintibacter sp. KGMB00164	Faecalitalea cylindroides	0.419580834
+Flintibacter sp. KGMB00164	Longicatena caecimuris	0.434921191
+Flintibacter sp. KGMB00164	Halarcobacter bivalviorum	-0.370423252
+Flintibacter sp. KGMB00164	Campylobacter gracilis	-0.317772561
+Flintibacter sp. KGMB00164	Acinetobacter lanii	-0.300307186
+Flintibacter sp. KGMB00164	Akkermansia muciniphila	0.343947954
+Flintibacter sp. KGMB00164	Aspergillus oryzae	-0.302067922
+Intestinimonas butyriciproducens	Faecalitalea cylindroides	0.331965414
+Intestinimonas butyriciproducens	Acinetobacter shaoyimingii	-0.321031387
+Intestinimonas butyriciproducens	Acinetobacter venetianus	-0.325079822
+Intestinimonas butyriciproducens	Aggregatibacter segnis	-0.356708338
+Intestinimonas butyriciproducens	Akkermansia muciniphila	0.356182595
+Intestinimonas butyriciproducens	Aspergillus oryzae	-0.332639339
+Intestinimonas butyriciproducens	Human gammaherpesvirus 4	-0.320364873
+Intestinimonas butyriciproducens	Human immunodeficiency virus 1	-0.301122827
+Amedibacterium intestinale	[Clostridium] innocuum	0.372265225
+Amedibacterium intestinale	Erysipelatoclostridium ramosum	0.4271001
+Amedibacterium intestinale	Faecalitalea cylindroides	0.36347416
+Amedibacterium intestinale	Longicatena caecimuris	0.333779848
+Amedibacterium intestinale	Halarcobacter bivalviorum	-0.320179715
+[Clostridium] innocuum	Erysipelatoclostridium ramosum	0.476991811
+[Clostridium] innocuum	Faecalitalea cylindroides	0.409194689
+[Clostridium] innocuum	Sphingomonas sp. NIC1	-0.330161266
+[Clostridium] innocuum	Lautropia mirabilis	-0.306515759
+[Clostridium] innocuum	Aeromonas veronii	-0.334915724
+[Clostridium] innocuum	Acinetobacter gyllenbergii	-0.315098727
+[Clostridium] innocuum	Acinetobacter lanii	-0.344453634
+[Clostridium] innocuum	Acinetobacter shaoyimingii	-0.345980902
+[Clostridium] innocuum	Acinetobacter sp. 10FS3-1	-0.315662745
+[Clostridium] innocuum	Acinetobacter sp. ACNIH2	-0.31355334
+[Clostridium] innocuum	Acinetobacter sp. CS-2	-0.305891627
+[Clostridium] innocuum	Acinetobacter tandoii	-0.300821665
+[Clostridium] innocuum	Acinetobacter towneri	-0.318439866
+[Clostridium] innocuum	Pseudoxanthomonas suwonensis	-0.303269895
+[Clostridium] innocuum	Akkermansia muciniphila	0.33896026
+[Clostridium] innocuum	Cercospora beticola	-0.3215568
+[Clostridium] innocuum	Aspergillus luchuensis	-0.304648832
+[Clostridium] innocuum	Aspergillus oryzae	-0.315877927
+[Clostridium] innocuum	[Candida] glabrata	-0.318978658
+[Clostridium] innocuum	Human immunodeficiency virus 1	-0.30148732
+Faecalitalea cylindroides	Longicatena caecimuris	0.439932216
+Faecalitalea cylindroides	Aeromonas veronii	-0.312167704
+Faecalitalea cylindroides	Enterobacter sichuanensis	-0.356611698
+Faecalitalea cylindroides	Acinetobacter lanii	-0.32376447
+Faecalitalea cylindroides	Acinetobacter sp. ACNIH2	-0.313608859
+Faecalitalea cylindroides	Acinetobacter tandoii	-0.320594276
+Faecalitalea cylindroides	Acinetobacter towneri	-0.319379714
+Faecalitalea cylindroides	Acinetobacter ursingii	-0.319042001
+Faecalitalea cylindroides	Acinetobacter venetianus	-0.311719303
+Faecalitalea cylindroides	Acinetobacter wanghuae	-0.312029558
+Faecalitalea cylindroides	Pseudomonas thivervalensis	-0.307809344
+Faecalitalea cylindroides	Cercospora beticola	-0.313752758
+Faecalitalea cylindroides	Aspergillus oryzae	-0.315476743
+Longicatena caecimuris	Phascolarctobacterium faecium	0.332232762
+Longicatena caecimuris	Veillonella sp. S12025-13	-0.311023383
+Longicatena caecimuris	Halarcobacter bivalviorum	-0.394919707
+Longicatena caecimuris	Enterobacter sichuanensis	-0.355528045
+Longicatena caecimuris	Acinetobacter baylyi	-0.310368421
+Longicatena caecimuris	Acinetobacter lanii	-0.32687879
+Longicatena caecimuris	Acinetobacter piscicola	-0.318404851
+Longicatena caecimuris	Acinetobacter sp. ACNIH2	-0.334604659
+Longicatena caecimuris	Acinetobacter sp. C16S1	-0.302747143
+Longicatena caecimuris	Acinetobacter sp. CS-2	-0.301125972
+Longicatena caecimuris	Acinetobacter sp. Marseille-Q1620	-0.318882759
+Longicatena caecimuris	Acinetobacter sp. SCLZS86	-0.346439169
+Longicatena caecimuris	Acinetobacter sp. TGL-Y2	-0.320662181
+Longicatena caecimuris	Acinetobacter tandoii	-0.332093889
+Longicatena caecimuris	Acinetobacter towneri	-0.351758595
+Longicatena caecimuris	Acinetobacter ursingii	-0.327324586
+Longicatena caecimuris	Acinetobacter venetianus	-0.314819338
+Longicatena caecimuris	Acinetobacter wanghuae	-0.350675306
+Longicatena caecimuris	Acinetobacter wuhouensis	-0.31023838
+Longicatena caecimuris	Pseudomonas thivervalensis	-0.323880098
+Longicatena caecimuris	Yarrowia lipolytica	-0.300468188
+Longicatena caecimuris	Thermothelomyces thermophilus	-0.308376968
+Longicatena caecimuris	Human gammaherpesvirus 4	-0.316023892
+Acidaminococcus intestini	Megasphaera elsdenii	0.462071289
+Acidaminococcus intestini	Parvimonas micra	-0.339866637
+Phascolarctobacterium faecium	Fusobacterium ulcerans	0.334320005
+Phascolarctobacterium faecium	Akkermansia muciniphila	0.304286536
+Megamonas funiformis	Fusobacterium pseudoperiodonticum	0.30119914
+Selenomonas sputigena	Fretibacterium fastidiosum	0.344085236
+Dialister pneumosintes	Parvimonas micra	0.516091028
+Dialister pneumosintes	Fusobacterium hwasookii	0.301312107
+Dialister pneumosintes	Fusobacterium nucleatum	0.426480625
+Dialister pneumosintes	Fusobacterium pseudoperiodonticum	0.317132078
+Dialister pneumosintes	Fretibacterium fastidiosum	0.355832737
+Veillonella dispar	Veillonella nakazawae	0.529874043
+Veillonella dispar	Veillonella parvula	0.475221818
+Veillonella dispar	Veillonella sp. S12025-13	0.54972932
+Veillonella nakazawae	Veillonella parvula	0.391023103
+Veillonella nakazawae	Veillonella sp. S12025-13	0.452199316
+Veillonella nakazawae	Akkermansia muciniphila	-0.313055447
+Veillonella parvula	Veillonella sp. S12025-13	0.434498884
+Veillonella sp. S12025-13	Akkermansia muciniphila	-0.302096361
+Anaerococcus obesiensis	Anaerococcus vaginalis	0.430944977
+Parvimonas micra	Peptoniphilus harei	0.31096254
+Parvimonas micra	Fusobacterium canifelinum	0.351841141
+Parvimonas micra	Fusobacterium hwasookii	0.592527562
+Parvimonas micra	Fusobacterium necrophorum	0.44470806
+Parvimonas micra	Fusobacterium nucleatum	0.692220865
+Parvimonas micra	Fusobacterium pseudoperiodonticum	0.524274911
+Parvimonas micra	Leptotrichia trevisanii	0.325444888
+Fusobacterium canifelinum	Fusobacterium hwasookii	0.467949379
+Fusobacterium canifelinum	Fusobacterium nucleatum	0.369903129
+Fusobacterium canifelinum	Fusobacterium pseudoperiodonticum	0.374794176
+Fusobacterium canifelinum	Fusobacterium sp. oral taxon 203	0.381653342
+Fusobacterium canifelinum	Campylobacter rectus	0.341765429
+Fusobacterium canifelinum	Campylobacter showae	0.405151404
+Fusobacterium hwasookii	Fusobacterium necrophorum	0.319530769
+Fusobacterium hwasookii	Fusobacterium nucleatum	0.583073279
+Fusobacterium hwasookii	Fusobacterium pseudoperiodonticum	0.493650103
+Fusobacterium hwasookii	Fusobacterium sp. oral taxon 203	0.343367719
+Fusobacterium hwasookii	Campylobacter showae	0.345794855
+Fusobacterium mortiferum	Fusobacterium sp. NSJ-57	0.319363494
+Fusobacterium mortiferum	Fusobacterium sp. oral taxon 203	0.305721413
+Fusobacterium mortiferum	Campylobacter rectus	0.36321751
+Fusobacterium necrophorum	Fusobacterium nucleatum	0.323895643
+Fusobacterium necrophorum	Fusobacterium pseudoperiodonticum	0.310285793
+Fusobacterium nucleatum	Fusobacterium pseudoperiodonticum	0.456445166
+Fusobacterium nucleatum	Campylobacter showae	0.38546287
+Fusobacterium nucleatum	Zymoseptoria tritici	-0.305193743
+Fusobacterium periodonticum	Fusobacterium pseudoperiodonticum	0.375091746
+Fusobacterium pseudoperiodonticum	Klebsiella pneumoniae	-0.304804906
+Fusobacterium pseudoperiodonticum	Klebsiella quasipneumoniae	-0.336001228
+Fusobacterium sp. oral taxon 203	Campylobacter rectus	0.329057496
+Fusobacterium sp. oral taxon 203	Campylobacter showae	0.320574282
+Fusobacterium ulcerans	Fusobacterium varium	0.432668249
+Methylorubrum populi	Paracoccus denitrificans	0.341425772
+Methylorubrum populi	Paracoccus pantotrophus	0.307080407
+Methylorubrum populi	Paracoccus sp. MA	0.324896543
+Methylorubrum populi	Sphingomonas melonis	0.367665477
+Methylorubrum populi	Sphingomonas paucimobilis	0.407918751
+Methylorubrum populi	Sphingomonas sp. NIC1	0.301198914
+Methylorubrum populi	Acidovorax sp. 1608163	0.449557861
+Methylorubrum populi	Acidovorax sp. KKS102	0.393276079
+Methylorubrum populi	Comamonas aquatica	0.334758469
+Methylorubrum populi	Diaphorobacter sp. JS3050	0.314589785
+Methylorubrum populi	Diaphorobacter sp. MNS-0	0.381395073
+Methylorubrum populi	Acinetobacter johnsonii	0.374925232
+Methylorubrum populi	Pseudoxanthomonas suwonensis	0.371379245
+Methylorubrum populi	Hydrogenophilus thermoluteolus	0.345699978
+Methylorubrum populi	Human immunodeficiency virus 1	0.37838562
+Paracoccus denitrificans	Paracoccus kondratievae	0.470943319
+Paracoccus denitrificans	Paracoccus pantotrophus	0.593750458
+Paracoccus denitrificans	Paracoccus sp. MA	0.515120979
+Paracoccus denitrificans	Acidovorax sp. 1608163	0.351573576
+Paracoccus denitrificans	Acidovorax sp. KKS102	0.402305116
+Paracoccus denitrificans	Alicycliphilus denitrificans	0.457614274
+Paracoccus denitrificans	Comamonas aquatica	0.359836932
+Paracoccus denitrificans	Diaphorobacter sp. JS3050	0.551331602
+Paracoccus denitrificans	Diaphorobacter sp. MNS-0	0.524961499
+Paracoccus denitrificans	Enterobacter roggenkampii	0.30031133
+Paracoccus denitrificans	Acinetobacter johnsonii	0.379429257
+Paracoccus denitrificans	Pseudomonas aeruginosa	0.419807166
+Paracoccus denitrificans	Pseudomonas balearica	0.568559996
+Paracoccus denitrificans	Xanthomonas campestris	0.407589699
+Paracoccus kondratievae	Paracoccus pantotrophus	0.463207354
+Paracoccus kondratievae	Paracoccus sp. MA	0.475161899
+Paracoccus kondratievae	Acidovorax sp. 1608163	0.316226058
+Paracoccus kondratievae	Acidovorax sp. KKS102	0.326761313
+Paracoccus kondratievae	Alicycliphilus denitrificans	0.378969549
+Paracoccus kondratievae	Comamonas aquatica	0.345728597
+Paracoccus kondratievae	Diaphorobacter sp. JS3050	0.448745697
+Paracoccus kondratievae	Diaphorobacter sp. MNS-0	0.421775311
+Paracoccus kondratievae	Pseudomonas aeruginosa	0.322583291
+Paracoccus kondratievae	Pseudomonas balearica	0.463039798
+Paracoccus kondratievae	Xanthomonas campestris	0.364450985
+Paracoccus pantotrophus	Paracoccus sp. MA	0.561485839
+Paracoccus pantotrophus	Acidovorax sp. 1608163	0.348216409
+Paracoccus pantotrophus	Acidovorax sp. KKS102	0.424140591
+Paracoccus pantotrophus	Alicycliphilus denitrificans	0.533528107
+Paracoccus pantotrophus	Comamonas aquatica	0.357046462
+Paracoccus pantotrophus	Diaphorobacter sp. JS3050	0.617198291
+Paracoccus pantotrophus	Diaphorobacter sp. MNS-0	0.529780856
+Paracoccus pantotrophus	Acinetobacter johnsonii	0.328286702
+Paracoccus pantotrophus	Pseudomonas aeruginosa	0.558102002
+Paracoccus pantotrophus	Pseudomonas balearica	0.616209821
+Paracoccus pantotrophus	Xanthomonas campestris	0.395536726
+Paracoccus sp. MA	Acidovorax sp. 1608163	0.366807831
+Paracoccus sp. MA	Acidovorax sp. KKS102	0.391664685
+Paracoccus sp. MA	Alicycliphilus denitrificans	0.43268523
+Paracoccus sp. MA	Comamonas aquatica	0.40040169
+Paracoccus sp. MA	Diaphorobacter sp. JS3050	0.54187875
+Paracoccus sp. MA	Diaphorobacter sp. MNS-0	0.493802812
+Paracoccus sp. MA	Acinetobacter johnsonii	0.303850313
+Paracoccus sp. MA	Pseudomonas aeruginosa	0.408455284
+Paracoccus sp. MA	Pseudomonas balearica	0.502402648
+Paracoccus sp. MA	Xanthomonas campestris	0.404519809
+Sphingomonas melonis	Sphingomonas paucimobilis	0.352815153
+Sphingomonas melonis	Sphingomonas sp. NIC1	0.397542317
+Sphingomonas melonis	Acidovorax sp. 1608163	0.378935885
+Sphingomonas melonis	Acidovorax sp. KKS102	0.32917848
+Sphingomonas melonis	Halarcobacter bivalviorum	0.312412849
+Sphingomonas melonis	Enterobacter cancerogenus	0.336635762
+Sphingomonas melonis	Enterobacter roggenkampii	0.303288885
+Sphingomonas melonis	Acinetobacter sp. ACNIH2	0.334369366
+Sphingomonas melonis	Acinetobacter sp. C16S1	0.303236401
+Sphingomonas melonis	Acinetobacter sp. TTH0-4	0.346297209
+Sphingomonas melonis	Acinetobacter ursingii	0.311864893
+Sphingomonas melonis	Acinetobacter venetianus	0.303643128
+Sphingomonas melonis	Pseudoxanthomonas suwonensis	0.32731592
+Sphingomonas melonis	Xanthomonas campestris	0.304425987
+Sphingomonas melonis	Hydrogenophilus thermoluteolus	0.393014248
+Sphingomonas melonis	Aspergillus oryzae	0.304256813
+Sphingomonas melonis	Human gammaherpesvirus 4	0.324126016
+Sphingomonas melonis	Human immunodeficiency virus 1	0.372914356
+Sphingomonas paucimobilis	Acidovorax sp. 1608163	0.382695137
+Sphingomonas paucimobilis	Diaphorobacter sp. MNS-0	0.359229025
+Sphingomonas paucimobilis	Pseudoxanthomonas suwonensis	0.381811884
+Sphingomonas sp. NIC1	Halarcobacter bivalviorum	0.310639712
+Sphingomonas sp. NIC1	Enterobacter cancerogenus	0.344071663
+Sphingomonas sp. NIC1	Acinetobacter gyllenbergii	0.301397967
+Sphingomonas sp. NIC1	Acinetobacter lanii	0.320414343
+Sphingomonas sp. NIC1	Acinetobacter shaoyimingii	0.303377214
+Sphingomonas sp. NIC1	Acinetobacter sp. ACNIH2	0.335417615
+Sphingomonas sp. NIC1	Acinetobacter sp. C16S1	0.315601692
+Sphingomonas sp. NIC1	Acinetobacter sp. CS-2	0.334702399
+Sphingomonas sp. NIC1	Acinetobacter sp. SCLZS86	0.315005481
+Sphingomonas sp. NIC1	Acinetobacter sp. TTH0-4	0.312461944
+Sphingomonas sp. NIC1	Acinetobacter towneri	0.318372379
+Sphingomonas sp. NIC1	Acinetobacter ursingii	0.318890222
+Sphingomonas sp. NIC1	Acinetobacter venetianus	0.318213168
+Sphingomonas sp. NIC1	Pseudomonas thivervalensis	0.335329317
+Sphingomonas sp. NIC1	Hydrogenophilus thermoluteolus	0.320408247
+Sphingomonas sp. NIC1	Aspergillus oryzae	0.320699419
+Sphingomonas sp. NIC1	Human gammaherpesvirus 4	0.315050375
+Sphingomonas sp. NIC1	Human immunodeficiency virus 1	0.36568912
+Acidovorax sp. 1608163	Acidovorax sp. KKS102	0.47695777
+Acidovorax sp. 1608163	Comamonas aquatica	0.313522048
+Acidovorax sp. 1608163	Diaphorobacter sp. JS3050	0.344921886
+Acidovorax sp. 1608163	Diaphorobacter sp. MNS-0	0.422576257
+Acidovorax sp. 1608163	Acinetobacter johnsonii	0.313426517
+Acidovorax sp. 1608163	Pseudomonas balearica	0.336049827
+Acidovorax sp. 1608163	Pseudoxanthomonas suwonensis	0.344595071
+Acidovorax sp. 1608163	Hydrogenophilus thermoluteolus	0.362213152
+Acidovorax sp. KKS102	Alicycliphilus denitrificans	0.338128135
+Acidovorax sp. KKS102	Comamonas aquatica	0.323704388
+Acidovorax sp. KKS102	Diaphorobacter sp. JS3050	0.377985042
+Acidovorax sp. KKS102	Diaphorobacter sp. MNS-0	0.435898708
+Acidovorax sp. KKS102	Acinetobacter johnsonii	0.319298578
+Acidovorax sp. KKS102	Pseudomonas balearica	0.409510735
+Acidovorax sp. KKS102	Hydrogenophilus thermoluteolus	0.349609416
+Alicycliphilus denitrificans	Comamonas aquatica	0.370993024
+Alicycliphilus denitrificans	Diaphorobacter sp. JS3050	0.465961702
+Alicycliphilus denitrificans	Diaphorobacter sp. MNS-0	0.473305033
+Alicycliphilus denitrificans	Pseudomonas aeruginosa	0.485937273
+Alicycliphilus denitrificans	Pseudomonas balearica	0.44087115
+Alicycliphilus denitrificans	Xanthomonas campestris	0.31557398
+Comamonas aquatica	Diaphorobacter sp. JS3050	0.405415562
+Comamonas aquatica	Diaphorobacter sp. MNS-0	0.39400255
+Comamonas aquatica	Pseudomonas aeruginosa	0.316586325
+Comamonas aquatica	Pseudomonas balearica	0.316656607
+Comamonas aquatica	Pseudoxanthomonas suwonensis	0.310352197
+Comamonas aquatica	Xanthomonas campestris	0.346140821
+Diaphorobacter sp. JS3050	Diaphorobacter sp. MNS-0	0.477476721
+Diaphorobacter sp. JS3050	Pseudomonas aeruginosa	0.483757304
+Diaphorobacter sp. JS3050	Pseudomonas balearica	0.531077325
+Diaphorobacter sp. JS3050	Xanthomonas campestris	0.389763737
+Diaphorobacter sp. MNS-0	Acinetobacter johnsonii	0.361899361
+Diaphorobacter sp. MNS-0	Pseudomonas aeruginosa	0.452223736
+Diaphorobacter sp. MNS-0	Pseudomonas balearica	0.50671168
+Diaphorobacter sp. MNS-0	Xanthomonas campestris	0.370499786
+Diaphorobacter sp. MNS-0	Hydrogenophilus thermoluteolus	0.309034833
+Halarcobacter bivalviorum	Acinetobacter baylyi	0.300424325
+Halarcobacter bivalviorum	Acinetobacter lanii	0.352921724
+Halarcobacter bivalviorum	Acinetobacter soli	0.307394569
+Halarcobacter bivalviorum	Acinetobacter sp. ACNIH2	0.339272395
+Halarcobacter bivalviorum	Acinetobacter sp. C16S1	0.313518726
+Halarcobacter bivalviorum	Acinetobacter sp. CS-2	0.316869708
+Halarcobacter bivalviorum	Acinetobacter sp. SCLZS86	0.328573434
+Halarcobacter bivalviorum	Acinetobacter sp. SH20PTE14	0.332481672
+Halarcobacter bivalviorum	Acinetobacter ursingii	0.340514012
+Halarcobacter bivalviorum	Acinetobacter venetianus	0.340011444
+Halarcobacter bivalviorum	Acinetobacter wuhouensis	0.328911942
+Halarcobacter bivalviorum	Yarrowia lipolytica	0.318735567
+Halarcobacter bivalviorum	Human gammaherpesvirus 4	0.365045931
+Campylobacter rectus	Campylobacter showae	0.530598647
+Campylobacter rectus	Akkermansia muciniphila	-0.33659829
+Citrobacter freundii	Enterobacter hormaechei	0.33473012
+Citrobacter freundii	Enterobacter kobei	0.307134494
+Enterobacter cancerogenus	Enterobacter cloacae	0.461051779
+Enterobacter cancerogenus	Enterobacter hormaechei	0.354180534
+Enterobacter cancerogenus	Enterobacter roggenkampii	0.434458769
+Enterobacter cloacae	Enterobacter hormaechei	0.558663327
+Enterobacter cloacae	Enterobacter kobei	0.436247775
+Enterobacter cloacae	Enterobacter roggenkampii	0.457619436
+Enterobacter hormaechei	Enterobacter kobei	0.461914151
+Enterobacter hormaechei	Enterobacter roggenkampii	0.402234408
+Enterobacter hormaechei	Klebsiella michiganensis	0.308132638
+Enterobacter hormaechei	Klebsiella pneumoniae	0.403171982
+Enterobacter hormaechei	Klebsiella quasipneumoniae	0.360375751
+Enterobacter hormaechei	Klebsiella variicola	0.382474457
+Enterobacter hormaechei	Salmonella enterica	0.341333657
+Enterobacter kobei	Enterobacter roggenkampii	0.371215064
+Enterobacter roggenkampii	Xanthomonas campestris	0.317408236
+Klebsiella michiganensis	Klebsiella pneumoniae	0.576847828
+Klebsiella michiganensis	Klebsiella quasipneumoniae	0.657814228
+Klebsiella michiganensis	Klebsiella variicola	0.64404357
+Klebsiella michiganensis	Salmonella enterica	0.420850261
+Klebsiella pneumoniae	Klebsiella quasipneumoniae	0.726982763
+Klebsiella pneumoniae	Klebsiella variicola	0.642942995
+Klebsiella pneumoniae	Salmonella enterica	0.417797302
+Klebsiella quasipneumoniae	Klebsiella variicola	0.692958924
+Klebsiella quasipneumoniae	Salmonella enterica	0.383337852
+Klebsiella variicola	Salmonella enterica	0.445046404
+Acinetobacter defluvii	Acinetobacter lanii	0.303827043
+Acinetobacter defluvii	Acinetobacter towneri	0.329440983
+Acinetobacter gyllenbergii	Acinetobacter lanii	0.322126991
+Acinetobacter gyllenbergii	Acinetobacter sp. ACNIH2	0.323121264
+Acinetobacter gyllenbergii	Acinetobacter sp. C16S1	0.321061355
+Acinetobacter gyllenbergii	Acinetobacter sp. CS-2	0.306198598
+Acinetobacter gyllenbergii	Acinetobacter sp. SCLZS86	0.325582546
+Acinetobacter gyllenbergii	Acinetobacter venetianus	0.301803395
+Acinetobacter gyllenbergii	Pseudomonas thivervalensis	0.30821982
+Acinetobacter gyllenbergii	Aspergillus oryzae	0.368686752
+Acinetobacter johnsonii	Pseudomonas balearica	0.324172576
+Acinetobacter johnsonii	Hydrogenophilus thermoluteolus	0.330184983
+Acinetobacter lanii	Acinetobacter radioresistens	0.300355406
+Acinetobacter lanii	Acinetobacter shaoyimingii	0.324441667
+Acinetobacter lanii	Acinetobacter sp. 10FS3-1	0.316109121
+Acinetobacter lanii	Acinetobacter sp. ACNIH2	0.341066328
+Acinetobacter lanii	Acinetobacter sp. C16S1	0.321869253
+Acinetobacter lanii	Acinetobacter sp. CS-2	0.340618694
+Acinetobacter lanii	Acinetobacter sp. SCLZS86	0.328096388
+Acinetobacter lanii	Acinetobacter sp. TGL-Y2	0.307908489
+Acinetobacter lanii	Acinetobacter tandoii	0.322078902
+Acinetobacter lanii	Acinetobacter towneri	0.357526081
+Acinetobacter lanii	Acinetobacter ursingii	0.327122294
+Acinetobacter lanii	Acinetobacter venetianus	0.351308263
+Acinetobacter lanii	Acinetobacter wanghuae	0.316194735
+Acinetobacter lanii	Pseudomonas thivervalensis	0.302560909
+Acinetobacter lanii	Aspergillus oryzae	0.338837529
+Acinetobacter lanii	Human gammaherpesvirus 4	0.363574864
+Acinetobacter lanii	Human immunodeficiency virus 1	0.31546351
+Acinetobacter larvae	Acinetobacter sp. ACNIH2	0.309633562
+Acinetobacter larvae	Pseudomonas thivervalensis	0.313823073
+Acinetobacter larvae	Aspergillus oryzae	0.305712605
+Acinetobacter larvae	Human gammaherpesvirus 4	0.340387887
+Acinetobacter piscicola	Acinetobacter shaoyimingii	0.301475101
+Acinetobacter piscicola	Acinetobacter sp. SCLZS86	0.316201285
+Acinetobacter piscicola	Acinetobacter wanghuae	0.304076581
+Acinetobacter piscicola	Aspergillus oryzae	0.327834922
+Acinetobacter piscicola	Human gammaherpesvirus 4	0.314197177
+Acinetobacter seifertii	Acinetobacter wanghuae	0.30772512
+Acinetobacter shaoyimingii	Acinetobacter sp. 10FS3-1	0.31755595
+Acinetobacter shaoyimingii	Acinetobacter sp. ACNIH2	0.320981233
+Acinetobacter shaoyimingii	Acinetobacter sp. CS-2	0.310780244
+Acinetobacter shaoyimingii	Acinetobacter sp. SCLZS86	0.325167026
+Acinetobacter shaoyimingii	Acinetobacter sp. TGL-Y2	0.313283898
+Acinetobacter shaoyimingii	Acinetobacter towneri	0.325023533
+Acinetobacter shaoyimingii	Acinetobacter ursingii	0.303376782
+Acinetobacter shaoyimingii	Acinetobacter venetianus	0.342318121
+Acinetobacter shaoyimingii	Pseudomonas thivervalensis	0.314340163
+Acinetobacter shaoyimingii	Aspergillus oryzae	0.311626513
+Acinetobacter shaoyimingii	Human gammaherpesvirus 4	0.300011444
+Acinetobacter shaoyimingii	Human immunodeficiency virus 1	0.3249263
+Acinetobacter soli	Aspergillus oryzae	0.304082188
+Acinetobacter sp. 10FS3-1	Acinetobacter sp. ACNIH2	0.300378186
+Acinetobacter sp. 10FS3-1	Acinetobacter sp. C16S1	0.31275555
+Acinetobacter sp. 10FS3-1	Acinetobacter sp. CS-2	0.309185064
+Acinetobacter sp. 10FS3-1	Acinetobacter towneri	0.308371113
+Acinetobacter sp. 10FS3-1	Aspergillus oryzae	0.301429141
+Acinetobacter sp. 10FS3-1	Human gammaherpesvirus 4	0.309300551
+Acinetobacter sp. ACNIH2	Acinetobacter sp. CS-2	0.341521586
+Acinetobacter sp. ACNIH2	Acinetobacter sp. SCLZS86	0.375039357
+Acinetobacter sp. ACNIH2	Acinetobacter sp. TTH0-4	0.317386688
+Acinetobacter sp. ACNIH2	Acinetobacter tandoii	0.314745304
+Acinetobacter sp. ACNIH2	Acinetobacter towneri	0.315863357
+Acinetobacter sp. ACNIH2	Acinetobacter ursingii	0.340821468
+Acinetobacter sp. ACNIH2	Acinetobacter venetianus	0.366522092
+Acinetobacter sp. ACNIH2	Acinetobacter wanghuae	0.304855048
+Acinetobacter sp. ACNIH2	Pseudomonas thivervalensis	0.325861642
+Acinetobacter sp. ACNIH2	Aspergillus fumigatus	0.300978129
+Acinetobacter sp. ACNIH2	Aspergillus oryzae	0.358191131
+Acinetobacter sp. ACNIH2	Human gammaherpesvirus 4	0.373201762
+Acinetobacter sp. ACNIH2	Human immunodeficiency virus 1	0.330116434
+Acinetobacter sp. C16S1	Acinetobacter sp. SCLZS86	0.319091583
+Acinetobacter sp. C16S1	Acinetobacter towneri	0.322093664
+Acinetobacter sp. C16S1	Acinetobacter ursingii	0.32535227
+Acinetobacter sp. C16S1	Acinetobacter venetianus	0.323478424
+Acinetobacter sp. C16S1	Aspergillus oryzae	0.323153738
+Acinetobacter sp. C16S1	Human gammaherpesvirus 4	0.342053802
+Acinetobacter sp. C16S1	Human immunodeficiency virus 1	0.330837853
+Acinetobacter sp. CS-2	Acinetobacter sp. SH20PTE14	0.328984773
+Acinetobacter sp. CS-2	Acinetobacter sp. TTH0-4	0.303596675
+Acinetobacter sp. CS-2	Acinetobacter towneri	0.328150967
+Acinetobacter sp. CS-2	Acinetobacter ursingii	0.326486388
+Acinetobacter sp. CS-2	Acinetobacter venetianus	0.332599227
+Acinetobacter sp. CS-2	Acinetobacter wanghuae	0.326333266
+Acinetobacter sp. CS-2	Acinetobacter wuhouensis	0.316939332
+Acinetobacter sp. CS-2	Pseudomonas thivervalensis	0.323122194
+Acinetobacter sp. CS-2	Aspergillus oryzae	0.361510926
+Acinetobacter sp. CS-2	Candida dubliniensis	0.300450583
+Acinetobacter sp. CS-2	Human gammaherpesvirus 4	0.341497639
+Acinetobacter sp. Marseille-Q1620	Acinetobacter venetianus	0.300762689
+Acinetobacter sp. Marseille-Q1620	Aspergillus oryzae	0.302154977
+Acinetobacter sp. Marseille-Q1620	Human gammaherpesvirus 4	0.303785797
+Acinetobacter sp. SCLZS86	Acinetobacter sp. TTH0-4	0.305305976
+Acinetobacter sp. SCLZS86	Acinetobacter towneri	0.30474843
+Acinetobacter sp. SCLZS86	Acinetobacter ursingii	0.310297898
+Acinetobacter sp. SCLZS86	Acinetobacter venetianus	0.364058976
+Acinetobacter sp. SCLZS86	Acinetobacter wanghuae	0.336559386
+Acinetobacter sp. SCLZS86	Acinetobacter wuhouensis	0.305646077
+Acinetobacter sp. SCLZS86	Pseudomonas thivervalensis	0.325735579
+Acinetobacter sp. SCLZS86	Aspergillus oryzae	0.360890262
+Acinetobacter sp. SCLZS86	Human gammaherpesvirus 4	0.330314517
+Acinetobacter sp. SCLZS86	Human immunodeficiency virus 1	0.308879272
+Acinetobacter sp. SH20PTE14	Acinetobacter venetianus	0.312278616
+Acinetobacter sp. SH20PTE14	Pseudomonas thivervalensis	0.30931403
+Acinetobacter sp. SH20PTE14	Human gammaherpesvirus 4	0.319080778
+Acinetobacter sp. TGL-Y2	Acinetobacter towneri	0.307106063
+Acinetobacter sp. TGL-Y2	Pseudomonas thivervalensis	0.300326795
+Acinetobacter sp. TGL-Y2	Aspergillus oryzae	0.309618464
+Acinetobacter sp. TGL-Y2	Human gammaherpesvirus 4	0.302960381
+Acinetobacter sp. TTH0-4	Acinetobacter tandoii	0.310198615
+Acinetobacter sp. TTH0-4	Acinetobacter towneri	0.308832755
+Acinetobacter sp. TTH0-4	Acinetobacter ursingii	0.314993901
+Acinetobacter sp. TTH0-4	Cercospora beticola	0.317421264
+Acinetobacter sp. TTH0-4	Human gammaherpesvirus 4	0.313155386
+Acinetobacter tandoii	Acinetobacter towneri	0.310887464
+Acinetobacter tandoii	Acinetobacter ursingii	0.316764683
+Acinetobacter tandoii	Acinetobacter venetianus	0.301880897
+Acinetobacter tandoii	Aspergillus oryzae	0.313294629
+Acinetobacter tandoii	Human gammaherpesvirus 4	0.302408856
+Acinetobacter towneri	Acinetobacter ursingii	0.300820033
+Acinetobacter towneri	Acinetobacter venetianus	0.315351882
+Acinetobacter towneri	Acinetobacter wanghuae	0.306348115
+Acinetobacter towneri	Pseudomonas thivervalensis	0.337930418
+Acinetobacter towneri	Cercospora beticola	0.323652301
+Acinetobacter towneri	Aspergillus fumigatus	0.300031664
+Acinetobacter towneri	Aspergillus oryzae	0.352631522
+Acinetobacter towneri	Human gammaherpesvirus 4	0.309270659
+Acinetobacter ursingii	Acinetobacter venetianus	0.331203005
+Acinetobacter ursingii	Acinetobacter wanghuae	0.339599031
+Acinetobacter ursingii	Pseudomonas thivervalensis	0.326803788
+Acinetobacter ursingii	Aspergillus oryzae	0.362643369
+Acinetobacter ursingii	Human gammaherpesvirus 4	0.344794985
+Acinetobacter venetianus	Acinetobacter wanghuae	0.301233642
+Acinetobacter venetianus	Acinetobacter wuhouensis	0.311048384
+Acinetobacter venetianus	Pseudomonas thivervalensis	0.330108172
+Acinetobacter venetianus	Aspergillus fumigatus	0.303650114
+Acinetobacter venetianus	Aspergillus oryzae	0.349537948
+Acinetobacter venetianus	Human gammaherpesvirus 4	0.364763663
+Acinetobacter venetianus	Human immunodeficiency virus 1	0.306590915
+Acinetobacter wanghuae	Acinetobacter wuhouensis	0.303406831
+Acinetobacter wanghuae	Pseudomonas thivervalensis	0.309230828
+Acinetobacter wanghuae	Aspergillus oryzae	0.330272228
+Acinetobacter wanghuae	Human gammaherpesvirus 4	0.333781317
+Pseudomonas aeruginosa	Pseudomonas balearica	0.43168946
+Pseudomonas balearica	Xanthomonas campestris	0.364437542
+Pseudomonas thivervalensis	Aspergillus oryzae	0.328259537
+Pseudomonas thivervalensis	Human gammaherpesvirus 4	0.34789522
+Pseudoxanthomonas suwonensis	Xanthomonas campestris	0.300445962
+Pseudoxanthomonas suwonensis	Hydrogenophilus thermoluteolus	0.347209349
+Xanthomonas campestris	Hydrogenophilus thermoluteolus	0.312486868
+Xanthomonas campestris	Akkermansia muciniphila	-0.309512658
+Hydrogenophilus thermoluteolus	Human immunodeficiency virus 1	0.321427954
+Cercospora beticola	Zymoseptoria tritici	0.372941294
+Cercospora beticola	Aspergillus oryzae	0.386547228
+Aspergillus fumigatus	Human gammaherpesvirus 4	0.316355026
+Aspergillus oryzae	Kluyveromyces marxianus	0.314930173
+Aspergillus oryzae	Human gammaherpesvirus 4	0.373362791
+Aspergillus oryzae	Human immunodeficiency virus 1	0.303166902
+Human gammaherpesvirus 4	Human immunodeficiency virus 1	0.305502601
+CrAss-like virus sp.	uncultured crAssphage	0.634160779

@@ -1,0 +1,71 @@
+Node	Type	Mean_counts
+Cercospora beticola	Fungi|Ascomycota	
+Zymoseptoria tritici	Fungi|Ascomycota	
+Aspergillus fumigatus	Fungi|Ascomycota	
+Aspergillus luchuensis	Fungi|Ascomycota	
+Aspergillus oryzae	Fungi|Ascomycota	
+Aspergillus puulaauensis	Fungi|Ascomycota	0.001
+Candida albicans	Fungi|Ascomycota	0.001
+Candida dubliniensis	Fungi|Ascomycota	
+Yarrowia lipolytica	Fungi|Ascomycota	
+Kluyveromyces marxianus	Fungi|Ascomycota	
+[Candida] glabrata	Fungi|Ascomycota	
+Colletotrichum higginsianum	Fungi|Ascomycota	
+Fusarium poae	Fungi|Ascomycota	
+Thermothelomyces thermophilus	Fungi|Ascomycota	
+[Clostridium] hylemonae	Bacteria|Firmicutes	
+[Clostridium] innocuum	Bacteria|Firmicutes	
+[Clostridium] scindens	Bacteria|Firmicutes	
+Acinetobacter gyllenbergii	Bacteria|Proteobacteria	
+Acinetobacter lanii	Bacteria|Proteobacteria	
+Acinetobacter larvae	Bacteria|Proteobacteria	
+Acinetobacter piscicola	Bacteria|Proteobacteria	
+Acinetobacter shaoyimingii	Bacteria|Proteobacteria	
+Acinetobacter soli	Bacteria|Proteobacteria	
+Acinetobacter sp. 10FS3-1	Bacteria|Proteobacteria	
+Acinetobacter sp. ACNIH2	Bacteria|Proteobacteria	
+Acinetobacter sp. C16S1	Bacteria|Proteobacteria	
+Acinetobacter sp. CS-2	Bacteria|Proteobacteria	
+Acinetobacter sp. Marseille-Q1620	Bacteria|Proteobacteria	
+Acinetobacter sp. SCLZS86	Bacteria|Proteobacteria	
+Acinetobacter sp. TGL-Y2	Bacteria|Proteobacteria	
+Acinetobacter sp. TTH0-4	Bacteria|Proteobacteria	
+Acinetobacter tandoii	Bacteria|Proteobacteria	
+Acinetobacter towneri	Bacteria|Proteobacteria	
+Acinetobacter ursingii	Bacteria|Proteobacteria	
+Acinetobacter venetianus	Bacteria|Proteobacteria	
+Acinetobacter wanghuae	Bacteria|Proteobacteria	
+Algibacter sp. L1A34	Bacteria|Bacteroidetes	
+Bacteroides fragilis	Bacteria|Bacteroidetes	
+Bacteroides sp. KGMB07931	Bacteria|Bacteroidetes	
+Blautia hansenii	Bacteria|Firmicutes	
+Blautia massiliensis	Bacteria|Firmicutes	
+Blautia producta	Bacteria|Firmicutes	
+Clostridioides difficile	Bacteria|Firmicutes	
+Clostridium sp. M62/1	Bacteria|Firmicutes	
+Coprococcus sp. ART55/1	Bacteria|Firmicutes	
+Dorea longicatena	Bacteria|Firmicutes	
+Dysosmobacter sp. Marseille-Q4140	Bacteria|Firmicutes	
+Dysosmobacter welbionis	Bacteria|Firmicutes	
+Enterocloster clostridioformis	Bacteria|Firmicutes	
+Eubacterium sp. NSJ-61	Bacteria|Firmicutes	
+Faecalitalea cylindroides	Bacteria|Firmicutes	
+Flintibacter sp. KGMB00164	Bacteria|Firmicutes	
+Fusobacterium nucleatum	Bacteria|Fusobacteria	
+Halarcobacter bivalviorum	Bacteria|Proteobacteria	
+Intestinimonas butyriciproducens	Bacteria|Firmicutes	
+Lachnoclostridium sp. YL32	Bacteria|Firmicutes	
+Lacrimispora saccharolytica	Bacteria|Firmicutes	
+Longicatena caecimuris	Bacteria|Firmicutes	
+Methanobrevibacter sp. AbM4	Archaea|Euryarchaeota	
+Methanobrevibacter_A smithii_A	Archaea|Euryarchaeota	
+Nocardioides sp. TF02-7	Bacteria|Actinobacteria	
+Oscillibacter sp. NSJ-62	Bacteria|Firmicutes	
+Pseudomonas thivervalensis	Bacteria|Proteobacteria	
+Pusillibacter faecalis	Bacteria|Firmicutes	
+Roseburia sp. NSJ-69	Bacteria|Firmicutes	
+Ruthenibacterium lactatiformans	Bacteria|Firmicutes	
+Sphingomonas melonis	Bacteria|Proteobacteria	
+Sphingomonas sp. NIC1	Bacteria|Proteobacteria	
+Vescimonas coprocola	Bacteria|Firmicutes	
+Vescimonas fastidiosa	Bacteria|Firmicutes	

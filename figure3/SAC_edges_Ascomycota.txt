@@ -1,0 +1,16 @@
+node1	node2	cor_value
+[Clostridium] scindens	Yarrowia lipolytica	-0.343720219
+Acinetobacter tandoii	Yarrowia lipolytica	0.300493533
+Bacteroides cellulosilyticus	Yarrowia lipolytica	-0.318734405
+Bacteroides faecis	Yarrowia lipolytica	-0.304584092
+Bacteroides salyersiae	Aspergillus luchuensis	-0.308570852
+Bacteroides salyersiae	Aspergillus oryzae	-0.307448412
+Bacteroides xylanisolvens	Yarrowia lipolytica	-0.353519123
+Blautia massiliensis	Yarrowia lipolytica	-0.319336911
+Blautia producta	Yarrowia lipolytica	-0.323158196
+Dorea longicatena	Yarrowia lipolytica	-0.33228114
+Dysosmobacter welbionis	Yarrowia lipolytica	-0.301523054
+Eggerthella lenta	Yarrowia lipolytica	-0.319670279
+Enterocloster clostridioformis	Yarrowia lipolytica	-0.328199077
+Flavonifractor plautii	Zymoseptoria tritici	-0.31073738
+Flavonifractor plautii	Yarrowia lipolytica	-0.385746389

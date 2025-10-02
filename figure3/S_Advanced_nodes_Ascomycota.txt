@@ -1,0 +1,89 @@
+Node	Type	Mean_counts
+Cercospora beticola	Fungi|Ascomycota	
+Zymoseptoria tritici	Fungi|Ascomycota	
+Aspergillus fumigatus	Fungi|Ascomycota	
+Aspergillus luchuensis	Fungi|Ascomycota	
+Aspergillus oryzae	Fungi|Ascomycota	
+Aspergillus puulaauensis	Fungi|Ascomycota	
+Candida albicans	Fungi|Ascomycota	
+Candida dubliniensis	Fungi|Ascomycota	
+Yarrowia lipolytica	Fungi|Ascomycota	
+Kluyveromyces marxianus	Fungi|Ascomycota	
+[Candida] glabrata	Fungi|Ascomycota	
+Colletotrichum higginsianum	Fungi|Ascomycota	
+Fusarium poae	Fungi|Ascomycota	
+Thermothelomyces thermophilus	Fungi|Ascomycota	
+[Clostridium] hylemonae	Bacteria|Firmicutes	
+[Clostridium] scindens	Bacteria|Firmicutes	
+Acinetobacter baylyi	Bacteria|Proteobacteria	
+Acinetobacter defluvii	Bacteria|Proteobacteria	
+Acinetobacter gyllenbergii	Bacteria|Proteobacteria	
+Acinetobacter haemolyticus	Bacteria|Proteobacteria	
+Acinetobacter larvae	Bacteria|Proteobacteria	
+Acinetobacter nosocomialis	Bacteria|Proteobacteria	
+Acinetobacter piscicola	Bacteria|Proteobacteria	
+Acinetobacter radioresistens	Bacteria|Proteobacteria	
+Acinetobacter seifertii	Bacteria|Proteobacteria	
+Acinetobacter shaoyimingii	Bacteria|Proteobacteria	
+Acinetobacter sp. 10FS3-1	Bacteria|Proteobacteria	
+Acinetobacter sp. ACNIH2	Bacteria|Proteobacteria	
+Acinetobacter sp. C16S1	Bacteria|Proteobacteria	
+Acinetobacter sp. Marseille-Q1620	Bacteria|Proteobacteria	
+Acinetobacter sp. SCLZS86	Bacteria|Proteobacteria	
+Acinetobacter sp. SH20PTE14	Bacteria|Proteobacteria	
+Acinetobacter sp. TGL-Y2	Bacteria|Proteobacteria	
+Acinetobacter sp. TTH0-4	Bacteria|Proteobacteria	
+Acinetobacter towneri	Bacteria|Proteobacteria	
+Acinetobacter ursingii	Bacteria|Proteobacteria	
+Acinetobacter venetianus	Bacteria|Proteobacteria	
+Acinetobacter wuhouensis	Bacteria|Proteobacteria	
+Actinomyces sp. oral taxon 414	Bacteria|Actinobacteria	
+Aggregatibacter segnis	Bacteria|Proteobacteria	
+Algibacter sp. L1A34	Bacteria|Bacteroidetes	
+Alistipes shahii	Bacteria|Bacteroidetes	
+Anaerostipes caccae	Bacteria|Firmicutes	
+Bacteroides salyersiae	Bacteria|Bacteroidetes	
+Bacteroides sp. HF-162	Bacteria|Bacteroidetes	
+Bacteroides sp. ZJ-18	Bacteria|Bacteroidetes	
+Blautia hansenii	Bacteria|Firmicutes	
+Blautia massiliensis	Bacteria|Firmicutes	
+Blautia producta	Bacteria|Firmicutes	
+Candidatus Carsonella ruddii	Bacteria|Proteobacteria	
+Capnocytophaga sputigena	Bacteria|Bacteroidetes	
+Clostridioides difficile	Bacteria|Firmicutes	
+Clostridium sp. M62/1	Bacteria|Firmicutes	
+Comamonas aquatica	Bacteria|Proteobacteria	
+Coprococcus sp. ART55/1	Bacteria|Firmicutes	
+Dorea longicatena	Bacteria|Firmicutes	
+Dysosmobacter welbionis	Bacteria|Firmicutes	
+Eggerthella lenta	Bacteria|Actinobacteria	
+Eikenella corrodens	Bacteria|Proteobacteria	
+Enterocloster clostridioformis	Bacteria|Firmicutes	
+Eubacterium sp. MSJ-33	Bacteria|Firmicutes	
+Filifactor alocis	Bacteria|Firmicutes	
+Flavonifractor plautii	Bacteria|Firmicutes	
+Flintibacter sp. KGMB00164	Bacteria|Firmicutes	
+Halarcobacter bivalviorum	Bacteria|Proteobacteria	
+Hydrogenophilus thermoluteolus	Bacteria|Proteobacteria	
+Lacrimispora saccharolytica	Bacteria|Firmicutes	
+Leptotrichia hofstadii	Bacteria|Fusobacteria	
+Leptotrichia trevisanii	Bacteria|Fusobacteria	
+Methanobrevibacter_A smithii_A	Archaea|Euryarchaeota	
+Mogibacterium diversum	Bacteria|Firmicutes	
+Nocardioides sp. S5	Bacteria|Actinobacteria	
+Nocardioides sp. TF02-7	Bacteria|Actinobacteria	
+Oscillibacter sp. NSJ-62	Bacteria|Firmicutes	
+Paracoccus sp. MA	Bacteria|Proteobacteria	
+Parvimonas micra	Bacteria|Firmicutes	
+Porphyromonas asaccharolytica	Bacteria|Bacteroidetes	
+Prevotella intermedia	Bacteria|Bacteroidetes	
+Pseudomonas thivervalensis	Bacteria|Proteobacteria	
+Ralstonia sp. 56D2	Bacteria|Proteobacteria	
+Roseburia sp. NSJ-69	Bacteria|Firmicutes	
+Selenomonas sputigena	Bacteria|Firmicutes	
+Streptococcus agalactiae	Bacteria|Firmicutes	
+Streptococcus constellatus	Bacteria|Firmicutes	
+Streptococcus thermophilus	Bacteria|Firmicutes	
+Vescimonas coprocola	Bacteria|Firmicutes	
+Vescimonas fastidiosa	Bacteria|Firmicutes	
+Xanthomonas campestris	Bacteria|Proteobacteria	
