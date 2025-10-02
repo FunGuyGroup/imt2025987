@@ -1,0 +1,187 @@
+Tumor	Group	Cluster	T_cluster_588	T_cluster_2847	T_cluCter_2847_C	Stage	Sex	Age	BMI	Gene_mutation_2	TNM_stage	Have_vessel_carcinoma_embolus	Have_nerve_bundle_invasion	Tumor_metastasis	Location	Ki67	MMR	Tumor_size_cm3	SSP_nearestCMS	SSP_predictedCMS	RF_nearestCMS	RF_predictedCMS	CPTAC	walk	baijiu	frequency3	frequency3_recode	amount3	friedpasta	amount20	other2	amount20_recode	snore	polyp	septin9	APT_Fit_C	APT_Fit_F	APT_Fit_P	APT_Fit_S	APT_Fit_G	APT_Fit_O	AT_Fit_C	AT_Fit_F	AT_Fit_P	AT_Fit_S	AT_Fit_G	AT_Fit_O	T_Fit_F	T_Fit_G
+T2	T	S-I	S4	S1	C2	Early_stage	Male	72	24.24242424	KRAS	2	None	Have	None	Other	0.8	pMMR	8.4	CMS4	CMS4	CMS4	NA	C	2	1	0	0	0	2	1	3	1	1	2	YangXing	1	1	1	1	1	1	1	1	1	1	1	1	1	2
+T3	T	S-II	S1	S2	C1	Advanced_stage	Male	65	25.05930703	KRAS	3	Have	None	None	COAD	0.6	pMMR	3	CMS3	CMS3	CMS3	NA	D	2	2	0	0	0	2	1	2	1	1	1	YinXing	2	1	2	1	1	1	1	1	1	1	1	1	1	2
+T4	T	S-II	S1	S2	C1	Advanced_stage	Male	63	27.91551882	Other	4	Have	Have	Liver	Other	0.7	pMMR	NA	CMS4	NA	CMS4	NA	C	1	1	2	2	2	2	2	2	2	2	1	YinXing	1	1	1	1	1	1	1	1	1	1	1	1	1	2
+T5	T	S-II	S1	S2	C1	Early_stage	Male	71	24.8357635	KRAS	2	None	None	None	COAD	NA	NA	36	CMS1	NA	CMS2	NA	D	1	1	0	0	0	4	1	2	1	1	2	YinXing	1	2	1	2	2	2	2	2	1	3	2	1	3	2
+T6	T	S-I	S2	S3	C3	Early_stage	Male	74	21.87755102	Other	2	None	None	None	Other	0.8	pMMR	7.5	CMS1	NA	CMS2	NA	A	2	0	0	0	0	2	2	3	2	1	1	YinXing	1	1	1	1	1	1	1	1	1	1	1	1	3	2
+T7	T	S-II	S1	S2	C1	Early_stage	Female	65	27.62536199	Other	2	None	Have	None	Other	0.8	pMMR	10	CMS1	NA	CMS1	NA	B	1	0	0	0	0	3	1	2	1	2	2	YangXing	1	1	2	1	2	2	1	1	2	1	1	1	1	2
+T8	T	S-II	S1	S2	C1	Early_stage	Male	51	21.2585034	Other	2	Have	Have	None	COAD	0.7	pMMR	24	CMS3	NA	CMS2	NA	D	2	2	2	2	2	4	1	3	1	2	2	RuoYangXing	2	1	2	2	2	2	2	2	2	1	2	1	1	1
+T9	T	S-II	S1	S2	C1	Advanced_stage	Male	63	23.87511478	Other	3	None	Have	None	COAD	0.6	k	12	CMS2	NA	CMS4	NA	D	2	2	7	3	3	2	2	2	2	1	2	YinXing	2	1	2	1	1	2	1	1	1	1	1	1	1	2
+T10	T	S-I	S3	S4	C4	Early_stage	Female	35	21.484375	KRAS	2	None	None	None	Other	0.7	pMMR	9	CMS1	NA	CMS1	NA	D	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2	1	2	2	2	2	2	1	2	1	2	1	1	2
+T11	T	S-I	S4	S1	C2	Early_stage	Male	70	21.51385851	PIK3CA	2	None	Have	None	Other	0.8	pMMR	15	CMS1	NA	CMS1	NA	E	2	1	0	0	0	2	1	2	1	2	2	YangXing	3	2	3	2	3	3	2	2	2	2	2	2	2	1
+T12	T	S-I	S4	S1	C2	Early_stage	Female	33	19.97918835	KRAS	2	None	Have	None	Other	0.5	pMMR	26.6	CMS1	NA	CMS4	NA	C	2	0	0	0	0	2	1	2	1	2	2	YinXing	3	2	3	2	3	3	2	2	2	2	2	2	2	1
+T13	T	S-I	S3	S4	C4	Advanced_stage	Male	68	22.86236854	KRAS	3	Have	None	None	COAD	0.6	pMMR	17.5	CMS4	CMS4	CMS4	CMS4	C	2	0	0	0	0	2	1	2	1	2	2	YangXing	2	2	2	2	2	2	2	2	2	1	2	2	1	1
+T14	T	S-I	S2	S3	C3	Early_stage	Male	68	22.40587695	KRAS	1	None	None	None	Other	0.9	dMMR	99	CMS1	CMS1	CMS1	NA	B	2	0	0	0	0	2	2	3	2	2	2	YangXing	1	1	2	2	2	1	1	1	1	1	1	1	1	2
+T15	T	S-II	S1	S2	C1	Advanced_stage	Male	67	26.29172382	Other	3	Have	Have	None	Other	0.5	pMMR	2.5	CMS4	CMS4	CMS4	CMS4	C	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2	2	2	2	2	2	2	2	2	1	2	2	1	1
+T16	T	S-I	S2	S3	C3	Early_stage	Male	59	22.86236854	Other	2	None	None	None	Other	NA	dMMR	175	CMS1	NA	CMS2	NA	B	2	1	0	0	0	2	1	2	1	1	1	YangXing	3	2	2	2	3	2	2	2	2	2	2	2	2	1
+T21	T	S-III	S1	S2	C1	Early_stage	Female	56	19.1953028	Other	2	None	Have	None	Other	0.7	pMMR	6.25	CMS3	CMS3	CMS3	NA	D	2	0	0	0	0	2	1	2	1	2	2	RuoYangXing	2	1	2	1	2	2	2	1	2	1	1	1	1	2
+T22	T	S-III	S4	S1	C2	Early_stage	Female	62	25.52964487	Other	1	Have	None	None	COAD	0.7	pMMR	11.25	CMS4	NA	CMS4	NA	C	2	0	0	0	0	4	1	2	1	2	2	RuoYangXing	2	1	2	1	2	2	2	1	2	1	1	1	1	2
+T23	T	S-I	S4	S1	C2	Advanced_stage	Female	35	20.44913742	Other	3	None	None	None	Other	0.8	pMMR	9.6	CMS3	NA	CMS1	NA	C	1	2	0	0	0	2	1	3	1	2	2	YinXing	3	2	2	2	3	3	2	2	2	2	2	2	2	1
+T26	T	S-III	S4	S1	C2	Early_stage	Male	76	22.22906193	Other	1	None	None	None	COAD	0.3	pMMR	1.275	CMS3	NA	CMS2	NA	NA	2	1	0	0	0	4	1	4	1	2	2	YinXing	1	1	1	1	2	2	1	1	1	1	1	1	1	2
+T27	T	S-I	S4	S1	C2	Early_stage	Female	66	20.2020202	Other	2	Have	None	None	COAD	0.8	pMMR	15.75	CMS1	NA	CMS3	NA	C	1	0	0	0	0	2	2	2	2	1	2	YangXing	1	1	1	1	1	1	1	1	1	1	1	1	1	2
+T28	T	S-I	S4	S1	C2	Early_stage	Female	70	34.375	Other	1	Have	None	None	Other	NA	NA	0.3	CMS1	NA	CMS1	NA	C	2	0	0	0	0	2	1	2	1	1	2	YinXing	3	2	3	2	2	3	2	2	2	2	2	2	2	1
+T29	T	S-II	S1	S2	C1	Early_stage	Female	52	21.28742654	KRAS	2	Have	Have	None	COAD	0.3	pMMR	8	CMS1	NA	CMS4	NA	C	2	0	0	0	0	2	1	1	1	2	2	YinXing	1	1	1	1	1	1	1	1	1	1	1	1	1	2
+T30	T	S-II	S1	S2	C1	Advanced_stage	Female	54	20	Other	3	Have	Have	None	COAD	0.7	pMMR	28.8	CMS3	CMS3	CMS2	NA	D	1	2	7	3	3	2	2	2	2	2	2	YinXing	2	2	2	2	2	2	2	2	2	2	2	2	2	1
+T32	T	S-I	S3	S1	C2	Early_stage	Female	53	23.4375	KRAS	2	Have	Have	None	Other	0.6	pMMR	18	CMS3	NA	CMS3	NA	A	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2	2	2	2	2	2	2	2	2	1	2	2	1	1
+T33	T	S-II	S1	S2	C1	Advanced_stage	Male	68	21.30681818	Other	3	Have	Have	None	COAD	0.8	pMMR	20	CMS1	NA	CMS2	NA	D	2	2	7	3	2	2	1	3	1	2	1	YangXing	3	2	3	2	3	3	2	2	2	2	2	2	2	1
+T34	T	S-III	S1	S2	C1	Early_stage	Male	83	25.71100827	Other	2	None	None	None	COAD	0.7	pMMR	6	CMS3	NA	CMS1	NA	NA	2	2	3	2	1	3	1	2	1	2	2	YinXing	1	1	1	1	1	1	1	1	1	1	1	1	1	2
+T35	T	S-II	S1	S2	C1	Early_stage	Male	69	25.88057064	Other	1	None	None	None	Other	NA	NA	2	CMS3	CMS3	CMS3	NA	D	2	2	1	1	1	3	2	2	2	2	2	YinXing	3	2	3	2	3	3	2	2	2	2	2	2	2	1
+T36	T	S-II	S1	S2	C1	Advanced_stage	Male	70	23.62444749	Other	3	None	None	None	COAD	0.8	pMMR	52.5	CMS1	NA	CMS1	NA	C	2	1	7	3	1	3	1	2	1	1	2	YangXing	1	1	1	1	1	1	1	1	1	1	1	1	1	2
+T37	T	S-II	S1	S2	C1	Advanced_stage	Female	64	23.42355741	KRAS	3	Have	None	None	COAD	0.3	pMMR	12	CMS3	CMS3	CMS3	NA	D	2	0	0	0	0	3	1	2	1	2	2	YangXing	3	2	3	2	3	3	2	2	2	2	2	2	2	1
+T38	T	S-II	S1	S2	C1	Advanced_stage	Female	68	27.23922448	KRAS	4	Have	Have	None	COAD	NA	NA	13.5	CMS1	NA	CMS2	NA	D	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2	1	2	1	2	2	2	1	2	1	1	1	1	2
+T39	T	S-II	S1	S2	C1	Advanced_stage	Female	70	23.01117686	KRAS	3	Have	Have	None	COAD	0.7	pMMR	1.725	CMS4	NA	CMS4	NA	NA	2	0	0	0	0	3	1	2	1	2	2	YinXing	3	2	2	2	3	3	2	2	2	2	2	2	2	1
+T42	T	S-II	S1	S2	C1	Advanced_stage	Female	42	26.66666667	KRAS	3	None	Have	None	COAD	0.4	pMMR	5.625	CMS1	NA	CMS1	NA	A	1	0	0	0	0	5	2	3	2	2	2	LinJieYinXing	1	1	1	1	1	1	1	1	1	1	1	1	1	2
+T43	T	S-I	S4	S1	C2	Early_stage	Male	68	24.91349481	Other	2	None	None	None	COAD	0.8	pMMR	4.5	CMS1	NA	CMS4	NA	C	2	0	0	0	0	2	1	2	1	2	1	YinXing	2	1	2	1	2	2	2	1	2	1	1	1	1	2
+T44	T	S-I	S4	S1	C2	Advanced_stage	Male	61	24.50894577	Other	4	Have	Have	None	Other	0.4	pMMR	30	CMS1	NA	CMS4	NA	NA	2	0	0	0	0	2	2	3	2	1	2	YangXing	1	1	1	1	1	1	1	1	1	1	1	1	3	2
+T45	T	S-II	S1	S2	C1	Advanced_stage	Female	66	16.93703188	Other	3	Have	Have	None	COAD	0.5	pMMR	11.25	CMS2	NA	CMS2	NA	B	1	0	0	0	0	2	1	2	1	2	2	YangXing	3	2	3	2	3	3	2	2	2	2	2	2	2	1
+T46	T	S-I	S4	S1	C2	Advanced_stage	Male	64	23.1206236	KRAS	3	Have	Have	None	COAD	0.7	pMMR	11.25	CMS3	NA	CMS4	NA	C	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	3	2	3	2	3	3	2	2	2	2	2	2	2	1
+T47	T	S-II	S1	S2	C1	Early_stage	Male	64	21.6788068	Other	2	Have	Have	None	Other	0.8	pMMR	25	CMS3	NA	CMS3	NA	D	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	1	2	1	2	2	1	2	2	1	2	2	1	3	1
+T48	T	S-I	S4	S1	C2	Advanced_stage	Male	58	17.91633074	KRAS	4	Have	None	None	Other	0.6	pMMR	27	CMS3	NA	CMS4	NA	NA	2	0	0	0	0	3	1	2	1	2	2	NA1	2	2	2	2	2	2	2	2	2	1	2	2	1	1
+T50	T	S-I	S2	S3	C3	Advanced_stage	Female	85	22.22222222	BRAF	3	Have	None	Have	Other	0.3	dMMR	120	CMS1	NA	CMS1	NA	B	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	2	2	2	2	2	2	2	2	2	1	2	2	1	1
+T51	T	S-I	S2	S3	C3	Early_stage	Female	72	18.62682262	Other	2	None	Have	None	Other	0.3	pMMR	576	CMS1	CMS1	CMS1	NA	B	2	0	0	0	0	2	2	3	2	2	2	YangXing	1	1	1	1	1	1	1	1	1	1	1	1	1	2
+T52	T	S-I	S4	S1	C2	Advanced_stage	Female	74	23.37257618	Other	3	None	None	None	Other	0.7	pMMR	12	CMS1	NA	CMS4	NA	C	2	0	0	0	0	2	1	2	1	1	2	YangXing	2	1	2	1	2	2	2	1	2	1	1	1	1	2
+T53	T	S-II	S1	S2	C1	Advanced_stage	Male	54	23.63236961	Other	4	Have	Have	None	Other	0.2	pMMR	21	CMS2	NA	CMS2	NA	D	1	0	0	0	0	4	1	2	1	1	2	YangXing	3	2	3	2	2	3	2	2	2	1	2	2	1	1
+T55	T	S-II	S1	S2	C1	Early_stage	Male	70	27.14158239	Other	2	None	None	None	Other	0.5	pMMR	6	CMS3	NA	CMS2	NA	D	2	0	0	0	0	2	1	2	1	1	2	YinXing	2	2	3	2	2	3	2	2	2	1	2	2	2	1
+T57	T	S-II	S1	S2	C1	Advanced_stage	Male	73	18.36547291	KRAS	3	Have	None	None	COAD	0.6	pMMR	1.8	CMS3	NA	CMS3	NA	D	2	0	0	0	0	2	1	1	1	2	1	YinXing	3	2	3	2	3	3	2	2	2	2	2	2	2	1
+T58	T	S-I	S2	S3	C3	Early_stage	Female	81	24.44444444	KRAS	2	None	None	None	Other	0.6	pMMR	9	CMS1	NA	CMS2	NA	B	2	2	5	2	1	1	2	4	2	1	2	YangXing	2	2	2	2	2	2	2	2	2	1	2	2	1	1
+T59	T	S-I	S2	S3	C3	Advanced_stage	Male	79	22.49858277	Other	3	None	None	None	COAD	NA	NA	54	CMS2	NA	CMS2	NA	B	2	0	0	0	0	2	2	3	2	1	2	YangXing	3	2	3	2	3	3	2	2	2	3	2	2	3	1
+T60	T	S-I	S2	S3	C3	Early_stage	Male	78	21.83143727	KRAS	2	None	None	None	Other	0.8	pMMR	48	CMS1	NA	CMS2	NA	B	2	0	0	0	0	2	2	2	2	1	1	YangXing	3	2	3	2	3	3	2	2	2	2	2	2	2	1
+T62	T	S-I	S2	S2	C1	Advanced_stage	Male	53	24.91349481	Other	3	Have	None	None	Other	0.6	pMMR	9	CMS3	NA	CMS1	NA	B	2	0	0	0	0	2	1	2	1	1	1	RuoYangXing	3	2	3	2	3	3	2	2	2	2	2	2	2	1
+T63	T	S-I	S3	S1	C2	Early_stage	Female	64	19.46740129	KRAS	2	None	None	None	Other	0.6	pMMR	5	CMS1	NA	CMS3	NA	A	2	0	0	0	0	2	1	3	1	2	2	YinXing	3	2	3	2	3	3	2	2	2	2	2	2	2	1
+T64	T	S-II	S2	S2	C1	Early_stage	Male	61	24.44727891	Other	1	Have	Have	None	COAD	NA	NA	2.5	CMS2	NA	CMS2	NA	B	2	0	0	0	0	2	1	2	1	1	1	YinXing	2	1	2	1	1	2	1	1	1	1	1	1	1	2
+T65	T	S-II	S1	S2	C1	Early_stage	Male	63	19.48696145	Other	1	None	Have	None	COAD	NA	NA	6	CMS2	NA	CMS2	NA	E	1	2	6	2	2	2	1	2	1	2	2	YinXing	1	1	1	1	1	1	1	1	1	1	1	1	1	2
+T66	T	S-II	S1	S2	C1	Advanced_stage	Female	42	33.29864724	Other	3	Have	Have	None	Other	0.9	pMMR	15.75	CMS2	NA	CMS2	NA	D	2	0	0	0	0	3	2	2	2	2	2	RuoYangXing	3	2	3	2	2	3	2	2	2	1	2	2	2	1
+T67	T	S-II	S1	S2	C1	Advanced_stage	Male	66	25.46712803	KRAS	3	Have	Have	None	COAD	0.8	pMMR	17.5	CMS1	NA	CMS2	NA	D	2	2	7	3	1	2	1	2	1	2	2	YinXing	3	2	3	2	3	3	2	2	2	2	2	2	2	1
+T68	T	S-II	S1	S2	C1	Advanced_stage	Female	58	22.89281998	NRAS	3	None	None	None	Other	0.7	pMMR	NA	CMS2	NA	CMS2	NA	E	2	0	0	0	0	4	1	2	1	2	2	YangXing	1	1	1	2	2	1	1	1	1	3	1	1	3	2
+T69	T	S-I	S3	S4	C4	Early_stage	Male	66	24.76756592	Other	2	None	None	None	Other	0.8	pMMR	NA	CMS4	NA	CMS3	NA	C	2	0	0	0	0	3	2	2	2	2	2	YangXing	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T70	T	S-I	S4	S1	C2	Advanced_stage	Female	68	23.046875	Other	3	Have	Have	None	Other	0.5	pMMR	4.5	CMS1	NA	CMS4	NA	C	2	0	0	0	0	2	1	2	1	2	2	YinXing	2	1	2	1	2	2	2	1	1	1	1	2	1	2
+T71	T	S-I	S3	S4	C4	Advanced_stage	Female	63	17.94181725	Other	3	Have	Have	None	Other	0.5	pMMR	9.375	CMS4	CMS4	CMS4	NA	C	2	0	0	0	0	2	1	2	1	2	2	NA1	2	2	2	2	2	2	2	2	2	1	2	2	1	1
+T72	T	S-I	S4	S1	C2	Early_stage	Female	61	27.34375	Other	1	None	None	None	Other	0.7	pMMR	2	CMS1	NA	CMS1	NA	C	2	0	0	0	0	2	1	2	1	2	2	YinXing	2	2	2	2	3	3	2	2	2	2	2	2	2	1
+T73	T	S-II	S1	S2	C1	Early_stage	Male	55	28.34375	Other	NA	None	None	None	COAD	0.8	pMMR	3	CMS1	NA	CMS2	NA	B	1	1	0	0	0	3	1	2	1	1	2	NA1	2	1	2	1	1	2	1	1	1	1	1	1	1	2
+T74	T	S-I	S3	S4	C4	Early_stage	Male	59	29.34375	PIK3CA	1	None	None	None	COAD	NA	NA	4	CMS4	CMS4	CMS1	NA	C	2	0	0	0	0	3	1	2	1	2	2	YinXing	3	2	2	2	3	3	2	2	2	2	2	2	2	1
+T75	T	S-I	S3	S4	C4	Early_stage	Female	47	30.34375	Other	2	None	Have	None	Other	NA	NA	24	CMS4	CMS4	CMS4	NA	C	2	0	0	0	0	2	1	2	1	2	2	YangXing	1	1	1	2	2	1	1	1	1	1	1	1	1	1
+T76	T	S-III	S4	S1	C2	Advanced_stage	Female	69	31.34375	KRAS	3	Have	Have	None	COAD	0.8	pMMR	6	CMS3	NA	CMS4	NA	C	2	0	0	0	0	3	1	2	1	2	2	YinXing	2	2	2	1	2	2	2	2	2	1	1	1	1	2
+A1	A		A	A	A	A																																											
+A3	A		A	A	A	A																																											
+A4	A		A	A	A	A																																											
+A5	A		A	A	A	A																																											
+A7	A		A	A	A	A																																											
+A8	A		A	A	A	A																																											
+A9	A		A	A	A	A																																											
+A10	A		A	A	A	A																																											
+A11	A		A	A	A	A																																											
+A12	A		A	A	A	A																																											
+A14	A		A	A	A	A																																											
+A15	A		A	A	A	A																																											
+A16	A		A	A	A	A																																											
+A17	A		A	A	A	A																																											
+A19	A		A	A	A	A																																											
+A22	A		A	A	A	A																																											
+A23	A		A	A	A	A																																											
+A24	A		A	A	A	A																																											
+A25	A		A	A	A	A																																											
+A26	A		A	A	A	A																																											
+A28	A		A	A	A	A																																											
+A29	A		A	A	A	A																																											
+A30	A		A	A	A	A																																											
+A31	A		A	A	A	A																																											
+A32	A		A	A	A	A																																											
+A33	A		A	A	A	A																																											
+A35	A		A	A	A	A																																											
+A37	A		A	A	A	A																																											
+A40	A		A	A	A	A																																											
+A42	A		A	A	A	A																																											
+A43	A		A	A	A	A																																											
+A44	A		A	A	A	A																																											
+A45	A		A	A	A	A																																											
+A46	A		A	A	A	A																																											
+A49	A		A	A	A	A																																											
+A52	A		A	A	A	A																																											
+A53	A		A	A	A	A																																											
+A54	A		A	A	A	A																																											
+A55	A		A	A	A	A																																											
+A56	A		A	A	A	A																																											
+A57	A		A	A	A	A																																											
+A61	A		A	A	A	A																																											
+A62	A		A	A	A	A																																											
+A64	A		A	A	A	A																																											
+A65	A		A	A	A	A																																											
+A66	A		A	A	A	A																																											
+A67	A		A	A	A	A																																											
+A68	A		A	A	A	A																																											
+A69	A		A	A	A	A																																											
+A72	A		A	A	A	A																																											
+A73	A		A	A	A	A																																											
+A75	A		A	A	A	A																																											
+A76	A		A	A	A	A																																											
+A78	A		A	A	A	A																																											
+A79	A		A	A	A	A																																											
+A81	A		A	A	A	A																																											
+A82	A		A	A	A	A																																											
+A83	A		A	A	A	A																																											
+A84	A		A	A	A	A																																											
+A86	A		A	A	A	A																																											
+A91	A		A	A	A	A																																											
+A92	A		A	A	A	A																																											
+P2	P		P	P	P	P																																											
+P3	P		P	P	P	P																																											
+P4	P		P	P	P	P																																											
+P5	P		P	P	P	P																																											
+P6	P		P	P	P	P																																											
+P7	P		P	P	P	P																																											
+P8	P		P	P	P	P																																											
+P9	P		P	P	P	P																																											
+P10	P		P	P	P	P																																											
+P11	P		P	P	P	P																																											
+P12	P		P	P	P	P																																											
+P13	P		P	P	P	P																																											
+P14	P		P	P	P	P																																											
+P15	P		P	P	P	P																																											
+P16	P		P	P	P	P																																											
+P21	P		P	P	P	P																																											
+P22	P		P	P	P	P																																											
+P23	P		P	P	P	P																																											
+P26	P		P	P	P	P																																											
+P27	P		P	P	P	P																																											
+P28	P		P	P	P	P																																											
+P29	P		P	P	P	P																																											
+P30	P		P	P	P	P																																											
+P32	P		P	P	P	P																																											
+P33	P		P	P	P	P																																											
+P34	P		P	P	P	P																																											
+P35	P		P	P	P	P																																											
+P36	P		P	P	P	P																																											
+P37	P		P	P	P	P																																											
+P38	P		P	P	P	P																																											
+P39	P		P	P	P	P																																											
+P42	P		P	P	P	P																																											
+P43	P		P	P	P	P																																											
+P44	P		P	P	P	P																																											
+P45	P		P	P	P	P																																											
+P46	P		P	P	P	P																																											
+P47	P		P	P	P	P																																											
+P48	P		P	P	P	P																																											
+P50	P		P	P	P	P																																											
+P51	P		P	P	P	P																																											
+P52	P		P	P	P	P																																											
+P53	P		P	P	P	P																																											
+P55	P		P	P	P	P																																											
+P57	P		P	P	P	P																																											
+P58	P		P	P	P	P																																											
+P59	P		P	P	P	P																																											
+P60	P		P	P	P	P																																											
+P62	P		P	P	P	P																																											
+P63	P		P	P	P	P																																											
+P64	P		P	P	P	P																																											
+P65	P		P	P	P	P																																											
+P66	P		P	P	P	P																																											
+P67	P		P	P	P	P																																											
+P68	P		P	P	P	P																																											
+P69	P		P	P	P	P																																											
+P70	P		P	P	P	P																																											
+P71	P		P	P	P	P																																											
+P72	P		P	P	P	P																																											
+P73	P		P	P	P	P																																											
+P74	P		P	P	P	P																																											
+P75	P		P	P	P	P																																											
+P76	P		P	P	P	P																																											
