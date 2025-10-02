@@ -1,0 +1,668 @@
+#### Fig3 ####
+in_data <- "proteome_all_diff_in_each_compare.xlsx"
+out_map3A <- "Fig3A_TvsA_230201.pdf"
+out_map3B <- "Fig3B_TvsP_230201.pdf"
+
+## read file
+library(readxl)
+data_all <- read_excel(path = in_data, sheet = 1)
+
+###### Fig3A ######
+TvsA <- data_all[!is.na(data_all$PG.Genes), c('PG.Genes', 'TvsA_log2fc', 'TvsA_pvalue','TvsA_padjust')]
+colnames(TvsA) <- c("gene_name", "log2FC","pvalue","padj")
+
+## 设置p和logFC阈值
+cut_off_pvalue <- 0.05
+cut_off_logFC <- 1
+
+## 增加change列用来设置火山图点的颜色
+TvsA$change <- ifelse(TvsA$pvalue < cut_off_pvalue & abs(TvsA$log2FC) >= cut_off_logFC,
+                         ifelse(TvsA$log2FC > cut_off_logFC, "Up",'Down'),
+                         'Stable')
+
+
+## 绘制火山图
+library(ggplot2)
+A3p <- ggplot(data = TvsA, aes(x = log2FC, y = -log10(pvalue), colour = change)) +
+  geom_point(alpha = 0.8, size = 2)+
+  scale_color_manual(values = c("#3468BB", "#DADADA","#FE0200")) +
+  
+  #辅助线
+  geom_vline(xintercept = c(-1,1),lty = 12,col = "black",lwd = 0.6) +
+  geom_hline(yintercept = -log10(cut_off_pvalue),lty = 12,col = "black",lwd = 0.6) +
+  
+  # 坐标轴
+  labs(x = "log2(fold change)",y = "-log10 (p-value)")+
+  theme_bw() + 
+  
+  #图例
+  theme(plot.title = element_text(hjust = 0.5), 
+        legend.position="right", 
+        legend.title = element_blank())
+A3p
+ggsave(filename = out_map3A, plot = A3p, width = 3.5, height = 4, units = "in")
+
+###### Fig3B ######
+TvsP <- data_all[!is.na(data_all$PG.Genes), c('PG.Genes','TvsP_log2_new_FC','TvsP_new_pvalue')]
+colnames(TvsP) <- c("gene_name", "log2FC","pvalue")
+
+## 设置p和logFC阈值
+cut_off_pvalue <- 0.05
+cut_off_logFC <- 1
+
+## 增加change列用来设置火山图点的颜色
+TvsP$change <- ifelse(TvsP$pvalue < cut_off_pvalue & abs(TvsP$log2FC) >= cut_off_logFC,
+                      ifelse(TvsP$log2FC > cut_off_logFC, "Up",'Down'),
+                      'Stable')
+
+## 绘制火山图
+library(ggplot2)
+B3p <- ggplot(data = TvsP, aes(x = log2FC, y = -log10(pvalue), colour = change)) +
+  geom_point(alpha = 0.8, size = 2)+
+  scale_color_manual(values = c("#3468BB", "#DADADA","#FE0200")) +
+  
+  #辅助线
+  geom_vline(xintercept = c(-1,1),lty = 12,col = "black",lwd = 0.6) +
+  geom_hline(yintercept = -log10(cut_off_pvalue),lty = 12,col = "black",lwd = 0.6) +
+  
+  # 坐标轴
+  labs(x = "log2(fold change)",y = "-log10 (p-value)")+
+  theme_bw() + 
+  
+  #图例
+  theme(plot.title = element_text(hjust = 0.5), 
+        legend.position="right", 
+        legend.title = element_blank())
+B3p
+ggsave(filename = out_map3B, plot = B3p, width = 3.5, height = 4, units = "in")
+###### Fig3C_heatmap ######
+in_data <- "proteome_all_diff_in_each_compare.xlsx"
+in_anno <- "T1_蛋白组.csv"
+out_map_3D <- "Fig3D_T_heatmap2_230524.pdf"
+
+
+## read file
+library(readxl)
+data_all <- read_excel(path = in_data, sheet = 1)
+
+anno <- read.csv(file = in_anno, header = T, row.names = 1, check.names = F)
+Fig3D <- data_all[(data_all$TvsP_new_pvalue <= 0.05 &
+                     (data_all$TvsP_log2_new_FC >= 1 |
+                     data_all$TvsP_log2_new_FC <= -1)), c(2,24:85)]
+Fig3D <- Fig3D[-1,]
+
+rownames(Fig3D) <- Fig3D$PG.ProteinGroups
+Fig3D <- data.frame(Fig3D)
+Fig3D_1 <- Fig3D[,-1]
+Fig3D_1 <- apply(Fig3D_1, c(1,2), as.numeric)
+
+
+anno_color <- list(T_cluCter_2847_C = c(C2 = "#EC7A71", C1 = "#87A932", C3 = "#53C2C0", C4 = "#BC7FF4"))
+
+## Get the heatmap
+library(pheatmap)
+D3p <- pheatmap(mat = Fig3D_1,
+                filename = out_map_3D,
+                border_color = NA,
+                width = 7,height = 8,
+                # cellwidth = 3,cellheight = 10,
+                scale = 'none',
+                cluster_rows = T,cluster_cols = T,
+                treeheight_row = 15,treeheight_col = 15,
+                fontsize = 10,fontsize_row = 8,fontsize_col = 5,
+                annotation_col = anno[,c("T_cluCter_2847_C","Stage","Location","MMR","SSP_nearestCMS",
+                                         "RF_nearestCMS","CPTAC","septin9")],
+                annotation_colors = anno_color,
+                show_colnames = T,show_rownames = F,
+                cutree_cols = 4,cutree_rows = 4,  ## 当cluster_cols = F 时，此参数无效
+                clustering_method = 'ward.D2')
+
+## 得到行名聚类顺序
+row_cluster <- cutree(D3p$tree_row, k = 4)
+new_rowOrder <- Fig3D_1[D3p$tree_row$order,]
+
+
+## 得到列名聚类顺序
+col_cluster <- cutree(D3p$tree_col, k = 4)
+new_colOrder <- new_rowOrder[, D3p$tree_col$order]
+
+write.csv(x = new_colOrder, file = "Tgroup聚类后顺序_230524.csv")
+###### T&A&P_mcpconter_point ######
+in_data <- "TAPGroup_2847gene_mcpcounter_230206.txt"
+out_map1 <- "mcp_TvsAvsP_map1_230208.pdf"
+out_map2 <- "mcp_TvsAvsP_map2_230208.pdf"
+
+# data1 <- read.csv(file = in_data, header = T, quote = "")
+data1 <- read.table(file = in_data, header = T, sep = "\t",quote = "",row.names = 1)
+
+library(ggplot2)
+library(ggpubr)
+p1 <- ggplot(data = data1, mapping = aes(x = cluster, y = Cytotoxic_lymphocytes, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+
+p2 <- ggplot(data = data1, mapping = aes(x = cluster, y = Monocytic_lineage, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+
+p3 <- ggplot(data = data1, mapping = aes(x = cluster, y = Myeloid_dendritic_cells, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+
+p4 <- ggplot(data = data1, mapping = aes(x = cluster, y = Neutrophils, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+
+p5 <- ggplot(data = data1, mapping = aes(x = cluster, y = Endothelial_cells, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+
+p6 <- ggplot(data = data1, mapping = aes(x = cluster, y = Fibroblasts, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+
+p7<- ggplot(data = data1, mapping = aes(x = cluster, y = TIDE, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+
+p8<- ggplot(data = data1, mapping = aes(x = cluster, y = IFNG, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+
+p9<- ggplot(data = data1, mapping = aes(x = cluster, y = MSI.Expr.Sig, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+
+p10<- ggplot(data = data1, mapping = aes(x = cluster, y = Merck18, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+
+p11<- ggplot(data = data1, mapping = aes(x = cluster, y = CD274, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+
+p12<- ggplot(data = data1, mapping = aes(x = cluster, y = CD8, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+
+p13<- ggplot(data = data1, mapping = aes(x = cluster, y = Dysfunction, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+
+p14<- ggplot(data = data1, mapping = aes(x = cluster, y = Exclusion, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+
+p15<- ggplot(data = data1, mapping = aes(x = cluster, y = MDSC, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+
+p16 <- ggplot(data = data1, mapping = aes(x = cluster, y = CAF, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+
+p17 <- ggplot(data = data1, mapping = aes(x = cluster, y = TAM.M2, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+
+
+###### Fig3C_TGroup_4cluster_mcp_point ######
+in_data2 <- "TGroup_2847gene_mcpcounter_230206.txt"
+out_map3 <- "mcp_TGroup_map3_230203.pdf"
+out_map4 <- "mcp_TGroup_map4_230203.pdf"
+
+
+data2 <- read.table(file = in_data2, header = T, sep = "\t",quote = "",row.names = 1)
+
+library(ggplot2)
+library(ggpubr)
+p1 <- ggplot(data = data2, mapping = aes(x = cluster, y = Cytotoxic_lymphocytes, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+
+p2 <- ggplot(data = data2, mapping = aes(x = cluster, y = Monocytic_lineage, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+
+p3 <- ggplot(data = data2, mapping = aes(x = cluster, y = Myeloid_dendritic_cells, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+
+p4 <- ggplot(data = data2, mapping = aes(x = cluster, y = Neutrophils, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+
+p5 <- ggplot(data = data2, mapping = aes(x = cluster, y = Endothelial_cells, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+
+p6 <- ggplot(data = data2, mapping = aes(x = cluster, y = Fibroblasts, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+
+p7<- ggplot(data = data2, mapping = aes(x = cluster, y = TIDE, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+ggsave(filename = "TGroup_TIDE_230208.pdf", plot = p7, width = 5, height = 6, units = "cm")
+
+p8<- ggplot(data = data2, mapping = aes(x = cluster, y = IFNG, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+
+p9<- ggplot(data = data2, mapping = aes(x = cluster, y = MSI.Expr.Sig, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+
+p10<- ggplot(data = data2, mapping = aes(x = cluster, y = Merck18, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+
+p11<- ggplot(data = data2, mapping = aes(x = cluster, y = CD274, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+
+p12<- ggplot(data = data2, mapping = aes(x = cluster, y = CD8, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+
+p13<- ggplot(data = data2, mapping = aes(x = cluster, y = Dysfunction, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+
+p14<- ggplot(data = data2, mapping = aes(x = cluster, y = Exclusion, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+ggsave(filename = "TGroup_Exclusion_230208.pdf", plot = p14, width = 5, height = 6, units = "cm")
+
+p15<- ggplot(data = data2, mapping = aes(x = cluster, y = MDSC, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+
+p16 <- ggplot(data = data2, mapping = aes(x = cluster, y = CAF, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+
+p17 <- ggplot(data = data2, mapping = aes(x = cluster, y = TAM.M2, colour = cluster))+
+  geom_violin(fill = "#DADADA",color = NA, size = 0.5, trim = F)+ #小提琴图
+  geom_jitter(width = 0.2,size = 1.5)+
+  geom_boxplot(width = 0.1, size = 0.5, color = "black",fill = "white")+
+  
+  theme_bw()+ #背景为白色
+  stat_compare_means(label = "p.format")+ #增加P值，需加载ggpubr
+  theme(legend.position = "none") #移除所有图例
+
+## 多个小图拼成一个大图
+library(cowplot)
+p3 <- plot_grid(p1, p2, p3, p4, p5, p6, p7, p8, labels = LETTERS[1:8], ncol = 2)
+p4 <- plot_grid(p9, p10, p11, p12, p13, p14, p15, p16, p17, labels = LETTERS[1:9], ncol = 2)
+ggsave2(filename = out_map4, plot = p4, width = 21,height = 29.7, units = "cm")
+###### TvsA(3453)_A+T_heatmap ######
+in_data <- "proteome_all_diff_in_each_compare.xlsx"
+in_anno <- "group_pro_new.txt"
+out_map <- "Fig3/FigS4_230524.pdf"
+
+## read file
+library(readxl)
+data_all <- read_excel(path = in_data, sheet = 1)
+
+anno <- read.table(file = in_anno, header = T, row.names = 1,sep = "\t")
+data1 <- data_all[data_all$TvsA_pvalue <=0.05
+                  & (data_all$TvsA_log2fc >= 1
+                     |data_all$TvsA_log2fc <= -1)
+                  & (!is.na(data_all$PG.Genes)),]
+
+rownames(data1) <- data1$PG.ProteinGroups
+data1 <- as.data.frame(data1)
+data1_new <- data1[, c(24:147)]
+
+data1_new <- apply(data1_new, c(1,2), as.numeric)
+anno_color <- list(T_cluster = c(S1 = "#EC7A71", S2 = "#87A932", S3 = "#53C2C0", S4 = "#BC7FF4"),
+                   Group = c("T" = "#FE0200", "A" = "#3468BB", "P" = "#DADADA"),
+                   Early_Late = c("Early_stage" = "#009A3E", "Advanced_stage" = "#FFA500", "A" = "#3468BB"))
+
+## Get the heatmap
+library(pheatmap)
+p <- pheatmap(mat = data1_new,
+              filename = out_map,
+              border_color = NA,
+              width = 7,height = 8,
+              # cellwidth = 3,cellheight = 10,
+              scale = 'none',
+              cluster_rows = T,cluster_cols = T,
+              treeheight_row = 15,treeheight_col = 15,
+              fontsize = 10,fontsize_row = 8,fontsize_col = 4,
+              annotation_col = anno,
+              annotation_colors = anno_color,
+              show_colnames = T,show_rownames = F,
+              cutree_cols = 4,cutree_rows = 4,  ## 当cluster_cols = F 时，此参数无效
+              clustering_method = 'ward.D2')
+
+#eg:Rscript  cor2table.R input1f.txt input2f.txt gene species output_cor.tsv
+args<-commandArgs(TRUE)
+input1f<-args[1] #gene
+input2f<-args[2] #species
+var1<-args[3]
+var2<-args[4]
+outputf<-args[5]
+
+data1=read.table(input1f,header=T,row.names=1,stringsAsFactors=F,check.names=F,sep="\t",quote="")
+data2=read.table(input2f,header=T,row.names=1,stringsAsFactors=F,check.names=F,sep="\t",quote="")
+l<-list()
+n=1
+for(i in 1:ncol(data1)){
+	for(j in 1:ncol(data2)){
+		res=cor.test(data1[,i],data2[,j],method="spearman")
+		p_value=res$p.value
+		cor_value=res$estimate[[1]]
+		gene=colnames(data1)[i]
+		species=colnames(data2)[j]
+		l[[n]]=c(gene,species,cor_value,p_value)
+		n=n+1}
+}
+df=as.data.frame(t(data.frame(l)))
+colnames(df)=c(var1,var2,"cor_value","p_value")
+write.table(df,outputf,sep="\t",quote=F,col.names=T,row.names=F)
+
+inf1="input_cor.txt"
+inf2="input_p.txt"
+
+library(pheatmap)
+data=read.table(inf1,sep="\t",quote="",header=T,stringsAsFactors=F,check.names=F,row.names=1)
+data=t(data)
+datap=read.table(inf2,sep="\t",quote="",header=T,stringsAsFactors=F,check.names=F,row.names=1)
+datap_format<-datap
+#datap_format[is.na(datap_format)]<-0
+datap_format=t(datap_format)
+datap_format=datap_format[rownames(data),colnames(data)]
+removeRowAllNa<-function(x){x[apply(x, 1,function(y){any(!is.na(y))}),]} #删除行
+removeColAllNa<-function(x){x[,apply(x, 2,function(y){any(!is.na(y))})]} #删除列
+data1=removeRowAllNa(data)
+data1=t(removeColAllNa(data1))
+datap_format=removeRowAllNa(datap_format)
+datap_format=t(removeColAllNa(datap_format))
+#使用显著性星号标记进行替换；
+datap_format[datap_format>=0 & datap_format < 0.001] <- "***"
+datap_format[datap_format>=0.001 & datap_format < 0.01] <- "**"
+datap_format[datap_format>=0.01 & datap_format < 0.05] <- "*"
+datap_format[datap_format>=0.05 & datap_format <= 1] <- ""
+#aa<-pheatmap(as.matrix(data1),fontsize_number=5,display_numbers=datap_format,clustering_method="ward.D2",color=colorRampPalette(c("blue","white","red"))(100),cluster_rows=T,cluster_cols=T,treeheight_col=50,fontsize_row=1,fontsize_col=8,border=FALSE,show_rownames=F)
+aa<-pheatmap(t(data1),display_numbers=t(datap_format),cellwidth=20,cellheight=20,fontsize_number=10,clustering_method="ward.D2",color=colorRampPalette(c("#93B7CE","white","#D51D1F"))(100),cluster_rows=F,cluster_cols=F,treeheight_col=50,fontsize_row=8,fontsize_col=8,border=FALSE)
+
+##alpha_diversity_flow_pro_wilcox
+library(vegan)
+library(agricolae)
+library(ggplot2)
+library(ggpubr)
+args=commandArgs(TRUE)
+inf1=args[1]
+inf2=args[2]
+outf=args[3]
+outf_pdf1=args[4]
+outf_pdf2=args[5]
+
+otu=read.table(inf1,sep="\t",quote="",header=T,stringsAsFactors=F,check.names=F,row.names=7)
+otu=as.data.frame(t(otu))
+row_T=grep("T",rownames(otu),value=T)
+otu_T=otu[as.vector(row_T),]
+otu=otu_T
+otu=sapply(otu,as.numeric)
+rownames(otu)<-rownames(otu_T)
+#-------------------
+shannon=diversity(otu,"shannon")
+simpson=diversity(otu,"simpson")
+alpha=data.frame(shannon,simpson)
+#-------------------------------
+data_phe=read.table(inf2,sep="\t",quote="",header=T,stringsAsFactors=F,check.names=F)
+colnames(data_phe)<-c("Name","group")
+alpha$Name=rownames(alpha)
+m=merge(alpha,data_phe,by="Name",all=T)
+alpha<-m
+write.table(alpha,outf,sep="\t",quote=F,col.names=T,row.names=F)
+
+mycompare_pro=list(c('C1','C2'),c('C1','C3'),c('C1','C4'),c('C2','C3'),c('C2','C4'),c('C3','C4'))
+p=ggboxplot(alpha,x="group",y="shannon",color="black",add="jitter",add.params = list(color = "black",fill="group",shape="group"),palette = c("aaas"),fill="group")+stat_compare_means(comparisons=mycompare_pro,label = "p.format",method = 'wilcox',p.adjust.methods="fdr") +
+  stat_compare_means(method = "kruskal.test", 
+                     label = "p.format", 
+                     label.y = max(alpha$shannon, na.rm = TRUE) * 1.1,color="red")  #添加全局检验#alpha是一个行名是样本的数据
+ggsave(plot=p,outf_pdf1,height = 7,width = 6,dpi = 300)
+p=ggboxplot(alpha,x="group",y="simpson",color="black",add="jitter",add.params = list(color = "black",fill="group",shape="group"),palette = c("aaas"),fill="group")+stat_compare_means(comparisons=mycompare_pro,label = "p.format",method = 'wilcox',p.adjust.methods="fdr") +
+  stat_compare_means(method = "kruskal.test", 
+                     label = "p.format", 
+                     label.y = max(alpha$simpson, na.rm = TRUE) * 1.1,color="red")  # 添加全局检验#alpha是一个行名是样本的数据
+ggsave(plot=p,outf_pdf2,height = 7,width = 6,dpi = 300)
+
+#beta_diversity_flow_pro
+
+library(ecodist) 
+library(vegan) 
+library(ggplot2)
+library(ggpubr)
+library(pairwiseAdonis)
+library(patchwork)
+args=commandArgs(TRUE)
+inf1=args[1]
+inf2=args[2]
+outf_pdf=args[3]
+spe=read.table(inf1,sep="\t",quote="",header=T,stringsAsFactors=F,check.names=F,row.names=7)
+spe=spe[,8:ncol(spe)]
+spe=as.data.frame(t(spe))
+row_T=grep("T",rownames(spe),value=T)
+otu_T=spe[as.vector(row_T),]
+spe=otu_T
+spe=spe[!apply(spe[,],1,sum)==0,]
+
+data_phe=read.table(inf2,sep="\t",quote="",header=T,stringsAsFactors=F,check.names=F)
+colnames(data_phe)<-c("Name","group")
+spe.dist<-vegdist(spe,) 
+d=as.matrix(spe.dist)
+data_phe1=as.data.frame(data_phe[,-1])
+rownames(data_phe1) <-data_phe[,1]
+colnames(data_phe1) <-"group"
+#--------format group
+data_phe2=as.data.frame(data_phe1[as.vector(rownames(spe)),])
+rownames(data_phe2)=rownames(spe)
+colnames(data_phe2) <-"group"
+data_phe2$Name=rownames(data_phe2)
+data_phe3<-data_phe2[order(data_phe2[,1]),]
+data_phe4=as.data.frame(data_phe3[,1])
+rownames(data_phe4)<-rownames(data_phe3)
+colnames(data_phe4)<-"group"
+data_phe2=data_phe4
+
+#colnames(data_phe1) <-"group"
+bray=adonis2(spe ~ group,data=data_phe2,permutations=999,method="bray") 
+label_p=paste("p=",bray$Pr[1])
+pairwise_bray=pairwise.adonis(x=spe,factors=data_phe2$group,sim.function="vegdist",sim.method="bray",p.adjust.m="BH",reduce=NULL,perm=999)
+
+pcoa = cmdscale(d, k=3, eig=T) #PCoA
+points = as.data.frame(pcoa$points)
+colnames(points) = c("x", "y", "z")
+points$Name=rownames(points)
+m=merge(points,data_phe,by="Name")
+points=m[,-1]
+colnames(points)[4]<-"group" 
+eig = pcoa$eig 
+points=points[order(points[,4]),]
+p = ggplot(points, aes(x=x, y=y, color=group, shape=group,palette = c("aaas"))) +
+  geom_point(alpha=.7, size=2) +
+  stat_ellipse(level=0.95,size=1,linetype=5) + 
+  labs(x=paste("PCoA 1 (", format(100 * eig[1] / sum(eig), digits=4), "%)", sep=""), 
+       y=paste("PCoA 2 (", format(100 * eig[2] / sum(eig), digits=4), "%)", sep=""),
+       title="bray_curtis PCoA") +
+  theme(panel.background = element_rect(fill='white',colour = 'black'),axis.title.x=element_text(colour = 'black',size=15),axis.title.y = element_text(colour = 'black',size=15),legend.text = element_text(size = 15)) +
+  annotate("text",x=-0.5,y=-0.45,parse=TRUE,size=5,label=label_p,family="Times",fontface="italic",color="black") + 
+  scale_color_manual(values=c("#87A932","#EC7A71","#53C2C0","#BC7FF4"))  
+tab2 <- ggtexttable(pairwise_bray[,c("pairs","p.value")], rows = NULL,
+                    theme = ttheme("blank")) %>%
+  tab_add_hline(at.row = 1:2, row.side = "top", linewidth = 1)  %>%
+  tab_add_hline(at.row = nrow(pairwise_bray)+1, row.side = "bottom", linewidth = 1)
+
+p2=p+tab2
+p2
+
+ggsave(outf_pdf, p2, width = 9, height = 5)
