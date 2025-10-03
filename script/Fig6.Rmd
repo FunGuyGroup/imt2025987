@@ -1,0 +1,858 @@
+---
+title: "Fig6"
+output: html_document
+date: "2025-10-01"
+---
+
+#6.heatmap_count_after_hdi_stab_selection
+rm(list=ls())
+library(dplyr)
+library(pacman)
+library(stringr)
+library(ComplexHeatmap)
+library(circlize)
+setwd("E:/10_R/8_CRC/")
+
+###########functions#######
+load_data <- function(filename){
+  data <- read.table(filename,sep = "\t",header = T,row.names = 1)
+}
+
+Fungi_number <- function(taxa){
+  Fungi <- str_extract(taxa,"Fungi")
+  table(Fungi)
+}
+
+Bacteria_number <- function(taxa){
+  Bacteria <- str_extract(taxa,"Bacteria")
+  table(Bacteria)
+}
+
+Archaea_number <- function(taxa){
+  Archaea <- str_extract(taxa,"Archaea")
+  table(Archaea)
+}
+
+Viruses_number <- function(taxa){
+  Viruses <- str_extract(taxa,"Viruses")
+  table(Viruses)
+}
+
+###########A group#######
+A <- load_data("./CRC data/output/Lasso/count_4kingdom_microbes_filter/A/combined_output_MHT_stabsel_FDR_0.1.txt")
+length(unique(A$gene))#1664
+length(unique(A$taxa))#73
+taxa <- unique(A$taxa)
+
+Bacteria_number(taxa)#44
+Fungi_number(taxa)
+Archaea_number(taxa)
+Viruses_number(taxa)
+
+original_A_microbe <- load_data("./CRC data/input/count/A_microbes_count_filter_0.001_0.1.txt")
+original_A_gene <- load_data("./CRC data/input/groupData1104/pro_A.tsv")
+
+A_gene <- original_A_gene[rownames(original_A_gene) %in% A$gene,]
+A_microbe <- original_A_microbe[rownames(original_A_microbe) %in% A$taxa,]
+
+A_data <- rbind(A_gene,A_microbe)
+A_data <- t(A_data)
+
+cor_A <- cor(A_data,method = "spearman")
+subset_cor_A <- cor_A[1665:1737,1:1664]
+subset_cor_A <- t(subset_cor_A)
+
+labels_row <- "Host genes (n=1664)"
+labels_col <- "Microbes (n=73)"
+
+Heatmap(subset_cor_A,
+        column_title = "A group",
+        name = "Correlation",
+        show_row_names = FALSE,show_column_names = FALSE,
+        cluster_column_slices = FALSE,
+        show_row_dend = FALSE,show_column_dend = FALSE)
+
+###########P group#######
+P <- read.table("./CRC data/output/Lasso/count_4kingdom_microbes_filter/P/combined_output_MHT_stabsel_FDR_0.1.txt",
+                sep = "\t",header = T,row.names = 1)
+length(unique(P$gene))#1869
+length(unique(P$taxa))#56
+taxa <- unique(P$taxa)
+
+Bacteria_number(taxa)#44
+Fungi_number(taxa)
+Archaea_number(taxa)
+Viruses_number(taxa)
+
+original_P_microbe <- load_data("./CRC data/input/count/P_microbes_count_filter_0.001_0.1.txt")
+original_P_gene <- load_data("./CRC data/input/groupData1104/pro_P.tsv")
+
+P_gene <- original_P_gene[rownames(original_P_gene) %in% P$gene,]
+P_microbe <- original_P_microbe[rownames(original_P_microbe) %in% P$taxa,]
+
+P_data <- rbind(P_gene,P_microbe)
+P_data <- t(P_data)
+
+cor_P <- cor(P_data,method = "spearman")
+subset_cor_P <- cor_P[1870:1925,1:1869]
+subset_cor_P <- t(subset_cor_P)
+
+Heatmap(subset_cor_P,
+        column_title = "P group",
+        name = "Correlation",
+        show_row_names = FALSE,show_column_names = FALSE,
+        cluster_column_slices = FALSE,
+        show_row_dend = FALSE,show_column_dend = FALSE)
+
+
+###########T group#######
+T <- read.table("./CRC data/output/Lasso/count_4kingdom_microbes_filter/T/combined_output_MHT_stabsel_FDR_0.1.txt",header = T,row.names = 1)
+length(unique(T$gene))#421
+length(unique(T$taxa))#45
+taxa <- unique(T$taxa)
+
+Bacteria_number(taxa)#33
+Fungi_number(taxa)
+Archaea_number(taxa)
+Viruses_number(taxa)
+
+original_T_microbe <- read.table("./CRC data/input/count/T_microbes_count_filter_0.001_0.1.txt")
+original_T_gene <- read.table("./CRC data/input/groupData1104/pro_T.tsv")
+
+T_gene <- original_T_gene[rownames(original_T_gene) %in% T$gene,]
+T_gene <- subset(T_gene,select = -T69)
+T_microbe <- original_T_microbe[rownames(original_T_microbe) %in% T$taxa,]
+
+T_data <- rbind(T_gene,T_microbe)
+T_data <- t(T_data)
+
+cor_T <- cor(T_data,method = "spearman")
+subset_cor_T <- cor_T[422:466,1:421]
+subset_cor_T <- t(subset_cor_T)
+subset_cor_T <- as.matrix(subset_cor_T)
+
+Heatmap(subset_cor_T,
+        column_title = "T group",
+        name = "Correlation",
+        show_row_names = FALSE,show_column_names = FALSE,
+        cluster_column_slices = FALSE,
+        show_row_dend = FALSE,show_column_dend = FALSE)
+
+###########early group#######
+early <- read.table("./CRC data/output/Lasso/count_4kingdom_microbes_filter/early/combined_output_MHT_stabsel_FDR_0.1.txt",header = T,row.names = 1)
+length(unique(early$gene))#343
+length(unique(early$taxa))#29
+taxa <- unique(early$taxa)
+
+Bacteria_number(taxa)#44
+Fungi_number(taxa)
+Archaea_number(taxa)
+Viruses_number(taxa)
+
+original_early_microbe <- load_data("./CRC data/input/count/early_microbes_count_filter_0.001_0.1.txt")
+original_early_gene <- load_data("./CRC data/input/groupData1104/pro_Early_stage.tsv")
+original_early_gene <- subset(original_early_gene,select = -T69)
+early_gene <- original_early_gene[rownames(original_early_gene) %in% early$gene,]
+early_microbe <- original_early_microbe[rownames(original_early_microbe) %in% early$taxa,]
+
+early_data <- rbind(early_gene,early_microbe)
+early_data <- t(early_data)
+
+cor_early <- cor(early_data,method = "spearman")
+subset_cor_early <- cor_early[344:372,1:343]
+subset_cor_early <- t(subset_cor_early)
+
+Heatmap(subset_cor_early,
+        column_title = "Early group",
+        name = "Correlation",
+        show_row_names = FALSE,show_column_names = FALSE,
+        cluster_column_slices = FALSE,
+        show_row_dend = FALSE,show_column_dend = FALSE)
+
+###########advanced group#######
+advanced <- read.table("./CRC data/output/Lasso/count_4kingdom_microbes_filter/advanced/combined_output_MHT_stabsel_FDR_0.1.txt",
+                    header = T,row.names = 1)
+length(unique(advanced$gene))#400
+length(unique(advanced$taxa))#52
+taxa <- unique(advanced$taxa)
+
+Bacteria_number(taxa)#26
+Fungi_number(taxa)
+Archaea_number(taxa)
+Viruses_number(taxa)
+
+original_advanced_microbe <- load_data("./CRC data/input/count/advanced_microbes_count_filter_0.001_0.1.txt")
+original_advanced_gene <- load_data("./CRC data/input/groupData1104/pro_Advanced_stage.tsv")
+advanced_gene <- original_advanced_gene[rownames(original_advanced_gene) %in% advanced$gene,]
+advanced_microbe <- original_advanced_microbe[rownames(original_advanced_microbe) %in% advanced$taxa,]
+
+advanced_data <- rbind(advanced_gene,advanced_microbe)
+advanced_data <- t(advanced_data)
+
+cor_advanced <- cor(advanced_data,method = "spearman")
+subset_cor_advanced <- cor_advanced[401:452,1:400]
+subset_cor_advanced <- t(subset_cor_advanced)
+
+Heatmap(subset_cor_advanced,
+        column_title = "Advanced group",
+        name = "Correlation",
+        show_row_names = FALSE,show_column_names = FALSE,
+        cluster_column_slices = FALSE,
+        show_row_dend = FALSE,show_column_dend = FALSE)
+
+#6.heatmap_relative_abundance__after_hdi_stab_selection
+rm(list=ls())
+library(dplyr)
+library(pacman)
+library(stringr)
+library(ComplexHeatmap)
+library(circlize)
+setwd("E:/10_R/8_CRC/")
+
+###########functions#######
+load_data <- function(filename){
+  data <- read.table(filename,sep = "\t",header = T,row.names = 1)
+}
+
+Fungi_number <- function(taxa){
+  Fungi <- str_extract(taxa,"Fungi")
+  table(Fungi)
+}
+
+Bacteria_number <- function(taxa){
+  Bacteria <- str_extract(taxa,"Bacteria")
+  table(Bacteria)
+}
+
+Archaea_number <- function(taxa){
+  Archaea <- str_extract(taxa,"Archaea")
+  table(Archaea)
+}
+
+Viruses_number <- function(taxa){
+  Viruses <- str_extract(taxa,"Viruses")
+  table(Viruses)
+}
+
+###########A group#######
+A <- load_data("./CRC data/output/Lasso/count_4kingdom_microbes_filter/A/combined_output_MHT_stabsel_FDR_0.1.txt")
+length(unique(A$gene))#1664
+length(unique(A$taxa))#73
+taxa <- unique(A$taxa)
+
+Bacteria_number(taxa)#44
+Fungi_number(taxa)
+Archaea_number(taxa)
+Viruses_number(taxa)
+
+original_A_microbe <- load_data("./CRC data/input/count/A_microbes_count_filter_0.001_0.1.txt")
+original_A_gene <- load_data("./CRC data/input/groupData1104/pro_A.tsv")
+
+A_gene <- original_A_gene[rownames(original_A_gene) %in% A$gene,]
+A_microbe <- original_A_microbe[rownames(original_A_microbe) %in% A$taxa,]
+
+A_data <- rbind(A_gene,A_microbe)
+A_data <- t(A_data)
+
+cor_A <- cor(A_data,method = "spearman")
+subset_cor_A <- cor_A[1665:1737,1:1664]
+subset_cor_A <- t(subset_cor_A)
+
+labels_row <- "Host genes (n=1664)"
+labels_col <- "Microbes (n=73)"
+
+Heatmap(subset_cor_A,
+        column_title = "A group",
+        name = "Correlation",
+        show_row_names = FALSE,show_column_names = FALSE,
+        cluster_column_slices = FALSE,
+        show_row_dend = FALSE,show_column_dend = FALSE)
+
+###########P group#######
+P <- read.table("./CRC data/output/Lasso/count_4kingdom_microbes_filter/P/combined_output_MHT_stabsel_FDR_0.1.txt",
+                sep = "\t",header = T,row.names = 1)
+length(unique(P$gene))#1869
+length(unique(P$taxa))#56
+taxa <- unique(P$taxa)
+
+Bacteria_number(taxa)#44
+Fungi_number(taxa)
+Archaea_number(taxa)
+Viruses_number(taxa)
+
+original_P_microbe <- load_data("./CRC data/input/count/P_microbes_count_filter_0.001_0.1.txt")
+original_P_gene <- load_data("./CRC data/input/groupData1104/pro_P.tsv")
+
+P_gene <- original_P_gene[rownames(original_P_gene) %in% P$gene,]
+P_microbe <- original_P_microbe[rownames(original_P_microbe) %in% P$taxa,]
+
+P_data <- rbind(P_gene,P_microbe)
+P_data <- t(P_data)
+
+cor_P <- cor(P_data,method = "spearman")
+subset_cor_P <- cor_P[1870:1925,1:1869]
+subset_cor_P <- t(subset_cor_P)
+
+Heatmap(subset_cor_P,
+        column_title = "P group",
+        name = "Correlation",
+        show_row_names = FALSE,show_column_names = FALSE,
+        cluster_column_slices = FALSE,
+        show_row_dend = FALSE,show_column_dend = FALSE)
+
+
+###########T group#######
+T <- read.table("./CRC data/output/Lasso/count_4kingdom_microbes_filter/T/combined_output_MHT_stabsel_FDR_0.1.txt",header = T,row.names = 1)
+length(unique(T$gene))#421
+length(unique(T$taxa))#45
+taxa <- unique(T$taxa)
+
+Bacteria_number(taxa)#33
+Fungi_number(taxa)
+Archaea_number(taxa)
+Viruses_number(taxa)
+
+original_T_microbe <- read.table("./CRC data/input/count/T_microbes_count_filter_0.001_0.1.txt")
+original_T_gene <- read.table("./CRC data/input/groupData1104/pro_T.tsv")
+
+T_gene <- original_T_gene[rownames(original_T_gene) %in% T$gene,]
+T_gene <- subset(T_gene,select = -T69)
+T_microbe <- original_T_microbe[rownames(original_T_microbe) %in% T$taxa,]
+
+T_data <- rbind(T_gene,T_microbe)
+T_data <- t(T_data)
+
+cor_T <- cor(T_data,method = "spearman")
+subset_cor_T <- cor_T[422:466,1:421]
+subset_cor_T <- t(subset_cor_T)
+subset_cor_T <- as.matrix(subset_cor_T)
+
+Heatmap(subset_cor_T,
+        column_title = "T group",
+        name = "Correlation",
+        show_row_names = FALSE,show_column_names = FALSE,
+        cluster_column_slices = FALSE,
+        show_row_dend = FALSE,show_column_dend = FALSE)
+
+###########early group#######
+early <- read.table("./CRC data/output/Lasso/count_4kingdom_microbes_filter/early/combined_output_MHT_stabsel_FDR_0.1.txt",header = T,row.names = 1)
+length(unique(early$gene))#343
+length(unique(early$taxa))#29
+taxa <- unique(early$taxa)
+
+Bacteria_number(taxa)#44
+Fungi_number(taxa)
+Archaea_number(taxa)
+Viruses_number(taxa)
+
+original_early_microbe <- load_data("./CRC data/input/count/early_microbes_count_filter_0.001_0.1.txt")
+original_early_gene <- load_data("./CRC data/input/groupData1104/pro_Early_stage.tsv")
+original_early_gene <- subset(original_early_gene,select = -T69)
+early_gene <- original_early_gene[rownames(original_early_gene) %in% early$gene,]
+early_microbe <- original_early_microbe[rownames(original_early_microbe) %in% early$taxa,]
+
+early_data <- rbind(early_gene,early_microbe)
+early_data <- t(early_data)
+
+cor_early <- cor(early_data,method = "spearman")
+subset_cor_early <- cor_early[344:372,1:343]
+subset_cor_early <- t(subset_cor_early)
+
+Heatmap(subset_cor_early,
+        column_title = "Early group",
+        name = "Correlation",
+        show_row_names = FALSE,show_column_names = FALSE,
+        cluster_column_slices = FALSE,
+        show_row_dend = FALSE,show_column_dend = FALSE)
+
+###########advanced group#######
+advanced <- read.table("./CRC data/output/Lasso/count_4kingdom_microbes_filter/advanced/combined_output_MHT_stabsel_FDR_0.1.txt",
+                    header = T,row.names = 1)
+length(unique(advanced$gene))#400
+length(unique(advanced$taxa))#52
+taxa <- unique(advanced$taxa)
+
+Bacteria_number(taxa)#26
+Fungi_number(taxa)
+Archaea_number(taxa)
+Viruses_number(taxa)
+
+original_advanced_microbe <- load_data("./CRC data/input/count/advanced_microbes_count_filter_0.001_0.1.txt")
+original_advanced_gene <- load_data("./CRC data/input/groupData1104/pro_Advanced_stage.tsv")
+advanced_gene <- original_advanced_gene[rownames(original_advanced_gene) %in% advanced$gene,]
+advanced_microbe <- original_advanced_microbe[rownames(original_advanced_microbe) %in% advanced$taxa,]
+
+advanced_data <- rbind(advanced_gene,advanced_microbe)
+advanced_data <- t(advanced_data)
+
+cor_advanced <- cor(advanced_data,method = "spearman")
+subset_cor_advanced <- cor_advanced[401:452,1:400]
+subset_cor_advanced <- t(subset_cor_advanced)
+
+Heatmap(subset_cor_advanced,
+        column_title = "Advanced group",
+        name = "Correlation",
+        show_row_names = FALSE,show_column_names = FALSE,
+        cluster_column_slices = FALSE,
+        show_row_dend = FALSE,show_column_dend = FALSE)
+        
+#2.plot_CRC_enrichment_analysis
+rm(list = ls())
+
+library(ggplot2)
+library(RColorBrewer)
+library(patchwork)
+setwd("E:/10_R/8_CRC/CRC data/output")
+# 查看颜色的十六进制
+brewer.pal(n = 5, name = "Dark2")
+display.brewer.pal(n=9, name = 'Dark2') 
+
+##############---------------APT----------##########
+data <- read.table("../output/SparseCCA/gene_taxa20230110/APT_shared_specific_data.txt",sep = "\t",header = TRUE)
+data$Term <- factor(data$Term,levels = c("rrna processing in the nucleus and cytosol",
+                                         "hiv life cycle",
+                                         "dna replication",
+                                         "intracellular protein transport",
+                                         "apoptotic process",
+                                         
+                                         "z disc",
+                                         "glutamatergic synapse",
+                                         "ficolin-1-rich granule lumen",
+                                         "cytokine signaling in immune system",
+                                         "apical plasma membrane",
+                                         
+                                         "blood microparticle",
+                                         "metal ion binding",
+                                         "dna binding",
+                                         "cellular responses to external stimuli",
+                                         "vesicle-mediated transport",
+                                         
+                                         "atp binding",
+                                         "proteolysis",
+                                         "asparagine n-linked glycosylation",
+                                         "focal adhesion",
+                                         "collagen-containing extracellular matrix",
+                                         
+                                         "identical protein binding",
+                                         "translation",
+                                         "axon guidance",
+                                         "signaling by interleukins",
+                                         "metabolism of amino acids and derivatives",
+                                         
+                                         "infectious disease",
+                                         "rrna processing",
+                                         "hiv infection",
+                                         "gtpase activity",
+                                         "mitochondrial inner membrane",
+                                         
+                                         "metabolism of proteins",
+                                         "metabolic pathways",
+                                         "extracellular exosome"))
+data$group <- factor(data$group,
+                     levels = c("A P T","A P","P T","A T","T","P","A"))
+p <- ggplot(data,aes(x=Group,y=Term))+
+  geom_point(aes(size=-log10(CorrectedP.Value),color=Group))+
+  theme_bw()+theme(panel.grid = element_blank(),panel.border=element_blank())+ 
+  facet_grid(group~.,scales = "free",space = "free",labeller = label_wrap_gen())+
+  scale_color_manual(values = c("#00FFFF","#00FF7F","#FFFF00"))
+ 
+p
+
+##############---------------A early advanced----------##########
+A_early_advanced <- read.table("../output/SparseCCA/gene_taxa20230110/A_early_advanced_shared_specific_data.csv",
+                               sep = ",",header = TRUE)
+A_early_advanced$Group <- factor(A_early_advanced$Group,
+                                 levels = c("A","Early","Advanced"))
+
+A_early_advanced$Term <- factor(A_early_advanced$Term,
+                                levels = c("viral transcription",
+                                           "protein-containing complex",
+                                           "zinc ion binding",
+                                           "respiratory electron transport, atp synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.",
+                                           "extracellular space",
+                                           "heart development",
+                                           "protein heterodimerization activity",
+                                           "mapk signaling pathway",
+                                           "cell surface",
+                                           "positive regulation of transcription, dna-templated",
+                                           "focal adhesion",
+                                           "cellular responses to external stimuli",
+                                           "rna polymerase ii transcription",
+                                           "copi-mediated anterograde transport",
+                                           "azurophil granule lumen",
+                                           
+                                           "vesicle-mediated transport",
+                                           "atp binding",
+                                           "protein processing in endoplasmic reticulum",
+                                           "metal ion binding",
+                                           "mitochondrial translation elongation",
+                                           
+                                           "protein binding",
+                                           "innate immune system",
+                                           "dna replication",
+                                           "regulation of mrna stability by proteins that bind au-rich elements",
+                                           "cap-dependent translation initiation",
+                                           
+                                           "extracellular exosome",
+                                           "oxidation-reduction process",
+                                           "hemostasis",
+                                           "interferon signaling",
+                                           "pip3 activates akt signaling",
+                                           
+                                           "metabolism of proteins",
+                                           "rna binding",
+                                           "metabolic pathways"))
+A_early_advanced$group <- factor(A_early_advanced$group,
+                                 levels = c("A Early Advanced","A Early","Early Advanced","A Advanced","Advanced","Early","A"))
+p1 <- ggplot(A_early_advanced,aes(x=Group,y=Term))+
+  geom_point(aes(size=-log10(CorrectedP.Value),color=Group,fill=Group))+
+  scale_color_manual(values = c("#00FFFF","#FFB5C5","#FF4500"))+
+  facet_grid(group~.,scales = "free",space = "free",labeller = label_wrap_gen())+
+  #facet_wrap(~group,nrow = 7)+
+  theme_bw()+theme(panel.grid = element_blank(),panel.border=element_blank())
+p1
+
+#share/specific
+
+import React from 'react';
+import {Spin} from "antd";
+import {
+  get_file_content, get_args,
+  get_task, get_task_log, jy_tip,
+  compare,
+  getSaveAsImg
+} from "@/pages/utils/request";
+
+import echarts from 'echarts';
+
+let colorsA = {
+  A: "#00FFFF" ,
+  P:"#00FF7F",
+  T: "#FFFF00",
+  early:'#FFB5C5',
+  advanced: '#FF4500'
+};
+
+const getCircleW = (numW, rW, centerX, centerY, namePrefix, rWY)=> {
+  return Array.from({length: numW}, (_, wIndex)=>{
+    let perW = Math.PI * 2 / numW;
+    rWY = rWY || rW;
+    let x3 = centerX + rW * Math.cos(perW * wIndex);
+    let y3 = centerY + rWY * Math.sin(perW * wIndex);
+    return {
+      id: namePrefix+ ': ' + wIndex,
+      name: namePrefix+ ': ' + wIndex,
+      x: x3,
+      y: y3,
+      len: numW,
+      symbolSize: 3,
+      itemStyle: {
+        color: '#eee',
+        // color: 'red',
+      }
+    }
+  });
+};
+const getCircleNodes = (nodes, num4, add, centerX, centerY, formatR, formatNode, addY)=>{
+  // 分成num5圈，第一圈num4个，每圈加6个
+  let num1 = nodes.length;
+  let num5 = Math.ceil(num1 / num4);
+  let nIndex = 0;
+  let nodes2 = [];
+  for(let row = 0; row < num5; row ++){
+    let r3 = formatR(row);
+    // 每圈加add个
+    let num6 = num4 + row * add;
+    let end = Math.min(nIndex + num6, num1);
+    num6 = end - nIndex;
+    let per4 = Math.PI * 2 / num6;
+    let isBreak = false;
+    if(isBreak){
+      break;
+    }
+    for(let col =0; col < num6; col ++){
+      if(nIndex >= num1){
+        isBreak = true;
+        break;
+      }
+      let n = nodes[nIndex];
+      if(formatNode) n = formatNode(n);
+      if(n) {
+        let x3 = centerX + r3 * Math.cos(per4 * nIndex);
+        let y3 = centerY + r3 * Math.sin(per4 * nIndex) + addY;
+        if (num1 === 1) {
+          x3 = centerX;
+          y3 = centerY;
+        }
+        nodes2 = [
+          ...nodes2,
+          {
+            ...n,
+            x: x3,
+            y: y3,
+            len: num1,
+          }
+        ];
+      }
+      nIndex ++;
+    }
+  }
+  return nodes2;
+};
+class Visualization extends React.Component{
+  constructor(props){
+    super(props);
+    let args = get_args();
+    let {taskid, app} = args;
+    let values = {modules: 7, edge_weight: 0.35};
+    let isExp = app === 'exp_data';
+    if(isExp) values = {modules: 7, edge_weight: 0.25};
+    this.state = {
+      isExp,
+      app,
+      task_info: null, content: '', loading: true, taskid, unmarked: [],
+      activateKey: 'data',
+      visible_Database: false,
+      values
+    };
+  }
+  componentWillMount(): void {
+    let {taskid} = this.state;
+    console.log(taskid);
+    if(taskid) this.resultRetrieve(taskid);
+    else this.setState({loading: false});
+  }
+  resultRetrieve = (taskid)=>{
+    if(taskid === 'demo'){
+      let {fileName, coeffSep} = get_args();
+      let height = 900, symbolSize = 5, rx = 130, ry= 130, top = 65, bottom = 40;
+      coeffSep = coeffSep || '_';
+      this.setState({ height, symbolSize, rx, ry, top, bottom}, ()=>{
+        this.getInitDataByFilesName('/data/ZS', fileName, coeffSep);
+      });
+
+    }else {
+      this.setState({loading: true, visible: false});
+      get_task(taskid, (res)=>{
+        let {data} = res;
+        console.log('get_task data', data);
+        if(JSON.stringify(data) === '{}') this.setState({loading: false, task_info: {status: 'unavailable'}});
+        else if(data) {
+          let {out_dir, status, request_data} = data;
+          console.log(status);
+          if(status === 'success') this.getInitDataByFilesName(out_dir, request_data, false);
+          else if(status === -1 || status === 'failed' ){
+            this.setState({loading: false});
+            get_task_log(taskid, (res)=>{
+              let {data} = res;
+              if(data) this.setState({task_log: data});
+            })
+          }
+          else this.resultRetrieve(taskid);
+          this.setState({task_info: data});
+        } else {
+          // clearInterval(timer);
+          this.setState({loading: false});
+          jy_tip(JSON.stringify(res));
+        }
+      });
+    }
+  };
+
+
+  getInitDataByFilesName = (out_dir, func)=>{
+    let {fileName} = get_args();
+    let nodePath = out_dir + '/' + fileName +'.tsv';
+    this.setState({out_dir, nodePath: nodePath, fileName}, ()=>{
+      get_file_content({file_name: nodePath}, (res1)=>{
+        let {data: nodesInit} = res1;
+        this.sortData(nodesInit, func);
+        if(typeof func === 'function') func();
+      });
+    });
+
+  };
+  sortData = (nodesInit) =>{
+    let {name, nameSep, coeffSep} = get_args();
+    name = name || '';
+    nameSep = nameSep || '';
+    let names = name.split(nameSep);
+    let edges = [];
+    nodesInit = nodesInit || [];
+    let legend = [];
+    let categories = [];
+    let nodes2 = [];
+    let keys = [
+      {k: 'taxa', coeffK: 'taxa_coeff', symbol: 'triangle', len: 200},
+      {k: 'protein', coeffK: 'protein_coeff', symbol: 'circle', len: 100},
+    ];
+
+    names.map((name, nIndex)=>{
+      let items = nodesInit.filter(n=>n.group === name);
+      let per1 = Math.PI * 2 / 6;
+      keys.map((kItem, aIndex) =>{
+        let {k, coeffK1, symbol, len} = kItem;
+        let coeffK = k + coeffSep + 'coeff';
+        console.log(coeffK);
+        let items1 = items.filter((item)=>item[k]);
+        let rOutX = 150;
+        let index1 = nIndex * 2 + aIndex;
+        let indexX = index1 === 0? 5: index1 === 1? 4: index1 === 2? 0: index1 === 3? 3: index1 === 4? 1: index1 === 5? 2: index1;
+        let index2 = indexX === 3? 2: indexX === 0? 5: indexX;
+        let centerX = rOutX * Math.cos(per1 * index2);
+        let centerY = rOutX * Math.sin(per1 * indexX);
+        nodes2 = [
+          ...nodes2,
+          ...getCircleW(50, 60, centerX, centerY, 'C' + index1, name === 'T'? 45: 60),
+          ...getCircleNodes(items1, 5, 6, centerX, centerY,
+            (row) => 15 + row * (this.state.symbolSize * 3 + 5),
+            (node, nnIndex)=>{
+              let {[k]: name, [coeffK]: value, group} = node;
+              value = Number(value);
+              return {
+                ...node,
+                id: name + nnIndex + indexX,
+                name,
+                value,
+                symbol,
+                symbolSize: value * 40 + 20,
+                itemStyle: {
+                  color: colorsA[group],
+                },
+                label: {
+                  show: true, formatter: name.substring(0, len), fontSize: 9,
+                  position: 'inside'
+                }
+              }
+            }, 0),
+        ];
+      });
+      // edges = [
+      //   ...edges,
+      // ];
+      categories.sort(compare('name'));
+    });
+
+    let networkInfo = {
+      edges: [
+        ...edges,
+        {
+          source: 'C0: 37',
+          target: 'C1: 38'
+        },
+        {
+          source: 'C0: 13',
+          target: 'C1: 13'
+        },
+        {
+          source: 'C3: 37',
+          target: 'C2: 38'
+        },
+        {
+          source: 'C3: 13',
+          target: 'C2: 13'
+        },
+        {
+          source: 'C5: 37',
+          target: 'C4: 38'
+        },
+        {
+          source: 'C5: 13',
+          target: 'C4: 13'
+        },
+      ],
+      legend, categories, nodes: nodes2,
+      colors: Object.keys(colorsA).map(k=>colorsA[k])
+    };
+    this.setState({networkInfo, loading: false});
+  };
+
+  setRef = (element, func) => {
+    if(element){
+      let myChart = echarts.init(element, null,{renderer: 'svg'});
+      // let myChart = echarts.init(element, null);
+      myChart.clear();
+      if(typeof func === 'function'){
+        let option = func();
+        if(option) myChart.setOption(option);
+      }
+    }
+  };
+
+  getOpt2 = ()=>{
+    let d = [this.getSeries('networkInfo')];
+    if (d.length > 0) {
+      // value3 < 5? 5: value3 <10? 10: value3< 20? 15: 20;
+      let title = this.state.fileName;
+
+      return {
+        title: {
+          text: title
+        },
+        // color: colors,
+        animation: false,
+        tooltip: {
+          formatter: (params)=>{
+            let {dataType, data} = params;
+            return data.name;
+          }
+        },
+        // categories,
+        ...getSaveAsImg(title, 'svg'),
+        series: d
+      };
+    }
+  };
+
+  getSeries = (fileKey)=>{
+    let networkInfo = this.state[fileKey] || {};
+    let {nodes, edges, categories, legend, colors} = networkInfo;
+    nodes = nodes || [];
+    edges = edges || [];
+    if (nodes.length > 0) {
+      // value3 < 5? 5: value3 <10? 10: value3< 20? 15: 20;
+      return {
+        type: 'graph',
+        layout: 'none',
+        animation: false,
+        color: colors,
+        label: {
+          position: 'right',
+          formatter: '{b}',
+          color: '#666',
+          show: false,
+          // fontSize: '28px'
+        },
+        draggable: true,
+        nodes,
+        edges,
+        categories,
+        zoom: 1,
+      }
+    }
+    return false
+  };
+
+  render(){
+    let {height} = this.state;
+    let picStyle = {
+      width: '80%', height: height + 'px', margin: '0px auto', marginTop: '20px',
+      // border: '1px solid red'
+    };
+    return <div>
+      {
+        this.state.loading? <div style={{textAlign: 'center'}}>
+          <Spin spinning={this.state.loading}/>
+        </div>: <div>
+          <div ref={(e)=>this.setRef(e, this.getOpt2)} style={picStyle}>
+          </div>
+        </div>
+      }
+    </div>
+  }
+}
+export default Visualization;
+
+
+
+

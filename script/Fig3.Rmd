@@ -1,0 +1,1257 @@
+---
+title: "Fig3"
+output: html_document
+date: "2025-10-01"
+---
+#heatmap
+inf1="热图绘图输入文件pheat_input_lefse6.txt"
+inf2="anno.txt"
+
+library(pheatmap)
+data=read.table(inf1,sep="\t",quote="",header=T,stringsAsFactors=F,check.names=F,row.names=1)
+group=read.table(inf2,sep="\t",quote="",header=T,stringsAsFactors=F,check.names=F,row.names=1)
+group=group[colnames(data),]
+ann_color=list(group=c(A="#00FFFF",P="#00FF7F",T="#FFFF00"),cluster=c("C1"="#E199FF","C2"="#00DAE0","C3"="#96CA00","C4"="#E4A93E"))
+aa<-pheatmap(as.matrix(data),annotation_col=group,cluster_rows=F,cluster_cols=F,treeheight_col=50,,fontsize_row=8,fontsize_col=3,border=FALSE,color=colorRampPalette(c("#262C54", "#84B5DC","#77B552","#F1E244","#CF4134"))(100),annotation_colors = ann_color)
+aa
+
+
+#热图fg3cd
+library(pheatmap)
+inf1="output_cor_P.tsv"
+inf2="output_cor_T.tsv"
+inf3="group_PT_taxon.tsv"
+data1=read.table(inf1,sep="\t",quote="",header=T,stringsAsFactors=F,check.names=F,row.names=1)
+data2=read.table(inf2,sep="\t",quote="",header=T,stringsAsFactors=F,check.names=F,row.names=1)
+d1=data1[rownames(data1) %in% rownames(data2),colnames(data1) %in% colnames(data2)]
+d2=data2[rownames(d1),colnames(d1)]
+d1=t(d1)
+d2=t(d2)
+#计算差异矩阵
+diff_matrix<-abs(d1-d2)
+#获取各类物种对应的差异矩阵
+group=read.table(inf3,sep="\t",quote="",header=T,stringsAsFactors=F,check.names=F)
+group_original=group
+dm_bac<-diff_matrix[rownames(diff_matrix) %in% group[group[,"Kingdom"]=="Bacteria","taxon"],]
+#按差异大小排序取前N个bac
+top_n <- 50  # 取差异最大的50个
+sorted_diff <- sort(dm_bac, decreasing=TRUE)
+top_indices <- which(dm_bac >= sorted_diff[top_n], arr.ind=TRUE)
+top_results_bac <- data.frame(
+  Species = rownames(dm_bac)[top_indices[,1]],
+  Pathway = colnames(dm_bac)[top_indices[,2]],
+  Condition1 = d1[top_indices],
+  Condition2 = d2[top_indices],
+  Difference = dm_bac[top_indices]
+)
+dm_arc<-diff_matrix[rownames(diff_matrix) %in% group[group[,"Kingdom"]=="Archaea","taxon"],]
+#按差异大小排序取前N个arc
+top_n <- 10  # 取差异最大的10个
+sorted_diff <- sort(dm_arc, decreasing=TRUE)
+top_indices <- which(dm_arc >= sorted_diff[top_n], arr.ind=TRUE)
+top_results_arc <- data.frame(
+  Species = rownames(dm_arc)[top_indices[,1]],
+  Pathway = colnames(dm_arc)[top_indices[,2]],
+  Condition1 = d1[top_indices],
+  Condition2 = d2[top_indices],
+  Difference = dm_arc[top_indices]
+)
+
+dm_fungi<-diff_matrix[rownames(diff_matrix) %in% group[group[,"Kingdom"]=="Fungi","taxon"],]
+#按差异大小排序取前N个Fungi
+top_n <- 10  # 取差异最大的10个
+sorted_diff <- sort(dm_fungi, decreasing=TRUE)
+top_indices <- which(dm_fungi >= sorted_diff[top_n], arr.ind=TRUE)
+top_results_fungi <- data.frame(
+  Species = rownames(dm_fungi)[top_indices[,1]],
+  Pathway = colnames(dm_fungi)[top_indices[,2]],
+  Condition1 = d1[top_indices],
+  Condition2 = d2[top_indices],
+  Difference = dm_fungi[top_indices]
+)
+dm_virus<-diff_matrix[rownames(diff_matrix) %in% group[group[,"Kingdom"]=="Viruses","taxon"],]
+#按差异大小排序取前N个virus
+top_n <- 10  # 取差异最大的10个
+sorted_diff <- sort(dm_virus, decreasing=TRUE)
+top_indices <- which(dm_virus >= sorted_diff[top_n], arr.ind=TRUE)
+top_results_virus <- data.frame(
+  Species = rownames(dm_virus)[top_indices[,1]],
+  Pathway = colnames(dm_virus)[top_indices[,2]],
+  Condition1 = d1[top_indices],
+  Condition2 = d2[top_indices],
+  Difference = dm_virus[top_indices]
+)
+
+top_results<-rbind(top_results_bac,top_results_fungi,top_results_arc,top_results_virus)
+
+#对这些top相关系数对应的所有物种和通路的相关系数进行展示
+#获取top条目所包含物种、通路在两个原始矩阵中的子集矩阵
+dr1=as.data.frame(d1)[unique(top_results[,"Species"]),unique(top_results[,"Pathway"])]
+dr2=as.data.frame(d2)[unique(top_results[,"Species"]),unique(top_results[,"Pathway"])]
+
+data=as.matrix(dr2)
+group=group_original
+
+rownames(group)=group[,1]
+group=group[rownames(data),]
+group$Kingdom<-factor(group$Kingdom,levels = c("Bacteria","Fungi","Archaea","Viruses"))
+group=group[order(group$Kingdom),]
+group1=as.data.frame(group[,-1])
+rownames(group1)=rownames(group)
+group=group1
+colnames(group)="Kingdom"
+
+data1=data[rownames(group),]
+data2=data1
+
+data1[is.na(data1)]<-0
+bk <- unique(c(seq(-1,1, length=100)))
+ann_color=list(Kingdom=c(Bacteria="#3468BB",Fungi="#FFCE19",Archaea="#4AB312",Viruses="#FE0200"))#控制注释条的颜色和顺序
+aa<-pheatmap(as.matrix(data1),annotation_row=group,breaks=bk,clustering_method="ward.D2",color=colorRampPalette(c("#010108","#1D1048","#4F137B","#812381","#B3357A","#E65263","#FD8A62","#FDC78B","#FBFBBC"))(100),cluster_rows=F,cluster_cols=T,treeheight_col=50,fontsize_row=8,fontsize_col=8,border=FALSE,scale = "none",annotation_colors = ann_color)
+order_col<-aa$tree_col$order
+sampleName<-colnames(data1)
+sampleOrder<-as.data.frame(sampleName[order_col])
+data_order=t(data1[,sampleOrder[,1]])
+write.table(t(data_order),"outf_order_col_T.tsv",sep = "\t",quote=F,row.names=T,col.names=NA)
+#然后利用上述列聚类顺序，对dr1的数据进行排序，并进行热图展示，以用于两组的对比
+dr1=dr1[,sampleOrder[,1]]
+data=as.matrix(dr1)
+group=group_original
+
+rownames(group)=group[,1]
+group=group[rownames(data),]
+group$Kingdom<-factor(group$Kingdom,levels = c("Bacteria","Fungi","Archaea","Viruses"))
+group=group[order(group$Kingdom),]
+group1=as.data.frame(group[,-1])
+rownames(group1)=rownames(group)
+group=group1
+colnames(group)="Kingdom"
+
+data1=data[rownames(group),]
+data2=data1
+
+data1[is.na(data1)]<-0
+
+bk <- unique(c(seq(-1,1, length.out=100)))
+ann_color=list(Kingdom=c(Bacteria="#3468BB",Fungi="#FFCE19",Archaea="#4AB312",Viruses="#FE0200"))#控制注释条的颜色和顺序
+aa<-pheatmap(as.matrix(data),legend_breaks=c(-0.8,-0.4,0,0.4,0.8),annotation_row=group,breaks=bk,clustering_method="ward.D2",color=colorRampPalette(c("#010108","#1D1048","#4F137B","#812381","#B3357A","#E65263","#FD8A62","#FDC78B","#FBFBBC"))(100),cluster_rows=F,cluster_cols=F,treeheight_col=50,fontsize_row=8,fontsize_col=8,border=FALSE,annotation_colors = ann_color)
+write.table(data,"outf_order_col_P.tsv",sep = "\t",quote=F,row.names=T,col.names=NA)
+
+##genus/species_interaction
+
+import React from 'react';
+import { Spin, Row, Col} from "antd";
+import {
+  get_file_content, get_args,
+  compare,
+  getSaveAsImg, down_file
+} from "@/pages/utils/request";
+import {formatEdges, getTextOpt} from './lineColor';
+import echarts from 'echarts';
+
+let names = [
+  '_Advanced',
+  // '_Early',
+  // 'TC',
+  // 'AC', 'PC'
+];
+
+const getXY = (centerX, centerY, r, per, index)=>{
+  return {
+    x: centerX + r * Math.cos(per * index),
+    y: centerY + r * Math.sin(per * index),
+  }
+};
+const getCenter = (name, centerX, centerY, num, color, symbolSize)=>{
+  return {
+    id: name,
+    name: name,
+    x: centerX,
+    y: centerY,
+    len: num,
+    itemStyle: { color},
+    symbolSize,
+    label: {}
+    // category: '除数越小，表示这类的点越少，越靠近中心',
+  }
+};
+class Visualization extends React.Component{
+  constructor(props){
+    super(props);
+    let args = get_args();
+    let {taskid,} = args;
+    this.state = {
+      task_info: null, content: '', loading: true,
+      taskid,
+    };
+  }
+  componentWillMount(): void {
+    let {taskid} = this.state;
+    console.log(taskid);
+    if(taskid) this.resultRetrieve(taskid);
+    else this.setState({loading: false});
+  }
+
+  resultRetrieve = (taskid)=>{
+    if(taskid === 'demo'){
+      let {k, p} = get_args();
+      let inner = (i)=>{
+        let name = names[i];
+        if(name){
+          let fileKey = k + name;
+          let dir = k ? ('/' + k + '_Level'): '';
+          this.getInitDataByFilesName('/data/ZS/new_0625' + dir, fileKey, ()=>{
+            inner(i+1);
+          })
+
+        }else {
+          return;
+        }
+      };
+      let height = 600, span = 16, symbolSize = 5, rx = 130, ry= 130, top = 65, bottom = 40;
+      if(k === 'G'){
+        height = 1000;
+        span = 24;
+        symbolSize = 8;
+        rx = 140;
+        ry = 140;
+        top = 200;
+        bottom = 300;
+      }
+      this.setState({k, height, span, symbolSize, rx, ry, top, bottom, p}, ()=>{
+        inner(0);
+      });
+
+    }
+  };
+
+  getInitDataByFilesName = (out_dir, fileKey, func)=>{
+    let nodePath = out_dir + '/' + fileKey + '_nodes.tsv';
+    let edgePath = out_dir + '/' + fileKey + '_edges.tsv';
+    this.setState({out_dir, nodePath: nodePath, fileKey}, ()=>{
+      get_file_content({file_name: nodePath}, (res1)=>{
+        let {data: nodesInit} = res1;
+        nodesInit = nodesInit || [];
+        get_file_content({file_name: edgePath}, (res)=>{
+          let {data: edges} = res;
+          edges = edges || [];
+          this.sortData(nodesInit, edges, fileKey);
+          if(func) func();
+        });
+      });
+    });
+
+  };
+  sortData = (nodesInit, edges, fileKey) =>{
+    let {k} = this.state;
+    let isG = k === 'G';
+    edges = edges || [];
+    nodesInit = nodesInit || [];
+    let legend = [];
+    let categories = [];
+    console.log(nodesInit.length, edges.length);
+    let colors = [
+      '#F38181',
+      '#FE7A00',
+      '#00A6A0',
+      '#FCE38A',
+      '#95E1D3',
+      // '#91C7AE',
+      '#819C5C',
+      '#FFA5A5',
+      '#E9904E',
+      '#80D6FF',
+      '#93B1C6',
+      '#878ECD',
+      '#586B8F',
+      '#F06868',
+      '#6EB6FF',
+      '#FFED78',
+      '#b64533',
+      '#ad8b3d',
+      '#dea32c',
+      '#d1923f',
+      '#c88400',
+      '#e0861a',
+      '#853f04',
+      '#840228',
+      '#a03939',
+      '#8a2e3b',
+      '#375830',
+      '#27342b',
+      '#65c294',
+      '#005344',
+      '#122e29',
+      '#293047',
+      '#45224a',
+      '#402e4c',
+      '#c77eb5',
+      '#ea66a6',
+      '#00ae9d',
+      '#f15a22',
+      '#fdb933',
+      '#94d6da'
+    ];
+    nodesInit = nodesInit.map((node, index)=>{
+      // let name = node.Node;
+      // let category = node.Type;
+      let {Node: name, Type: category, Mean_counts} = node;
+      if(category !== 'NA' && legend.indexOf(category) === -1){
+        legend = [...legend, category];
+        categories = [
+          ...categories,
+          {
+          name: category,
+            itemStyle: {
+            color: colors[legend.indexOf(category)]
+          }
+        }];
+      }
+      Mean_counts = Number(Mean_counts);
+      node = {
+        ...node, id: name, category, nameInit: name,
+        name: name,
+        value: Mean_counts,
+        // symbolSize: Mean_counts/5
+      };
+      return node
+    });
+
+    edges = formatEdges(edges);
+
+    let nodes2 = [];
+    let aaas = [];
+    let num1s = [];
+    let nodes111 = [];
+    let legends2 = legend.map((l, lIndex)=>{
+      let nodes1 = nodesInit.filter(n => n.category === l);
+      let num1 = nodes1.length;
+      if(num1 === 1) nodes111 = [...nodes111, ...nodes1];
+      else{ }
+      let aaa = Math.floor(num1/5);
+      if(aaas.indexOf(aaa) === -1) aaas = [...aaas, aaa];
+      console.log(lIndex, '===');
+      return {
+        type: '========',
+        color: colors[lIndex],
+        legend: l,
+        nodes: nodes1,
+        len: num1,
+        aaa
+      }
+    });
+    // legends2 = legends2.sort((a, b)=> b.len - a.len);
+    aaas.sort((a,b)=>a-b);
+    aaas.reverse();
+    console.log('sss', aaas);
+
+    aaas.map((aaa, aIndex) =>{
+      let legends22 = legends2.filter(l=> l.aaa === aaa);
+      let per = Math.PI * 2 / aaas.length;
+      // 除数aaa越小，表示这类的点越少，越靠近中心
+      let rOutX = 100 + aaa * 25;
+      let centerX = rOutX * Math.cos(per * aIndex);
+      let centerY = rOutX * Math.sin(per * aIndex);
+      let name = aIndex + '\n除数: ' + aaa + '\n半径: ' +rOutX;
+      // nodes2 = [
+      //   ...nodes2,
+      //   getCenter(name, centerX, centerY, legends22.length, 'green', 10)
+      // ];
+      //相同除数的类别数numA
+      let numA = legends22.length;
+      let perA = Math.PI * 2 / numA;
+      // 相同除数的，类别numA越多，中心越远
+      let bA = 30, kA1 = 2, kA2 = 32;
+      if(isG){
+        kA1 = 6;
+        kA2 = 8;
+        bA = 50;
+      }
+      let rA = bA + kA1 * aaa + kA2 * numA;
+
+      legends22.map((lItem, lIndex)=>{
+        let { legend: l, nodes: nodes1, color} = lItem;
+        // 除数一样的点的center
+        let num1 = nodes1.length;
+        if(num1 === -1){
+          centerX = 700;
+          centerY = -300;
+          rA = 200;
+        } else {
+          if(true){
+            if(num1 === 1){
+              centerX = 1100;
+              centerY = -400;
+              rA = 100;
+            }
+            else if(aaa === 0){
+              centerX = 900;
+              centerY = -800;
+              rA += 70;
+            } else if(aaa === 1){
+              centerX = 300;
+              centerY = -800;
+            } else if (aaa === 2){
+              centerX = -100;
+              centerY = -600;
+            } else if (aaa === 5){
+              centerX = -100;
+              centerY = -200;
+              console.log(num1, 'xxx');
+            } else if (aaa === 12){
+              centerX = -200;
+              centerY = 100;
+            } else if (aaa === 17){
+              centerX = 200;
+              centerY = 500;
+            }
+            if(!isG){
+              if(num1 === 1){
+                centerX = 600;
+                centerY = -350;
+              }
+              else if(aaa === 0){
+                centerY = -400;
+                centerX = 400;
+                rA -= 70;
+              }
+              else if(aaa === 1){
+                centerY = -300;
+                centerX = 0;
+              }
+              else if(aaa === 2){
+                centerY = -100
+              }
+              else if (aaa === 19){
+                centerY -= 70;
+              }
+              else if (aaa === 26){
+                centerX = 700;
+                // centerY = 500;
+              }
+            }
+          }
+          let centerX2 = centerX + rA * Math.cos(perA * lIndex);
+          let centerY2 = centerY + rA * Math.sin(perA * lIndex);
+          let nameA = name +'\n' + lIndex + '\n相同除数的类别数: ' + numA;
+          if(numA === 1){
+            centerX2 = centerX;
+            centerY2 = centerY;
+          }
+
+          // category: '除数越小，表示这类的点越少，越靠近中心',
+          // nodes2 = [
+          //   ...nodes2,
+          //   getCenter(nameA, centerX2, centerY2, numA, 'pink', 5)
+          // ];
+
+          // 分成num5圈，每圈num4个，半径一样
+          let num4 = 12;
+          let num5 = Math.ceil(num1 / num4);
+          let nIndex = 0;
+          for(let row =0; row < num5; row ++){
+            let r3 = 30 + row * (this.state.symbolSize * 2 + 15);
+            // 每圈加四个
+            if(aaa === 2){
+              r3 += 10;
+            }
+            let num6 = num4 + row * 4;
+            let end = Math.min(nIndex + num6, num1);
+            num6 = end - nIndex;
+            let per4 = Math.PI * 2 / num6;
+            let isBreak = false;
+            if(isBreak){
+              break;
+            }
+            for(let col =0; col < num6; col ++){
+              if(nIndex >= num1){
+                isBreak = true;
+                break;
+              }
+              let n = nodes1[nIndex];
+              if(n) {
+                let itemStyle = {};
+                if (n.value === 0.001) {
+                  // 空心
+                  itemStyle = {
+                    color: 'white',
+                    borderColor: color,
+                    borderWidth: 1
+                  }
+                }
+                let x3 = centerX2 + r3 * Math.cos(per4 * nIndex);
+                let y3 = centerY2 + r3 * Math.sin(per4 * nIndex);
+                if (num1 === 1) {
+                  x3 = centerX2;
+                  y3 = centerY2;
+                }
+                nodes2 = [
+                  ...nodes2,
+                  {
+                    ...n,
+                    x: x3,
+                    y: y3,
+                    len: num1,
+                    itemStyle
+                  }
+                ];
+              }
+              nIndex ++;
+            }
+          }
+        }
+
+
+      });
+    });
+    let nodes3 = [];
+    nodes2.map(node => {
+      if(nodes3.findIndex(n => n.id === node.id) === -1){
+        nodes3 = [...nodes3, node];
+      }
+    });
+    categories.sort(compare('name'));
+    console.log('====', nodesInit.length, legend.length, nodes3.length, categories);
+    let networkInfo = {edges, legend, categories, nodes: nodes3, colors};
+    this.setState({[fileKey]: networkInfo, loading: false});
+
+  };
+  setRef = (element, fileKey, func) => {
+    let networkInfo = this.state[fileKey];
+    networkInfo = networkInfo || {};
+    if(element){
+      let myChart = echarts.init(element, null,{renderer: 'svg'});
+      // let myChart = echarts.init(element, null);
+      myChart.clear();
+      let option = func(fileKey, networkInfo);
+      if(option) myChart.setOption(option);
+    }
+  };
+
+  getOpt1 = (fileKey, networkInfo)=>{
+    console.log(this.state);
+    let {k, top, bottom} = this.state;
+    let {nodes, edges, categories, legend, colors} = networkInfo;
+    nodes = nodes || [];
+    edges = edges || [];
+    console.log(nodes, edges);
+    if (nodes.length > 0 && edges.length > 0) {
+      // value3 < 5? 5: value3 <10? 10: value3< 20? 15: 20;
+
+      return {
+        title: {
+          text: fileKey
+        },
+        color: colors,
+        animation: false,
+        ...getTextOpt(bottom),
+        legend: {
+          data: categories,
+          orient: 'vertical',  //垂直显示
+          y: top,    //延Y轴居中
+          x: 'left', //居左显示
+          show: true,
+          itemWidth: 20,
+          itemHeight: 10,
+          itemGap: 5,
+          textStyle: {
+            fontSize: 9
+          }
+        },
+
+        tooltip: {
+          formatter: (params)=>{
+            let {dataType, data} = params;
+            if(dataType === 'edge') {
+              // console.log(data.cor_value, data.lineStyle.width, data, params);
+              return data.node1 + '->' + data.node2 + ' COR: ' + data.cor_value;
+            }
+            if(dataType === 'node'){
+              return data.category + ": " + data.len + ' \n' + data.name + ': ' + data.value;
+            }
+            return data.name;
+          }
+        },
+        categories,
+        ...getSaveAsImg(fileKey, 'svg'),
+        series: [
+          {
+            type: 'graph',
+            layout: 'none',
+            animation: false,
+
+            label: {
+              position: 'right',
+              formatter: '{b}',
+              color: '#666',
+              show: false,
+              // fontSize: '28px'
+            },
+            draggable: true,
+            nodes,
+            edges,
+            symbolSize: this.state.symbolSize,
+            categories,
+            zoom: 1,
+          },
+        ]
+      };
+    }
+  };
+  download = ()=>{
+    let system_conf = window.system_conf || {};
+    let {out_dir, fileKey} = this.state;
+    down_file({file_path: out_dir + '/' +system_conf[fileKey]});
+  };
+  render(){
+    let {k, height, span} = this.state;
+    let picStyle = {
+      width: '100%', height: height + 'px', margin: '0px auto', marginTop: '20px',
+      border: '1px solid red'
+    };
+    return <div>
+      {
+        this.state.loading? <div style={{textAlign: 'center'}}>
+          <Spin spinning={this.state.loading}/>
+        </div>: <div>
+          <Row>
+            {
+              names.map(name=>{
+                let fileKey = k + name;
+                return <Col span={span}>
+                  <div ref={(e)=>this.setRef(e, fileKey, this.getOpt1)} style={picStyle}>
+                  </div>
+                </Col>
+              })
+            }
+          </Row>
+
+        </div>
+      }
+    </div>
+  }
+}
+export default Visualization;
+
+#Ascomycota
+
+import React from 'react';
+import { Spin, Row, Col} from "antd";
+import {
+  get_file_content, get_args,
+  getSaveAsImg, down_file, compare,
+} from "@/pages/utils/request";
+import {formatEdges, getTextOpt} from './lineColor';
+
+import echarts from 'echarts';
+
+let names = [
+  '_Advanced',
+  '_Early',
+  'TC',
+  'AC', 'PC'
+];
+
+let filePostfix = 'Ascomycota';
+// 从circleTest获取
+let categoriesAll = [
+  {
+    "name": "Fungi|Ascomycota",
+    "itemStyle": {
+      "color": "#586B8F"
+    }
+  },
+  {
+    "name": "Archaea|Candidatus Thermoplasmatota",
+    "itemStyle": {
+      "color": "#F06868"
+    }
+  },
+  {
+    "name": "Archaea|Crenarchaeota",
+    "itemStyle": {
+      "color": "#00A6A0"
+    }
+  },
+  {
+    "name": "Archaea|Euryarchaeota",
+    "itemStyle": {
+      "color": "#ad8b3d"
+    }
+  },
+  {
+    "name": "Archaea|Thaumarchaeota",
+    "itemStyle": {
+      "color": "#E9904E"
+    }
+  },
+  {
+    "name": "Bacteria|Acidobacteria",
+    "itemStyle": {
+      "color": "#b64533"
+    }
+  },
+  {
+    "name": "Bacteria|Actinobacteria",
+    "itemStyle": {
+      "color": "#FCE38A"
+    }
+  },
+  {
+    "name": "Bacteria|Aquificae",
+    "itemStyle": {
+      "color": "#dea32c"
+    }
+  },
+  {
+    "name": "Bacteria|Bacteroidetes",
+    "itemStyle": {
+      "color": "#95E1D3"
+    }
+  },
+  {
+    "name": "Bacteria|Candidatus Saccharibacteria",
+    "itemStyle": {
+      "color": "#375830"
+    }
+  },
+  {
+    "name": "Bacteria|Chloroflexi",
+    "itemStyle": {
+      "color": "#853f04"
+    }
+  },
+  {
+    "name": "Bacteria|Cyanobacteria",
+    "itemStyle": {
+      "color": "#F38181"
+    }
+  },
+  {
+    "name": "Bacteria|Deinococcus-Thermus",
+    "itemStyle": {
+      "color": "#93B1C6"
+    }
+  },
+  {
+    "name": "Bacteria|Firmicutes",
+    "itemStyle": {
+      "color": "#819C5C"
+    }
+  },
+  {
+    "name": "Bacteria|Fusobacteria",
+    "itemStyle": {
+      "color": "#27342b"
+    }
+  },
+  {
+    "name": "Bacteria|Ignavibacteriae",
+    "itemStyle": {
+      "color": "#65c294"
+    }
+  },
+  {
+    "name": "Bacteria|NA",
+    "itemStyle": {
+      "color": "#8a2e3b"
+    }
+  },
+  {
+    "name": "Bacteria|Nitrospirae",
+    "itemStyle": {
+      "color": "#c88400"
+    }
+  },
+  {
+    "name": "Bacteria|Planctomycetes",
+    "itemStyle": {
+      "color": "#FFED78"
+    }
+  },
+  {
+    "name": "Bacteria|Proteobacteria",
+    "itemStyle": {
+      "color": "#FE7A00"
+    }
+  },
+  {
+    "name": "Bacteria|Spirochaetes",
+    "itemStyle": {
+      "color": "#d1923f"
+    }
+  },
+  {
+    "name": "Bacteria|Synergistetes",
+    "itemStyle": {
+      "color": "#005344"
+    }
+  },
+  {
+    "name": "Bacteria|Tenericutes",
+    "itemStyle": {
+      "color": "#e0861a"
+    }
+  },
+  {
+    "name": "Bacteria|Thermodesulfobacteria",
+    "itemStyle": {
+      "color": "#122e29"
+    }
+  },
+  {
+    "name": "Bacteria|Thermotogae",
+    "itemStyle": {
+      "color": "#6EB6FF"
+    }
+  },
+  {
+    "name": "Bacteria|Verrucomicrobia",
+    "itemStyle": {
+      "color": "#293047"
+    }
+  },
+
+  {
+    "name": "Fungi|Basidiomycota",
+    "itemStyle": {
+      "color": "#80D6FF"
+    }
+  },
+  {
+    "name": "Viruses|Artverviricota",
+    "itemStyle": {
+      "color": "#ea66a6"
+    }
+  },
+  {
+    "name": "Viruses|Cossaviricota",
+    "itemStyle": {
+      "color": "#00ae9d"
+    }
+  },
+  {
+    "name": "Viruses|Cressdnaviricota",
+    "itemStyle": {
+      "color": "#f15a22"
+    }
+  },
+  {
+    "name": "Viruses|Kitrinoviricota",
+    "itemStyle": {
+      "color": "#402e4c"
+    }
+  },
+  {
+    "name": "Viruses|NA",
+    "itemStyle": {
+      "color": "#45224a"
+    }
+  },
+  {
+    "name": "Viruses|Negarnaviricota",
+    "itemStyle": {
+      "color": "#878ECD"
+    }
+  },
+  {
+    "name": "Viruses|Nucleocytoviricota",
+    "itemStyle": {
+      "color": "#FFA5A5"
+    }
+  },
+  {
+    "name": "Viruses|Peploviricota",
+    "itemStyle": {
+      "color": "#840228"
+    }
+  },
+  {
+    "name": "Viruses|Pisuviricota",
+    "itemStyle": {
+      "color": "#c77eb5"
+    }
+  },
+  {
+    "name": "Viruses|Saleviricota",
+    "itemStyle": {
+      "color": "#fdb933"
+    }
+  },
+  {
+    "name": "Viruses|Taleaviricota",
+    "itemStyle": {
+      "color": "#94d6da"
+    }
+  },
+  {
+    "name": "Viruses|Uroviricota",
+    "itemStyle": {
+      "color": "#a03939"
+    }
+  }
+];
+class Visualization extends React.Component{
+  constructor(props){
+    super(props);
+    this.state = {
+
+    };
+  }
+  componentWillMount(): void {
+    let {taskid} = this.state;
+    console.log(taskid);
+    this.resultRetrieve(taskid);
+  }
+
+  resultRetrieve = ()=>{
+    let {k, p} = get_args();
+    let inner = (i)=>{
+      let name = names[i];
+      if(name){
+        let fileKey = k + name;
+        let dir = k ? ('/' + k + '_Level'): '';
+        this.getInitDataByFilesName('/data/ZS/Ascomycota' + dir, fileKey, ()=>{
+          inner(i+1);
+        })
+
+      }else {
+        return;
+      }
+    };
+    let height = 500, span = 12, top = 65, bottom = 40;
+    this.setState({k, height, span, top, bottom, p}, ()=>{
+      inner(0);
+    });
+  };
+
+  getInitDataByFilesName = (out_dir, fileKey, func)=>{
+    let nodePath = out_dir + '/' + fileKey + '_nodes_' + filePostfix + '.csv';
+    let edgePath = out_dir + '/' + fileKey + '_edges_' + filePostfix + '.csv';
+    this.setState({out_dir, nodePath: nodePath, fileKey}, ()=>{
+      get_file_content({file_name: nodePath}, (res1)=>{
+        let {data: nodesInit} = res1;
+        nodesInit = nodesInit || [];
+        get_file_content({file_name: edgePath}, (res)=>{
+          let {data: edges} = res;
+          edges = edges || [];
+          this.sortData(nodesInit, edges, fileKey);
+          if(func) func();
+        });
+      });
+    });
+
+  };
+  sortData = (nodesInit, edges, fileKey) =>{
+    let {k} = this.state;
+    edges = edges || [];
+    nodesInit = nodesInit || [];
+    let legend = [];
+    let categories = [];
+    console.log(nodesInit.length, edges.length);
+    nodesInit.sort(compare('Type'));
+    nodesInit = nodesInit.map((node)=>{
+      // let name = node.Node;
+      // let category = node.Type;
+      let {Node: name, Type: category, Mean_counts} = node;
+      if(category !== 'NA' && legend.indexOf(category) === -1){
+        legend = [...legend, category];
+        categories = [
+          ...categories,
+          {
+            name: category,
+          }];
+      }
+      let isFung = category === 'Fungi|Ascomycota';
+      let size = 12;
+      Mean_counts = Number(Mean_counts);
+      let cItem = categoriesAll.find(c=>c.name === category);
+      let {color} = cItem.itemStyle;
+      let itemStyle = {};
+
+
+      if(isFung) {
+        size = 15;
+        itemStyle = {...itemStyle, border: 2, borderColor: '#eee', shadowColor: color, shadowBlur: 5};
+      }
+      if (Mean_counts === 0.001) {
+        // 空心
+        itemStyle = {
+          color: 'white',
+          borderColor: color,
+          borderWidth: 1
+        }
+      }
+
+      node = {
+        ...node, id: name, category, nameInit: name,
+        itemStyle,
+        name: name,
+        value: Mean_counts,
+        symbolSize: size
+      };
+      return node
+    });
+
+    edges = formatEdges(edges);
+
+    let nodes3 = [];
+    nodesInit.map(node => {
+      if(nodes3.findIndex(n => n.id === node.id) === -1){
+        nodes3 = [...nodes3, node];
+      }
+    });
+    console.log('====', nodesInit.length, legend.length, nodes3.length, categories);
+    let networkInfo = {edges, legend, categories, nodes: nodes3};
+    this.setState({[fileKey]: networkInfo, loading: false});
+
+  };
+  setRef = (element, fileKey, func) => {
+    let networkInfo = this.state[fileKey];
+    networkInfo = networkInfo || {};
+    if(element){
+      let myChart = echarts.init(element, null,{renderer: 'svg'});
+      // let myChart = echarts.init(element, null);
+      myChart.clear();
+      let option = func(fileKey, networkInfo);
+      if(option) myChart.setOption(option);
+    }
+  };
+
+  getOpt1 = (fileKey, networkInfo)=>{
+    console.log(this.state);
+    let {k, top, bottom} = this.state;
+    let {nodes, edges, categories} = networkInfo;
+    nodes = nodes || [];
+    edges = edges || [];
+    categories = categories || [];
+    console.log(nodes);
+    categories = categories.map(c=>{
+      let {itemStyle} = categoriesAll.find(c1=>c1.name === c.name);
+      return {...c, itemStyle}
+    });
+    if (nodes.length > 0 && edges.length > 0) {
+
+      return {
+        title: {
+          text: fileKey
+        },
+        animation: false,
+        ...getTextOpt(bottom),
+        legend: {
+          data: categories,
+          orient: 'vertical',  //垂直显示
+          y: top,    //延Y轴居中
+          x: 'left', //居左显示
+          show: true,
+          itemWidth: 20,
+          itemHeight: 10,
+          itemGap: 5,
+          textStyle: {
+            fontSize: 9
+          }
+        },
+
+        tooltip: {
+          formatter: (params)=>{
+            let {dataType, data} = params;
+            if(dataType === 'edge') {
+              // console.log(data.cor_value, data.lineStyle.width, data, params);
+              return data.node1 + '->' + data.node2 + ' COR: ' + data.cor_value;
+            }
+            if(dataType === 'node'){
+              return data.category + ": " + data.len + ' \n' + data.name + ': ' + data.value;
+            }
+            return data.name;
+          }
+        },
+        categories,
+        ...getSaveAsImg(fileKey + '_' + filePostfix, 'svg'),
+        series: [
+          {
+            type: 'graph',
+            // layout: 'none',
+            layout: 'circular',
+            animation: false,
+
+            label: {
+              position: 'right',
+              formatter: '{b}',
+              color: '#666',
+              show: false,
+              // fontSize: '28px'
+            },
+            draggable: true,
+            nodes,
+            edges,
+            categories,
+            circular: {
+              rotateLabel: true
+            },
+            lineStyle: {
+              color: 'source',
+              curveness: 0.3
+            },
+            startAngle: 0 // 起始角度
+          },
+        ]
+      };
+    }
+  };
+  download = ()=>{
+    let system_conf = window.system_conf || {};
+    let {out_dir, fileKey} = this.state;
+    down_file({file_path: out_dir + '/' +system_conf[fileKey]});
+  };
+  render(){
+    let {k, height, span} = this.state;
+    let picStyle = {
+      width: '100%', height: height + 'px', margin: '0px auto', marginTop: '20px',
+      border: '1px solid red'
+    };
+    return <div>
+      {
+        this.state.loading? <div style={{textAlign: 'center'}}>
+          <Spin spinning={this.state.loading}/>
+        </div>: <div>
+          <Row>
+            {
+              names.map(name=>{
+                let fileKey = k + name;
+                return <Col span={span}>
+                  <div ref={(e)=>this.setRef(e, fileKey, this.getOpt1)} style={picStyle}>
+                  </div>
+                </Col>
+              })
+            }
+          </Row>
+
+        </div>
+      }
+    </div>
+  }
+}
+export default Visualization;
+
+#fig s3c
+library(pheatmap)
+inf1="output_cor_Early.tsv"
+inf2="output_cor_Advanced.tsv"
+inf3="group_stage_taxon.tsv"
+data1=read.table(inf1,sep="\t",quote="",header=T,stringsAsFactors=F,check.names=F,row.names=1)
+data2=read.table(inf2,sep="\t",quote="",header=T,stringsAsFactors=F,check.names=F,row.names=1)
+d1=data1[rownames(data1) %in% rownames(data2),colnames(data1) %in% colnames(data2)]
+d2=data2[rownames(d1),colnames(d1)]
+d1=t(d1)
+d2=t(d2)
+#计算差异矩阵
+diff_matrix<-abs(d1-d2)
+#获取各类物种对应的差异矩阵
+group=read.table(inf3,sep="\t",quote="",header=T,stringsAsFactors=F,check.names=F)
+group_original=group
+dm_bac<-diff_matrix[rownames(diff_matrix) %in% group[group[,"Kingdom"]=="Bacteria","taxon"],]
+#按差异大小排序取前N个bac
+top_n <- 50  # 取差异最大的50个
+sorted_diff <- sort(dm_bac, decreasing=TRUE)
+top_indices <- which(dm_bac >= sorted_diff[top_n], arr.ind=TRUE)
+top_results_bac <- data.frame(
+  Species = rownames(dm_bac)[top_indices[,1]],
+  Pathway = colnames(dm_bac)[top_indices[,2]],
+  Condition1 = d1[top_indices],
+  Condition2 = d2[top_indices],
+  Difference = dm_bac[top_indices]
+)
+dm_arc<-diff_matrix[rownames(diff_matrix) %in% group[group[,"Kingdom"]=="Archaea","taxon"],]
+#按差异大小排序取前10个arc
+top_n <- 10  #
+sorted_diff <- sort(dm_arc, decreasing=TRUE)
+top_indices <- which(dm_arc >= sorted_diff[top_n], arr.ind=TRUE)
+top_results_arc <- data.frame(
+  Species = rownames(dm_arc)[top_indices[,1]],
+  Pathway = colnames(dm_arc)[top_indices[,2]],
+  Condition1 = d1[top_indices],
+  Condition2 = d2[top_indices],
+  Difference = dm_arc[top_indices]
+)
+
+dm_fungi<-diff_matrix[rownames(diff_matrix) %in% group[group[,"Kingdom"]=="Fungi","taxon"],]
+#按差异大小排序取前10个Fungi
+top_n <- 10  # 
+sorted_diff <- sort(dm_fungi, decreasing=TRUE)
+top_indices <- which(dm_fungi >= sorted_diff[top_n], arr.ind=TRUE)
+top_results_fungi <- data.frame(
+  Species = rownames(dm_fungi)[top_indices[,1]],
+  Pathway = colnames(dm_fungi)[top_indices[,2]],
+  Condition1 = d1[top_indices],
+  Condition2 = d2[top_indices],
+  Difference = dm_fungi[top_indices]
+)
+dm_virus<-diff_matrix[rownames(diff_matrix) %in% group[group[,"Kingdom"]=="Viruses","taxon"],]
+#按差异大小排序取前10个virus
+top_n <- 10  # 
+sorted_diff <- sort(dm_virus, decreasing=TRUE)
+top_indices <- which(dm_virus >= sorted_diff[top_n], arr.ind=TRUE)
+top_results_virus <- data.frame(
+  Species = rownames(dm_virus)[top_indices[,1]],
+  Pathway = colnames(dm_virus)[top_indices[,2]],
+  Condition1 = d1[top_indices],
+  Condition2 = d2[top_indices],
+  Difference = dm_virus[top_indices]
+)
+
+top_results<-rbind(top_results_bac,top_results_fungi,top_results_arc,top_results_virus)
+
+#对这些top相关系数对应的所有物种和通路的相关系数进行展示0
+#获取top条目所包含物种、通路在两个原始矩阵中的子集矩阵
+dr1=as.data.frame(d1)[unique(top_results[,"Species"]),unique(top_results[,"Pathway"])]
+dr2=as.data.frame(d2)[unique(top_results[,"Species"]),unique(top_results[,"Pathway"])]
+
+data=as.matrix(dr2)
+group=group_original
+
+rownames(group)=group[,1]
+group=group[rownames(data),]
+group$Kingdom<-factor(group$Kingdom,levels = c("Bacteria","Fungi","Archaea","Viruses"))
+group=group[order(group$Kingdom),]
+group1=as.data.frame(group[,-1])
+rownames(group1)=rownames(group)
+group=group1
+colnames(group)="Kingdom"
+
+data1=data[rownames(group),]
+data2=data1
+
+data1[is.na(data1)]<-0
+bk <- unique(c(seq(-1,1, length=100)))
+ann_color=list(Kingdom=c(Bacteria="#3468BB",Fungi="#FFCE19",Archaea="#4AB312",Viruses="#FE0200"))#控制注释条的颜色和顺序
+aa<-pheatmap(as.matrix(data1),annotation_row=group,breaks=bk,clustering_method="ward.D2",color=colorRampPalette(c("#010108","#1D1048","#4F137B","#812381","#B3357A","#E65263","#FD8A62","#FDC78B","#FBFBBC"))(100),cluster_rows=F,cluster_cols=T,treeheight_col=50,fontsize_row=8,fontsize_col=8,border=FALSE,scale = "none",annotation_colors = ann_color)
+order_col<-aa$tree_col$order
+sampleName<-colnames(data1)
+sampleOrder<-as.data.frame(sampleName[order_col])
+data_order=t(data1[,sampleOrder[,1]])
+write.table(t(data_order),"outf_order_col_Advanced728.tsv",sep = "\t",quote=F,row.names=T,col.names=NA)
+#然后利用上述列聚类顺序，对dr1的数据进行排序，并进行热图展示，以用于两组的对比
+dr1=dr1[,sampleOrder[,1]]
+data=as.matrix(dr1)
+group=group_original
+
+rownames(group)=group[,1]
+group=group[rownames(data),]
+group$Kingdom<-factor(group$Kingdom,levels = c("Bacteria","Fungi","Archaea","Viruses"))
+group=group[order(group$Kingdom),]
+group1=as.data.frame(group[,-1])
+rownames(group1)=rownames(group)
+group=group1
+colnames(group)="Kingdom"
+
+data1=data[rownames(group),]
+data2=data1
+
+data1[is.na(data1)]<-0
+
+bk <- unique(c(seq(-1,1, length.out=100)))
+ann_color=list(Kingdom=c(Bacteria="#3468BB",Fungi="#FFCE19",Archaea="#4AB312",Viruses="#FE0200"))#控制注释条的颜色和顺序
+aa<-pheatmap(as.matrix(data),legend_breaks=c(-0.8,-0.4,0,0.4,0.8),annotation_row=group,breaks=bk,clustering_method="ward.D2",color=colorRampPalette(c("#010108","#1D1048","#4F137B","#812381","#B3357A","#E65263","#FD8A62","#FDC78B","#FBFBBC"))(100),cluster_rows=F,cluster_cols=F,treeheight_col=50,fontsize_row=8,fontsize_col=8,border=FALSE,annotation_colors = ann_color)
+write.table(data,"outf_order_col_Early728.tsv",sep = "\t",quote=F,row.names=T,col.names=NA)
+
+
